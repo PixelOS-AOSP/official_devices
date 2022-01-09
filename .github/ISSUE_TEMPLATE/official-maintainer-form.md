@@ -49,6 +49,14 @@ No
 Your Telegram username
 ```
 
+### Link to your unofficial PixelOS Build Post
+<!-- Before being able to maintainer PixelOS officially, 
+you must have already made your unofficial build public. 
+Refer Maintainer Requirements -->
+```
+Link to where you have posted your build publically.
+```
+
 ### GitHub username
 ```
 Your GitHub username
