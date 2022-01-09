@@ -1,0 +1,19 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Ashwin DS",
+            "telegram": "https://t.me/dsashwin",
+            "github": "https://github.com/geek0609"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 10",
+    "device_display_codename": "mojito/sunny",
+    "public_download": "https://www.pling.com/p/1674361/",
+    "private_download_tag": "mojito_20220109_0327",
+    "active": true,
+    "xda": null
+}

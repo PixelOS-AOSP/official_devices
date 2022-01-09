@@ -1,0 +1,26 @@
+name: Poster
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  postman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dep
+        run: sudo pip install python-telegram-bot
+
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: twelve
+
+      - name: Bot
+        run: sudo -E python3 .github/scripts/UpdatePoster
+        env:
+          BOT_API: ${{ secrets.BOT_API }}
+          TOKEN: ${{ secrets.TOKEN }}
+
+      - name: Commit and Push Changes
+        run: sudo bash .github/scripts/push.sh
