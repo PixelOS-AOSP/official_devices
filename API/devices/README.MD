@@ -62,7 +62,7 @@ official build
 
 ```private_download_tag```: Github releases tag, to be taken from CI Builds
 
-## Device Information
+### Device Information
 
 ```device_display_name```: Name of the Device given by the Brand
 
