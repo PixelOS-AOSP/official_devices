@@ -134,12 +134,20 @@ def update():
         open(".github/scripts/UpdatePoster/log.txt", "a").write(tag + "\n")
 
 
+def uploader():
+    open("new_tags.txt", "w+").write("")
+    for tag in list(set(get_updated_tags()) - set(get_current_tags())):
+        open("new_tags.txt", "a").write(tag + "\n")
+
+
 for device in get_updated_device():
     current_device_info = json.loads(open("API/devices/" + device + ".json").read())
-    print(current_device_info)
     # print(post_maker(current_device_info))
     send_photo(post_maker(current_device_info),
                requests.get("https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/PixelOS-Shenhe.png").content)
-    time.sleep(timeout)
+    # time.sleep(timeout)
+
+if len(get_updated_device()) != 0:
+    uploader()
 
 update()

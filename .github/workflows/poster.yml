@@ -3,6 +3,10 @@ on:
   push:
   workflow_dispatch:
 
+env:
+  BOT_API: ${{ secrets.BOT_API }}
+  TOKEN: ${{ secrets.TOKEN }}
+
 jobs:
   postman:
     runs-on: ubuntu-latest
@@ -18,9 +22,25 @@ jobs:
 
       - name: Bot
         run: sudo -E python3 .github/scripts/UpdatePoster
-        env:
-          BOT_API: ${{ secrets.BOT_API }}
-          TOKEN: ${{ secrets.TOKEN }}
 
       - name: Commit and Push Changes
         run: sudo bash .github/scripts/push.sh
+
+      - name: Checkout Releases Public
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.TOKEN }}
+          repository: ${{ secrets.DOWNLOADS_REPO }}
+          path: releases-public
+
+      - name: Checkout Releases
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.TOKEN }}
+          repository: ${{ secrets.CI_REPO }}
+          path: releases
+
+      - name: Uploader
+        run: sudo -E python3 .github/scripts/Uploader
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
