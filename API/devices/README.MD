@@ -58,9 +58,11 @@ official build
 
 ```release```: Release type ie. Monthly, Weekly, Daily, etc.
 
-```public_download```: Download link which is to be shared Through Telegram
+```public_download```: Download link which is to be shared Through Telegram; **New maintainers must set this to ```""```
+(two double quotes with nothing between them) until the first update**
 
-```private_download_tag```: Github releases tag, to be taken from CI Builds
+```private_download_tag```: Github releases tag, to be taken from CI Builds; **New maintainers must set this to ```""```
+(two double quotes with nothing between them) until the first update**
 
 ### Device Information
 

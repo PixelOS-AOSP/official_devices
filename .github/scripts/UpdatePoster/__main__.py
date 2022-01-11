@@ -50,7 +50,7 @@ def send_photo(message: str, picture):
 def get_updated_tags():
     tags = []
     for file in os.listdir(json_dir):
-        if file != "README.MD":
+        if file != "README.MD" and json.loads(open(json_dir + file, "r").read())["private_download_tag"] != "":
             tags.append(json.loads(open(json_dir + file, "r").read())["private_download_tag"])
     return tags
 
