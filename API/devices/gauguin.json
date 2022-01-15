@@ -1,0 +1,19 @@
+{
+   "maintainer":[
+       {
+         "display_name": "TheKid ☭",
+         "telegram": "https://t.me/ItsMeTheKidReborN",
+         "github": "https://github.com/itsmethekid"
+       }
+  ],
+  "updater": true,
+  "beta": false,
+  "version": "twelve",
+  "release": "monthly",
+  "device_display_name": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite",
+  "device_display_codename": "gauguin",
+  "public_download": "https://www.pling.com/p/1674374",
+  "private_download_tag": "gauguin_20220115_1447",
+  "active": true,
+  "xda": null
+}
