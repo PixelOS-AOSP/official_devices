@@ -1,0 +1,24 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Bheatley",
+            "telegram": "https://t.me/Megalodonzs",
+            "github": "https://github.com/bheatleyyy"
+        },
+        {
+            "display_name": "Aryan",
+            "telegram": "https://t.me/Aryannn999",
+            "github": "https://github.com/basamaryan"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 10 Pro/Max",
+    "device_display_codename": "sweet/sweetin",
+    "public_download": "https://www.pling.com/p/1674370/",
+    "private_download_tag": "sweet_20220115_1546",
+    "active": true,
+    "xda": null
+}
