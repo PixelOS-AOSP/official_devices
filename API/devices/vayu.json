@@ -1,0 +1,19 @@
+{
+    "maintainer":[
+        {
+            "display_name": "ᴀ ᴄ ᴋ ᴇ ʀ ᴍ ᴀ ɴ $4LIFE",
+            "telegram": "https://t.me/hastfrin",
+            "github": "https://github.com/syhhw"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "POCO X3 Pro",
+    "device_display_codename": "vayu/bhima",
+    "public_download": "https://www.pling.com/p/1675905/",
+    "private_download_tag": "vayu_20220115_2022",
+    "active": true,
+    "xda": null
+} 
