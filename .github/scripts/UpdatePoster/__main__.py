@@ -34,7 +34,7 @@ bot = Bot(BOT_API)
 TOKEN = os.environ.get("TOKEN")
 updater = Updater(BOT_API, use_context=True, workers=1)
 dispatcher = updater.dispatcher
-banner = "https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/PixelOS-Shenhe.png"
+banner = "https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/banner/PixelOS-15-Jan-2022.png"
 json_dir = "./API/devices/"
 timeout = 10
 
