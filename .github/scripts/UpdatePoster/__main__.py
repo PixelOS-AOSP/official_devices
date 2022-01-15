@@ -144,7 +144,7 @@ for device in get_updated_device():
     current_device_info = json.loads(open("API/devices/" + device + ".json").read())
     # print(post_maker(current_device_info))
     send_photo(post_maker(current_device_info),
-               requests.get("https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/PixelOS-Shenhe.png").content)
+               requests.get(banner).content)
     # time.sleep(timeout)
 
 if len(get_updated_device()) != 0:
