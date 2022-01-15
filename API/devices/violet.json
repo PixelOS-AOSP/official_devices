@@ -1,0 +1,19 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Chethas",
+            "telegram": "https://t.me/chethazz",
+            "github": "https://github.com/chethazz"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 7 Pro",
+    "device_display_codename": "violet",
+    "public_download": "https://www.pling.com/p/1674368/",
+    "private_download_tag": "violet_20220115_1637",
+    "active": true,
+    "xda": null
+}
