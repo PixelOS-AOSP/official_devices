@@ -1,0 +1,19 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Vansh",
+            "telegram": "https://t.me/noobvansh",
+            "github": "https://github.com/vansh123456"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi K20/Mi 9T",
+    "device_display_codename": "davinci/davinciin",
+    "public_download": "https://www.pling.com/p/1674364/",
+    "private_download_tag": "davinci_20220115_1844",
+    "active": true,
+    "xda": null
+}
