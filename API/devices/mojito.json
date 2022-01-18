@@ -7,7 +7,7 @@
         }
     ],
     "updater": true,
-    "beta": true,
+    "beta": false,
     "version": "twelve",
     "release": "monthly",
     "device_display_name": "Redmi Note 10",
