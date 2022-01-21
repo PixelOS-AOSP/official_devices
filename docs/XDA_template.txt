@@ -1,0 +1,96 @@
+[ROM][12][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
+
+<!-- Read the whole thread and fill the required blanks marked with '*' or '(?)' -->
+
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/banner/latest.png[/IMG]
+PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, themed icons,  google sans fonts, Monet color based system wide theming, boot animation), a fork of OG Pixel Experience with improvements on the top of it. Huge respect to Pixel Experience team for their work, thanks to them for making this ROM possible.
+In short a fully functional Pixel Experience with just the right amount of essentials.
+
+[CODE]/* Your warranty is now void.
+*
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at me for messing up your device, I will laugh at you.
+*/[/CODE]
+
+[U][B]Improvements over PixelExperience[/B][/U]
+Performance improvements from ProtonAOSP
+Adopted screenshot sounds to ringer mode
+3-finger swipe to capture screenshots
+Double tap to sleep on lockscreen and status bar
+Added Screen Recording Customizations
+Added Advanced Reboot
+Allow disabling Screenshot Sounds
+Added Bluetooth headset battery indicator
+Spoofed as Pixel XL for Google Photos for unlimited backup in original quality
+Added themed icons for a lot of third party icons in stock Pixel launcher
+Added monet in power menu
+Exposed legacy WiFi and Cellular data QS tiles
+Added bluetooth battery level indicator on status bar
+Added NFC tile in QS for supported devices
+Added double tap/long press power button to toggle torch
+Reduced log spam verbosity
+A lot of under the hood UI fixes and improvements
+[/CENTER]
+
+[B][U]Device Specific Issues: [/U][/B]
+<!-- Include device specific bugs here -->
+
+[B][U]Requirements[/U][/B]
+<!-- Include minimum firmware or vendor (if prebuilt) requirements -->
+
+[B][U]Downloads[/U][/B]
+Get the latest PixelOS Build for Xiaomi Redmi Note 8/8T [URL='https://sourceforge.net/projects/pixelos-releases/files/twelve/*/']Download[/URL]
+Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
+                [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
+Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
+<!-- Linking DFE is optional, as some of the devices don't support it -->
+DFE (optional) [URL]https://github.com/PixelOS-Devices/builds/releases/download/2021-10-28/Disable_Dm-Verity_ForceEncrypt_20201008.zip[/URL]
+<!-- Link a custom recovery here, preferrably twrp or orange fox -->
+Recovery [URL]*[/URL]
+Lineage Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/twelve/*/recovery/[/URL]
+[CENTER]
+[SIZE=4][B][COLOR=rgb(184, 49, 47)]Note: GApps are included, don't flash separately.[/COLOR][/B][/SIZE][/CENTER]
+
+[B][U]Notes[/U][/B]
+• Encryption is enabled by default
+• SELinux is enforcing/permissive
+• (?) Support related to MIUI/ANX Camera
+• (?) QuicksilveR v2.5 Included
+
+[CENTER]
+[B][SIZE=4][COLOR=rgb(184, 49, 47)]Lineage Recovery is recommended if you want to stay encrypted, no custom recovery supports encryption on Android12, i.e. you won't be able to decrypt your data.[/COLOR][/SIZE][/B]
+[/CENTER]
+<!-- Might be different for different devices -->
+[B][U]Flashing Instructions[/U]
+Clean flash (coming from a different ROM):[/B]
+• Download ROM from the link above
+• Download Magisk v23.0 or newer (optionally)
+• Reboot to recovery
+• Format data (if encrypted)
+• Wipe system, vendor, cache, dalvik, data
+• Flash latest android 11 global stable firmware (link above)
+• Flash ROM zip
+• Reboot and voila!
+• To get root access, reboot to recovery after ROM setup and flash magisk.
+
+[B]Updating to a newer build (dirty flash):[/B]
+• Flash ROM zip and magisk (optional)
+• Wipe system, vendor, cache, dalvik
+• Reboot and voila!
+
+Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
+Buy me a Coffee [URL]https://paypal.me/whyredfire[/URL]
+UPI: whyredfire@upi
+
+[B][U]Source Code[/U][/B]
+PixelOS http://github.com/PixelOS-Pixelish
+Device Tree and Vendor Tree https://github.com/PixelOS-Devices
+Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
+
+[B]ROM OS Version:[/B] Android 12.
+[B]ROM Kernel:[/B] Linux 4.14.x
+[B]Stable Release Date:[/B] DD Month YYYY
+[B]Latest Release Date:[/B] DD Month YYYY
