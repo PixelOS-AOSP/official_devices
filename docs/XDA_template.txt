@@ -42,9 +42,8 @@ A lot of under the hood UI fixes and improvements
 <!-- Include minimum firmware or vendor (if prebuilt) requirements -->
 
 [B][U]Downloads[/U][/B]
-Get the latest PixelOS Build for Xiaomi Redmi Note 8/8T [URL='https://sourceforge.net/projects/pixelos-releases/files/twelve/*/']Download[/URL]
+Get the latest PixelOS Build for * [URL='https://sourceforge.net/projects/pixelos-releases/files/twelve/*/']Download[/URL]
 Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
-                [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 <!-- Linking DFE is optional, as some of the devices don't support it -->
 DFE (optional) [URL]https://github.com/PixelOS-Devices/builds/releases/download/2021-10-28/Disable_Dm-Verity_ForceEncrypt_20201008.zip[/URL]
@@ -58,7 +57,7 @@ Lineage Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/tw
 • Encryption is enabled by default
 • SELinux is enforcing/permissive
 • (?) Support related to MIUI/ANX Camera
-• (?) QuicksilveR v2.5 Included
+• (?) QuicksilveR v2.5 Kernel Included
 
 [CENTER]
 [B][SIZE=4][COLOR=rgb(184, 49, 47)]Lineage Recovery is recommended if you want to stay encrypted, no custom recovery supports encryption on Android12, i.e. you won't be able to decrypt your data.[/COLOR][/SIZE][/B]
