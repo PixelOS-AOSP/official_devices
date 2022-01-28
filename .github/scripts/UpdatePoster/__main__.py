@@ -28,15 +28,17 @@ from telegram import *
 from telegram.ext import *
 
 # Get Secrets from Workflow
-BOT_API = os.environ.get("BOT_API")
-CHAT_ID = "-1001551285228"
+BOT_API = os.environ.get("BOT_API") # Telegram BOT API Token
+TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos)
+CHAT_ID = "-1001551285228" # ID of channel where it needs to post [Requires admin with enough permissions]
+banner = "https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/banner/PixelOS-15-Jan-2022.png" # Banner
+json_dir = "./API/devices/" # Directory where it should look for ID
+timeout = 1 # Time out before sending consecutive messages
+LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
+# Inititalize the bot
 bot = Bot(BOT_API)
-TOKEN = os.environ.get("TOKEN")
 updater = Updater(BOT_API, use_context=True, workers=1)
 dispatcher = updater.dispatcher
-banner = "https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/banner/PixelOS-15-Jan-2022.png"
-json_dir = "./API/devices/"
-timeout = 10
 
 
 def send_message(message: str):
@@ -47,6 +49,7 @@ def send_photo(message: str, picture):
     bot.send_photo(chat_id=CHAT_ID, caption=message, photo=picture, parse_mode="html")
 
 
+# returns list of new tags
 def get_updated_tags():
     tags = []
     for file in os.listdir(json_dir):
@@ -55,13 +58,15 @@ def get_updated_tags():
     return tags
 
 
+# returns tags which are currently logged
 def get_current_tags():
     tags = []
-    for tag in open(".github/scripts/UpdatePoster/log.txt").readlines():
+    for tag in open(LOG_DIR).readlines():
         tags.append(tag.replace("\n", ""))
     return tags
 
 
+# returns list of devices which are updated
 def get_updated_device():
     devices_changed = []
     for new in list(set(get_updated_tags()) - set(get_current_tags())):
@@ -73,6 +78,7 @@ def get_updated_device():
     return devices_changed
 
 
+# To make the post
 def post_maker(device_info):
     message = "<b>PixelOS for " + device_info["device_display_name"] + " (" + \
               device_info["device_display_codename"] + ")\n\nVersion:</b> " + device_info["version"]
@@ -98,7 +104,7 @@ def post_maker(device_info):
 
     release_info = json.loads(requests.get(
         "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" + device_info["private_download_tag"],
-        auth=("geek0609", TOKEN)).content)
+        auth=("geek0609", TOKEN)).content) # information about the release, taken from Private Releases Repository
 
     recovery_file_size = 0
     rom_file_size = 0
@@ -128,12 +134,14 @@ def post_maker(device_info):
     return message + "#TeamPixel #PixelOS"
 
 
+# updates the log file
 def update():
-    open(".github/scripts/UpdatePoster/log.txt", "w+").write("")
+    open(LOG_DIR, "w+").write("")
     for tag in get_updated_tags():
-        open(".github/scripts/UpdatePoster/log.txt", "a").write(tag + "\n")
+        open(LOG_DIR, "a").write(tag + "\n")
 
 
+# grabs info of what files needs to be uplaoded for release
 def uploader():
     open("new_tags.txt", "w+").write("")
     for tag in list(set(get_updated_tags()) - set(get_current_tags())):
@@ -145,9 +153,8 @@ for device in get_updated_device():
     # print(post_maker(current_device_info))
     send_photo(post_maker(current_device_info),
                requests.get(banner).content)
-    # time.sleep(timeout)
+    time.sleep(timeout)
 
 if len(get_updated_device()) != 0:
     uploader()
-
-update()
+    update()
