@@ -12,7 +12,7 @@
     "release": "monthly",
     "device_display_name": "Redmi K20/Mi 9T",
     "device_display_codename": "davinci/davinciin",
-    "public_download": "https://www.pling.com/p/1674364/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/",
     "private_download_tag": "davinci_20220115_1844",
     "active": true,
     "xda": null
