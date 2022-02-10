@@ -17,17 +17,20 @@ In short a fully functional Pixel Experience with just the right amount of essen
 
 [U][B]Improvements over PixelExperience[/B][/U]
 Performance improvements from ProtonAOSP
-Adopted screenshot sounds to ringer mode
 3-finger swipe to capture screenshots
 Double tap to sleep on lockscreen and status bar
 Added Screen Recording Customizations
 Added Advanced Reboot
 Allow disabling Screenshot Sounds
 Added Bluetooth headset battery indicator
-Spoofed as Pixel XL for Google Photos for unlimited backup in original quality
+Added in-call vibration options
+First class implementation of [URL="https://t.me/repainter_support/5432"]Repainter app[/URL]
+Added Adaptive playback
 Added themed icons for a lot of third party icons in stock Pixel launcher
+Added monet to Settings app icon color
 Added monet in power menu
 Exposed legacy WiFi and Cellular data QS tiles
+Added an option to disable unlock ripple animation
 Added bluetooth battery level indicator on status bar
 Added NFC tile in QS for supported devices
 Added double tap/long press power button to toggle torch
@@ -46,7 +49,7 @@ Get the latest PixelOS Build for * [URL='https://sourceforge.net/projects/pixelo
 Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 <!-- Linking DFE is optional, as some of the devices don't support it -->
-DFE (optional) [URL]https://github.com/PixelOS-Devices/builds/releases/download/2021-10-28/Disable_Dm-Verity_ForceEncrypt_20201008.zip[/URL]
+DFE (optional) (not recommended) [URL]https://github.com/PixelOS-Devices/builds/releases/download/2021-10-28/Disable_Dm-Verity_ForceEncrypt_20201008.zip[/URL]
 <!-- Link a custom recovery here, preferrably twrp or orange fox -->
 Recovery [URL]*[/URL]
 PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/twelve/*/recovery/[/URL]
@@ -60,7 +63,7 @@ PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/tw
 • (?) QuicksilveR v2.5 Kernel Included
 
 [CENTER]
-[B][SIZE=4][COLOR=rgb(184, 49, 47)]Lineage Recovery is recommended if you want to stay encrypted, no custom recovery supports encryption on Android12, i.e. you won't be able to decrypt your data.[/COLOR][/SIZE][/B]
+[B][SIZE=4][COLOR=rgb(184, 49, 47)]PixelOS Recovery is recommended if you want to stay encrypted, no custom recovery supports encryption on Android12, i.e. you won't be able to decrypt your data.[/COLOR][/SIZE][/B]
 [/CENTER]
 <!-- Might be different for different devices -->
 [B][U]Flashing Instructions[/U]
