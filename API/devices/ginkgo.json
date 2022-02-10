@@ -4,6 +4,11 @@
             "display_name": "Jasutin",
             "telegram": "https://t.me/tokatsu",
             "github": "https://github.com/Kitsunejasutin"
+        },
+        {
+            "display_name": "Karan",
+            "telegram": "https://t.me/whyredfire",
+            "github": "https://github.com/whyredfire"
         }
     ],
     "updater": true,
