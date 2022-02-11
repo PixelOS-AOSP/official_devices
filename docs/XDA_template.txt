@@ -2,7 +2,7 @@
 
 <!-- Read the whole thread and fill the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/banner/latest.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png[/IMG]
 PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, themed icons,  google sans fonts, Monet color based system wide theming, boot animation), a fork of OG Pixel Experience with improvements on the top of it. Huge respect to Pixel Experience team for their work, thanks to them for making this ROM possible.
 In short a fully functional Pixel Experience with just the right amount of essentials.
 
