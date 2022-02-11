@@ -1,0 +1,19 @@
+{
+    "maintainer":[
+        {
+            "display_name": "AnoosRagh",
+            "telegram": "https://t.me/cArN4gE_is_DeD",
+            "github": "https://github.com/cArN4gEisDeD"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Realme C2",
+    "device_display_codename": "RMX1941",
+    "public_download": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null
+}
