@@ -31,7 +31,7 @@ from telegram.ext import *
 BOT_API = os.environ.get("BOT_API") # Telegram BOT API Token
 TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos)
 CHAT_ID = "-1001551285228" # ID of channel where it needs to post [Requires admin with enough permissions]
-banner = "https://raw.githubusercontent.com/PixelOS-Devices/stuff/main/banner/PixelOS-15-Jan-2022.png" # Banner
+banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png" # Banner
 json_dir = "./API/devices/" # Directory where it should look for ID
 timeout = 1 # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
