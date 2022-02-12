@@ -1,0 +1,60 @@
+{
+    "devices" : [
+        {
+            "codename" :"mojito",
+            "codename_alt" : "mojito/sunny",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 10",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"ginkgo",
+            "codename_alt" : "ginkgo/willow",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 8/8T",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"RMX1941",
+            "codename_alt" : "RMX1941",
+            "vendor" : "Realme",
+            "model" : "Realme C2",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"sweet",
+            "codename_alt" : "sweet/sweetin",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 10 Pro/Max",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"davinci",
+            "codename_alt" : "davinci/davinciin",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi K20/Mi 9T",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"alioth",
+            "codename_alt" : "alioth",
+            "vendor" : "Xiaomi",
+            "model" : "Poco F3/Mi 11X/Redmi K40",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"beryllium",
+            "codename_alt" : "beryllium",
+            "vendor" : "Xiaomi",
+            "model" : "Pocophone F1",
+            "frame" : null,
+            "active" : true 
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "team":[
+        {
+            "name" : "Jasutin",
+            "github": "Kitsunejasutin",
+            "telegram": "tokatsu",
+            "XDA": null,
+            "role": "Core-Member"
+        },
+        {
+            "name" : "Karan Parashar",
+            "github": "whyredfire",
+            "telegram": "whyredfire",
+            "XDA": "https://forum.xda-developers.com/m/whyredfire.11124523/",
+            "role": "Core-Member"
+        },
+        {
+            "name" : "Ashwin DS",
+            "github": "geek0609",
+            "telegram": "dsashwin",
+            "XDA": "https://forum.xda-developers.com/m/dsashwin.11355545/",
+            "role": "Core-Member"
+        },
+        {
+            "name" : "Mohit Kumar",
+            "github": "98mohitkumar",
+            "telegram": "mohitkek",
+            "XDA": null,
+            "role": "Web Developer"
+        }
+    ]
+}
