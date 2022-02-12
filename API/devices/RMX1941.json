@@ -1,7 +1,7 @@
 {
     "maintainer":[
         {
-            "display_name": "AnoosRagh",
+            "display_name": "Anoosragh",
             "telegram": "https://t.me/cArN4gE_is_DeD",
             "github": "https://github.com/cArN4gEisDeD"
         }
@@ -12,8 +12,8 @@
     "release": "monthly",
     "device_display_name": "Realme C2",
     "device_display_codename": "RMX1941",
-    "public_download": "",
-    "private_download_tag": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/",
+    "private_download_tag": "RMX1941_20220212_0300",
     "active": true,
     "xda": null
 }
