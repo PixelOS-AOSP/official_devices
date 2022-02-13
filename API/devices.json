@@ -5,6 +5,7 @@
             "codename_alt" : "mojito/sunny",
             "vendor" : "Xiaomi",
             "model" : "Redmi Note 10",
+            "maintainer_name" : "Ashwin DS",
             "frame" : null,
             "active" : true 
         },
@@ -13,6 +14,7 @@
             "codename_alt" : "ginkgo/willow",
             "vendor" : "Xiaomi",
             "model" : "Redmi Note 8/8T",
+            "maintainer_name" : "Jasutin and Karan",
             "frame" : null,
             "active" : true 
         },
@@ -21,6 +23,7 @@
             "codename_alt" : "RMX1941",
             "vendor" : "Realme",
             "model" : "Realme C2",
+            "maintainer_name" : "Anoosragh",
             "frame" : null,
             "active" : true 
         },
@@ -29,6 +32,7 @@
             "codename_alt" : "sweet/sweetin",
             "vendor" : "Xiaomi",
             "model" : "Redmi Note 10 Pro/Max",
+            "maintainer_name" : "Aryan",
             "frame" : null,
             "active" : true 
         },
@@ -37,6 +41,7 @@
             "codename_alt" : "davinci/davinciin",
             "vendor" : "Xiaomi",
             "model" : "Redmi K20/Mi 9T",
+            "maintainer_name" : "Vansh",
             "frame" : null,
             "active" : true 
         },
@@ -45,6 +50,7 @@
             "codename_alt" : "alioth",
             "vendor" : "Xiaomi",
             "model" : "Poco F3/Mi 11X/Redmi K40",
+            "maintainer_name" : "cristian",
             "frame" : null,
             "active" : true 
         },
@@ -53,6 +59,7 @@
             "codename_alt" : "beryllium",
             "vendor" : "Xiaomi",
             "model" : "Pocophone F1",
+            "maintainer_name" : "PaperBoy",
             "frame" : null,
             "active" : true 
         }
