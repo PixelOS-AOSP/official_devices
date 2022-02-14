@@ -1,20 +1,20 @@
 {
     "team":[
         {
-            "name" : "Jasutin",
-            "github": "Kitsunejasutin",
-            "telegram": "tokatsu",
-            "XDA": null,
-            "role": "Core-Member",
-            "tagline": "Nyahalo! Doktah here"
-        },
-        {
             "name" : "Karan Parashar",
             "github": "whyredfire",
             "telegram": "whyredfire",
             "XDA": "https://forum.xda-developers.com/m/whyredfire.11124523/",
             "role": "Core-Member",
-            "tagline": null
+            "tagline": "No excuses!"
+        },
+        {
+            "name" : "Jasutin",
+            "github": "Kitsunejasutin",
+            "telegram": "tokatsu",
+            "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
+            "role": "Core-Member",
+            "tagline": "Nyahalo! Doktah here"
         },
         {
             "name" : "Ashwin DS",
@@ -31,6 +31,78 @@
             "XDA": null,
             "role": "Web Developer",
             "tagline": "Mohit here, I turn logic into Pixels"
+        },
+        {
+            "name" : "Alone0316",
+            "github": "Alone0316",
+            "telegram": "Alone0316",
+            "XDA": null,
+            "role": "mido Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "Chethas",
+            "github": "chethazz",
+            "telegram": "chethazz",
+            "XDA": "https://forum.xda-developers.com/m/chethas.10059020/",
+            "role": "violet Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "Aryan",
+            "github": "basamaryan",
+            "telegram": "Aryan999",
+            "XDA": null,
+            "role": "sweet Maintainer",
+            "tagline": "Now I've been drownin' in this liquor bottle but drowning's not enough"
+        },
+        {
+            "name" : "Vansh",
+            "github": "vansh123456",
+            "telegram": "noobvansh",
+            "XDA": null,
+            "role": "davinci Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "PaperBoy",
+            "github": "sajidshahriar72543",
+            "telegram": "paperboy22",
+            "XDA": "https://forum.xda-developers.com/m/sazidshahriar39.10042192/",
+            "role": "beryllium Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "Ackerman",
+            "github": "syhhw",
+            "telegram": "hastefrin",
+            "XDA": null,
+            "role": "vayu Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "cristian",
+            "github": "cristianvaz",
+            "telegram": "cristianvaz",
+            "XDA": "https://forum.xda-developers.com/m/cristianvaz.11729943/",
+            "role": "alioth Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "Sugakesshaa",
+            "github": "bheatleyyy",
+            "telegram": "Megalodonzs",
+            "XDA": null,
+            "role": "lisa Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "Anoosragh",
+            "github": "cArN4gEisDeD",
+            "telegram": "ok_aNo0s",
+            "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
+            "role": "RMX1941 Maintainer",
+            "tagline": null
         }
     ]
 }
