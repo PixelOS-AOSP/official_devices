@@ -1,11 +1,20 @@
 {
     "devices" : [
         {
-            "codename" :"mojito",
-            "codename_alt" : "mojito/sunny",
+            "codename" :"mido",
+            "codename_alt" : "mido",
             "vendor" : "Xiaomi",
-            "model" : "Redmi Note 10",
-            "maintainer_name" : "Ashwin DS",
+            "model" : "Redmi Note 4",
+            "maintainer_name" : "Silent KIller",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"violet",
+            "codename_alt" : "violet",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 7 Pro",
+            "maintainer_name" : "Regulus",
             "frame" : null,
             "active" : true 
         },
@@ -19,11 +28,11 @@
             "active" : true 
         },
         {
-            "codename" :"RMX1941",
-            "codename_alt" : "RMX1941",
-            "vendor" : "Realme",
-            "model" : "Realme C2",
-            "maintainer_name" : "Anoosragh",
+            "codename" :"mojito",
+            "codename_alt" : "mojito/sunny",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 10",
+            "maintainer_name" : "Ashwin DS",
             "frame" : null,
             "active" : true 
         },
@@ -46,8 +55,26 @@
             "active" : true 
         },
         {
+            "codename" :"beryllium",
+            "codename_alt" : "beryllium",
+            "vendor" : "Xiaomi",
+            "model" : "Pocophone F1",
+            "maintainer_name" : "PaperBoy",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"vayu",
+            "codename_alt" : "vayu/bhima",
+            "vendor" : "Xiaomi",
+            "model" : "POCO X3 Pro",
+            "maintainer_name" : "Ackerman",
+            "frame" : null,
+            "active" : true 
+        },
+        {
             "codename" :"alioth",
-            "codename_alt" : "alioth",
+            "codename_alt" : "alioth/aliothin",
             "vendor" : "Xiaomi",
             "model" : "Poco F3/Mi 11X/Redmi K40",
             "maintainer_name" : "cristian",
@@ -55,11 +82,20 @@
             "active" : true 
         },
         {
-            "codename" :"beryllium",
-            "codename_alt" : "beryllium",
+            "codename" :"lisa",
+            "codename_alt" : "lisa",
             "vendor" : "Xiaomi",
-            "model" : "Pocophone F1",
-            "maintainer_name" : "PaperBoy",
+            "model" : "Xiaomi 11 Lite 5G NE",
+            "maintainer_name" : "Sugakesshaa and Karan",
+            "frame" : null,
+            "active" : true 
+        },
+        {
+            "codename" :"RMX1941",
+            "codename_alt" : "RMX1941",
+            "vendor" : "Realme",
+            "model" : "Realme C2",
+            "maintainer_name" : "Anoosragh",
             "frame" : null,
             "active" : true 
         }
