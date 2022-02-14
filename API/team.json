@@ -33,6 +33,46 @@
             "tagline": "Mohit here, I turn logic into Pixels"
         },
         {
+            "name" : "Danish",
+            "github": "danyscape",
+            "telegram": "ddvnish",
+            "XDA": null,
+            "role": "Designer",
+            "tagline": null
+        },
+        {
+            "name" : "Shivansh Agrawal",
+            "github": "twel12",
+            "telegram": null,
+            "XDA": "https://forum.xda-developers.com/m/twel12.11012701/",
+            "role": "PixelOS Founder",
+            "tagline": "I don't know how it works but it just works."
+        },
+        {
+            "name" : "Yusuf",
+            "github": "noonlord",
+            "telegram": "Real_Noonlord",
+            "XDA": null,
+            "role": "Pixelish Founder",
+            "tagline": null
+        },
+        {
+            "name" : "Adarsh Grewal",
+            "github": "adarshgrewal",
+            "telegram": "grewal",
+            "XDA": null,
+            "role": "Pixelish Founder",
+            "tagline": null
+        },
+        {
+            "name" : "Vladislav",
+            "github": "maade69",
+            "telegram": "maade69",
+            "XDA": null,
+            "role": "Ex-Core Member",
+            "tagline": null
+        },
+        {
             "name" : "Alone0316",
             "github": "Alone0316",
             "telegram": "Alone0316",
@@ -54,7 +94,7 @@
             "telegram": "Aryan999",
             "XDA": null,
             "role": "sweet Maintainer",
-            "tagline": "Now I've been drownin' in this liquor bottle but drowning's not enough"
+            "tagline": null
         },
         {
             "name" : "Vansh",
@@ -70,7 +110,7 @@
             "telegram": "paperboy22",
             "XDA": "https://forum.xda-developers.com/m/sazidshahriar39.10042192/",
             "role": "beryllium Maintainer",
-            "tagline": null
+            "tagline": "Let PaperBoy's stories kept untold"
         },
         {
             "name" : "Ackerman",
