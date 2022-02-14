@@ -12,7 +12,8 @@
     "release": "monthly",
     "device_display_name": "Pocophone F1",
     "device_display_codename": "beryllium",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/",
+    "last_updated": "2022-02-12",
     "private_download_tag": "beryllium_20220212_1155",
     "active": true,
     "xda": null
