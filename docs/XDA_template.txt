@@ -45,7 +45,7 @@ A lot of under the hood UI fixes and improvements
 <!-- Include minimum firmware or vendor (if prebuilt) requirements -->
 
 [B][U]Downloads[/U][/B]
-Get the latest PixelOS Build for * [URL='https://sourceforge.net/projects/pixelos-releases/files/twelve/*/']Download[/URL]
+Get the latest PixelOS Build for * [URL='https://pixelos.vercel.app/download/*']Download[/URL]
 Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 <!-- Linking DFE is optional, as some of the devices don't support it -->
