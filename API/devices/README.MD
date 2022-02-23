@@ -64,6 +64,8 @@ official build
 ```private_download_tag```: Github releases tag, to be taken from CI Builds; **New maintainers must set this to ```""```
 (two double quotes with nothing between them) until the first update**
 
+```customRecoveryRequired```: Is the recovery built with the ROM also the reccomended recovery to flash PixelOS
+
 ### Device Information
 
 ```device_display_name```: Name of the Device given by the Brand
