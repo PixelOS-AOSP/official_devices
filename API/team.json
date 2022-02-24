@@ -143,6 +143,14 @@
             "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
             "role": "RMX1941 Maintainer",
             "tagline": "How does that even work?"
+        },
+        {
+            "name" : "kawaaii",
+            "github": "kawaaii",
+            "telegram": "kawaaaaai",
+            "XDA": "https://forum.xda-developers.com/m/hr1d4y4.11390789/",
+            "role": "Ex-gauguin Maintainer",
+            "tagline": null
         }
     ]
 }
