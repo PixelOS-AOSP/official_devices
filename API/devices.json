@@ -28,6 +28,15 @@
             "active" : true 
         },
         {
+            "codename" :"gauguin",
+            "codename_alt" : "gauguin",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite",
+            "maintainer_name" : "Vladislav",
+            "frame" : null,
+            "active" : true 
+        },
+        {
             "codename" :"mojito",
             "codename_alt" : "mojito/sunny",
             "vendor" : "Xiaomi",
