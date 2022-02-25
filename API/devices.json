@@ -79,7 +79,7 @@
             "model" : "POCO X3 Pro",
             "maintainer_name" : "Ackerman",
             "frame" : null,
-            "active" : true 
+            "active" : false 
         },
         {
             "codename" :"alioth",
