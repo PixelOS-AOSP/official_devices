@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_vayu-12.0-20220211-2305.zip",
+    "datetime": "1644620594",
+    "size": "1836179931",
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-02-12/PixelOS_vayu-12.0-20220211-2305.zip",
+    "filehash": "471cfe36545061529817bbd773de116c",
+    "id": "471cfe36545061529817bbd773de116c",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "syhhw",
+            "name": "\u1d00 \u1d04 \u1d0b \u1d07 \u0280 \u1d0d \u1d00 \u0274 $4LIFE"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}

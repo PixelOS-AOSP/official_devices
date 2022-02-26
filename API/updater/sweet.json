@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_sweet-12.0-20220214-2122.zip",
+    "datetime": 1644873611,
+    "size": 1484004532,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-02-14/PixelOS_sweet-12.0-20220214-2122.zip",
+    "filehash": "3d29d746fd999f611a173c5063527067",
+    "id": "3d29d746fd999f611a173c5063527067",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "basamaryan",
+            "name": "Aryan"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-14-02-2022.4402719/"
+}

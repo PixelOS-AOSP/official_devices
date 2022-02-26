@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_beryllium-12.0-20220212-0535.zip",
+    "datetime": 1644644032,
+    "size": 1627217072,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-02-12/PixelOS_beryllium-12.0-20220212-0535.zip",
+    "filehash": "379a37bf1ed0fe7ded77514a236167d4",
+    "id": "379a37bf1ed0fe7ded77514a236167d4",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "sajidshahriar72543",
+            "name": "PaperBoy"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"
+}
