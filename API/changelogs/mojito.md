@@ -11,7 +11,7 @@
 - Adjusted dimens: Screenshot chip doesn't get cut off thanks to @nayan942
 
 # 17-Jan-2022
-- Kernel: Switch back to zsmalloc as default zpool storage compressor; Fixes apps force closing due to RAM issues. Thanks to @NextZen86 for pointing it out 
+- Kernel: Switch back to zsmalloc as default zpool storage compressor, Fixes apps force closing due to RAM issues. Thanks to @NextZen86 for pointing it out 
 - [Source] Gestures: Add and enable Quick-Tap
 
 # 15-Jan-2022
