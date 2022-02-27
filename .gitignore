@@ -1,3 +1,6 @@
 .idea
 .github/scripts/UpdatePoster/__pycache__/*
+.github/scripts/Uploader/__pycache__/*
 new_tags.txt
+releases
+releases-public

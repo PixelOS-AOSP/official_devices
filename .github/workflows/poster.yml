@@ -23,9 +23,6 @@ jobs:
       - name: Bot
         run: sudo -E python3 .github/scripts/UpdatePoster
 
-      - name: Commit and Push Changes
-        run: sudo bash .github/scripts/push.sh
-
       - name: Checkout Releases Public
         uses: actions/checkout@v2
         with:
@@ -44,3 +41,6 @@ jobs:
         run: sudo -E python3 .github/scripts/Uploader
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
+      - name: Commit and Push Changes
+        run: sudo bash .github/scripts/push.sh
