@@ -125,6 +125,9 @@ def post_maker(device_info):
     message = message + "\n\n<b>Download:</b> <a href=\"" + device_info["public_download"] + "\">ROM</a> (Mirror) | <a href=\"" + device_info["public_download"] + "recovery/\">Recovery</a>\n" \
               "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM) | " + str(int(recovery_file_size)) + "M (Recovery)\n\n"
 
+    if not device_info["updater"]:
+        message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
+
     for codename in  device_info["device_display_codename"].split("/"):
         message = message + "#" + codename + " "
 
