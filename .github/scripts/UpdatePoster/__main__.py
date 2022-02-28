@@ -110,10 +110,16 @@ def post_maker(device_info):
     rom_file_size = 0
     upload_date = datetime.date.today()
 
+    # Fallback values
+    ROM_NAME = "error"
+    RECOVERY_NAME = "error"
+
     for asset in release_info["assets"]:
         if asset["name"] == "boot.img" or asset["name"] == "recovery.img":
             recovery_file_size = float(asset["size"]) * 0.00000095367432
+            RECOVERY_NAME = asset["name"]
         elif asset["name"].endswith(".zip"):
+            ROM_NAME = asset["name"]
             rom_file_size = float(asset["size"]) * 0.00000000093132
             upload_date = asset["created_at"]
 
@@ -122,7 +128,7 @@ def post_maker(device_info):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + device_info["public_download"] + "\">ROM</a> (Mirror) | <a href=\"" + device_info["public_download"] + "recovery/\">Recovery</a>\n" \
+    message = message + "\n\n<b>Download:</b> <a href=\"" + device_info["public_download"] + "\">Sourceforge</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a> | <a href=\"" + device_info["public_download"] + "recovery/\">Recovery</a>\n" \
               "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM) | " + str(int(recovery_file_size)) + "M (Recovery)\n\n"
 
     if not device_info["updater"]:
