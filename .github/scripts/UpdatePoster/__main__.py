@@ -113,7 +113,7 @@ def post_maker(device_info):
     for asset in release_info["assets"]:
         if asset["name"] == "boot.img" or asset["name"] == "recovery.img":
             recovery_file_size = float(asset["size"]) * 0.00000095367432
-        else:
+        elif asset["name"].endswith(".zip"):
             rom_file_size = float(asset["size"]) * 0.00000000093132
             upload_date = asset["created_at"]
 
