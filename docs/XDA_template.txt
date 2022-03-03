@@ -80,7 +80,7 @@ Clean flash (coming from a different ROM):[/B]
 
 [B]Updating to a newer build (dirty flash):[/B]
 • Flash ROM zip and magisk (optional)
-• Wipe system, vendor, cache, dalvik
+• Wipe cache and dalvik (optional, recommended)
 • Reboot and voila!
 
 Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
