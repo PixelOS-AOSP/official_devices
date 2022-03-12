@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_sweet-12.0-20220214-2122.zip",
-    "datetime": 1644873611,
-    "size": 1484004532,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-02-14/PixelOS_sweet-12.0-20220214-2122.zip",
-    "filehash": "3d29d746fd999f611a173c5063527067",
-    "id": "3d29d746fd999f611a173c5063527067",
+    "filename": "PixelOS_sweet-12.0-20220312-1147.zip",
+    "datetime": 1647085620,
+    "size": 1548309950,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-03-12/PixelOS_sweet-12.0-20220312-1147.zip",
+    "filehash": "2c15a90ad97060f00e0b79b40cd4d237",
+    "id": "2c15a90ad97060f00e0b79b40cd4d237",
     "maintainers": [
         {
             "main_maintainer": false,
