@@ -1,3 +1,19 @@
+# 12-March-2022
+- Merged latest linux-stable v4.14.271
+- Merged latest CAF tag LA.UM.9.1.r1-11700-SMxxx0.0
+- Updated blobs from MIUI V13.0.4.0.SKFMIXM
+- Reverted Vulkan changes (Should fix some GCams not working and a few frame drops)
+- Fixed the front camera cutout protection
+- Added the saturated color mode
+- Enabled combined signal icons in the status bar
+- Enabled auto brightness for Ambient display
+- Set SOC manufacturer and chipset properties 
+- Configure brightness ramp rate's from MIUI V13.0.4.0 SKFMIXM
+- Improved fingerprint animation when you unlock the device
+- Improved app launch speeds
+- Improved vibrations
+- Adjusted screenshot chip dimensions
+
 # 15-Feb-2022
 - Switched to Vulkan UI renderer
 - A few more Dirac fixes
