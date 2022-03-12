@@ -7,7 +7,7 @@
             "model" : "Redmi Note 4",
             "maintainer_name" : "Silent KIller",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"violet",
@@ -16,7 +16,7 @@
             "model" : "Redmi Note 7 Pro",
             "maintainer_name" : "Regulus",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"ginkgo",
@@ -25,16 +25,16 @@
             "model" : "Redmi Note 8/8T",
             "maintainer_name" : "Jasutin and Karan",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"gauguin",
             "codename_alt" : "gauguin",
             "vendor" : "Xiaomi",
             "model" : "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite",
-            "maintainer_name" : "Vladislav",
+            "maintainer_name" : "ItsTheKidReborn",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"mojito",
@@ -43,7 +43,7 @@
             "model" : "Redmi Note 10",
             "maintainer_name" : "Ashwin DS",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"sweet",
@@ -52,7 +52,7 @@
             "model" : "Redmi Note 10 Pro/Max",
             "maintainer_name" : "Aryan",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"davinci",
@@ -61,7 +61,7 @@
             "model" : "Redmi K20/Mi 9T",
             "maintainer_name" : "Vansh",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"beryllium",
@@ -70,16 +70,16 @@
             "model" : "Pocophone F1",
             "maintainer_name" : "PaperBoy",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"vayu",
             "codename_alt" : "vayu/bhima",
             "vendor" : "Xiaomi",
             "model" : "POCO X3 Pro",
-            "maintainer_name" : "Ackerman",
+            "maintainer_name" : "PixelOS-CI",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"alioth",
@@ -88,7 +88,7 @@
             "model" : "Poco F3/Mi 11X/Redmi K40",
             "maintainer_name" : "cristian",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"lisa",
@@ -97,7 +97,7 @@
             "model" : "Xiaomi 11 Lite 5G NE",
             "maintainer_name" : "Sugakesshaa and Karan",
             "frame" : null,
-            "active" : true 
+            "active" : true
         },
         {
             "codename" :"RMX1941",
@@ -106,7 +106,7 @@
             "model" : "Realme C2",
             "maintainer_name" : "Anoosragh",
             "frame" : null,
-            "active" : true 
+            "active" : true
         }
     ]
 }
