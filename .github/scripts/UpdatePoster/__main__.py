@@ -134,8 +134,12 @@ def post_maker(device_info, name):
     # message = message + "\n<b><a href=\"https://pixelos.vercel.app/download/" + device_info["public_download"].split("/")[-1] + "\">Changelogs</a></b>\n"
 
     # Download Sizes
-    message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n\n"
+    message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
 
+    if device_info["xda"] != None and device_info["xda"] != "":
+        message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b>\n"
+    
+    message = message + "\n" # Leave a line unconditionally 
 
     if not device_info["updater"]:
         message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
