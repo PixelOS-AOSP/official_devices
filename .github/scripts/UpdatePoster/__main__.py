@@ -79,7 +79,7 @@ def get_updated_device():
 
 
 # To make the post
-def post_maker(device_info):
+def post_maker(device_info, name):
     message = "<b>PixelOS for " + device_info["device_display_name"] + " (" + \
               device_info["device_display_codename"] + ")\n\nVersion:</b> " + device_info["version"]
 
@@ -128,13 +128,13 @@ def post_maker(device_info):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b>\n• <a href=\"" + device_info["public_download"] + "\">Sourceforge</a>\n• <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n•  <a href=\"" + device_info["public_download"] + "recovery/\">Recovery</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"https://pixelos.vercel.app/download/" + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
     
     # Changelogs
-    message = message + "\n<b><a href=\"https://pixelos.vercel.app/download/" + device_info["public_download"].split("/")[-1] + "\">Changelogs</a></b>\n"
+    # message = message + "\n<b><a href=\"https://pixelos.vercel.app/download/" + device_info["public_download"].split("/")[-1] + "\">Changelogs</a></b>\n"
 
     # Download Sizes
-    message = message + "\n<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM) | " + str(int(recovery_file_size)) + "M (Recovery)\n\n"
+    message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n\n"
 
 
     if not device_info["updater"]:
@@ -166,7 +166,7 @@ def uploader():
 for device in get_updated_device():
     current_device_info = json.loads(open("API/devices/" + device + ".json").read())
     # print(post_maker(current_device_info))
-    send_photo(post_maker(current_device_info),
+    send_photo(post_maker(current_device_info, device),
                requests.get(banner).content)
     time.sleep(timeout)
 
