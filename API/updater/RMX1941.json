@@ -1,17 +1,17 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_RMX1941-12.0-20220211-2021.zip",
-    "datetime": "1644610773",
-    "size": "1522552864",
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-02-12/PixelOS_RMX1941-12.0-20220211-2021.zip",
-    "filehash": "94a11ba8e125dc23b8e3842ad2f8aa8d",
-    "id": "94a11ba8e125dc23b8e3842ad2f8aa8d",
+    "filename": "PixelOS_RMX1941-12.0-20220311-0800.zip",
+    "datetime": 1646985600,
+    "size": 1761624495,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-03-12/PixelOS_RMX1941-12.0-20220311-0800.zip",
+    "filehash": "632a16786ef665221da4d773e0b148c2",
+    "id": "632a16786ef665221da4d773e0b148c2",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "cArN4gEisDeD",
-            "name": "AnoosRagh"
+            "github_username": "https://github.com/cArN4gEisDeD",
+            "name": "Anoosragh"
         }
     ],
     "donate_url": "",
