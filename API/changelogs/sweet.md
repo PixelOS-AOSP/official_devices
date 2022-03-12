@@ -8,11 +8,9 @@
 - Enabled combined signal icons in the status bar
 - Enabled auto brightness for Ambient display
 - Set SOC manufacturer and chipset properties 
-- Configure brightness ramp rate's from MIUI V13.0.4.0 SKFMIXM
 - Improved fingerprint animation when you unlock the device
 - Improved app launch speeds
 - Improved vibrations
-- Adjusted screenshot chip dimensions
 
 # 15-Feb-2022
 - Switched to Vulkan UI renderer
