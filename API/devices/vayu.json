@@ -1,9 +1,9 @@
 {
     "maintainer":[
         {
-            "display_name": "ᴀ ᴄ ᴋ ᴇ ʀ ᴍ ᴀ ɴ $4LIFE",
-            "telegram": "https://t.me/hastfrin",
-            "github": "https://github.com/syhhw"
+            "display_name": "PixelOS-CI",
+            "telegram": null,
+            "github": null
         }
     ],
     "updater": true,
@@ -13,8 +13,8 @@
     "device_display_name": "POCO X3 Pro",
     "device_display_codename": "vayu/bhima",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/",
-    "last_updated": "12 February 2022",
-    "private_download_tag": "vayu_20220212_0531",
+    "last_updated": "12 March 2022",
+    "private_download_tag": "vayu_20220311_1924",
     "active": true,
     "xda": null
 } 
