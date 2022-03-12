@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_ginkgo-12.0-20220211-1750.zip",
-    "datetime": "1644601725",
-    "size": "1598155731",
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-02-11/PixelOS_ginkgo-12.0-20220211-1750.zip",
-    "filehash": "57ed37fb3b2310fd12cb1d725c01c9d1",
-    "id": "57ed37fb3b2310fd12cb1d725c01c9d1",
+    "filename": "PixelOS_ginkgo-12.0-20220312-0616.zip",
+    "datetime": 1647065760,
+    "size": 1663555678,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-03-12/PixelOS_ginkgo-12.0-20220312-0616.zip",
+    "filehash": "7282cb704fe2f36305646440736ccfb4",
+    "id": "7282cb704fe2f36305646440736ccfb4",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -22,5 +22,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.vercel.app/",
     "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-unified-22-10-2021.4237791/"
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-unified-19-01-2022.4237791/"
 }
