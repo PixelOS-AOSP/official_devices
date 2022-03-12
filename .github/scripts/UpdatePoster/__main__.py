@@ -128,8 +128,14 @@ def post_maker(device_info):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + device_info["public_download"] + "\">Sourceforge</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a> | <a href=\"" + device_info["public_download"] + "recovery/\">Recovery</a>\n" \
-              "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM) | " + str(int(recovery_file_size)) + "M (Recovery)\n\n"
+    message = message + "\n\n<b>Download:</b>\n• <a href=\"" + device_info["public_download"] + "\">Sourceforge</a>\n• <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n•  <a href=\"" + device_info["public_download"] + "recovery/\">Recovery</a>\n"
+    
+    # Changelogs
+    message = message + "\n<b><a href=\"https://pixelos.vercel.app/download/" + device_info["public_download"].split("/")[-1] + "\">Changelogs</a></b>\n"
+
+    # Download Sizes
+    message = message + "\n<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM) | " + str(int(recovery_file_size)) + "M (Recovery)\n\n"
+
 
     if not device_info["updater"]:
         message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
