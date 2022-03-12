@@ -2,8 +2,8 @@
     "maintainer":[
         {
             "display_name": "PixelOS-CI",
-            "telegram": null,
-            "github": null
+            "telegram": "https://t.me/pixeloschat",
+            "github": "https://github.com/PixelOS-Pixelish/"
         }
     ],
     "updater": true,
