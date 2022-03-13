@@ -18,6 +18,10 @@ In short a fully functional Pixel Experience with just the right amount of essen
 [U][B]Improvements over PixelExperience[/B][/U]
 Performance improvements from ProtonAOSP
 3-finger swipe to capture screenshots
+Per app network restriction permission
+Android 12L style Internet and Screenrecord dialogs
+Android 13 inspired Media Output Picker
+Introduced Applock
 Double tap to sleep on lockscreen and status bar
 Added Screen Recording Customizations
 Added Advanced Reboot
