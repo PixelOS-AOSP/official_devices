@@ -43,7 +43,7 @@
         {
             "name" : "Shivansh Agarwal",
             "github": "twel12",
-            "telegram": null,
+            "telegram": "real_twel12",
             "XDA": "https://forum.xda-developers.com/m/twel12.11012701/",
             "role": "PixelOS Founder",
             "tagline": "I don't know how it works but it just works."
@@ -107,7 +107,7 @@
         {
             "name" : "PaperBoy",
             "github": "sajidshahriar72543",
-            "telegram": "paperboy22",
+            "telegram": null,
             "XDA": "https://forum.xda-developers.com/m/sazidshahriar39.10042192/",
             "role": "beryllium Maintainer",
             "tagline": "Let PaperBoy's stories kept untold."
@@ -132,7 +132,7 @@
             "name" : "Sugakesshaa",
             "github": "bheatleyyy",
             "telegram": "Megalodonzs",
-            "XDA": null,
+            "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
             "role": "lisa Maintainer",
             "tagline": null
         },
