@@ -106,7 +106,7 @@
             "model" : "Realme C2",
             "maintainer_name" : "Anoosragh",
             "frame" : null,
-            "active" : true
+            "active" : false
         },
         {
             "codename" :"RMX2020",
