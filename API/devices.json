@@ -107,6 +107,24 @@
             "maintainer_name" : "Anoosragh",
             "frame" : null,
             "active" : true
+        },
+        {
+            "codename" :"RMX2020",
+            "codename_alt" : "RMX2020",
+            "vendor" : "Realme",
+            "model" : "Realme Monet",
+            "maintainer_name" : "sarthakroy2002",
+            "frame" : null,
+            "active" : true
+        },
+        {
+            "codename" :"G",
+            "codename_alt" : "G",
+            "vendor" : "10or",
+            "model" : "10or G",
+            "maintainer_name" : "kardebayan",
+            "frame" : null,
+            "active" : true
         }
     ]
 }

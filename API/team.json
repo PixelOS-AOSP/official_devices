@@ -151,6 +151,22 @@
             "XDA": "https://forum.xda-developers.com/m/hr1d4y4.11390789/",
             "role": "Ex-gauguin Maintainer",
             "tagline": null
+        },
+        {
+            "name" : "sarthakroy2002",
+            "github": "sarthakroy2002",
+            "telegram": "sarthakroy2002",
+            "XDA": "https://forum.xda-developers.com/m/sarthakroy2002.8126733/",
+            "role": "Realme Monet Maintainer",
+            "tagline": "Ain't I cool"
+        },
+        {
+            "name" : "kardebayan",
+            "github": "kardebayan",
+            "telegram": "kardebayan",
+            "XDA": "https://forum.xda-developers.com/m/kardebayan3.9878693/",
+            "role": "10or G Maintainer",
+            "tagline": null
         }
     ]
 }
