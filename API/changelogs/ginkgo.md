@@ -1,3 +1,6 @@
+# 3 April 2022
+- Fixed android Ester egg
+
 # 1 April 2022
 - Initial build based on Android 12.1
 - Finetuned status bar padding
