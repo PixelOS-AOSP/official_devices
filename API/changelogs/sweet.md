@@ -1,4 +1,4 @@
-# 12-March-2022
+# 12-Mar-2022
 - Merged latest linux-stable v4.14.271
 - Merged latest CAF tag LA.UM.9.1.r1-11700-SMxxx0.0
 - Updated blobs from MIUI V13.0.4.0.SKFMIXM
