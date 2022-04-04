@@ -1,3 +1,14 @@
+# 04-Apr-2022
+- Rebased LOS 19.1 trees
+- Change to n0kernel
+- Updated vendor to MIUI 13.0.2
+- Audio configurations from MIUI 13
+- AOD auto brightness 
+- Improved thermal profiles and refresh rate per app listview
+- QTI Bluetooth
+- Deep sleep on AOD
+- Implemented Smooth Display
+
 # 14-Mar-2022
 - Change to new trees (base LOS)
 - Change to Arrow Kernel
