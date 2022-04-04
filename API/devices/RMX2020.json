@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Sarthak Roy",
+            "telegram": "https://t.me/sarthakroy2002",
+            "github": "https://github.com/sarthakroy2002"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Realme C3/Realme Narzo 10A",
+    "device_display_codename": "RMX2020/RMX2027",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/",
+    "last_updated": "4 April 2022",
+    "private_download_tag": "RMX2020_20220404_0111",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
