@@ -42,6 +42,11 @@ Insert here
 No
 ```
 
+## List of changes/patches applied to source, if any
+```
+No
+```
+
 ## Contact
 
 ### Telegram username
@@ -49,15 +54,18 @@ No
 Your Telegram username
 ```
 
-### Link to your unofficial PixelOS Build Post
+### Link to your XDA thread of unofficial build
 <!-- Before being able to maintainer PixelOS officially, 
-you must have already made your unofficial build public. 
+you must have already made an XDA 
 Refer Maintainer Requirements -->
 ```
 Link to where you have posted your build publically.
 ```
 
-### GitHub username
+### Link to your unofficial PixelOS Build Post other than XDA
+<!-- Before being able to maintainer PixelOS officially, 
+you must have already made your unofficial build public. 
+Refer Maintainer Requirements -->
 ```
-Your GitHub username
+Link to where you have posted your build publically.
 ```
