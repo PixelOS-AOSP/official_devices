@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "d1c149f5278049472ea9f5291eb92c0c",
-    "datetime": 1649007900,
-    "size": 1775422563,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-04/PixelOS_RMX2020-12.1-20220403-1745.zip",
-    "filehash": "PixelOS_RMX2020-12.1-20220403-1745.zip",
-    "id": "PixelOS_RMX2020-12.1-20220403-1745.zip",
+    "filename": "PixelOS_RMX2020-12.1-20220409-1417.zip",
+    "datetime": 1649513820,
+    "size": 1761416106,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-09/PixelOS_RMX2020-12.1-20220409-1417.zip",
+    "filehash": "ef329f48f8896a1b46e573b24605b279",
+    "id": "ef329f48f8896a1b46e573b24605b279",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -17,5 +17,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.vercel.app/",
     "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-stable-02-04-2022-rmx2020.4426345/"
+    "forum_url": ""
 }
