@@ -1,3 +1,6 @@
+# 10-Mar-2022
+- Merged April Security Patch
+
 # 2-Mar-2022
 - Improved vibrations
 - Improved UDFPS
@@ -10,7 +13,7 @@
 - February security patch
 
 # 16-Jan-2022
---Jan-security patch
+- Jan-security patch
 
 # 02-Jan-2022
 - Fixed bluetooth audio
