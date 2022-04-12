@@ -1,3 +1,8 @@
+# 12-Apr-2022
+- Switched to Arian's common tree
+- Various fixes such as fixed work profile, vibrations
+- Updated VantomKernel
+
 # 12-Mar-2022
 - Merged latest linux-stable v4.14.271
 - Merged latest CAF tag LA.UM.9.1.r1-11700-SMxxx0.0
