@@ -41,6 +41,14 @@
             "tagline": "Dream is an illusion."
         },
         {
+            "name" : "Sasha McCleary",
+            "github": "SashaMcC",
+            "telegram": "helenius147",
+            "XDA": null,
+            "role": "Administration",
+            "tagline": "Think I'm good haha"
+        },
+        {
             "name" : "Shivansh Agarwal",
             "github": "twel12",
             "telegram": "real_twel12",
@@ -113,14 +121,6 @@
             "tagline": "Let PaperBoy's stories kept untold."
         },
         {
-            "name" : "Ackerman",
-            "github": "syhhw",
-            "telegram": "hastefrin",
-            "XDA": null,
-            "role": "vayu Maintainer",
-            "tagline": null
-        },
-        {
             "name" : "cristian",
             "github": "cristianvaz",
             "telegram": "cristianvaz",
@@ -137,27 +137,11 @@
             "tagline": null
         },
         {
-            "name" : "RayapKun",
-            "github": "RayapKun",
-            "telegram": "whyyraku",
-            "XDA": "https://forum.xda-developers.com/m/rayapkun.12085931/",
-            "role": "juice Maintainer",
-            "tagline": "F2P Gang"
-        },
-        {
-            "name" : "Anoosragh",
-            "github": "ok-ano0s",
-            "telegram": "ok_aNo0s",
-            "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
-            "role": "Ex-RMX1941 Maintainer",
-            "tagline": "How does that even work?"
-        },
-        {
             "name" : "kawaaii",
             "github": "kawaaii",
             "telegram": "kawaaaaai",
             "XDA": "https://forum.xda-developers.com/m/hr1d4y4.11390789/",
-            "role": "Ex-gauguin Maintainer",
+            "role": "gauguin Maintainer",
             "tagline": null
         },
         {
@@ -175,6 +159,30 @@
             "XDA": "https://forum.xda-developers.com/m/kardebayan3.9878693/",
             "role": "10or G Maintainer",
             "tagline": null
+        },
+        {
+            "name" : "RayapKun",
+            "github": "RayapKun",
+            "telegram": "whyyraku",
+            "XDA": "https://forum.xda-developers.com/m/rayapkun.12085931/",
+            "role": "juice Maintainer",
+            "tagline": "F2P Gang"
+        },
+        {
+            "name" : "Ackerman",
+            "github": "syhhw",
+            "telegram": "hastefrin",
+            "XDA": null,
+            "role": "Ex-vayu Maintainer",
+            "tagline": null
+        },
+        {
+            "name" : "Anoosragh",
+            "github": "ok-ano0s",
+            "telegram": "ok_aNo0s",
+            "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
+            "role": "Ex-RMX1941 Maintainer",
+            "tagline": "How does that even work?"
         }
     ]
 }
