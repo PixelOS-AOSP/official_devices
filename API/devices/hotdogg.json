@@ -1,0 +1,20 @@
+{
+    "maintainer" : [
+	{
+	    "display_name" : "cyberknight777",
+	    "telegram" : "https://t.me/cyberknight777",
+	    "github" : "cyberknight777"
+	}
+    ],
+    "updater" : true,
+    "beta" : false,
+    "version" : "monthly",
+    "device_display_name" : "OnePlus 7T Pro 5G McLaren Edition",
+    "device_display_codename" : "hotdogg",
+    "public_download" : "",
+    "last_updated" : "",
+    "private_download_tag" : "",
+    "active" : true,
+    "xda" : null
+}
+	    

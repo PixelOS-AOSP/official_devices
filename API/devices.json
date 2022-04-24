@@ -134,6 +134,24 @@
             "maintainer_name" : "kardebayan",
             "frame" : null,
             "active" : true
-        }
+        },
+	{
+	    "codename" : "hotdog",
+	    "codename_alt" : "OnePlus7TPro",
+	    "vendor" : "OnePlus",
+	    "model" : "OnePlus 7T Pro",
+	    "maintainer_name" : "cyberknight777",
+	    "frame" : null,
+	    "active" : true
+	},
+	{
+	    "codename" : "hotdogg",
+	    "codename_alt" : "OnePlus7TProNR",
+	    "vendor" : "OnePlus",
+	    "model" : "OnePlus 7T Pro 5G McLaren Edition",
+	    "maintainer_name" : "cyberknight777",
+	    "frame" : null,
+	    "active" : true
+	}
     ]
 }
