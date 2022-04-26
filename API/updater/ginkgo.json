@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_ginkgo-12.1-20220409-1108.zip",
-    "datetime": 1649502480,
-    "size": 1693947175,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-09/PixelOS_ginkgo-12.1-20220409-1108.zip",
-    "filehash": "30c019738ec216bd19ca7be6fb808385",
-    "id": "30c019738ec216bd19ca7be6fb808385",
+    "filename": "PixelOS_ginkgo-12.1-20220426-1121.zip",
+    "datetime": 1650972060,
+    "size": 1693911395,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-26/PixelOS_ginkgo-12.1-20220426-1121.zip",
+    "filehash": "85324155a6b4f5170db8398e2c5a354d",
+    "id": "85324155a6b4f5170db8398e2c5a354d",
     "maintainers": [
         {
             "main_maintainer": false,
