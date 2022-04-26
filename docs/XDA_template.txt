@@ -19,7 +19,13 @@ In short a fully functional Pixel Experience with just the right amount of essen
 Performance improvements from ProtonAOSP
 Reduced log spam verbosity
 Separate QS tiles for WiFi and Mobile data
+Aggressive Idle mode
+Allow toggling screen off FOD for supported devices 
+Allow option to disable screenshot shutter sound
+Switch for linked ring and media notification volumes
 Allow to disable battery estimates in QS
+Allow disabling unlocking ripple animation
+Apply monet to fingerprint authentication ripple animation
 Bluetooth battery icon in status bar
 Status bar tuner and Full screen Display
 In-call vibration customizations
