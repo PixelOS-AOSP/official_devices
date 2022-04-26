@@ -1,3 +1,8 @@
+# 26-Apr-2022
+- Added fingerprint shutter for MIUI Camera
+- Merged android-4.14-stable (4.14.276) in kernel
+- Introduced live display
+
 # 9-Apr-2022
 - Merged April Security Patch
 

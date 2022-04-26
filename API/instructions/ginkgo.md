@@ -12,7 +12,6 @@
 
 # Updating to a newer build (dirty flash):
 - Update via OTA Updater, or
-
 - Wipe dalvik and cache (optional)
 - Flash ROM zip (sideload) and reboot to system
 - Boot back to recovery and sideload magisk (optional)
