@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_alioth-12.1-20220409-1624.zip",
-    "datetime": 1649521440,
-    "size": 1846314706,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-09/PixelOS_alioth-12.1-20220409-1624.zip",
-    "filehash": "346c7e874ee36f0b33f9459756a951b9",
-    "id": "346c7e874ee36f0b33f9459756a951b9",
+    "filename": "PixelOS_alioth-12.1-20220427-0741.zip",
+    "datetime": 1651045260,
+    "size": 1850502313,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-27/PixelOS_alioth-12.1-20220427-0741.zip",
+    "filehash": "807b170730cc6e3551f4f8383f092140",
+    "id": "807b170730cc6e3551f4f8383f092140",
     "maintainers": [
         {
             "main_maintainer": false,
