@@ -1,3 +1,13 @@
+# 27-Apr-2022
+- Changed kernel to VantomKernel compiled with PlayGround clang 15
+- Updated blobs from sweet MIUI V13.0.8.0.SKFEUXM
+- Introduced haptic control
+- Introduced livedisplay
+- Fixed WiFi Display (Miracast)
+- Fixed some issues with NFC
+- Increased volume steps from 15 to 25
+- Misc. fixes and changes
+
 # 10-Mar-2022
 - Merged April Security Patch
 
