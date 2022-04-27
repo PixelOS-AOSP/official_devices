@@ -1,3 +1,16 @@
+# 27-Apr-2022
+- Update PowerProfiles to Android 12.1
+- Update to last N0kernel Beta
+- Update corner radius from stock 
+- Align side fps ripple animation 
+- Fix Video Calling 
+- Some QTI Bluetooth fixes and improvements
+- Fix Mifare nfc
+- Fix AOD animation with Deep sleep
+- New High Polling Rate implementation (source side)
+- Implemented LiveDisplay and HBM
+- Ram improvements
+
 # 09-Apr-2022
 - Rebased LOS 19.1 trees
 - Change to n0kernel
