@@ -1,3 +1,25 @@
+# 27-Apr-2022
+- Updated blobs to MIUI V13.0.8.0.SKFEUXM
+- Update GPS from LA.UM.9.1.r1-11800-SMxxx0.0
+- Fixed aptX and aptX HD
+- Fixed IR blaster 
+- Fixed issues with the status bar
+- Slightly increased the status bar height (to how it was on older builds)
+- Fixed the document, panorama, vlog and long exposure modes in ANXCamera
+- Fixed the ANXCamera crash in the full aspect ratio and the 64/108MP mode in sunlight 
+- Fixed the blue/green tint some users had
+- Fixed some more issues with camera
+- Fixed the fingerprint wake-up animation
+- Fixed the low-mic issues that some people had using a few apps
+- Fixed WiFi Display (Miracast)
+- Fixed some issues with dirac
+- Introduced haptic control
+- Improved vibrations 
+- Introduced livedisplay
+- Introduced doze modes 
+- Updated VantomKernel compiled with playground clang 15 with optimizations
+- Misc. fixes and changes
+
 # 12-Apr-2022
 - Switched to Arian's common tree
 - Various fixes such as fixed work profile, vibrations
