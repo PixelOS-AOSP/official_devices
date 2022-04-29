@@ -1,3 +1,15 @@
+# 29-Apr-2022
+- Removed HBM for now due to issues with brightness
+- Updated vibration patterns 
+- Updated deprecated screen power items 
+- Fixed more issues with ANXCamera (Colors and details getting messed up)
+- Added a few missing blobs
+- Added MGLRU for better memory management
+- Dropped SLMK in favor of LMKD
+- Use LMKD from YAAP for better memory management
+- Updated kernel
+- Misc. changes and fixes
+
 # 27-Apr-2022
 - Updated blobs to MIUI V13.0.8.0.SKFEUXM
 - Update GPS from LA.UM.9.1.r1-11800-SMxxx0.0
