@@ -1,3 +1,14 @@
+# 30-Apr-2022
+- Added a few missing blobs
+- Fixed anti flicker mode
+- Enable zygote unspecialized app process pool
+- Configure SQLite to operate in MEMORY mode
+- Added MGLRU for better memory management
+- Dropped SLMK in favor of LMKD
+- Use LMKD from YAAP for better memory management
+- Updated kernel
+- Misc. changes and fixes
+
 # 27-Apr-2022
 - Changed kernel to VantomKernel compiled with PlayGround clang 15
 - Updated blobs from sweet MIUI V13.0.8.0.SKFEUXM
