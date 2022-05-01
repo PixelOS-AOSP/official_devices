@@ -28,17 +28,43 @@ from telegram import *
 from telegram.ext import *
 
 # Get Secrets from Workflow
-BOT_API = os.environ.get("BOT_API") # Telegram BOT API Token
-TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos)
+BOT_API = os.environ.get("BOT_API") # Telegram Bot API Token
+TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos and APIs)
+GITHUB_API_USER = "geek0609" # GitHub username of owner of the above token
 CHAT_ID = "-1001551285228" # ID of channel where it needs to post [Requires admin with enough permissions]
-banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png" # Banner
-json_dir = "./API/devices/" # Directory where it should look for ID
+banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png" # Direct link to banner
+json_dir = "./API/devices/" # Directory where it should look for JSONs
 timeout = 1 # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
+WEBSITE_DOWNLOAD = "https://pixelos.vercel.app/download/"
+FOOTER_TAGS = "#TeamPixel #PixelOS" # Tags which needs to appear at end of the post
+
+UniqueID = "private_download_tag"   # UniqueID can be any parameter contained in the device.json file which is unique to one build which the 
+                                    # maintainer must change every update/build.
+                                    # So, to update, maintainer must eventually change that and when its changed, the program can compare the 
+                                    # older list to latest and find out what device is changed, so that is the device which got an update and 
+                                    # needs to be posted then now since we know what device got update, take its info from API, and use it to post
+
+
 # Inititalize the bot
 bot = Bot(BOT_API)
 updater = Updater(BOT_API, use_context=True, workers=1)
 dispatcher = updater.dispatcher
+
+
+# HTML Hyperlink Fomatting
+def html_link(url, text):
+    return "<a href=\"" + url + "\">" + text + "</a>"
+
+
+# HTML Bold Fomatting
+def html_bold(text):
+    return "<b>" + text + "</b>"
+
+
+# HTML monospace/code Fomatting
+def html_code(text):
+    return "<code>" + text + "</code>"
 
 
 def send_message(message: str):
@@ -53,8 +79,8 @@ def send_photo(message: str, picture):
 def get_updated_tags():
     tags = []
     for file in os.listdir(json_dir):
-        if file != "README.MD" and json.loads(open(json_dir + file, "r").read())["private_download_tag"] != "":
-            tags.append(json.loads(open(json_dir + file, "r").read())["private_download_tag"])
+        if file != "README.MD" and json.loads(open(json_dir + file, "r").read())[UniqueID] != "":
+            tags.append(json.loads(open(json_dir + file, "r").read())[UniqueID])
     return tags
 
 
@@ -72,9 +98,8 @@ def get_updated_device():
     for new in list(set(get_updated_tags()) - set(get_current_tags())):
         for file in os.listdir(json_dir):
             if file != "README.MD":
-                if json.loads(open(json_dir + file, "r").read())["private_download_tag"] == new:
+                if json.loads(open(json_dir + file, "r").read())[UniqueID] == new:
                     devices_changed.append(file.replace(".json", ""))
-
     return devices_changed
 
 
@@ -103,8 +128,8 @@ def post_maker(device_info, name):
         loop -= 1
 
     release_info = json.loads(requests.get(
-        "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" + device_info["private_download_tag"],
-        auth=("geek0609", TOKEN)).content) # information about the release, taken from Private Releases Repository
+        "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" + device_info[UniqueID],
+        auth=(GITHUB_API_USER, TOKEN)).content) # information about the release, taken from Private Releases Repository
 
     recovery_file_size = 0
     rom_file_size = 0
@@ -128,11 +153,8 @@ def post_maker(device_info, name):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"https://pixelos.vercel.app/download/" + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
     
-    # Changelogs
-    # message = message + "\n<b><a href=\"https://pixelos.vercel.app/download/" + device_info["public_download"].split("/")[-1] + "\">Changelogs</a></b>\n"
-
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
 
@@ -153,7 +175,7 @@ def post_maker(device_info, name):
     if device_info["beta"]:
         message = message + "#beta "
 
-    return message + "#TeamPixel #PixelOS"
+    return message + FOOTER_TAGS
 
 
 # updates the log file
@@ -171,7 +193,7 @@ def uploader():
 
 
 for device in get_updated_device():
-    current_device_info = json.loads(open("API/devices/" + device + ".json").read())
+    current_device_info = json.loads(open(json_dir + device + ".json").read())
     # print(post_maker(current_device_info))
     send_photo(post_maker(current_device_info, device),
                requests.get(banner).content)
