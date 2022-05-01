@@ -19,6 +19,9 @@
 
 import datetime
 import os
+
+SF_PASS = os.environ.get("SF_PASS")
+
 try:
     new_tags = open("new_tags.txt", "r").readlines()
 except Exception as e:
@@ -59,6 +62,12 @@ for tag in new_tags:
             if file.endswith(".json"):
                 json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
                 open(cur_dir + "/releases/" + file, "w+").write(json)
+                device = file.replace(".json", "")
+
+    os.system("sudo apt install sshpass")
+
+    os.system("sshpass -p " + SF_PASS + " scp /releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/ " + device + "/")
+    os.system("sshpass -p " + SF_PASS + " scp /releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/ " + device + "/recovery/")
 
     os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
     print("Uploaded")

@@ -6,6 +6,7 @@ on:
 env:
   BOT_API: ${{ secrets.BOT_API }}
   TOKEN: ${{ secrets.TOKEN }}
+  SF_PASS: ${{ secrets.SF_PASS }}
 
 jobs:
   postman:
