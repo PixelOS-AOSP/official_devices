@@ -177,6 +177,14 @@
 	    "tagline" : "You gotta do what you gotta do 乁(ツ)ㄏ"
         },
         {
+            "name" : "Dennis Murimi",
+            "github": "AndroidHQ254",
+            "telegram": "DennisMurimiWachira",
+            "XDA": "https://forum.xda-developers.com/m/androidhq254.5437788/",
+            "role": "toco Maintainer",
+            "tagline": "Flexing toco!"
+        },
+        {
             "name" : "Ackerman",
             "github": "syhhw",
             "telegram": "hastefrin",

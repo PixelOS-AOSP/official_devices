@@ -152,6 +152,15 @@
 	    "maintainer_name" : "cyberknight777",
 	    "frame" : null,
 	    "active" : true
+	},
+	{
+	    "codename" : "toco",
+	    "codename_alt" : "toco",
+	    "vendor" : "Xiaomi",
+	    "model" : "Xiaomi Mi Note 10 Lite",
+	    "maintainer_name" : "Dennis Murimi",
+	    "frame" : null,
+	    "active" : true
 	}
     ]
 }

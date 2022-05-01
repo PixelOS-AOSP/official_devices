@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Dennis Murimi",
+            "telegram": "https://t.me/DennisMurimiWachira",
+            "github": "AndroidHQ254"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi Note 10 Lite",
+    "device_display_codename": "toco",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/toco/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://forum.xda-developers.com/t/rom-12-1-toco-unofficial-pixelos.4439221/"
+}
