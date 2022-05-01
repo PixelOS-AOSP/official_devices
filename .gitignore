@@ -2,5 +2,6 @@
 .github/scripts/UpdatePoster/__pycache__/*
 .github/scripts/Uploader/__pycache__/*
 new_tags.txt
+no_ota.txt
 releases
 releases-public
