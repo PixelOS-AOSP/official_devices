@@ -60,9 +60,9 @@ for tag in new_tags:
     if OTA:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
-                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
-                open(cur_dir + "/releases/" + file, "w+").write(json)
                 device = file.replace(".json", "")
+                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device + "/" + ROM_ZIP_NAME)
+                open(cur_dir + "/releases/" + file, "w+").write(json)
 
     os.system("sudo apt install sshpass")
 
