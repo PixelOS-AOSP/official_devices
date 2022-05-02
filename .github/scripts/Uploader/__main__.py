@@ -65,9 +65,10 @@ for tag in new_tags:
                 open(cur_dir + "/releases/" + file, "w+").write(json)
 
     os.system("sudo apt install sshpass")
-
-    os.system("sshpass -p " + SF_PASS + " scp /releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/ " + device + "/")
-    os.system("sshpass -p " + SF_PASS + " scp /releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/ " + device + "/recovery/")
+    # os.system("mkdir ~/.ssh/")
+    # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
+    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery")
+    os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
 
     os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
     print("Uploaded")
