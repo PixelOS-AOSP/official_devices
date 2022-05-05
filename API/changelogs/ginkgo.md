@@ -1,3 +1,13 @@
+# 6-May-2022
+- Introduced MGLRU (better memory management)
+- Update telephony from LA.QSSI.12.0.r1-06500 
+- Upgrade adreno stack to WAIPIO 12200
+- Enabled unspecialized app process pool
+- Disabled 48MP mode in MIUI Camera
+- Merged android-4.14-stable (4.14.277) in kernel
+- Merged tag LA.UM.9.1.r1-11800.05-SMxxx0.QSSI12.0 in kernel
+- Misc optimizations in kernel 
+
 # 26-Apr-2022
 - Added fingerprint shutter for MIUI Camera
 - Merged android-4.14-stable (4.14.276) in kernel
