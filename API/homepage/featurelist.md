@@ -2,6 +2,7 @@
 - Performance improvements from ProtonAOSP
 - Reduced log spam verbosity
 - Separate QS tiles for WiFi and Mobile data
+- Monet boot animation
 - Aggressive Idle mode
 - Allow toggling screen off FOD for supported devices 
 - Allow option to disable screenshot shutter sound
@@ -30,4 +31,13 @@
 - Simple RGB color balance transform sliders
 - More font size in 5% steps from 80% to 130%
 - First-class implementation of Repainter app
+- A lot of optional Quick Setting tiles
+  Caffeine
+  Heads up
+  Sync
+  Adaptive Brightness
+  Ambient display
+  Always on display
+  USB tether
+  Live display
 - Under the hood optimizations

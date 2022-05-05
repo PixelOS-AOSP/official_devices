@@ -1,5 +1,14 @@
-# 26-Apr-2022
+# 6-May-2022
+- Merged May Security Patch
+- Added expanded volume panel
+- Added quick settings tile for Auto brightness
+- Updated the caffeine quick settings tile icon from AOSPA
+- Update package details to match S style
+- Fixed an issue where battery percentage would refresh while accessing app drawer on white theme
+- Bunch of fixes in Updater app
+- Miscellaneous changes and fixes
 
+# 26-Apr-2022
 - Added quick setting tiles for caffeine, heads up, sync, ambient display, Always on display, USB tether quick settings tiles, live display
 - Fixed some issues with advanced reboot
 - Added back charging animation
@@ -21,7 +30,6 @@
 - Reduced logging and silenced some log spam
 
 # 9-Apr-2022
-
 - Merged April Security Patch
 - Added doubletap/longpress power to toggle torch
 - Removed text from expanded screenshot chip
@@ -42,7 +50,6 @@
 - Misc. fixes and optimizations
 
 # 12-Mar-2022
-
 - Merged 12.0.0_r32
 - Added Face unlock
 - Added App Lock
@@ -59,7 +66,6 @@
 - Misc. fixes and optimizations
 
 # 11-Feb-2022
-
 - Merged February security patch
 - Added more themed icons 
 - Added quicktap (for supported devices)
@@ -78,7 +84,6 @@
 - Misc. fixes and optimizations
 
 # 15-Jan-2022
-
 - Merged android-12.0.0_r27
 - Added HeadsUp QS tile
 - Added Long press volume key to change track
@@ -95,7 +100,6 @@
 - Bugfixes and misc. improvements
 
 # 31-Dec-2021
-
 - Fully rebased android-12.0_r18
 - Spoofed as Pixel 1XL for google photos for unlimited backup in original quality
 - Added themed icons for a lot of third party icons in stock PixelOS Launcher

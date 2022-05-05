@@ -19,6 +19,7 @@ In short a fully functional Pixel Experience with just the right amount of essen
 Performance improvements from ProtonAOSP
 Reduced log spam verbosity
 Separate QS tiles for WiFi and Mobile data
+Monet bootanimation
 Aggressive Idle mode
 Allow toggling screen off FOD for supported devices 
 Allow option to disable screenshot shutter sound
@@ -47,6 +48,15 @@ Extended Monet to more UI elements
 Simple RGB color balance transform sliders
 More font size in 5% steps from 80% to 130%
 First-class implementation of Repainter app
+A lot of optional Quick Setting tiles
+ Caffeine
+ Heads up
+ Sync
+ Adaptive Brightness
+ Ambient display
+ Always on display
+ USB tether
+ Live display
 Under the hood optimizations
 [/CENTER]
 
