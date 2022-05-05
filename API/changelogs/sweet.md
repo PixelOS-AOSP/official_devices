@@ -1,3 +1,12 @@
+# 06-May-2022
+- Updated blobs to V13.0.9.0.SKFEUXM
+- Switched to Vulkan UI renderer
+- Removed iorap due to (probably) causing some heating/drain
+- Improved RAM management
+- Labeled more wakeup nodes 
+- Addressed more denials 
+- Updated kernel
+
 # 29-Apr-2022
 - Removed HBM for now due to issues with brightness
 - Updated vibration patterns 
