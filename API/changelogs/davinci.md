@@ -1,3 +1,7 @@
+# 6-Apr-2022
+- Kernel update
+- Better RAM Management
+
 # 30-Apr-2022
 - Added a few missing blobs
 - Fixed anti flicker mode
