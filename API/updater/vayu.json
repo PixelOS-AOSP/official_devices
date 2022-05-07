@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_vayu-12.1-20220427-0900.zip",
-    "datetime": 1651050000,
-    "size": 1947365489,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-27/PixelOS_vayu-12.1-20220427-0900.zip",
-    "filehash": "bfafa8b3493a999b51a9e0dcecb2b810",
-    "id": "bfafa8b3493a999b51a9e0dcecb2b810",
+    "filename": "PixelOS_vayu-12.1-20220507-0846.zip",
+    "datetime": 1651913160,
+    "size": 1947375096,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/PixelOS_vayu-12.1-20220507-0846.zip",
+    "filehash": "b99c3b2c981886b2f8eae2072eb8ab54",
+    "id": "b99c3b2c981886b2f8eae2072eb8ab54",
     "maintainers": [
         {
             "main_maintainer": false,
