@@ -1,3 +1,6 @@
+# 08-May-2022
+- Initial Stable Android 12.1
+
 # 14-Feb-2022
 - Fix Themed boot-animation 
 - Fix Always On Display flickers
