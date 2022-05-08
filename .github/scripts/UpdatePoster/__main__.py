@@ -159,7 +159,7 @@ def post_maker(device_info, name):
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
 
     if device_info["xda"] != None and device_info["xda"] != "":
-        message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b>\n"
+        message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b> (FAQ)\n"
     
     message = message + "\n" # Leave a line unconditionally 
 
