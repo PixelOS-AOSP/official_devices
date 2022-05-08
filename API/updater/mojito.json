@@ -1,16 +1,16 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_mojito-12.0-20220311-1843.zip",
-    "datetime": 1647024180,
-    "size": 1672449820,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-03-12/PixelOS_mojito-12.0-20220311-1843.zip",
-    "filehash": "6da9c79c77c1e53d24e7cfb595b07c80",
-    "id": "6da9c79c77c1e53d24e7cfb595b07c80",
+    "filename": "PixelOS_mojito-12.1-20220508-1546.zip",
+    "datetime": 1652024760,
+    "size": 1729938401,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220508-1546.zip",
+    "filehash": "914db6b744332ed3cb76e3cacc3e4952",
+    "id": "914db6b744332ed3cb76e3cacc3e4952",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "https://github.com/geek0609",
+            "github_username": "geek0609",
             "name": "Ashwin DS"
         }
     ],
