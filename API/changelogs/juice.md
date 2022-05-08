@@ -1,3 +1,20 @@
+# 08-May-2022
+- Fixed PixelOS Recovery
+- Imported MIUI offline charging animation
+- Set fingerprint/power button position
+- Disable global mode and CDMA choices
+- Fix deprecated power profile items
+- Adjust padding between signal and battery icons
+- msm_irqbalance: Correct the arch_mem_timer interrupt
+- msm_irqbalance: Do not balance msm_drm and kgsl-3d0 IRQs
+- Workaround device props based on SKU
+- Add dalvik heap configuration for 4 & 6GB RAM
+- Override verified boot state to green
+- Disable OEM unlock
+- Use surfaceflinger offset from crosshatch
+- Reworked brightness
+- Upstreamed kernel into latest
+
 # 10-April-2022
 - Initial Android 12.1 Official build release
 - Improved I/O read-write speed
