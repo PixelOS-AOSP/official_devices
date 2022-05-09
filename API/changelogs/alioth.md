@@ -1,3 +1,13 @@
+# 09-May-2022
+- New rebased trees from PPUI as base
+- Change to Immensity Kernel 3.0.0
+- Update vendor to MIUI 13.0.3
+- Update HALs to latest CAF/Codelinaro tags
+- Updated Adreno and Vulkan drivers
+- Switch to new alioth audio source (clean import)
+- Added Qualcomm TrueWireless Stereo
+- Some other fixes
+
 # 27-Apr-2022
 - Update PowerProfiles to Android 12.1
 - Update to last N0kernel Beta
