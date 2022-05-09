@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_mido-12.0-20220312-1038.zip",
-    "datetime": 1647081480,
-    "size": 1468988066,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-03-13/PixelOS_mido-12.0-20220312-1038.zip",
-    "filehash": "cee38f3c2b33c7a7b233f108569a3512",
-    "id": "cee38f3c2b33c7a7b233f108569a3512",
+    "filename": "PixelOS_mido-12.1-20220508-1656.zip",
+    "datetime": 1652028960,
+    "size": 1504624719,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mido/PixelOS_mido-12.1-20220508-1656.zip",
+    "filehash": "e338eae98b3407135f9b5303d4b6263c",
+    "id": "e338eae98b3407135f9b5303d4b6263c",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -17,5 +17,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.vercel.app/",
     "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-13-03-2022.4415063/"
 }
