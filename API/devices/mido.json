@@ -13,8 +13,8 @@
   "device_display_name": "Redmi Note 4/4x",
   "device_display_codename": "mido",
   "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mido/",
-  "last_updated": "13 March 2022",
-  "private_download_tag": "mido_20220312_1709",
+  "last_updated": "09 May 2022",
+  "private_download_tag": "mido_20220508_2305",
   "active": true,
   "xda": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-13-03-2022.4415063/"
 }
