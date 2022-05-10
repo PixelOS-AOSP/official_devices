@@ -1,3 +1,8 @@
+# 10-May-2022
+- Synced with latest PixelOS source
+- Updated SilverCore Kernel to latest version
+- Switched to AOSP Clang
+
 # 1-May-2022
 - Synced with latest PixelOS source
 - Updated SilverCore Kernel to latest version
