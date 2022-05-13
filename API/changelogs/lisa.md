@@ -1,3 +1,17 @@
+# 13-May-2022
+- Updated display stack from LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0
+- Added support for Dolby Vision (let us know if it works fine)
+- Updated adreno drivers to V615
+- Switched back to QTI Perf from libperfmgr
+- Updated media configs from MIUI 13.0.4 Global
+- Addressed a bunch of denials
+- Charging speed and temp management should be better now
+- Fixed fingerprint location indicator
+- Fine tuned autobrightness ramp rates
+- Imported few missing blobs 
+- Enabled QCRIL radio power saving
+- More misc improvements
+
 # 1-May-2022
 - Updated blobs from MIUI 13.0.4 Global Release
 - Switched to Pixel Power HAL (libperfmgr)
