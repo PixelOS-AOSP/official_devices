@@ -1,3 +1,16 @@
+# 13-May-2022
+- Initial miuicamera import from miui_SWEETEEAGlobal_V13.0.9.0.SKFEUXM
+- Reintroduced HBM and anti flicker mode
+- Fixed an issue where sometimes unlocking would get stuck on the lock screen clock
+- Fixed the charging issues a few people had (disconnecting)
+- Changes to power_profile.xml for better battery usage information and estimates
+- Increased ZRAM to 3GB
+- Improved memory management
+- Labeled more wakeup nodes
+- Resolved more denials
+- Updated kernel and compiled using the latest playground clang
+- More misc. changes and fixes
+
 # 06-May-2022
 - Updated blobs to V13.0.9.0.SKFEUXM
 - Switched to Vulkan UI renderer
