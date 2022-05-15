@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_courbet-12.1-20220515-1230.zip",
+    "datetime": 1651877820,
+    "size": 2122609935,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-05-15/PixelOS_courbet-12.1-20220515-1230.zip",
+    "filehash": "4bba86d2b1aaab3056ff07f84534b270",
+    "id": "4bba86d2b1aaab3056ff07f84534b270",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "noonlord",
+            "name": "Yusuf"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
