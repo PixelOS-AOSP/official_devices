@@ -161,6 +161,15 @@
 	    "maintainer_name" : "Dennis Murimi",
 	    "frame" : null,
 	    "active" : true
+	},
+	{
+	    "codename" : "courbet",
+	    "codename_alt" : "courbet/courbetin",
+	    "vendor" : "Xiaomi",
+	    "model" : "Xiaomi 11 Lite 4G",
+	    "maintainer_name" : "Yusuf",
+	    "frame" : null,
+	    "active" : true
 	}
     ]
 }
