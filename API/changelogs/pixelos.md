@@ -1,3 +1,20 @@
+# 9-June-2022
+- Rebased source over PixelExperience
+- Added Network Traffic Indicator
+- Added App Lock (beta)
+- Added support for one shot auto-brightness
+- Added button to restart SystemUI in advanced reboot
+- Added option to disable screenshot shutter
+- Added user interface for Alert Sliders
+- Added double tap to trigger doze 
+- Added a button to upload crash log to memocho
+- Added a toggle for combined signal icon
+- Added a toggle for haptic feedback on back gesture 
+- Added custom vibration patterns from OxygenOS
+- Added vibration intensity control 
+- Fixed issues with the quick settings page
+- Fixed issues with the navigation bar while in landscape
+
 # 6-May-2022
 - Merged May Security Patch
 - Added expanded volume panel
