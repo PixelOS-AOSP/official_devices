@@ -64,6 +64,11 @@ for tag in new_tags:
                 json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device + "/" + ROM_ZIP_NAME)
                 open(cur_dir + "/releases/" + file, "w+").write(json)
 
+    else:
+        for file in os.listdir(cur_dir + "/releases/"):
+            if file.endswith(".json"):
+                device = file.replace(".json", "")
+
     os.system("sudo apt install sshpass")
     # os.system("mkdir ~/.ssh/")
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
