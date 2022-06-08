@@ -74,7 +74,9 @@ for tag in new_tags:
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
     os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery")
     os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
-
-    os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
+    
+    if OTA:
+        os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
+    
     print("Uploaded")
     os.system("rm -rf " + cur_dir + "/releases/*.img " + cur_dir + "/releases/*.zip ")
