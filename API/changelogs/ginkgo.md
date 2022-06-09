@@ -1,3 +1,10 @@
+# 9-Jun-2022
+- Merged June Security Patch
+- Upstreamed kernel to 4.14.282 ALS
+- Merged tag LA.UM.9.1.r1-11900-SMxxx0.0 in kernel
+- Dropped redundant RenderScript implementation
+- Updated deprecated screen power items
+
 # 6-May-2022
 - Introduced MGLRU (better memory management)
 - Update telephony from LA.QSSI.12.0.r1-06500 
