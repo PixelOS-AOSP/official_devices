@@ -1,3 +1,11 @@
+# 09-June-2022
+- Initial build with EROFS Formatting
+- Disable rotation in 4 directions
+- Configure Interaction boosts
+- Update blobs from mojito V13.0.7.0.SKGMIXM
+- KProfiles app to let you Configure KProfiles without root (Find it in battery settings)
+- Fine-tune dimens (thanks to t.me/nayan942 )
+
 # 08-May-2022
 - Initial Stable Android 12.1
 
