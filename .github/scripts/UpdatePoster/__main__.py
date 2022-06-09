@@ -165,7 +165,6 @@ def post_maker(device_info, name):
 
     if not device_info["updater"]:
         message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
-        open("no_ota.txt", "w+").write("yes")
     else:
         open("no_ota.txt", "w+").write("no")
 

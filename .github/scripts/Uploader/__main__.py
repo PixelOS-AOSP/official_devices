@@ -28,9 +28,14 @@ except Exception as e:
     new_tags = []
 
 try:
-    OTA = open("no_ota.txt", "r").readlines().replace("\n", "").replace(" ", "") == "no"
+    OTA = os.path.exists("no_ota.txt")
 except Exception as e:
-    OTA = True
+    OTA = False
+
+if OTA:
+    print ("Pushing OTA")
+else:
+    print ("Not Pushing OTA")
 
 cur_dir = os.getcwd()
 print(new_tags)
