@@ -1,3 +1,15 @@
+# 09-June-2022
+- Updated blobs from MIUI V13.0.8.0.SKFMIXM
+- Update adreno from LA.UM.9.1.r1-11500.02-SMxxx0
+- Switched to EROFS (Enhanced read only file system)
+- Enabled F2FS compression (Needs a clean flash to work)
+- Optimize native executables for Cortex-A76 CPU
+- Switch to dot product CPU variant
+- Nuked Vulkan (due to some heating/drain)
+- Fixed picture adjustment in LiveDisplay (Do NOT change kernel if you want LiveDisplay to function properly)
+- Updated VantomKernel and PlayGround clang
+- Other misc. changes
+
 # 6-May-2022
 - Kernel update
 - Better RAM Management
