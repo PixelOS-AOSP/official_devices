@@ -6,15 +6,15 @@
             "github": "basamaryan"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": false,
     "version": "twelve",
     "release": "monthly",
     "device_display_name": "Redmi Note 10 Pro/Max",
     "device_display_codename": "sweet/sweetin",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/",
-    "last_updated": "13 May 2022",
-    "private_download_tag": "sweet_20220513_1256",
+    "last_updated": "09 June 2022",
+    "private_download_tag": "sweet_20220609_2138",
     "active": true,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-14-02-2022.4402719/"
