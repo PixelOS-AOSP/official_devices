@@ -12,10 +12,10 @@ This ROM comes with EROFS formatting, due to which:
 - Reboot the device to bootloader (Fastboot Mode)
 - Flash the recovery by running "fastboot flash boot <path/to/recovery.img>" in terminal
 - Reboot to recovery by running "fastboot reboot recovery" in terminal
+- Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
 - Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
 - Flash firmware (Version V13.0.7.0.SKGMIXM) through ADB sideload by running "adb sideload <path/to/fw.zip>" in terminal
-- Once it finishes installing, go back to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to system
 - Reboot and voila!
 
 # Dirty Flash / Update
