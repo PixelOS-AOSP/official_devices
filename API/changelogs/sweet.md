@@ -1,4 +1,4 @@
-# 10-June-2022
+# 09-June-2022
 - Updated blobs from MIUI V13.0.8.0.SKFMIXM
 - Update adreno from LA.UM.9.1.r1-11500.02-SMxxx0
 - Switched to EROFS (Enhanced read only file system)
