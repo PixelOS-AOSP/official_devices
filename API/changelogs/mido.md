@@ -1,3 +1,14 @@
+10-June-2022
+- Set permissions for KGSL sysfs node
+- Increase BootCompletedReceiver priority (Helps to restore parts changes as soon as device boots up)
+- Enable the pre-rendering feature
+- Optimise dex flags
+- Commonize vibrator pattern values (vibration pattern has been changed on trial basis, If you dont link inform me in support group, I will remove it in next build)
+- Uprev clearkey DRM HIDL to 1.4
+- Added Advanced Control
+- Upstream kernel from LA.UM.10.6.2.r1-01900-89xx.0
+- Upstream kernel to 4.9.317
+
 9-May-2022
 - Update media config from LA.UM.10.6.2.r1-01100-89xx.0
 - Dual sim should work
