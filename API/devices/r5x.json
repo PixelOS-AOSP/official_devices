@@ -1,0 +1,21 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Sugakesshaa",
+            "telegram": "https://t.me/Megalodonzs",
+            "github": "bheatleyyy"
+        }
+    ],
+    "updater": false,
+    "beta": true,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Realme 5 Series",
+    "device_display_codename": "r5x",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/r5x/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

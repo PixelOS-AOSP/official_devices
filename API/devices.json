@@ -170,6 +170,15 @@
 	    "maintainer_name" : "Yusuf",
 	    "frame" : null,
 	    "active" : true
+	},
+	{
+	    "codename" : "r5x",
+	    "codename_alt" : "r5x",
+	    "vendor" : "Realme",
+	    "model" : "Realme 5 Series",
+	    "maintainer_name" : "Sugakesshaa",
+	    "frame" : null,
+	    "active" : true
 	}
     ]
 }
