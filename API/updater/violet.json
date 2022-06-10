@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_violet-12.1-20220409-1819.zip",
-    "datetime": 1649528340,
-    "size": 1770712542,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-04-10/PixelOS_violet-12.1-20220409-1819.zip",
-    "filehash": "8ac3df1eb117bccba7caaf1bde87a075",
-    "id": "8ac3df1eb117bccba7caaf1bde87a075",
+    "filename": "PixelOS_violet-12.1-20220610-1209.zip",
+    "datetime": 1654862940,
+    "size": 1768596043,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/PixelOS_violet-12.1-20220610-1209.zip",
+    "filehash": "724143856d5b83a2388835b1e36ff8b6",
+    "id": "724143856d5b83a2388835b1e36ff8b6",
     "maintainers": [
         {
             "main_maintainer": false,
