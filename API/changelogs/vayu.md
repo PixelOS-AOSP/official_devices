@@ -1,3 +1,9 @@
+# 11-Jun-2022
+- Merged June Security Patch
+
+# 8-May-2022
+- Merged May Security Patch
+
 # 27-Apr-2022
 - Source upstream
 
