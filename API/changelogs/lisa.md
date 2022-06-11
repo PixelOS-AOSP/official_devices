@@ -1,3 +1,20 @@
+# 11-Jun-2022
+- Spoofed Netflix as Pixel 6 (fixes HDR playback)
+- Addressed alot of selinux denials
+- Updated perf, neural networks and scve blobs from LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0
+- Optimized power consumption BT media devices
+- Updated graphics blobs to WAIPIO 13100
+- Updated init scripts from MIUI 13
+- Switched to dot product CPU variant
+- Dropped CAF boost entirely
+- Optimized memory usage
+- Relaxed refresh rate switching
+- Used arter's vrr implementation 
+- Configured audio-app cpusets
+- Enabled support for 6GHz WiFi
+- Added support for Network Guru
+- Many more under the hood improvements and optimizations
+
 # 13-May-2022
 - Updated display stack from LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0
 - Added support for Dolby Vision
