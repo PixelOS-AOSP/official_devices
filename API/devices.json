@@ -133,7 +133,7 @@
             "model" : "10or G",
             "maintainer_name" : "kardebayan",
             "frame" : null,
-            "active" : true
+            "active" : false
         },
 	{
 	    "codename" : "hotdog",
