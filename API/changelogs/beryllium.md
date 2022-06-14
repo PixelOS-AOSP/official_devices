@@ -1,3 +1,12 @@
+# 14-June-2022
+- Synced with latest PixelOS source
+- Updated SilverCore Kernel to latest version
+- Added system_ext support
+- Dropped support for Snapdragon Camera
+- Shipped with Graphene Camera
+- Tweaked powerhint
+- Disabled Vsync for CPU rendered apps
+
 # 10-May-2022
 - Synced with latest PixelOS source
 - Updated SilverCore Kernel to latest version
