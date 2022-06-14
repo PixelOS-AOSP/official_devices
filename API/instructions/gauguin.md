@@ -1,5 +1,5 @@
 # Keep in mind...
-- YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the previous build)
+- YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the February build)
 
 # Clean flash:
 - Flash recovery (link is above)

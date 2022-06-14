@@ -1,10 +1,10 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_gauguin-12.1-20220612-0414.zip",
+    "filename": "PixelOS_gauguin-12.1-20220613-1142.zip",
     "datetime": 1655007240,
     "size": 2062428551,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220612-0414.zip",
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220613-1142.zip",
     "filehash": "2f5af49b2dece25fe18efb407fd0ce8a",
     "id": "2f5af49b2dece25fe18efb407fd0ce8a",
     "maintainers": [
@@ -14,7 +14,7 @@
             "name": "Hridaya"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://paypal.me/tarundbz",
     "website_url": "https://pixelos.vercel.app/",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": ""
