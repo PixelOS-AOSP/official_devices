@@ -179,6 +179,33 @@
 	    "maintainer_name" : "Sugakesshaa",
 	    "frame" : null,
 	    "active" : true
+	},
+        {
+            "codename" : "starlte",
+	    "codename_alt" : "starlte",
+	    "vendor" : "Samsung",
+	    "model" : "Samsung Galaxy S9",
+	    "maintainer_name" : "Mia Ryujin",
+	    "frame" : null,
+	    "active" : true
+        },
+	{
+	    "codename" : "star2lte",
+	    "codename_alt" : "star2lte",
+	    "vendor" : "Samsung",
+	    "model" : "Samsung Galaxy S9+",
+	    "maintainer_name" : "Mia Ryujin",
+	    "frame" : null,
+	    "active" : true
+	},
+	{	
+	    "codename" : "crownlte",
+	    "codename_alt" : "crownlte",
+	    "vendor" : "Samsung",
+	    "model" : "Samsung Galaxy Note 9",
+	    "maintainer_name" : "Mia Ryujin",
+	    "frame" : null,
+	    "active" : true
 	}
     ]
 }

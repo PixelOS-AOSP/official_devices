@@ -1,0 +1,20 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Mia Ryujin",
+            "telegram": "https://t.me/AISeraphine3_3",
+            "github": "https://github.com/Seraphine3"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy S9+",
+    "device_display_codename": "star2lte",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null
+}

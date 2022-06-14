@@ -184,6 +184,14 @@
             "role": "toco Maintainer",
             "tagline": "Flexing toco!"
         },
+	{
+	    "name" : "Mia Ryujin",
+            "github": "Seraphine3",
+            "telegram": "AISeraphine3_3",
+            "XDA": "https://forum.xda-developers.com/m/seraphine3_3.12102213/",
+            "role": "starlte,star2lte,crownlte Maintainer",
+            "tagline": "Shine Above The Stars✨"
+	},
         {
             "name" : "Ackerman",
             "github": "syhhw",
