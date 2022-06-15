@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_starlte-12.1-20220614-1154.zip",
+    "datetime": 1655207640,
+    "size": 1519683967,
+    "url": "URL_PLACEHOLDER",
+    "filehash": "f28e696936c81f8c84ea4fcadf4e15bd",
+    "id": "f28e696936c81f8c84ea4fcadf4e15bd",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Seraphine3",
+            "name": "Mia Ryujin"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
