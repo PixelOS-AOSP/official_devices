@@ -1,4 +1,4 @@
-10-June-2022
+# 10-June-2022
 - Set permissions for KGSL sysfs node
 - Increase BootCompletedReceiver priority (Helps to restore parts changes as soon as device boots up)
 - Enable the pre-rendering feature
@@ -9,7 +9,7 @@
 - Upstream kernel from LA.UM.10.6.2.r1-01900-89xx.0
 - Upstream kernel to 4.9.317
 
-9-May-2022
+# 9-May-2022
 - Update media config from LA.UM.10.6.2.r1-01100-89xx.0
 - Dual sim should work
 - Vilte should work
@@ -34,7 +34,7 @@
 - Upstream kernel from LA.UM.9.6.2.c25-02800-89xx.0
 - Upstream kernel to 4.9.312
 
-13-March-2022
+# 13-March-2022
 - Fixed mobile data on sim 2
 - Upstreamed kernel to 4.9.304
 - Added face unlock 
