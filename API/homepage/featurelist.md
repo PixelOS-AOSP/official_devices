@@ -29,8 +29,10 @@
   - Always on display
   - USB tether
   - Live display
+  - Data Switch
 - Optional separate Quick Settings tiles for WiFi and Mobile data
 - Allow disabling the ripple animation when unlocking
+- Per-app Volume (Multiple audio sources)
 - Allow disabling combined signal icon
 - Status bar icon manager
 - Hiding the gesture navigation bar
@@ -40,7 +42,7 @@
 - Optional inverted layout for 3-button navigation
 - Per-app Internet and Sensor permissions
 - Network traffic indicator
-- App lock (beta)
+- App lock
 - Three-fingers-swipe to screenshot
 - Double-tap/long-press power button to toggle torch
 - Double-tap to sleep on lockscreen

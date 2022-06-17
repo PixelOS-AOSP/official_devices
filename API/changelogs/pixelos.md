@@ -1,3 +1,14 @@
+# 17-June-2022
+- Applock is now stable (exposed in security settings)
+- Added support for per-app volume
+- Fixed Media picker SystemUI crash
+- Fixed widgets crash on PixelLauncher
+- Fixed semi bold font on PixelLauncher
+- Added material-you preview animation to  double tap to doze gesture
+- Added Data Switch QS Tile
+- Added delete action for screenshot and screenrecorder notifications
+- Fixed colors on DocumentsUI
+
 # 9-June-2022
 - Rebased source over PixelExperience
 - Added Network Traffic Indicator
