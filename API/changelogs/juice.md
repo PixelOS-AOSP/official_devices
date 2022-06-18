@@ -1,3 +1,16 @@
+# 18-Jun-2022
+- Initial release with OSS based
+- Update blobs from miui_LIME_22.5.18_024e3361db_11.0
+- Switch to Pixel Power HAL
+- Import powerhint json from coral
+- Tune powerhint json for our device
+- Imported MIUI offline charging animation
+- Set max WFD resolution to 1080p
+- Sync idle/touch timer to raven
+- Sync durations props with redbull
+- Enable IORap app launch prefetching
+- and many more
+
 # 08-May-2022
 - Fixed PixelOS Recovery
 - Imported MIUI offline charging animation
