@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_miatoll-12.1-20220618-1552.zip",
+    "datetime": 1655567520,
+    "size": 1916264875,
+    "url": "URL_PLACEHOLDER",
+    "filehash": "8a884d87189a66fb5de13f04ea8dd50e",
+    "id": "8a884d87189a66fb5de13f04ea8dd50e",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "vega128",
+            "name": "Don Sanchez"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-stable-18-06-2022.4458923/"
+}
