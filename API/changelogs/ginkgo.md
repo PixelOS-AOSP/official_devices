@@ -1,3 +1,6 @@
+# 19-Jun-2022
+- Finetuned statusbar padding
+
 # 11-Jun-2022
 - Fixed some issues with biometrics
 - Dropped spoof for Recorder App
