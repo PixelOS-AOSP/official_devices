@@ -1,6 +1,7 @@
 # 17-June-2022
 - Applock is now stable (exposed in security settings)
 - Added support for per-app volume
+- Added an option to remove the screenshots and screenrecords limits for all applications
 - Fixed Media picker SystemUI crash
 - Fixed widgets crash on PixelLauncher
 - Fixed semi bold font on PixelLauncher
@@ -8,6 +9,7 @@
 - Added Data Switch QS Tile
 - Added delete action for screenshot and screenrecorder notifications
 - Fixed colors on DocumentsUI
+- Updated translations
 
 # 9-June-2022
 - Rebased source over PixelExperience

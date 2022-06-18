@@ -33,6 +33,7 @@
 - Optional separate Quick Settings tiles for WiFi and Mobile data
 - Allow disabling the ripple animation when unlocking
 - Per-app Volume (Multiple audio sources)
+- Allow removing the screenshots and screenrecords limits for all applications
 - Allow disabling combined signal icon
 - Status bar icon manager
 - Hiding the gesture navigation bar
