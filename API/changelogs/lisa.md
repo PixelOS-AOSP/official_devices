@@ -1,3 +1,10 @@
+# 18-Jun-2022
+- Introduced XiaomiParts
+- Fixed 5GHz hotspot
+- Fixed WiFi Display
+- Cleaned up audio properties
+- Misc. changes
+
 # 11-Jun-2022
 - Spoofed Netflix as Pixel 6 (fixes HDR playback)
 - Addressed alot of selinux denials
