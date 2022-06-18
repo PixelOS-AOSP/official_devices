@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_RMX2020-12.1-20220611-1718.zip",
-    "datetime": 1654967880,
-    "size": 1774370456,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220611-1718.zip",
-    "filehash": "51b3cfb3c99064a4d851bae902abad02",
-    "id": "51b3cfb3c99064a4d851bae902abad02",
+    "filename": "PixelOS_RMX2020-12.1-20220618-1021.zip",
+    "datetime": 1655547660,
+    "size": 1774696944,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220618-1021.zip",
+    "filehash": "9ef7f4df95ccd6d56a7b70d605d66c78",
+    "id": "9ef7f4df95ccd6d56a7b70d605d66c78",
     "maintainers": [
         {
             "main_maintainer": false,
