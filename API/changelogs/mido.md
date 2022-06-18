@@ -1,3 +1,8 @@
+# 18-June-2022
+- Synced with latest PixelOS source (Hotfix)
+- Upstreamed kernel to 4.9.319
+- Synced with latesy CAF tags as of 18 June 2022
+
 # 10-June-2022
 - Set permissions for KGSL sysfs node
 - Increase BootCompletedReceiver priority (Helps to restore parts changes as soon as device boots up)
