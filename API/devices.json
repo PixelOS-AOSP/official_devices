@@ -206,6 +206,15 @@
 	    "maintainer_name" : "Mia Ryujin",
 	    "frame" : null,
 	    "active" : true
-	}
+	},
+	{
+            "codename" : "miatoll",
+            "codename_alt" : "curtana/joyeuse/excalibur/gram",
+            "vendor" : "Xiaomi",
+            "model" : "Redmi Note 9S/Pro/Pro Max & Poco M2 Pro",
+            "maintainer_name" : "Don Sanchez",
+            "frame" : null,
+            "active" : true
+        }
     ]
 }
