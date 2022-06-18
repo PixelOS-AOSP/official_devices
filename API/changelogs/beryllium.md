@@ -1,3 +1,9 @@
+# 18-June-2022
+- Synced with latest PixelOS source
+- Added Hide Notch
+- Switch to skiaglthreaded renderthread backend
+- Move renderengine to threaded skia
+
 # 14-June-2022
 - Synced with latest PixelOS source
 - Updated SilverCore Kernel to latest version
