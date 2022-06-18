@@ -1,3 +1,7 @@
+# 18-Jun-2022
+- Fixed statusbar padding
+- Source upstream
+
 # 11-Jun-2022
 - Merged June Security Patch
 
