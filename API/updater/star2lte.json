@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_star2lte-12.1-20220619-0213.zip",
+    "datetime": 1655604780,
+    "size": 1504387421,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220619-0213.zip",
+    "filehash": "9baa2e5d903e92447495d74889c70b63",
+    "id": "9baa2e5d903e92447495d74889c70b63",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Seraphine3",
+            "name": "Mia Ryujin"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
