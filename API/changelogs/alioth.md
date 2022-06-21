@@ -1,3 +1,10 @@
+# 20-Jun-2022
+- Own LOS 19.1 trees
+- Update Immensity Kernel 4.0.0
+- Update vendor to MIUI 13.0.6
+- Update HALs to latest CAF/Codelinaro tags
+- Some other fixes
+
 # 09-May-2022
 - New rebased trees from PPUI as base
 - Change to Immensity Kernel 3.0.0
