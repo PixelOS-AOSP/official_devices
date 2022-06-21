@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_alioth-12.1-20220509-0858.zip",
-    "datetime": 1652086680,
-    "size": 1890676845,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.1-20220509-0858.zip",
-    "filehash": "ad8495343c93c171b6af519b8b0f61d6",
-    "id": "ad8495343c93c171b6af519b8b0f61d6",
+    "filename": "PixelOS_alioth-12.1-20220620-1636.zip",
+    "datetime": 1655742960,
+    "size": 1842710217,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.1-20220620-1636.zip",
+    "filehash": "a23627bc278172ba695a8cc364485656",
+    "id": "a23627bc278172ba695a8cc364485656",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -17,5 +17,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.vercel.app/",
     "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-alioth-aliothin-27-04-2022.4392649"
 }
