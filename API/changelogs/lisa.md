@@ -1,6 +1,6 @@
 # 23-Jun-2022
 - Shipped MIUICamera (everything works)
-- Added Hi-Fi sound presets to Mi sound enhancer
+- Added Hi-Fi and sound scenes to Mi sound enhancer
 - Sync gps changes with LA.UM.9.14.r1-19200.02-LAHAINA.QSSI13.0
 - Tonnes of misc. changes
 
