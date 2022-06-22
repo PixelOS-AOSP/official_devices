@@ -1,3 +1,9 @@
+# 23-Jun-2022
+- Shipped MIUICamera (everything works)
+- Added Hi-Fi sound presets to Mi sound enhancer
+- Sync gps changes with LA.UM.9.14.r1-19200.02-LAHAINA.QSSI13.0
+- Tonnes of misc. changes
+
 # 18-Jun-2022
 - Introduced XiaomiParts
 - Fixed 5GHz hotspot
