@@ -1,3 +1,13 @@
+# 22-June-2022
+ - Fixed media widgets crash on launcher
+ - Fixed media picker SystemUI crash
+ - Fixed bold font in Pixel Launcher
+ - Fixes with documentUI
+ - Added quick setting tile for data switching
+ - Added optional per app volume
+ - Applock improvements
+
+
 # 10-June-2022
  - June security patch
  - Updated azure kernel to latest version
