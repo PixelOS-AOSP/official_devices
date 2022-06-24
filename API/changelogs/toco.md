@@ -1,3 +1,8 @@
+#23-June-2022
+- Add missing status bar dimensions
+- Fix ANXCamera after updating blobs
+- Fix data decryption in TWRP
+
 # 21-June-2022
 - Address QCOM WFD denials
 - Disable zram writeback
