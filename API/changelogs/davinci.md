@@ -1,3 +1,10 @@
+# 26-June-2022
+- Switched to user builds
+- Updated blobs from miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM
+- Added Neural Networks and Snapdragon Computer Vision Engine stack
+- Updated VantomKernel
+- Other misc. changes and fixes
+
 # 18-Jun-2022
 - Fixed issues related to audio
 - Updated kernel
