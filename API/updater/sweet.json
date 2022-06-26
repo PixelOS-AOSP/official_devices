@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_sweet-12.1-20220609-1856.zip",
-    "datetime": 1652425440,
-    "size": 2075215419,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220609-1856.zip",
-    "filehash": "9efc7d1009d2b8553e127c0b1da2be22",
-    "id": "9efc7d1009d2b8553e127c0b1da2be22",
+    "filename": "PixelOS_sweet-12.1-20220626-1615.zip",
+    "datetime": 1656260100,
+    "size": 2079597506,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220626-1615.zip",
+    "filehash": "19dc0f6d6365c47a9532b88675edfe39",
+    "id": "19dc0f6d6365c47a9532b88675edfe39",
     "maintainers": [
         {
             "main_maintainer": false,
