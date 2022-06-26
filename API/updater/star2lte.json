@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_star2lte-12.1-20220619-0213.zip",
-    "datetime": 1655604780,
-    "size": 1504387421,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220619-0213.zip",
-    "filehash": "9baa2e5d903e92447495d74889c70b63",
-    "id": "9baa2e5d903e92447495d74889c70b63",
+    "filename": "PixelOS_star2lte-12.1-20220625-1151.zip",
+    "datetime": 1656157860,
+    "size": 1532215635,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220625-1151.zip",
+    "filehash": "b2d1de92542d905bd6533528c233bc5e",
+    "id": "b2d1de92542d905bd6533528c233bc5e",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -17,5 +17,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.vercel.app/",
     "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-12l-oss-official-pixel-os-for-samsung-galaxy-s9-s9.4438215/#post-87043351/"
 }
