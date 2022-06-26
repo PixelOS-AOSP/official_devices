@@ -1,3 +1,19 @@
+# 26-June-2022
+- Switched to user builds
+- Updated blobs from miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM
+- Added support for JAPAN region (M2101K6R)
+- Added back thermal profiles
+- Added Neural Networks and Snapdragon Computer Vision Engine stack
+- Updated media configs
+- Change cache partition to f2fs
+- Fixed the always on display flicker
+- Fixed camera interface on ViLTE calls
+- Fixed a few issues with the microphone
+- Labeled more wakeup nodes
+- Switch SchedTune to UClamp
+- Updated VantomKernel
+- Other misc. changes and fixes
+
 # 09-June-2022
 - Updated blobs from MIUI V13.0.8.0.SKFMIXM
 - Update adreno from LA.UM.9.1.r1-11500.02-SMxxx0
