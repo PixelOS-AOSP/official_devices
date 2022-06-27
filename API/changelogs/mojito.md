@@ -1,3 +1,9 @@
+# 27-June-2022
+- Drop atrace HIDL service
+- Dynamic thermal profile implementation
+- Partially fix random reboot for few users
+- Other minor changes
+
 # 09-June-2022
 - Initial build with EROFS Formatting
 - Disable rotation in 4 directions
@@ -19,17 +25,17 @@
 - Prebuilt lib64/libcameraservice
 - Switch to GCamGOV2  
 - Kernel side fixes for delayed fingerprint unlock
-- Adjusted dimens: Screenshot chip doesn't get cut off thanks to @nayan942
+- Adjusted dimens: Screenshot chip doesn't get cut off (thanks to t.me/nayan942 )
 
 # 17-Jan-2022
-- Kernel: Switch back to zsmalloc as default zpool storage compressor, Fixes apps force closing due to RAM issues. Thanks to @NextZen86 for pointing it out 
+- Kernel: Switch back to zsmalloc as default zpool storage compressor, Fixes apps force closing due to RAM issues. (thanks to t.me/NTJSM44)  for pointing it out 
 - [Source] Gestures: Add and enable Quick-Tap
 
 # 15-Jan-2022
 - Pulled WiFi Configs from stock
 - Fixed an issue where it's laggy due to RAM Issues
 - Removed zram and fully replaced with vbswap
-- Kernel: Stop spoofing vbswap as zram (thanks to @cyberknight777)
+- Kernel: Stop spoofing vbswap as zram (thanks to t.me/cyberknight777)
 - Kernel: linked with lld 13.0.0
 - Vibrator: Reverted changes
 - Partition: Reverted back to proper GApps partition sizes
