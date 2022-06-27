@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_mojito-12.1-20220624-0801.zip",
-    "datetime": 1656057660,
-    "size": 1955251823,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220624-0801.zip",
-    "filehash": "739cc881c1c3530fd84635c2a163c467",
-    "id": "739cc881c1c3530fd84635c2a163c467",
+    "filename": "PixelOS_mojito-12.1-20220626-1501.zip",
+    "datetime": 1656255660,
+    "size": 1942490465,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220626-1501.zip",
+    "filehash": "5d09722103e0a39cdc9852107070bacc",
+    "id": "5d09722103e0a39cdc9852107070bacc",
     "maintainers": [
         {
             "main_maintainer": false,
