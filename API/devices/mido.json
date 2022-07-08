@@ -1,10 +1,10 @@
 {
-   "maintainer":[
-       {
-         "display_name": "Alone0316",
-         "telegram": "https://t.me/Alone0316",
-         "github": "https://github.com/Alone0316"
-       }
+  "maintainer": [
+    {
+      "display_name": "Alone0316",
+      "telegram": "https://t.me/Alone0316",
+      "github": "https://github.com/Alone0316"
+    }
   ],
   "updater": true,
   "beta": false,

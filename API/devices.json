@@ -1,220 +1,220 @@
 {
-    "devices" : [
+    "devices": [
         {
-            "codename" :"mido",
-            "codename_alt" : "mido",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 4",
-            "maintainer_name" : "Silent Killer",
-            "frame" : null,
-            "active" : true
+            "codename": "mido",
+            "codename_alt": "mido",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 4",
+            "maintainer_name": "Silent Killer",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"violet",
-            "codename_alt" : "violet",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 7 Pro",
-            "maintainer_name" : "Regulus",
-            "frame" : null,
-            "active" : true
+            "codename": "violet",
+            "codename_alt": "violet",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 7 Pro",
+            "maintainer_name": "Regulus",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"ginkgo",
-            "codename_alt" : "ginkgo/willow",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 8/8T",
-            "maintainer_name" : "Jasutin and Karan",
-            "frame" : null,
-            "active" : true
+            "codename": "ginkgo",
+            "codename_alt": "ginkgo/willow",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 8/8T",
+            "maintainer_name": "Jasutin and Karan",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"gauguin",
-            "codename_alt" : "gauguin",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite",
-            "maintainer_name" : "Hridaya",
-            "frame" : null,
-            "active" : true
+            "codename": "gauguin",
+            "codename_alt": "gauguin",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite",
+            "maintainer_name": "Hridaya",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"mojito",
-            "codename_alt" : "mojito/sunny",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 10",
-            "maintainer_name" : "Sarthak Roy and Ashwin DS",
-            "frame" : null,
-            "active" : true
+            "codename": "mojito",
+            "codename_alt": "mojito/sunny",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10",
+            "maintainer_name": "Sarthak Roy and Ashwin DS",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"sweet",
-            "codename_alt" : "sweet/sweetin",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 10 Pro/Max",
-            "maintainer_name" : "Aryan",
-            "frame" : null,
-            "active" : true
+            "codename": "sweet",
+            "codename_alt": "sweet/sweetin",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10 Pro/Max",
+            "maintainer_name": "Aryan",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"juice",
-            "codename_alt" : "lime/pomelo/lemon/citrus",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi 9T, Redmi Note 9 4G, Redmi 9 Power, Poco M3",
-            "maintainer_name" : "RayapKun",
-            "frame" : null,
-            "active" : true
+            "codename": "juice",
+            "codename_alt": "lime/pomelo/lemon/citrus",
+            "vendor": "Xiaomi",
+            "model": "Redmi 9T, Redmi Note 9 4G, Redmi 9 Power, Poco M3",
+            "maintainer_name": "RayapKun",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"davinci",
-            "codename_alt" : "davinci/davinciin",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi K20/Mi 9T",
-            "maintainer_name" : "Vansh",
-            "frame" : null,
-            "active" : true
+            "codename": "davinci",
+            "codename_alt": "davinci/davinciin",
+            "vendor": "Xiaomi",
+            "model": "Redmi K20/Mi 9T",
+            "maintainer_name": "Vansh",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"beryllium",
-            "codename_alt" : "beryllium",
-            "vendor" : "Xiaomi",
-            "model" : "Pocophone F1",
-            "maintainer_name" : "PaperBoy",
-            "frame" : null,
-            "active" : true
+            "codename": "beryllium",
+            "codename_alt": "beryllium",
+            "vendor": "Xiaomi",
+            "model": "Pocophone F1",
+            "maintainer_name": "PaperBoy",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"vayu",
-            "codename_alt" : "vayu/bhima",
-            "vendor" : "Xiaomi",
-            "model" : "POCO X3 Pro",
-            "maintainer_name" : "PixelOS-CI",
-            "frame" : null,
-            "active" : true
+            "codename": "vayu",
+            "codename_alt": "vayu/bhima",
+            "vendor": "Xiaomi",
+            "model": "POCO X3 Pro",
+            "maintainer_name": "PixelOS-CI",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"alioth",
-            "codename_alt" : "alioth/aliothin",
-            "vendor" : "Xiaomi",
-            "model" : "Poco F3/Mi 11X/Redmi K40",
-            "maintainer_name" : "cristian",
-            "frame" : null,
-            "active" : true
+            "codename": "alioth",
+            "codename_alt": "alioth/aliothin",
+            "vendor": "Xiaomi",
+            "model": "Poco F3/Mi 11X/Redmi K40",
+            "maintainer_name": "cristian",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"lisa",
-            "codename_alt" : "lisa",
-            "vendor" : "Xiaomi",
-            "model" : "Xiaomi 11 Lite 5G NE",
-            "maintainer_name" : "Sugakesshaa and Karan",
-            "frame" : null,
-            "active" : true
+            "codename": "lisa",
+            "codename_alt": "lisa",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 11 Lite 5G NE",
+            "maintainer_name": "Sugakesshaa and Karan",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"RMX1941",
-            "codename_alt" : "RMX1941",
-            "vendor" : "Realme",
-            "model" : "Realme C2",
-            "maintainer_name" : "Anoosragh",
-            "frame" : null,
-            "active" : false
+            "codename": "RMX1941",
+            "codename_alt": "RMX1941",
+            "vendor": "Realme",
+            "model": "Realme C2",
+            "maintainer_name": "Anoosragh",
+            "frame": null,
+            "active": false
         },
         {
-            "codename" :"RMX2020",
-            "codename_alt" : "RMX2020",
-            "vendor" : "Realme",
-            "model" : "Realme Monet",
-            "maintainer_name" : "sarthakroy2002",
-            "frame" : null,
-            "active" : true
+            "codename": "RMX2020",
+            "codename_alt": "RMX2020",
+            "vendor": "Realme",
+            "model": "Realme Monet",
+            "maintainer_name": "sarthakroy2002",
+            "frame": null,
+            "active": true
         },
         {
-            "codename" :"G",
-            "codename_alt" : "G",
-            "vendor" : "10or",
-            "model" : "10or G",
-            "maintainer_name" : "kardebayan",
-            "frame" : null,
-            "active" : false
+            "codename": "G",
+            "codename_alt": "G",
+            "vendor": "10or",
+            "model": "10or G",
+            "maintainer_name": "kardebayan",
+            "frame": null,
+            "active": false
         },
-	{
-	    "codename" : "hotdog",
-	    "codename_alt" : "OnePlus7TPro",
-	    "vendor" : "OnePlus",
-	    "model" : "OnePlus 7T Pro",
-	    "maintainer_name" : "cyberknight777",
-	    "frame" : null,
-	    "active" : true
-	},
-	{
-	    "codename" : "hotdogg",
-	    "codename_alt" : "OnePlus7TProNR",
-	    "vendor" : "OnePlus",
-	    "model" : "OnePlus 7T Pro 5G McLaren Edition",
-	    "maintainer_name" : "cyberknight777",
-	    "frame" : null,
-	    "active" : true
-	},
-	{
-	    "codename" : "toco",
-	    "codename_alt" : "toco",
-	    "vendor" : "Xiaomi",
-	    "model" : "Xiaomi Mi Note 10 Lite",
-	    "maintainer_name" : "Dennis Murimi",
-	    "frame" : null,
-	    "active" : true
-	},
-	{
-	    "codename" : "courbet",
-	    "codename_alt" : "courbet/courbetin",
-	    "vendor" : "Xiaomi",
-	    "model" : "Xiaomi 11 Lite 4G",
-	    "maintainer_name" : "Yusuf",
-	    "frame" : null,
-	    "active" : true
-	},
-	{
-	    "codename" : "r5x",
-	    "codename_alt" : "r5x",
-	    "vendor" : "Realme",
-	    "model" : "Realme 5 Series",
-	    "maintainer_name" : "Sugakesshaa",
-	    "frame" : null,
-	    "active" : true
-	},
         {
-            "codename" : "starlte",
-	    "codename_alt" : "starlte",
-	    "vendor" : "Samsung",
-	    "model" : "Samsung Galaxy S9",
-	    "maintainer_name" : "Mia Ryujin",
-	    "frame" : null,
-	    "active" : true
+            "codename": "hotdog",
+            "codename_alt": "OnePlus7TPro",
+            "vendor": "OnePlus",
+            "model": "OnePlus 7T Pro",
+            "maintainer_name": "cyberknight777",
+            "frame": null,
+            "active": true
         },
-	{
-	    "codename" : "star2lte",
-	    "codename_alt" : "star2lte",
-	    "vendor" : "Samsung",
-	    "model" : "Samsung Galaxy S9+",
-	    "maintainer_name" : "Mia Ryujin",
-	    "frame" : null,
-	    "active" : true
-	},
-	{	
-	    "codename" : "crownlte",
-	    "codename_alt" : "crownlte",
-	    "vendor" : "Samsung",
-	    "model" : "Samsung Galaxy Note 9",
-	    "maintainer_name" : "Mia Ryujin",
-	    "frame" : null,
-	    "active" : true
-	},
-	{
-            "codename" : "miatoll",
-            "codename_alt" : "curtana/joyeuse/excalibur/gram",
-            "vendor" : "Xiaomi",
-            "model" : "Redmi Note 9S/Pro/Pro Max & Poco M2 Pro",
-            "maintainer_name" : "Don Sanchez",
-            "frame" : null,
-            "active" : true
+        {
+            "codename": "hotdogg",
+            "codename_alt": "OnePlus7TProNR",
+            "vendor": "OnePlus",
+            "model": "OnePlus 7T Pro 5G McLaren Edition",
+            "maintainer_name": "cyberknight777",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "toco",
+            "codename_alt": "toco",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Mi Note 10 Lite",
+            "maintainer_name": "Dennis Murimi",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "courbet",
+            "codename_alt": "courbet/courbetin",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 11 Lite 4G",
+            "maintainer_name": "Yusuf",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "r5x",
+            "codename_alt": "r5x",
+            "vendor": "Realme",
+            "model": "Realme 5 Series",
+            "maintainer_name": "Sugakesshaa",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "starlte",
+            "codename_alt": "starlte",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy S9",
+            "maintainer_name": "Mia Ryujin",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "star2lte",
+            "codename_alt": "star2lte",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy S9+",
+            "maintainer_name": "Mia Ryujin",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "crownlte",
+            "codename_alt": "crownlte",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy Note 9",
+            "maintainer_name": "Mia Ryujin",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "miatoll",
+            "codename_alt": "curtana/joyeuse/excalibur/gram",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 9S/Pro/Pro Max & Poco M2 Pro",
+            "maintainer_name": "Don Sanchez",
+            "frame": null,
+            "active": true
         }
     ]
 }

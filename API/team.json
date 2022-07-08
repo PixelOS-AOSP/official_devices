@@ -1,7 +1,7 @@
 {
-    "team":[
+    "team": [
         {
-            "name" : "Karan Parashar",
+            "name": "Karan Parashar",
             "github": "whyredfire",
             "telegram": "whyredfire",
             "XDA": "https://forum.xda-developers.com/m/whyredfire.11124523/",
@@ -9,7 +9,7 @@
             "tagline": "No excuses!"
         },
         {
-            "name" : "Jasutin",
+            "name": "Jasutin",
             "github": "Kitsunejasutin",
             "telegram": "tokatsu",
             "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
@@ -17,7 +17,7 @@
             "tagline": "Nyahalo! Doktah here."
         },
         {
-            "name" : "Ashwin DS",
+            "name": "Ashwin DS",
             "github": "geek0609",
             "telegram": "dsashwin",
             "XDA": "https://forum.xda-developers.com/m/dsashwin.11355545/",
@@ -25,7 +25,7 @@
             "tagline": "I make stuff that barely work."
         },
         {
-            "name" : "Mohit Kumar",
+            "name": "Mohit Kumar",
             "github": "98mohitkumar",
             "telegram": "mohitkek",
             "XDA": null,
@@ -33,7 +33,7 @@
             "tagline": "Mohit here, I turn logic into pixels."
         },
         {
-            "name" : "Danish",
+            "name": "Danish",
             "github": "danyscape",
             "telegram": "ddvnish",
             "XDA": null,
@@ -41,7 +41,7 @@
             "tagline": "Dream is an illusion."
         },
         {
-            "name" : "Sasha McCleary",
+            "name": "Sasha McCleary",
             "github": "SashaMcC",
             "telegram": "helenius147",
             "XDA": null,
@@ -49,7 +49,7 @@
             "tagline": null
         },
         {
-            "name" : "Shivansh Agarwal",
+            "name": "Shivansh Agarwal",
             "github": "twel12",
             "telegram": "real_twel12",
             "XDA": "https://forum.xda-developers.com/m/twel12.11012701/",
@@ -57,7 +57,7 @@
             "tagline": "I don't know how it works but it just works."
         },
         {
-            "name" : "Yusuf",
+            "name": "Yusuf",
             "github": "noonlord",
             "telegram": "Real_Noonlord",
             "XDA": null,
@@ -65,7 +65,7 @@
             "tagline": null
         },
         {
-            "name" : "Adarsh Grewal",
+            "name": "Adarsh Grewal",
             "github": "adarshgrewal",
             "telegram": "grewal",
             "XDA": null,
@@ -73,7 +73,7 @@
             "tagline": null
         },
         {
-            "name" : "Vladislav",
+            "name": "Vladislav",
             "github": "maade69",
             "telegram": "maade69",
             "XDA": null,
@@ -81,7 +81,7 @@
             "tagline": null
         },
         {
-            "name" : "Alone0316",
+            "name": "Alone0316",
             "github": "Alone0316",
             "telegram": "Alone0316",
             "XDA": "https://forum.xda-developers.com/m/alone0316.11913735/",
@@ -89,7 +89,7 @@
             "tagline": null
         },
         {
-            "name" : "Chethas",
+            "name": "Chethas",
             "github": "chethazz",
             "telegram": "chethazz",
             "XDA": "https://forum.xda-developers.com/m/chethas.10059020/",
@@ -97,7 +97,7 @@
             "tagline": null
         },
         {
-            "name" : "Aryan",
+            "name": "Aryan",
             "github": "basamaryan",
             "telegram": "Aryan999",
             "XDA": null,
@@ -105,7 +105,7 @@
             "tagline": null
         },
         {
-            "name" : "Vansh",
+            "name": "Vansh",
             "github": "vansh123456",
             "telegram": "noobvansh",
             "XDA": null,
@@ -113,7 +113,7 @@
             "tagline": "Trying to do better everyday."
         },
         {
-            "name" : "PaperBoy",
+            "name": "PaperBoy",
             "github": "sajidshahriar72543",
             "telegram": null,
             "XDA": "https://forum.xda-developers.com/m/sazidshahriar39.10042192/",
@@ -121,7 +121,7 @@
             "tagline": "Let PaperBoy's stories kept untold."
         },
         {
-            "name" : "cristian",
+            "name": "cristian",
             "github": "cristianvaz",
             "telegram": "cristianvaz",
             "XDA": "https://forum.xda-developers.com/m/cristianvaz.11729943/",
@@ -129,7 +129,7 @@
             "tagline": null
         },
         {
-            "name" : "Sugakesshaa",
+            "name": "Sugakesshaa",
             "github": "bheatleyyy",
             "telegram": "Megalodonzs",
             "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
@@ -137,7 +137,7 @@
             "tagline": null
         },
         {
-            "name" : "kawaaii",
+            "name": "kawaaii",
             "github": "kawaaii",
             "telegram": "kawaaaaai",
             "XDA": "https://forum.xda-developers.com/m/kawaaii.12021051//",
@@ -145,7 +145,7 @@
             "tagline": null
         },
         {
-            "name" : "sarthakroy2002",
+            "name": "sarthakroy2002",
             "github": "sarthakroy2002",
             "telegram": "sarthakroy2002",
             "XDA": "https://forum.xda-developers.com/m/sarthakroy2002.8126733/",
@@ -153,7 +153,7 @@
             "tagline": "Ain't I cool"
         },
         {
-            "name" : "kardebayan",
+            "name": "kardebayan",
             "github": "kardebayan",
             "telegram": "kardebayan",
             "XDA": "https://forum.xda-developers.com/m/kardebayan3.9878693/",
@@ -161,39 +161,39 @@
             "tagline": null
         },
         {
-            "name" : "RayapKun",
+            "name": "RayapKun",
             "github": "RayapKun",
             "telegram": "whyyraku",
             "XDA": "https://forum.xda-developers.com/m/rayapkun.12085931/",
             "role": "juice Maintainer",
             "tagline": "F2P Gang"
         },
-	{
-	    "name" : "cyberknight777",
-	    "github" : "cyberknight777",
-	    "telegram" : "cyberknight777",
-	    "XDA": "https://forum.xda-developers.com/m/cyberknight777.11696787/",
-	    "role" : "hotdog/hotdogg Maintainer",
-	    "tagline" : "You gotta do what you gotta do 乁(ツ)ㄏ"
+        {
+            "name": "cyberknight777",
+            "github": "cyberknight777",
+            "telegram": "cyberknight777",
+            "XDA": "https://forum.xda-developers.com/m/cyberknight777.11696787/",
+            "role": "hotdog/hotdogg Maintainer",
+            "tagline": "You gotta do what you gotta do 乁(ツ)ㄏ"
         },
         {
-            "name" : "Dennis Murimi",
+            "name": "Dennis Murimi",
             "github": "AndroidHQ254",
             "telegram": "DennisMurimiWachira",
             "XDA": "https://forum.xda-developers.com/m/androidhq254.5437788/",
             "role": "toco Maintainer",
             "tagline": "Flexing toco!"
         },
-	{
-	    "name" : "Mia Ryujin",
+        {
+            "name": "Mia Ryujin",
             "github": "Seraphine3",
             "telegram": "AISeraphine3_3",
             "XDA": "https://forum.xda-developers.com/m/seraphine3_3.12102213/",
             "role": "starlte,star2lte,crownlte Maintainer",
             "tagline": "Shine Above The Stars✨"
-	},
+        },
         {
-            "name" : "Ackerman",
+            "name": "Ackerman",
             "github": "syhhw",
             "telegram": "hastefrin",
             "XDA": null,
@@ -201,7 +201,7 @@
             "tagline": null
         },
         {
-            "name" : "Anoosragh",
+            "name": "Anoosragh",
             "github": "ok-ano0s",
             "telegram": "ok_aNo0s",
             "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
@@ -209,12 +209,12 @@
             "tagline": "How does that even work?"
         },
         {
-            "name" : "Don Sanchez",
+            "name": "Don Sanchez",
             "github": "vega128",
             "telegram": "vegasixfour",
             "XDA": "https://forum.xda-developers.com/m/vega64.8089627/",
             "role": "miatoll Maintainer",
             "tagline": "Praise the Sun!"
-	}
+        }
     ]
 }

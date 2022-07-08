@@ -1,10 +1,10 @@
 {
-   "maintainer":[
-       {
-         "display_name": "Hridaya",
-         "telegram": "https://t.me/kawaaaaai",
-         "github": "https://github.com/kawaaii"
-       }
+  "maintainer": [
+    {
+      "display_name": "Hridaya",
+      "telegram": "https://t.me/kawaaaaai",
+      "github": "https://github.com/kawaaii"
+    }
   ],
   "updater": true,
   "beta": false,
