@@ -1,3 +1,8 @@
+# 08-July-2022
+- Updated SilverCore Kernel to latest version
+- Added Clear Speaker support
+- Fixed screen record stutter sometimes
+
 # 18-June-2022
 - Synced with latest PixelOS source
 - Added Hide Notch
