@@ -1,4 +1,15 @@
-# 17-June-2022
+# 8-Jul-2022
+- Merged July Security Patch (android-12.1.0_r11)
+- Fixed issues with HDFC banking apps detecting root access
+- Extended Applock support to various system apps
+- Added optional Daily data usage in expanded quicksettings
+- Updated per-app volume drawable to match other system elements 
+- Improvements in statusbar icon paddings
+- Added toggles for vibration icon and old style mobile data indicators in Icon manager
+- Made battery & clock clickable again in quick statusbar header
+- Updated translations (thanks to everyone who contributed).
+
+# 17-Jun-2022
 - Applock is now stable (exposed in security settings)
 - Added support for per-app volume
 - Added an option to remove the screenshots and screenrecords limits for all applications
@@ -11,7 +22,7 @@
 - Fixed colors on DocumentsUI
 - Updated translations
 
-# 9-June-2022
+# 9-Jun-2022
 - Rebased source over PixelExperience
 - Added Network Traffic Indicator
 - Added App Lock (beta)

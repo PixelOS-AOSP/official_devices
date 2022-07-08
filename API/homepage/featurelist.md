@@ -43,6 +43,7 @@
 - Optional inverted layout for 3-button navigation
 - Per-app Internet and Sensor permissions
 - Network traffic indicator
+- Optional data usage summary in expanded quick settings
 - App lock
 - Three-fingers-swipe to screenshot
 - Double-tap/long-press power button to toggle torch
