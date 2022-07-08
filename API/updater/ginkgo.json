@@ -1,12 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_ginkgo-12.1-20220618-0548.zip",
-    "datetime": 1655531280,
-    "size": 1711490970,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220618-0548.zip",
-    "filehash": "381e94fcdf3bca65b22598fa08feb6fc",
-    "id": "381e94fcdf3bca65b22598fa08feb6fc",
+    "filename": "PixelOS_ginkgo-12.1-20220708-0913.zip",
+    "datetime": 1657271580,
+    "size": 1736769251,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220708-0913.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-08/PixelOS_ginkgo-12.1-20220708-0913.zip",
+    "filehash": "cc9eca1ddc3e76a3bd78bfdd756f3ce3",
+    "id": "cc9eca1ddc3e76a3bd78bfdd756f3ce3",
     "maintainers": [
         {
             "main_maintainer": false,
