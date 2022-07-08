@@ -4,6 +4,11 @@
             "display_name": "Ashwin DS",
             "telegram": "https://t.me/dsashwin",
             "github": "https://github.com/geek0609"
+        },
+        {
+            "display_name": "Sarthak Roy",
+            "telegram": "https://t.me/sarthakroy2002",
+            "github": "https://github.com/sarthakroy2002"
         }
     ],
     "updater": true,
