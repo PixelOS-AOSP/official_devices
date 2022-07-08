@@ -1,3 +1,7 @@
+# 8-Jul-2022
+- Switched to vulkan UI renderer
+- Switch back to stock adreno stack (WAIPIO adreno stack caused some games to crash)
+
 # 19-Jun-2022
 - Finetuned statusbar padding
 
