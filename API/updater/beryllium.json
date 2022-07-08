@@ -1,12 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_beryllium-12.1-20220618-1154.zip",
-    "datetime": 1655553240,
-    "size": 1741612255,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220618-1154.zip",
-    "filehash": "2341d97fa12a134834c87c9a30982d13",
-    "id": "2341d97fa12a134834c87c9a30982d13",
+    "filename": "PixelOS_beryllium-12.1-20220708-1614.zip",
+    "datetime": 1657296840,
+    "size": 1766563599,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220708-1614.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-08/PixelOS_beryllium-12.1-20220708-1614.zip",
+    "filehash": "82a0f97e3873671e5b9d3b9f08e2bffe",
+    "id": "82a0f97e3873671e5b9d3b9f08e2bffe",
     "maintainers": [
         {
             "main_maintainer": false,
