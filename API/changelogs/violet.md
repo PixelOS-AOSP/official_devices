@@ -1,18 +1,7 @@
 # 08-July-2022
- - July security patch
  - Set ZRAM size to 50%
  - Increased systemimage partition size
  - Set max_comp_streams to 4 
-
-# 22-June-2022
- - Fixed media widgets crash on launcher
- - Fixed media picker SystemUI crash
- - Fixed bold font in Pixel Launcher
- - Fixes with documentUI
- - Added quick setting tile for data switching
- - Added optional per app volume
- - Applock improvements
-
 
 # 10-June-2022
  - June security patch
