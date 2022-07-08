@@ -1,20 +1,20 @@
 {
-  "maintainer": [
-    {
-      "display_name": "Alone0316",
-      "telegram": "https://t.me/Alone0316",
-      "github": "https://github.com/Alone0316"
-    }
-  ],
-  "updater": true,
-  "beta": false,
-  "version": "twelve",
-  "release": "monthly",
-  "device_display_name": "Redmi Note 4/4x",
-  "device_display_codename": "mido",
-  "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mido/",
-  "last_updated": "18 June 2022",
-  "private_download_tag": "mido_20220618_1216",
-  "active": true,
-  "xda": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-13-03-2022.4415063/"
+    "maintainer": [
+        {
+            "display_name": "Alone0316",
+            "telegram": "https://t.me/Alone0316",
+            "github": "https://github.com/Alone0316"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 4/4x",
+    "device_display_codename": "mido",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mido/",
+    "last_updated": "18 June 2022",
+    "private_download_tag": "mido_20220618_1216",
+    "active": true,
+    "xda": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-13-03-2022.4415063/"
 }
