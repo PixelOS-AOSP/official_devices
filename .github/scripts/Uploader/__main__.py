@@ -62,8 +62,11 @@ for tag in new_tags:
         if file.endswith(".zip"):
             ROM_ZIP_NAME = file
 
-    json = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER", "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
-    open(cur_dir + "/releases/" + file, "w+").write(json)
+    for file in os.listdir(cur_dir + "/releases/"):
+        if file.endswith(".json"):
+            device = file.replace(".json", "")
+            json = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER", "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
+            open(cur_dir + "/releases/" + file, "w+").write(json)
 
     if OTA:
         for file in os.listdir(cur_dir + "/releases/"):
