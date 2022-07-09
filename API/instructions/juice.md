@@ -1,4 +1,4 @@
-- YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the Previous build because switching to OSS)
+- YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the Previous build)
 
 # Clean Flash (from another rom/miui)
 - Wipe Data, Cache and dalvik

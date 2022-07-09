@@ -1,3 +1,18 @@
+# 09-Jul-2022
+- Add OpenGL ES and update Vulkan dEQP feature flags
+- Build display composer from source
+- Dropped libperfmgr
+- Fixed mi_thermald not triggered at some time
+- Flatten APEXs for performance
+- Improvement sepolicy
+- Improvement RAM management
+- Switch to schedutil governor
+- Update blobs from miui_LIMEPRE_22.6.22_b06e3696da_12.0
+- Update display stack from nio S1RN32.19
+- Update graphics stack from from LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0
+- Upstreamed kernel into latest
+- Use audio policy volumes from AOSP
+
 # 18-Jun-2022
 - Initial release with OSS based
 - Update blobs from miui_LIME_22.5.18_024e3361db_11.0
