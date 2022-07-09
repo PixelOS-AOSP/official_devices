@@ -1,3 +1,20 @@
+# 08-July-2022
+- Add telephony system-ext privapp permissions
+- Address elliptic denials
+- Allow platform app to find SoterService
+- Allow system_app to write thermal sysfs
+- Display icon beside thermal profiles
+- Drop QCOM wfd HDCP support
+- Fix fingerprint labels
+- Import lmkd props from google gki
+- Label fingerprint props as restricted vendor
+- Move deviceid props to vendor
+- parts: Don't explicitly set android:theme for activities
+- Remove unused hwservice label
+- Rename ANXCamera to MiuiCamera
+- Revoke system_server access to fingerprint prop
+- Ship VantomKernel v4.14.286
+
 # 23-June-2022
 - Add missing status bar dimensions
 - Fix ANXCamera after updating blobs
