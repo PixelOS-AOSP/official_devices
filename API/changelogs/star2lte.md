@@ -1,3 +1,6 @@
+# 10-July-2022
+- Use EGL Instead Skiagl
+
 # 25-June-2022
 - Adjusting status bar height (similar to stock oneui)
 - Switching to SkiaGL threaded
