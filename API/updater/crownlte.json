@@ -1,12 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_crownlte-12.1-20220625-1238.zip",
-    "datetime": 1656160680,
-    "size": 1532634747,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220625-1238.zip",
-    "filehash": "ded772bd7aa9b2e378fb7fffdd00ab8a",
-    "id": "ded772bd7aa9b2e378fb7fffdd00ab8a",
+    "filename": "PixelOS_crownlte-12.1-20220709-1246.zip",
+    "datetime": 1657370760,
+    "size": 1556725740,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220709-1246.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-10/PixelOS_crownlte-12.1-20220709-1246.zip",
+    "filehash": "0aea449d83f5e55708b3481fe58d7c0e",
+    "id": "0aea449d83f5e55708b3481fe58d7c0e",
     "maintainers": [
         {
             "main_maintainer": false,
