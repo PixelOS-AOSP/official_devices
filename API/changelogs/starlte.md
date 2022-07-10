@@ -1,4 +1,7 @@
-# 25-June-2022
+# 10-Jul-2022
+- Use EGL Instead Skiagl
+
+# 25-Jun-2022
 - Adjusting status bar height (similar to stock oneui)
 - Switching to SkiaGL threaded
 - Adding prebuilts GcamGO
@@ -7,5 +10,5 @@
 - Kernel is upstreamed to 4.9.319
 - Porting N770FXXU8GVE4 Changes
 
-# 19-June-2022
+# 19-Jun-2022
 - initial build release
