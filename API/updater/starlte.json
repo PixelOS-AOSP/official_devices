@@ -1,12 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_starlte-12.1-20220625-0956.zip",
-    "datetime": 1656150960,
-    "size": 1532058023,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220625-0956.zip",
-    "filehash": "78cf9df343290acb19c0dd4be8154014",
-    "id": "78cf9df343290acb19c0dd4be8154014",
+    "filename": "PixelOS_starlte-12.1-20220709-1151.zip",
+    "datetime": 1657367460,
+    "size": 1556125346,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220709-1151.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-11/PixelOS_starlte-12.1-20220709-1151.zip",
+    "filehash": "40dafadfd30a9ea18dc02958cd530cd7",
+    "id": "40dafadfd30a9ea18dc02958cd530cd7",
     "maintainers": [
         {
             "main_maintainer": false,
