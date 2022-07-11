@@ -18,8 +18,8 @@
     "device_display_name": "Xiaomi 11 Lite 5G NE",
     "device_display_codename": "lisa",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/",
-    "last_updated": "23 June 2022",
-    "private_download_tag": "lisa_20220622_1928",
+    "last_updated": "1 July 2022",
+    "private_download_tag": "lisa_20220711_1450",
     "active": true,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-23-01-2022.4392297/"

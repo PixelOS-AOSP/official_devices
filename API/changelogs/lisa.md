@@ -1,3 +1,10 @@
+# 11-Jul-2022
+- Added OTA asserts
+- Upgraded to Boot Control HAL to v1.2
+- Upgraded to boot header to v4
+- Fixed ViLTE calls
+- Misc optimizations and fixes
+
 # 23-Jun-2022
 - Shipped MIUICamera (everything works)
 - Added Hi-Fi and sound scenes to Mi sound enhancer
