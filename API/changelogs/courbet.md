@@ -1,3 +1,15 @@
+# 12-July-2022
+- Rebased on the latest xiaomi-sm6150 sources
+- Switched to QTI bluetooth
+- Added ANXCamera and fixed an issue where AI mode caused CPU to be stuck on maximum frequency
+- Fixed PixelOS recovery not being able to flash stuff like Magisk
+- Fixed a few issues with the microphone (R.I.P. Dolby)
+- Labeled new wake-up nodes
+- Fix-up more sepolicy
+- Upstreamed kernel to 4.14.287
+- Enabled Ultra Low Power State Mode on suspend
+- Other misc. changes and fixes
+
 # 26-June-2022
 - Switched to user builds
 - Updated courbet blobs from miui_COURBETGlobal_V13.0.8.0.SKQMIXM

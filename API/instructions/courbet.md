@@ -2,7 +2,7 @@
 This ROM comes with EROFS formatting, due to which:
 - Do NOT change kernel
 - System is Read-Only (restricts making changes to overlays, system APKs, etc. directly, however you can replace stuff with Magisk)
-- Avoid using any other recovery than PixelOS recovery for clean flashing so F2FS compression works
+- Avoid using any other recovery than PixelOS recovery (or the TWRP/OrangeFox build by Aryan and Vantom) for clean flashing so F2FS compression works
 - YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the May build)
 
 # Clean flash:
