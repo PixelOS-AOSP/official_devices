@@ -1,12 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_courbet-12.1-20220626-1408.zip",
-    "datetime": 1656252480,
-    "size": 2001202317,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220626-1408.zip",
-    "filehash": "f6f52a050f7597396345b046cd287bd9",
-    "id": "f6f52a050f7597396345b046cd287bd9",
+    "filename": "PixelOS_courbet-12.1-20220712-0639.zip",
+    "datetime": 1657607940,
+    "size": 2101540692,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220712-0639.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-12/PixelOS_courbet-12.1-20220712-0639.zip",
+    "filehash": "deaaf04c53659f8a4393e0424da6e904",
+    "id": "deaaf04c53659f8a4393e0424da6e904",
     "maintainers": [
         {
             "main_maintainer": false,
