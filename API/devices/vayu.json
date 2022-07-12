@@ -1,9 +1,9 @@
 {
     "maintainer": [
         {
-            "display_name": "PixelOS-CI",
-            "telegram": "https://t.me/PixelOSCI",
-            "github": "https://github.com/PixelOS-Pixelish/"
+            "display_name": "clhex",
+            "telegram": "https://t.me/hexcl",
+            "github": "https://github.com/clhexftw/"
         }
     ],
     "updater": true,
