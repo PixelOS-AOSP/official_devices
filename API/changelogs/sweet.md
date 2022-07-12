@@ -1,3 +1,16 @@
+# 12-July-2022
+- Rebased on the latest xiaomi-sm6150 sources
+- Switched to QTI bluetooth
+- Fixed deep sleep on always on display
+- Fixed an issue where AI mode caused CPU 6 to be stuck on maximum frequency
+- Fixed PixelOS recovery not being able to flash stuff like Magisk
+- Fixed a few issues with the microphone (R.I.P. Dolby)
+- Labeled new wake-up nodes
+- Some sepolicy fixes
+- Upstreamed kernel to 4.14.287
+- Enabled Ultra Low Power State Mode on suspend
+- Other misc. changes and fixes
+
 # 26-June-2022
 - Switched to user builds
 - Updated blobs from miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM
@@ -5,7 +18,6 @@
 - Added back thermal profiles
 - Added Neural Networks and Snapdragon Computer Vision Engine stack
 - Updated media configs
-- Change cache partition to f2fs
 - Fixed the always on display flicker
 - Fixed camera interface on ViLTE calls
 - Fixed a few issues with the microphone
