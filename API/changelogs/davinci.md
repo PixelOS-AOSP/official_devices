@@ -1,3 +1,11 @@
+# 13-July-2022
+- Rebased on the latest xiaomi-sm6150 sources
+- Switched to QTI bluetooth
+- Added Graphene Camera
+- Upstreamed kernel to 4.14.287
+- Enabled Ultra Low Power State Mode on suspend
+- Other misc. changes and fixes
+
 # 26-June-2022
 - Switched to user builds
 - Updated blobs from miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM
