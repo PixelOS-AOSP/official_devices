@@ -10,6 +10,13 @@
 - Choose format data/factory reset
 - Reboot and voila!
 
+# Clean Flash via TWRP:
+- Clean flash with @dereference 's TWRP specifically made for FBEv2-based roms
+- Flash ROM
+- Flash firmware/magisk (optional)
+- Format data
+- Reboot and voila!
+
 # Dirty Flash:
 - Download ROM zip via OTA Updater or directly from SF
 - Place zip in sdcard
