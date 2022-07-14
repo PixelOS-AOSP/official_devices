@@ -153,15 +153,15 @@ def post_maker(device_info, name):
               + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
                  "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://github.com/PixelOS-Releases/releases-public/releases/download/" +  str(datetime.date.today()) + "/" + ROM_NAME + "\">GitHub Releases</a>\n"
-    
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device_info["device_display_codename"].split("/")[0] + "/" + ROM_NAME + "\">Sourceforge</a>\n"
+
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
 
     if device_info["xda"] != None and device_info["xda"] != "":
         message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b> (FAQ)\n"
-    
-    message = message + "\n" # Leave a line unconditionally 
+
+    message = message + "\n" # Leave a line unconditionally
 
     if not device_info["updater"]:
         message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
