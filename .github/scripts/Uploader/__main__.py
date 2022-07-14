@@ -33,9 +33,9 @@ except Exception as e:
     OTA = False
 
 if OTA:
-    print ("Pushing OTA")
+    print("Pushing OTA")
 else:
-    print ("Not Pushing OTA")
+    print("Not Pushing OTA")
 
 cur_dir = os.getcwd()
 print(new_tags)
@@ -45,17 +45,21 @@ for tag in new_tags:
     recovery_path = ""
     for file in os.listdir(cur_dir + "/releases"):
         if file == "boot.img":
-            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/releases/boot-" + tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
+            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/releases/boot-" +
+                      tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
             break
         if file == "recovery.img":
-            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/releases/recovery-" + tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
+            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/releases/recovery-" +
+                      tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
             break
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
     os.system("gh release create " + str(datetime.date.today()))
-    os.system("gh release upload " + str(datetime.date.today()) + " " + cur_dir + "/releases/*.zip")
-    os.system("gh release upload " + str(datetime.date.today()) + " " + cur_dir + "/releases/*.img")
-    
+    os.system("gh release upload " + str(datetime.date.today()) +
+              " " + cur_dir + "/releases/*.zip")
+    os.system("gh release upload " + str(datetime.date.today()) +
+              " " + cur_dir + "/releases/*.img")
+
     ROM_ZIP_NAME = "none"
 
     for file in os.listdir(cur_dir + "/releases/"):
@@ -65,14 +69,16 @@ for tag in new_tags:
     for file in os.listdir(cur_dir + "/releases/"):
         if file.endswith(".json"):
             device = file.replace(".json", "")
-            json = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER", "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
+            json = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER",
+                                                                           "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
             open(cur_dir + "/releases/" + file, "w+").write(json)
 
     if OTA:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
-                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER", "https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device + "/" + ROM_ZIP_NAME)
+                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
+                                                                               "https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device + "/" + ROM_ZIP_NAME)
                 open(cur_dir + "/releases/" + file, "w+").write(json)
 
     else:
@@ -85,12 +91,16 @@ for tag in new_tags:
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
 
     try:
-        os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery")
-        os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir + "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
+        os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
+                  "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery")
+        os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
+                  "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
     except:
-        print ("Something went wrong")
+        print("Something went wrong")
     if OTA:
-        os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/" )
-    
+        os.system("cp " + cur_dir + "/releases/*.json " +
+                  cur_dir + "/API/updater/")
+
     print("Uploaded")
-    os.system("rm -rf " + cur_dir + "/releases/*.img " + cur_dir + "/releases/*.zip ")
+    os.system("rm -rf " + cur_dir + "/releases/*.img " +
+              cur_dir + "/releases/*.zip ")

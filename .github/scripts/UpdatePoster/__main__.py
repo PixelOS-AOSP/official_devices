@@ -28,23 +28,27 @@ from telegram import *
 from telegram.ext import *
 
 # Get Secrets from Workflow
-BOT_API = os.environ.get("BOT_API") # Telegram Bot API Token
-TOKEN = os.environ.get("TOKEN") # GitHub PAT (for accessing private repos and APIs)
-GITHUB_API_USER = "geek0609" # GitHub username of owner of the above token
-CHAT_ID = "-1001551285228" # ID of channel where it needs to post [Requires admin with enough permissions]
-banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png" # Direct link to banner
-json_dir = "./API/devices/" # Directory where it should look for JSONs
-timeout = 1 # Time out before sending consecutive messages
+BOT_API = os.environ.get("BOT_API")  # Telegram Bot API Token
+# GitHub PAT (for accessing private repos and APIs)
+TOKEN = os.environ.get("TOKEN")
+GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
+# ID of channel where it needs to post [Requires admin with enough permissions]
+CHAT_ID = "-1001551285228"
+# Direct link to banner
+banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png"
+json_dir = "./API/devices/"  # Directory where it should look for JSONs
+timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
 WEBSITE_DOWNLOAD = "https://pixelos.vercel.app/download/"
-FOOTER_TAGS = "#TeamPixel #PixelOS" # Tags which needs to appear at end of the post
+# Tags which needs to appear at end of the post
+FOOTER_TAGS = "#TeamPixel #PixelOS"
 
-UniqueID = "private_download_tag"   # UniqueID can be any parameter contained in the device.json file which is unique to one build which the 
-                                    # maintainer must change every update/build.
-                                    # So, to update, maintainer must eventually change that and when its changed, the program can compare the 
-                                    # older list to latest and find out what device is changed, so that is the device which got an update and 
-                                    # needs to be posted then now since we know what device got update, take its info from API, and use it to post
-
+# UniqueID can be any parameter contained in the device.json file which is unique to one build which the\
+# maintainer must change every update/build.
+# So, to update, maintainer must eventually change that and when its changed, the program can compare the
+# older list to latest and find out what device is changed, so that is the device which got an update and
+# needs to be posted then now since we know what device got update, take its info from API, and use it to post
+UniqueID = "private_download_tag"
 
 # Inititalize the bot
 bot = Bot(BOT_API)
@@ -68,11 +72,13 @@ def html_code(text):
 
 
 def send_message(message: str):
-    bot.send_message(chat_id=CHAT_ID, tex=message, disable_web_page_preview=True)
+    bot.send_message(chat_id=CHAT_ID, tex=message,
+                     disable_web_page_preview=True)
 
 
 def send_photo(message: str, picture):
-    bot.send_photo(chat_id=CHAT_ID, caption=message, photo=picture, parse_mode="html")
+    bot.send_photo(chat_id=CHAT_ID, caption=message,
+                   photo=picture, parse_mode="html")
 
 
 # returns list of new tags
@@ -80,7 +86,8 @@ def get_updated_tags():
     tags = []
     for file in os.listdir(json_dir):
         if file != "README.MD" and json.loads(open(json_dir + file, "r").read())[UniqueID] != "":
-            tags.append(json.loads(open(json_dir + file, "r").read())[UniqueID])
+            tags.append(json.loads(
+                open(json_dir + file, "r").read())[UniqueID])
     return tags
 
 
@@ -106,7 +113,8 @@ def get_updated_device():
 # To make the post
 def post_maker(device_info, name):
     message = "<b>PixelOS for " + device_info["device_display_name"] + " (" + \
-              device_info["device_display_codename"] + ")\n\nVersion:</b> " + device_info["version"]
+              device_info["device_display_codename"] + \
+        ")\n\nVersion:</b> " + device_info["version"]
 
     if device_info["beta"]:
         message = message + " beta\n"
@@ -123,13 +131,16 @@ def post_maker(device_info, name):
         elif loop != len(device_info["maintainer"]):
             message = message + ", "
 
-        message = message + "<a href=\"" + maintainer["telegram"] + "\">" + maintainer["display_name"] + "</a>"
+        message = message + "<a href=\"" + \
+            maintainer["telegram"] + "\">" + \
+            maintainer["display_name"] + "</a>"
 
         loop -= 1
 
     release_info = json.loads(requests.get(
-        "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" + device_info[UniqueID],
-        auth=(GITHUB_API_USER, TOKEN)).content) # information about the release, taken from Private Releases Repository
+        "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" +
+        device_info[UniqueID],
+        auth=(GITHUB_API_USER, TOKEN)).content)  # information about the release, taken from Private Releases Repository
 
     recovery_file_size = 0
     rom_file_size = 0
@@ -149,26 +160,29 @@ def post_maker(device_info, name):
             upload_date = asset["created_at"]
 
     message = message + "\n<b>Upload Date:</b> " + \
-              upload_date[0:10].split("-")[-1] + "-" \
-              + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
-                 "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
+        upload_date[0:10].split("-")[-1] + "-" \
+        + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
+           "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device_info["device_display_codename"].split("/")[0] + "/" + ROM_NAME + "\">Sourceforge</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://sourceforge.net/projects/pixelos-releases/files/twelve/" + \
+        device_info["device_display_codename"].split(
+            "/")[0] + "/" + ROM_NAME + "\">Sourceforge</a>\n"
 
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
 
     if device_info["xda"] != None and device_info["xda"] != "":
-        message = message + "<b><a href=\"" + device_info["xda"] + "\">XDA Thread</a></b> (FAQ)\n"
+        message = message + "<b><a href=\"" + \
+            device_info["xda"] + "\">XDA Thread</a></b> (FAQ)\n"
 
-    message = message + "\n" # Leave a line unconditionally
+    message = message + "\n"  # Leave a line unconditionally
 
     if not device_info["updater"]:
         message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
     else:
         open("no_ota.txt", "w+").write("no")
 
-    for codename in  device_info["device_display_codename"].split("/"):
+    for codename in device_info["device_display_codename"].split("/"):
         message = message + "#" + codename + " "
 
     if device_info["beta"]:
