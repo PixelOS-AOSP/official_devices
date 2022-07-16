@@ -1,3 +1,13 @@
+# 16-July-2022
+- Switch to libperfmgr
+- Import Powerhint.json from coral
+- Switch to QTI BT Stack
+- Set TARGET_ARCH_VARIANT to armv8-2a-dotprod
+- Dont pin launcher app in memory
+- parts: Introduce haptic feedback level adjustments
+- Switch to mochi kernel 
+- Misc fixes and improvement
+
 # 18-Jun-2022
 - Fixed statusbar padding
 - Source upstream
