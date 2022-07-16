@@ -1,7 +1,7 @@
 # 27-June-2022
 - Drop atrace HIDL service
 - Dynamic thermal profile implementation
-- Partially fix random reboot for few users
+- ~~Partially fix random reboot for few users~~
 - Other minor changes
 
 # 09-June-2022
