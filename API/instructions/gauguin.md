@@ -1,5 +1,6 @@
 # Keep in mind...
 - YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the February build)
+- For F2FS Compression to work, you are required to clean flash the ROM with AOSP recovery
 
 # Clean flash:
 - Flash recovery (link is above)

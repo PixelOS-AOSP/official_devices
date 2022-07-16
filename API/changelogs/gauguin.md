@@ -1,3 +1,12 @@
+# 16-July-2022
+- Enabled F2FS Compression
+- Introduced Raise to Wake
+- Properly implement FUSE passthrough
+- Introduced Thermal Profiles
+- Refresh Rate QS Tile redirecting to it's own respective settings
+- Addressed sepolicy denials
+- Maybe fixed WeChat fingerprint issue
+
 # 18-June-2022
 - Synced with latest PixelOS source (Hotfix)
 - Add back MiSound Scenarios
