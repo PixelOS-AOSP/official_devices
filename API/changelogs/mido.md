@@ -1,5 +1,4 @@
 # 18-June-2022
-- Synced with latest PixelOS source (Hotfix)
 - Upstreamed kernel to 4.9.319
 - Synced with latesy CAF tags as of 18 June 2022
 

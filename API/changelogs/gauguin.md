@@ -8,7 +8,6 @@
 - Maybe fixed WeChat fingerprint issue
 
 # 18-June-2022
-- Synced with latest PixelOS source (Hotfix)
 - Add back MiSound Scenarios
 - Drop atrace HIDL
 
