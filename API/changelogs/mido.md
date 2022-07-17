@@ -1,3 +1,9 @@
+# 17-July-2022
+- IMS: Add whitelisted broadcast
+- Update gps config from LA.UM.10.6.2.r1-02200-89xx.0
+- Update Display HAL from LA.UM.10.6.2.r1-01900-89xx.0
+- Upstream kernel from LA.UM.10.6.2.r1-02200-89xx.0
+
 # 18-June-2022
 - Upstreamed kernel to 4.9.319
 - Synced with latesy CAF tags as of 18 June 2022
