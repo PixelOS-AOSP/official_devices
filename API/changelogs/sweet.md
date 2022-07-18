@@ -1,19 +1,3 @@
-# 18-July-2022
-- Always on Display and Ambient Display will now run at 60hz
-- Fixed an issue with the microphone being too quiet in some apps
-- Fixed an issue where the google recorder didn't want to work for some users
-- Import new display calibration file from MIUI V13.0.10.0.SKFEUXM
-- Update the s5kgw3 camera libraries from MIUI V13.0.5.0.SKFINXM
-- Imported a few missing display blobs 
-- Address Xiaomi's displayfeature & citsensorservice denials
-- Enable 24-bit audio for primary output and deep buffer
-- Added high touch polling rate
-- Updated the adreno stack
-- Possibly fixed some issues with smp2p-sleepstate
-- Disabled CFI due to causing issues regarding performance 
-- Upstreamed kernel to 4.14.288
-- Other improvements and changes
-
 # 12-July-2022
 - Rebased on the latest xiaomi-sm6150 sources
 - Switched to QTI bluetooth
