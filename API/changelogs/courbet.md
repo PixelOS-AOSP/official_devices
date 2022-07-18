@@ -1,3 +1,14 @@
+# 18-July-2022
+- Always on Display and Ambient Display will now run at 60hz
+- Fixed an issue with the microphone being too quiet in some apps
+- Fixed an issue where the google recorder didn't want to work for some users
+- Enable 24-bit audio for primary output and deep buffer
+- Disabled IORAP
+- Possibly fixed some issues with smp2p-sleepstate
+- Disabled CFI due to causing issues regarding performance 
+- Upstreamed kernel to 4.14.288
+- Other improvements and changes
+
 # 12-July-2022
 - Rebased on the latest xiaomi-sm6150 sources
 - Switched to QTI bluetooth
