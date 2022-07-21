@@ -1,3 +1,10 @@
+# 21-Jul-2022
+- fix Random Reboots due to EROFS [KERNEL]
+- update vendor blobs from V13.0.9.0SKGMIXM 
+- fixup Permissions of sconfig
+- misc changes
+- fixup kprofiles
+
 # 27-June-2022
 - Drop atrace HIDL service
 - Dynamic thermal profile implementation
