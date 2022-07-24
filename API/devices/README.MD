@@ -40,7 +40,7 @@ devices.
 
 ```telegram```: Link to maintainers Telegram Profile
 
-```github```: Github username of the maintainer
+```github```: Link to Github profile of the maintainer
 
 The above 3 can be different for each maintainer. 
 

@@ -12,7 +12,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy S9+",
     "device_display_codename": "star2lte",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/",
     "last_updated": "10 July 2022",
     "private_download_tag": "star2lte_20220709_1614",
     "active": true,
