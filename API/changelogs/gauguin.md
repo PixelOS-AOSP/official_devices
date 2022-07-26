@@ -1,3 +1,6 @@
+# 26-Jul-2022
+- Drop KProfiles
+
 # 16-July-2022
 - Enabled F2FS Compression
 - Introduced Raise to Wake
