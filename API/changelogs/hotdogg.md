@@ -1,0 +1,26 @@
+# 29-July-2022
+
+- Initial Android 12 release.
+- Bringup new tree from YAAP hotdog.
+- Working 5G/NR.
+- Working WiFi.
+- June vendor SPL.
+- EROFS is used for /system, /system_ext, /product, /odm and /vendor.
+- F2FS for /userdata in conjunction with F2FS Compression which uses LZ4 as its compression algorithm.
+- Updated relevant blobs from OOS 11.0.6.1.
+- Build OnePlus Gallery.
+- Add Tri-state UI overlay for alert slider.
+- Add Screen-Off FOD overlay for screen-off FOD.
+- Adapt status bar height to QPR3.
+- Update graphics and adreno blobs from lahaina 19300.
+- Switch back to opengl.
+- Limit AOD & Ambient Display refresh rate to 60Hz.
+- Use vibration patterns from OOS11.
+- Limit AOD & Ambient Display refresh rate to 60Hz.
+- Build Graphene Camera.
+- Enable FUSE Passthrough.
+- Build KProfiles Frontend.
+- Nuke QTI WFD.
+- LZ4 compression for ramdisk.
+- Flatten Apex and use EROFS for it.
+- Build with DragonHeart Kernel, GCC 12.1.0 and linked with LLD 15.0.0.

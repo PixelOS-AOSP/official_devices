@@ -8,12 +8,13 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "monthly",
+    "version": "twelve",
+    "release": "monthly",
     "device_display_name": "OnePlus 7T Pro 5G McLaren Edition",
     "device_display_codename": "hotdogg",
-    "public_download": "",
-    "last_updated": "",
-    "private_download_tag": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/",
+    "last_updated": "29 July 2022",
+    "private_download_tag": "hotdogg_20220728_2335",
     "active": true,
-    "xda": null
+    "xda": https://forum.xda-developers.com/t/rom-12-1-oneplus-7t-pro-5g-mclaren-edition-official-pixelos-aosp-stable-29-07-2022.4474073/
 }
