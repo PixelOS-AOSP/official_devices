@@ -11,9 +11,9 @@
     "version": "monthly",
     "device_display_name": "OnePlus 7T Pro",
     "device_display_codename": "hotdog",
-    "public_download": "",
-    "last_updated": "",
-    "private_download_tag": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/",
+    "last_updated": "29 July 2022",
+    "private_download_tag": "hotdog_20220729_0023",
     "active": true,
-    "xda": null
+    "xda": "https://forum.xda-developers.com/t/rom-12-1-oneplus-7t-pro-official-pixelos-aosp-stable-29-07-2022.4474059/"
 }
