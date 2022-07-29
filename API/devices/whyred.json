@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "PaperBoy",
+            "telegram": "https://t.me/paperboy22",
+            "github": "https://github.com/sajidshahriar72543"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "Redmi Note 5 Pro/AI",
+    "device_display_codename": "whyred",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"
+}

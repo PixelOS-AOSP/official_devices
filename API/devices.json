@@ -215,6 +215,15 @@
             "maintainer_name": "Don Sanchez",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "whyred",
+            "codename_alt": "whyred",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 5 Pro/AI",
+            "maintainer_name": "PaperBoy",
+            "frame": null,
+            "active": true
         }
     ]
 }
