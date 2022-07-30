@@ -1,3 +1,13 @@
+# 30-Jul-2022
+- Update davinci blobs from MIUI V12.5.2.0.RFJCNXM
+- Fixed an issue where the microphone volume was too low in a few apps such as Instagram
+- Update the Adreno stack from LA.UM.9.14.r1-19300-LAHAINA.QSSI12.0
+- Add Neural Networks Stack
+- Updated the WiFi config
+- Update a few display properties
+- Fixed the Google recorder
+- Updated the kernel
+
 # 13-July-2022
 - Rebased on the latest xiaomi-sm6150 sources
 - Switched to QTI bluetooth
