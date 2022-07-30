@@ -39,7 +39,7 @@ banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/tw
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
-WEBSITE_DOWNLOAD = "https://pixelos.vercel.app/download/"
+WEBSITE_DOWNLOAD = "https://pixelos.net/download/"
 # Tags which needs to appear at end of the post
 FOOTER_TAGS = "#TeamPixel #PixelOS"
 

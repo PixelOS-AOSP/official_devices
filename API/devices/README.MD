@@ -1,7 +1,7 @@
 # PixelOS Official Devices API
 ## Purpose
 This folder contains information of official Devices in ```<codename>.json``` format. This will be helpful for things 
-like Automatic Updates Poster and our [website](https://pixelos.vercel.app/). New maintainers are required to create a pull request to this repository to add their 
+like Automatic Updates Poster and our [website](https://pixelos.net/). New maintainers are required to create a pull request to this repository to add their 
 devices. 
 ## Format 
 ```json
