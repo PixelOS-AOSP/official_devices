@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "",
+    "datetime": "",
+    "size": 1766563599,
+    "url": "",
+    "github_releases_url": "",
+    "filehash": "",
+    "id": "",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "baalgx",
+            "name": "balgxmr"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-cepheus-pixelos-20-07-2022.4458805/"
+}

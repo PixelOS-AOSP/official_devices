@@ -223,6 +223,14 @@
             "XDA": "https://forum.xda-developers.com/m/vega64.8089627/",
             "role": "miatoll Maintainer",
             "tagline": "Praise the Sun!"
+        },
+        {
+            "name" : "balgxmr",
+            "github": "baalgx",
+            "telegram": "balgxmr",
+            "XDA": "https://forum.xda-developers.com/m/balgxmr.9196567/",
+            "role": "cepheus Maintainer",
+            "tagline": "In the Milky Way"
         }
     ]
 }

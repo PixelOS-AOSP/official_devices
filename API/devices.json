@@ -224,6 +224,15 @@
             "maintainer_name": "PaperBoy",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "cepheus",
+            "codename_alt": "cepheus",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Mi 9",
+            "maintainer_name": "balgxmr",
+            "frame": null,
+            "active": true
         }
     ]
 }
