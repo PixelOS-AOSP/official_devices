@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "",
-    "datetime": "",
-    "size": 1766563599,
-    "url": "",
-    "github_releases_url": "",
-    "filehash": "",
-    "id": "",
+    "filename": "PixelOS_cepheus-12.1-20220803-0457.zip",
+    "datetime": 1659502620,
+    "size": 1838346652,
+    "url": "URL_PLACEHOLDER",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "8502a00c853fe8ea0ba0962eaae7e471",
+    "id": "8502a00c853fe8ea0ba0962eaae7e471",
     "maintainers": [
         {
             "main_maintainer": false,
