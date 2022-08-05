@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Ragy",
+            "telegram": "https://t.me/ragy366",
+            "github": "https://github.com/ragy365"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "twelve",
+    "release": "monthly",
+    "device_display_name": "POCO X3 NFC",
+    "device_display_codename": "surya",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://forum.xda-developers.com/t/rom-12-1-pixelos-surya-karna-stable-16-07-2022.4467219/"
+}

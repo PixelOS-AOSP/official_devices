@@ -231,6 +231,14 @@
             "XDA": "https://forum.xda-developers.com/m/balgxmr.9196567/",
             "role": "cepheus Maintainer",
             "tagline": "In the Milky Way"
+        },
+        {
+            "name" : "ragy",
+            "github": "ragy365",
+            "telegram": "ragy366",
+            "XDA": "https://forum.xda-developers.com/m/ragy747.9235713/",
+            "role": "surya Maintainer",
+            "tagline": "Tendo bansho"
         }
     ]
 }

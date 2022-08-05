@@ -233,6 +233,15 @@
             "maintainer_name": "balgxmr",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "surya",
+            "codename_alt": "karna",
+            "vendor": "POCO",
+            "model": "POCO X3 NFC",
+            "maintainer_name": "Ragy",
+            "frame": null,
+            "active": true
         }
     ]
 }
