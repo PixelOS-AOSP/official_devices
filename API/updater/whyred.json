@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_whyred-12.1-20220812-1527.zip",
+    "datetime": 1660318020,
+    "size": 1597018693,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/PixelOS_whyred-12.1-20220812-1527.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_whyred-12.1-20220812-1527.zip",
+    "filehash": "2e39fffc5cc93fd967771f2dc9d74481",
+    "id": "2e39fffc5cc93fd967771f2dc9d74481",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "sajidshahriar72543",
+            "name": "PaperBoy"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"
+}
