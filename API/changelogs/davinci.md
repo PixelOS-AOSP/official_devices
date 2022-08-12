@@ -1,3 +1,11 @@
+# 12-Aug-2022
+- Update blobs from sweet V13.0.12.0.SKFMIXM
+- Upstreamed kernel to 4.14.290
+- Merged CLO tag LA.UM.9.1.r1-12100.01-SMxxx0.QSSI13.0
+- Fixed some performance related issues 
+- Fixed a few freezes which occurred 
+- Various other misc. changes
+
 # 30-Jul-2022
 - Update davinci blobs from MIUI V12.5.2.0.RFJCNXM
 - Fixed an issue where the microphone volume was too low in a few apps such as Instagram
