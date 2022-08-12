@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_davinci-12.1-20220812-0222.zip",
-    "datetime": 1660270920,
-    "size": 1931176208,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220812-0222.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_davinci-12.1-20220812-0222.zip",
-    "filehash": "7bf514fe9b4b995a40a6075911344925",
-    "id": "7bf514fe9b4b995a40a6075911344925",
+    "filename": "PixelOS_davinci-12.1-20220812-1445.zip",
+    "datetime": 1660315500,
+    "size": 1931003659,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220812-1445.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_davinci-12.1-20220812-1445.zip",
+    "filehash": "0ba94f71a9cebc33a65a4fbf4037113d",
+    "id": "0ba94f71a9cebc33a65a4fbf4037113d",
     "maintainers": [
         {
             "main_maintainer": false,
