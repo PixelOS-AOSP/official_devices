@@ -1,3 +1,7 @@
+# 12-Aug-2022
+- Switched back to skiagl renderer (fixed artifacts in Instagram etc.)
+- Fixed expanded QS padding
+
 # 8-Jul-2022
 - Switched to vulkan UI renderer
 - Switch back to stock adreno stack (WAIPIO adreno stack caused some games to crash)
