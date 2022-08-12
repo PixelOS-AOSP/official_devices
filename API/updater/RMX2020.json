@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_RMX2020-12.1-20220708-1010.zip",
-    "datetime": 1657275000,
-    "size": 1799040836,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220708-1010.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-08/PixelOS_RMX2020-12.1-20220708-1010.zip",
-    "filehash": "1c11ed3ec33658b060c2828e851e9362",
-    "id": "1c11ed3ec33658b060c2828e851e9362",
+    "filename": "PixelOS_RMX2020-12.1-20220812-0656.zip",
+    "datetime": 1660287360,
+    "size": 1777768837,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220812-0656.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_RMX2020-12.1-20220812-0656.zip",
+    "filehash": "f4dfea4fed5481590b28a37d969be4f5",
+    "id": "f4dfea4fed5481590b28a37d969be4f5",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
+    "website_url": "https://pixelos.net/",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": ""
 }
