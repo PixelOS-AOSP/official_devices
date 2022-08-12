@@ -31,6 +31,8 @@
   - Live display
   - Data Switch
 - Optional separate Quick Settings tiles for WiFi and Mobile data
+- Quick unlock
+- Pin Scramble layout
 - Allow disabling the ripple animation when unlocking
 - Per-app Volume (Multiple audio sources)
 - Allow removing the screenshots and screenrecords limits for all applications

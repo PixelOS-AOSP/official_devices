@@ -1,3 +1,18 @@
+# 12-Aug-2022
+- Merged August Security Patch
+- Introduced Quick unlock
+- Added an option to scramble pin layout when unlocking
+- Added an option to hide power menu on secure lockscreen
+- Allow user configurable fingerprint wake and unlock
+- Fixed an issue where vibration intensity would reset on some devices
+- Fixed volume panel background color in light mode
+- Restored default Pixel font behavior
+- Enable strict standby policy
+- Rework screen off FOD
+- AppLock improvements
+- Updated translations
+- More miscellaneous changes and fixes
+
 # 8-Jul-2022
 - Merged July Security Patch (android-12.1.0_r11)
 - Fixed issues with HDFC banking apps detecting root access
