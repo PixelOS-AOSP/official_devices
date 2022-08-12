@@ -1,3 +1,9 @@
+# 12-Aug-2022
+- Updated kernel to latest linux tag
+- Removed top app boost
+- Dropped VulkanUI renderer support
+- Silenced FC spam on google TTS service
+
 # 08-July-2022
 - Updated SilverCore Kernel to latest version
 - Added Clear Speaker support
