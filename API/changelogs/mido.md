@@ -1,3 +1,18 @@
+# 12-Aug-2022
+- Disable ALAC support 
+- Use default allocstall threshold on k4.9 
+- Tune zram & swappinness 
+- Correct console config property 
+- Unset config_lockscreenAntiFalsingClassifierEnabled 
+- Re-enable rounded corners 
+- Dirac: cleanup & refactor code 
+- fix zygote preforking prop 
+- fix deprecated power profile items 
+- Added prop for smoother scrolling and better responsiveness 
+- Clear settings cache after dirty flash 
+- enable Multiuser Overlay 
+- Update OK Google from OnePlus 9 Pro
+
 # 17-July-2022
 - IMS: Add whitelisted broadcast
 - Update gps config from LA.UM.10.6.2.r1-02200-89xx.0
