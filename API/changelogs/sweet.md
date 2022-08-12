@@ -1,3 +1,16 @@
+# 12-Aug-2022
+- Update blobs from sweet V13.0.12.0.SKFMIXM
+- Fixed some RAM-related issues
+- Fixed an issue with the headphones volume controls not working with wired headsets
+- Fixed Fingerprint Wake-up Animation
+- Fixed an issue where the quick settings would lag for some people while pulling it down
+- Few changes regarding vibration
+- Upstreamed kernel to 4.14.290
+- Fixed an issue with the phone not being able to go to sleep due to smp2p_sleepstate
+- Fixed some freezes
+- Merged CLO tag LA.UM.9.1.r1-12100.01-SMxxx0.QSSI13.0
+- Various other misc. changes
+
 # 18-July-2022
 - Always on Display and Ambient Display will now run at 60hz
 - Fixed an issue with the microphone being too quiet in some apps
