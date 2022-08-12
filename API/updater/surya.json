@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_surya-12.1-20220812-0618.zip",
+    "datetime": 1660285080,
+    "size": 1972756285,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/PixelOS_surya-12.1-20220812-0618.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_surya-12.1-20220812-0618.zip",
+    "filehash": "9153060f264887723349111ac9124f0f",
+    "id": "9153060f264887723349111ac9124f0f",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "ragy365",
+            "name": "Ragy"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-pixelos-surya-karna-stable-16-07-2022.4467219/"
+}
