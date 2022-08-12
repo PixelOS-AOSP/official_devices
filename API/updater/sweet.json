@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_sweet-12.1-20220718-1358.zip",
-    "datetime": 1658152680,
-    "size": 2067391955,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220718-1358.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-18/PixelOS_sweet-12.1-20220718-1358.zip",
-    "filehash": "3c95c33464c64588b3aa80a41baa0834",
-    "id": "3c95c33464c64588b3aa80a41baa0834",
+    "filename": "PixelOS_sweet-12.1-20220812-0031.zip",
+    "datetime": 1660264260,
+    "size": 2089384958,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220812-0031.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_sweet-12.1-20220812-0031.zip",
+    "filehash": "ce4895f8a3cf2af7fd5b659986fea5ce",
+    "id": "ce4895f8a3cf2af7fd5b659986fea5ce",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
+    "website_url": "https://pixelos.net/",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-14-02-2022.4402719/"
 }
