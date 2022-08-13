@@ -3,10 +3,10 @@
 # Clean Flash (from another rom/miui)
 - Wipe Data, Cache and dalvik
 - Format data (if encrypted)
-- Flash Firmware 12.5.x (if from miui 12.0.x based)
+- Flash Firmware 12.5.x/13.0.x (if from miui 12.0.x based)
 - Flash Rom
 - Flash Magisk (if want root)
-- Flash DFE (if want decrypted)
+- Flash DFE (if want decrypted, not recommended)
 - Reboot system
 
 # Dirty Flash

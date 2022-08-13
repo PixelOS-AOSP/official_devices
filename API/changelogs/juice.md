@@ -1,3 +1,10 @@
+# 13-Aug-2022
+- Rebased Trees
+- Revert back into stock adreno stack
+- With F2FS Compression
+- Enabled FBEv2 Encryption
+
+
 # 09-Jul-2022
 - Add OpenGL ES and update Vulkan dEQP feature flags
 - Build display composer from source

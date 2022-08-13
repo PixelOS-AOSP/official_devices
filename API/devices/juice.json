@@ -2,8 +2,8 @@
     "maintainer": [
         {
             "display_name": "RayapKun",
-            "telegram": "https://t.me/whyyraku",
-            "github": "https://github.com/RayapKun"
+            "telegram": "https://t.me/rktdnt",
+            "github": "https://github.com/rktdnt"
         }
     ],
     "updater": true,
@@ -13,8 +13,8 @@
     "device_display_name": "Poco M3 / Redmi 9T",
     "device_display_codename": "juice",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/",
-    "last_updated": "9 July 2022",
-    "private_download_tag": "juice_20220708_1945",
+    "last_updated": "13 August 2022",
+    "private_download_tag": "juice_20220813_1404",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
 }
