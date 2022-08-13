@@ -91,7 +91,18 @@ for tag in new_tags:
                   cur_dir + "/API/updater/")
 
 
-    os.system("sudo bash " + cur_dir + "/.github/scripts/push.sh")
+    push_commands = [
+        "git config --global user.name \"PixelOS-Bot\"",
+        "git config --global user.email \"pixelos.pixelish@gmail.com\"",
+        "git fetch",
+        "git pull",
+        "git add .",
+        "git commit -m \"official_devices: update tags [no ci]\"",
+        "git push origin twelve",
+    ]
+
+    for command in push_commands:
+        os.system(command)
 
     os.system("sudo apt install sshpass")
     # os.system("mkdir ~/.ssh/")
