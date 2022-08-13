@@ -1,3 +1,12 @@
+# 13-Aug-2022
+- Enable Project ID Quota support on userdata (Kills SDcardFS at early init!) 
+- Drop ZRam support (NO custom kernel must be flashed!) 
+- Configure VBSwap in DT (Kills userland worker at early init!) 
+- Support F2FS compressions and garbage collector 
+- Configure LZ4 as F2FS Compression algorithm
+- Adjust statusbar height
+- Kernel State at r16b12
+
 # 21-Jul-2022
 - fix Random Reboots due to EROFS [KERNEL]
 - update vendor blobs from V13.0.9.0SKGMIXM 

@@ -5,7 +5,7 @@ This ROM comes with EROFS formatting, due to which:
 - Avoid using any other recovery than PixelOS recovery which is included (If you wish to use, check for EROFS compatibility)
 - YOU MUST CLEAN FLASH IF:
     - You are coming from any other ROM or MIUI
-    - You are coming from May 2022 Update or before
+    - You are coming from July 2022 Update or before
 
 # Clean Flash (coming from a different ROM)
 - Download ROM and Recovery to your computer
