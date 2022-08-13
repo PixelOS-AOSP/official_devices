@@ -86,6 +86,13 @@ for tag in new_tags:
             if file.endswith(".json"):
                 device = file.replace(".json", "")
 
+    if OTA:
+        os.system("cp " + cur_dir + "/releases/*.json " +
+                  cur_dir + "/API/updater/")
+
+
+    os.system("sudo bash " + cur_dir + "/.github/scripts/push.sh")
+
     os.system("sudo apt install sshpass")
     # os.system("mkdir ~/.ssh/")
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
@@ -97,10 +104,8 @@ for tag in new_tags:
                   "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
     except:
         print("Something went wrong")
-    if OTA:
-        os.system("cp " + cur_dir + "/releases/*.json " +
-                  cur_dir + "/API/updater/")
 
     print("Uploaded")
+
     os.system("rm -rf " + cur_dir + "/releases/*.img " +
               cur_dir + "/releases/*.zip ")
