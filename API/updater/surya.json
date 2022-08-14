@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_surya-12.1-20220812-0618.zip",
-    "datetime": 1660285080,
-    "size": 1972756285,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/PixelOS_surya-12.1-20220812-0618.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_surya-12.1-20220812-0618.zip",
-    "filehash": "9153060f264887723349111ac9124f0f",
-    "id": "9153060f264887723349111ac9124f0f",
+    "filename": "PixelOS_surya-12.1-20220814-1827.zip",
+    "datetime": 1660501620,
+    "size": 1883674535,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/PixelOS_surya-12.1-20220814-1827.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-14/PixelOS_surya-12.1-20220814-1827.zip",
+    "filehash": "b048ed86590b48529f487e887c0d7f0a",
+    "id": "b048ed86590b48529f487e887c0d7f0a",
     "maintainers": [
         {
             "main_maintainer": false,
