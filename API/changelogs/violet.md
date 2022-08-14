@@ -1,3 +1,14 @@
+# 14-Aug-2022
+- Updated blobs
+ - Fixed videoplack issues on many apps
+ - Added stereo config channel support to usb surround sound
+ - Fixed mic issues on apps like WhatsApp
+ - Added Bluetooth audio HAL for hearing aid
+ - Switch to SkiaGL
+ - Fixed cam interface on vilte calls
+ - Fixed raise to wake icon on dark mode
+ - Many under the hood changes
+
 # 08-July-2022
  - Set ZRAM size to 50%
  - Increased systemimage partition size
