@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_violet-12.1-20220708-1420.zip",
-    "datetime": 1657290000,
-    "size": 1797306449,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/PixelOS_violet-12.1-20220708-1420.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-08/PixelOS_violet-12.1-20220708-1420.zip",
-    "filehash": "5ba11e1e36559daa0a37c5e4595069ef",
-    "id": "5ba11e1e36559daa0a37c5e4595069ef",
+    "filename": "PixelOS_violet-12.1-20220814-0247.zip",
+    "datetime": 1660445220,
+    "size": 1774442640,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/PixelOS_violet-12.1-20220814-0247.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-14/PixelOS_violet-12.1-20220814-0247.zip",
+    "filehash": "d05487164ecc9b07b4a77b014ac5568a",
+    "id": "d05487164ecc9b07b4a77b014ac5568a",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
+    "website_url": "https://pixelos.net/",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": ""
 }
