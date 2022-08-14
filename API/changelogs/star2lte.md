@@ -1,3 +1,10 @@
+# 14-Aug-2022
+- Revert SkiaGL related stuff
+- Change kernel to タイタン
+- Increasing Zram to 40%
+- gpu: drm: Mark IRQ as performance critical 
+- Compile kernel with "(-02)" flag for the best performance while compiling
+
 # 10-July-2022
 - Use EGL Instead Skiagl
 
