@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_crownlte-12.1-20220709-1246.zip",
-    "datetime": 1657370760,
-    "size": 1556725740,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220709-1246.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-10/PixelOS_crownlte-12.1-20220709-1246.zip",
-    "filehash": "0aea449d83f5e55708b3481fe58d7c0e",
-    "id": "0aea449d83f5e55708b3481fe58d7c0e",
+    "filename": "PixelOS_crownlte-12.1-20220814-0918.zip",
+    "datetime": 1660468680,
+    "size": 1535927722,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220814-0918.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-14/PixelOS_crownlte-12.1-20220814-0918.zip",
+    "filehash": "f5e41d9d32db6d5aff3ec396efdcac4f",
+    "id": "f5e41d9d32db6d5aff3ec396efdcac4f",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
+    "website_url": "https://pixelos.net/",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": "https://forum.xda-developers.com/t/rom-12l-oss-official-pixel-os-for-samsung-galaxy-note-9.4446025/"
 }
