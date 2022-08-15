@@ -1,3 +1,15 @@
+# 15-Aug-2022
+- Commonize auto brightness configs.
+- Ignore CNE in location indicator.
+- Optimized auto brightness adjustment.
+- Import night display color temp calibration from coral.
+- Tweak msm_irqbalance.
+- Uprev to multi-hal sensor 2.1.
+- Configure vbswap instead of zram. (you can only stick with dragonheart).
+- Set is_inline to 1 to kill UserLand Worker in inline builds.
+- Set FP HAL thread to high CFS priority and use SCHED_RR for low latency.
+- Kernel state at r16b3 (changelog at: here).
+
 # 29-July-2022
 
 - Initial Android 12 release.
