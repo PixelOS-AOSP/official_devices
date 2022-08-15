@@ -1,3 +1,11 @@
+# 15-Aug-2022
+- Reverted back to boot header v3 (try your luck with custom recoveries)
+- Reverted most blobs to stock
+- Reverted back to aosp color profiles as earlier 
+- Nuked hi-fi as it doesn't work
+- Enabled back CAF input boost
+- Switched to QuickSilver Kernel
+
 # 12-Jul-2022
 - Fixed	lockscreen issues 
 - Fixed random app crashes
