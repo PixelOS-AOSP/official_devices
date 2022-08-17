@@ -1,3 +1,6 @@
+# 17-Aug-2022
+- Fix offline charging.
+
 # 15-Aug-2022
 - Commonize auto brightness configs.
 - Ignore CNE in location indicator.
