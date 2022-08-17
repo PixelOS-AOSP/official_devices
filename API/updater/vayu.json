@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_vayu-12.1-20220716-0840.zip",
-    "datetime": 1657960800,
-    "size": 1957590667,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/PixelOS_vayu-12.1-20220716-0840.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-16/PixelOS_vayu-12.1-20220716-0840.zip",
-    "filehash": "be66025819e636925a3690358a2f1d0d",
-    "id": "be66025819e636925a3690358a2f1d0d",
+    "filename": "PixelOS_vayu-12.1-20220817-1543.zip",
+    "datetime": 1660750980,
+    "size": 1957908761,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/PixelOS_vayu-12.1-20220817-1543.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-17/PixelOS_vayu-12.1-20220817-1543.zip",
+    "filehash": "12bca33bebab631f287c28a3529b9ccb",
+    "id": "12bca33bebab631f287c28a3529b9ccb",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
+    "website_url": "https://pixelos.net/",
     "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-stable-19-04-2022.4467493/"
 }
