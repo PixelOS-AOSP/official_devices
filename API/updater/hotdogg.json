@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_hotdogg-12.1-20220814-1104.zip",
-    "datetime": 1660475040,
-    "size": 1845128607,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220814-1104.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-15/PixelOS_hotdogg-12.1-20220814-1104.zip",
-    "filehash": "b333d2e9f4a39213c744ba8679023c5f",
-    "id": "b333d2e9f4a39213c744ba8679023c5f",
+    "filename": "PixelOS_hotdogg-12.1-20220817-1259.zip",
+    "datetime": 1660741140,
+    "size": 1845130111,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220817-1259.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-17/PixelOS_hotdogg-12.1-20220817-1259.zip",
+    "filehash": "e6c0de8cf55336464ce2ae3cf119ec38",
+    "id": "e6c0de8cf55336464ce2ae3cf119ec38",
     "maintainers": [
         {
             "main_maintainer": false,
