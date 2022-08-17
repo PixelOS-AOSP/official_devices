@@ -1,3 +1,11 @@
+# 17-Aug-2022
+vayu: init: Don't mount TraceFS twice
+vayu: powerhint: Decrease launch boost to 3sec
+vayu: rootdir: Override hwcomposer service
+vayu: rootdir: Remove camera daemon cpuset
+vayu: props: Relax the refresh rate switching
+Misc fixes and Improvements
+
 # 16-July-2022
 - Switch to libperfmgr
 - Import Powerhint.json from coral
