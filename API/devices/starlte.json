@@ -15,7 +15,7 @@
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/",
     "last_updated": "14 August 2022",
     "private_download_tag": "starlte_20220814_1026",
-    "active": true,
+    "active": false,
     "customRecoveryRequired": false,
     "xda": "https://forum.xda-developers.com/t/rom-12l-oss-official-pixel-os-for-samsung-galaxy-s9-s9.4438215/#post-87043351/"
 }
