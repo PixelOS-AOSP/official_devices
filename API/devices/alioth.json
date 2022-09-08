@@ -15,7 +15,7 @@
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/",
     "last_updated": "20 Jun 2022",
     "private_download_tag": "alioth_20220620_1925",
-    "active": true,
+    "active": false,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-alioth-aliothin-27-04-2022.4392649"
 }
