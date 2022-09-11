@@ -1,3 +1,6 @@
+# 11-Sep-2022
+- Initial Android 13 release
+
 # 12-Aug-2022
 - Switched back to skiagl renderer (fixed artifacts in Instagram etc.)
 - Fixed expanded QS padding
