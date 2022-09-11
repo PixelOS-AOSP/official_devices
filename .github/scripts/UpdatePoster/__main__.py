@@ -35,7 +35,7 @@ GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001551285228"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png"
+banner = "https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/thirteen/banners/latest.png"
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
@@ -164,7 +164,7 @@ def post_maker(device_info, name):
         + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
            "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://sourceforge.net/projects/pixelos-releases/files/twelve/" + \
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + \
         device_info["device_display_codename"].split(
             "/")[0] + "/" + ROM_NAME + "\">Sourceforge</a>\n"
 

@@ -4,4 +4,4 @@ git fetch
 git pull
 git add .
 git commit -m "official_devices: update tags [no ci]"
-git push origin twelve
+git push origin thirteen

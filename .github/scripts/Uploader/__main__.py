@@ -98,7 +98,7 @@ for tag in new_tags:
         "git pull",
         "git add .",
         "git commit -m \"official_devices: update tags [no ci]\"",
-        "git push origin twelve",
+        "git push origin thirteen",
     ]
 
     for command in push_commands:
@@ -110,9 +110,9 @@ for tag in new_tags:
 
     try:
         os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "/recovery")
+                  "/releases/*.img pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "/recovery")
         os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/twelve/" + device + "")
+                  "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
     except:
         print("Something went wrong")
 
