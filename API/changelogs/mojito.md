@@ -1,3 +1,6 @@
+# 13-Sep-2022
+- Initial A13
+
 # 13-Aug-2022
 - Enable Project ID Quota support on userdata (Kills SDcardFS at early init!) 
 - Drop ZRam support (NO custom kernel must be flashed!) 
