@@ -78,7 +78,7 @@ for tag in new_tags:
             if file.endswith(".json"):
                 device = file.replace(".json", "")
                 json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
-                                                                               "https://sourceforge.net/projects/pixelos-releases/files/twelve/" + device + "/" + ROM_ZIP_NAME)
+                                                                               "https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + device + "/" + ROM_ZIP_NAME)
                 open(cur_dir + "/releases/" + file, "w+").write(json)
 
     else:
