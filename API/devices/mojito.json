@@ -16,9 +16,9 @@
             "github": "https://github.com/sarthakroy2002"
         }
     ],
-    "updater": false,
-    "beta": false,
-    "version": "twelve",
+    "updater": true,
+    "beta": true,
+    "version": "thirteen",
     "release": "monthly",
     "device_display_name": "Redmi Note 10",
     "device_display_codename": "mojito/sunny",
