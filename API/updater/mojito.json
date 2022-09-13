@@ -1,13 +1,13 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_mojito-12.1-20220721-0346.zip",
-    "datetime": 1658375160,
-    "size": 1945938449,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220721-0346.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-13/PixelOS_mojito-12.1-20220813-0516.zip",
-    "filehash": "5e963f05d0d42cec917da3f109a9e456",
-    "id": "5e963f05d0d42cec917da3f109a9e456",
+    "version": "thirteen",
+    "filename": "PixelOS_mojito-13.0-20220913-1335.zip",
+    "datetime": 1663076031,
+    "size": 1990024677,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20220913-1335.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-09-13/PixelOS_mojito-13.0-20220913-1335.zip",
+    "filehash": "12a645c51847decfac89fd02d32dcabd",
+    "id": "12a645c51847decfac89fd02d32dcabd",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,12 +16,17 @@
         },
         {
             "main_maintainer": false,
+            "github_username": "cyberknight777",
+            "name": "cyberknight777"
+        },
+        {
+            "main_maintainer": false,
             "github_username": "sarthakroy2002",
             "name": "Sarthak Roy"
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://forum.xda-developers.com/t/rom-12-1-mojito-sunny-pixelos-official-aosp.4401635/"
 }
