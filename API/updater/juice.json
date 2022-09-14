@@ -1,22 +1,22 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_juice-12.1-20220813-1129.zip",
-    "datetime": 1660390140,
-    "size": 1823091630,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/PixelOS_juice-12.1-20220813-1129.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-13/PixelOS_juice-12.1-20220813-1129.zip",
-    "filehash": "6e15de492032ce0540913c8f915a3a94",
-    "id": "6e15de492032ce0540913c8f915a3a94",
+    "version": "thirteen",
+    "filename": "PixelOS_juice-13.0-20220914-1020.zip",
+    "datetime": 1663150750,
+    "size": 1890042056,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20220914-1020.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-09-14/PixelOS_juice-13.0-20220914-1020.zip",
+    "filehash": "93d9e005967d9e0f4c86699f35582800",
+    "id": "93d9e005967d9e0f4c86699f35582800",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "RayapKun",
+            "github_username": "rktdnt",
             "name": "RayapKun"
         }
     ],
     "donate_url": "",
     "website_url": "https://pixelos.net/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://forum.xda-developers.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
 }
