@@ -7,14 +7,14 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "twelve",
+    "beta": true,
+    "version": "thirteen",
     "release": "monthly",
     "device_display_name": "Redmi Note 7 Pro",
     "device_display_codename": "violet",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/",
-    "last_updated": "14 August 2022",
-    "private_download_tag": "violet_20220814_0523",
+    "last_updated": "14 September 2022",
+    "private_download_tag": "violet_20220914_1012",
     "active": true,
     "xda": null
 }

@@ -1,3 +1,6 @@
+# 14-Sept-2022
+ - Initial A13 build
+
 # 14-Aug-2022
 - Updated blobs
  - Fixed videoplack issues on many apps
