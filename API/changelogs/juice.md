@@ -1,3 +1,14 @@
+# 14-Sept-2022
+- Fixed Fingerprint missing
+
+# 11-Sept-2022
+- Initial Android 13 build
+- Switch to RRO Overlays
+- Tune Ram Management from CAF/CLO
+- Update Netflix BSP Property
+- Import missing blobs for DRM
+- Added Google Battery HAL
+
 # 13-Aug-2022
 - Rebased Trees
 - Revert back into stock adreno stack
