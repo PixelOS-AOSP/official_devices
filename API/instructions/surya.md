@@ -1,5 +1,5 @@
 # Clean Flash
-- Flash any Recovery e.g TWRP
+- Flash any Recovery (PixelOS Recovery Recommended)
 - Reboot to recovery
 - Flash MIUI 13 Firmware
 - Flash PixelOS
