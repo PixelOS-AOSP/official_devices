@@ -127,6 +127,15 @@
             "active": true
         },
         {
+            "codename": "bitra",
+            "codename_alt": "bitra",
+            "vendor": "Realme",
+            "model": "Realme GT Neo 2",
+            "maintainer_name": "cristian",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "G",
             "codename_alt": "G",
             "vendor": "10or",

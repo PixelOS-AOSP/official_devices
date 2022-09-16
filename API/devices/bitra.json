@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "cristianvaz",
+            "telegram": "https://t.me/cristianvaz",
+            "github": "https://github.com/cristianvaz"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "thirteen",
+    "release": "monthly",
+    "device_display_name": "Realme GT Neo 2",
+    "device_display_codename": "bitra",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/",
+    "last_updated": "15 September 2022",
+    "private_download_tag": "",
+    "active": true,
+    "xda": ""
+}
