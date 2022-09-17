@@ -9,6 +9,7 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "Realme C3/Realme Narzo 10A",
     "device_display_codename": "RMX2020/RMX2027",

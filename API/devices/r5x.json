@@ -9,6 +9,7 @@
     "updater": false,
     "beta": true,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "Realme 5 Series",
     "device_display_codename": "r5x",

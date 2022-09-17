@@ -9,6 +9,7 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "POCO X3 NFC",
     "device_display_codename": "surya",

@@ -9,6 +9,7 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "Xiaomi Mi Note 10 Lite",
     "device_display_codename": "toco",

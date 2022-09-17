@@ -20,7 +20,8 @@ devices.
     ],
     "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
+    "available_versions": ["twelve", "thirteen"],
     "release": "monthly",
     "device_display_name": "Redmi Note 8 PUBG Edition",
     "device_display_codename": "ginkgo/willow",
@@ -75,6 +76,8 @@ official build
 ```device_display_name```: Name of the Device given by the Brand
 
 ```device_display_codename```: codename of the device, if there are multiple codename, split it with a ```/```
+
+```available_versions```: Array of all available Android versions for this device
 
 
 

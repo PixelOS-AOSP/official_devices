@@ -9,6 +9,7 @@
     "updater": true,
     "beta": true,
     "version": "thirteen",
+    "available_versions": ["twelve", "thirteen"],
     "release": "monthly",
     "device_display_name": "Poco M3 / Redmi 9T",
     "device_display_codename": "juice",

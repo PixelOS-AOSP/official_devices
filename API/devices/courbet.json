@@ -9,6 +9,7 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 4G",
     "device_display_codename": "courbet",

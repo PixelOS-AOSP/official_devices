@@ -9,6 +9,7 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "Poco F3/Mi 11X/Redmi K40",
     "device_display_codename": "alioth",

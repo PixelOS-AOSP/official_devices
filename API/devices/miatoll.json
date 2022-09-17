@@ -9,6 +9,7 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
+    "available_versions": ["twelve"],
     "release": "monthly",
     "device_display_name": "Redmi Note 9s/Pro/Pro Max & Poco M2 Pro",
     "device_display_codename": "miatoll",
