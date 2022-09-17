@@ -9,7 +9,10 @@
     "updater": true,
     "beta": true,
     "version": "thirteen",
-    "available_versions": ["twelve", "thirteen"],
+    "available_versions": [
+        "twelve",
+        "thirteen"
+    ],
     "release": "monthly",
     "device_display_name": "Redmi Note 7 Pro",
     "device_display_codename": "violet",

@@ -9,7 +9,9 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
-    "available_versions": ["twelve"],
+    "available_versions": [
+        "twelve"
+    ],
     "release": "monthly",
     "device_display_name": "Redmi Note 4/4x",
     "device_display_codename": "mido",

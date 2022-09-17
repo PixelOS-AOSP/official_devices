@@ -9,7 +9,9 @@
     "updater": true,
     "beta": true,
     "version": "thirteen",
-    "available_versions": ["thirteen"],
+    "available_versions": [
+        "thirteen"
+    ],
     "release": "monthly",
     "device_display_name": "Realme GT Neo 2",
     "device_display_codename": "bitra",

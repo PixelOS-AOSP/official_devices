@@ -9,7 +9,9 @@
     "updater": true,
     "beta": false,
     "version": "twelve",
-    "available_versions": ["twelve"],
+    "available_versions": [
+        "twelve"
+    ],
     "release": "monthly",
     "device_display_name": "Samsung Galaxy S9+",
     "device_display_codename": "star2lte",
