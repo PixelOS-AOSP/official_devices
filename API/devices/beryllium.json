@@ -10,7 +10,8 @@
     "beta": true,
     "version": "thirteen",
     "available_versions": [
-        "twelve", "thirteen"
+        "twelve",
+        "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Pocophone F1",

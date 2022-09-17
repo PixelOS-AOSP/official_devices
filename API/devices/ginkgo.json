@@ -14,7 +14,10 @@
     "updater": true,
     "beta": true,
     "version": "thirteen",
-    "available_versions": ["twelve", "thirteen"],
+    "available_versions": [
+        "twelve",
+        "thirteen"
+    ],
     "release": "monthly",
     "device_display_name": "Redmi Note 8/8T",
     "device_display_codename": "ginkgo/willow",
