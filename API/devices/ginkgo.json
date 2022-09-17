@@ -12,15 +12,13 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "twelve",
-    "available_versions": [
-        "twelve"
-    ],
+    "beta": true,
+    "version": "thirteen",
+    "available_versions": ["twelve", "thirteen"],
     "release": "monthly",
     "device_display_name": "Redmi Note 8/8T",
     "device_display_codename": "ginkgo/willow",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/",
     "last_updated": "11 September 2022",
     "private_download_tag": "ginkgo_20220911_1700",
     "active": true,

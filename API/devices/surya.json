@@ -8,15 +8,15 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "POCO X3 NFC",
     "device_display_codename": "surya",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/",
-    "last_updated": "16 August 2022",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/",
+    "last_updated": "11 September 2022",
     "private_download_tag": "surya_20220816_2031",
     "active": true,
     "customRecoveryRequired": true,

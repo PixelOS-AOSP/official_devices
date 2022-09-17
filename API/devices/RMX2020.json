@@ -7,15 +7,15 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "twelve",
+    "beta": true,
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Realme C3/Realme Narzo 10A",
     "device_display_codename": "RMX2020/RMX2027",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/",
     "last_updated": "12 September 2022",
     "private_download_tag": "RMX2020_20220911_1818",
     "active": true,
