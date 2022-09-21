@@ -4,7 +4,7 @@ import pprint
 
 
 foldersToFormat = [
-    "API", "API/devices"
+    "API", "API/devices", "API/updater"
 ]
 
 
