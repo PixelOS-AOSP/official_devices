@@ -245,7 +245,7 @@
         },
         {
             "codename": "surya",
-            "codename_alt": "karna",
+            "codename_alt": "surya/karna",
             "vendor": "Xiaomi",
             "model": "POCO X3 NFC",
             "maintainer_name": "Ragy",
