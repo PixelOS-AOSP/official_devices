@@ -1,11 +1,14 @@
 # Keep in mind...
-This ROM comes with EROFS formatting, due to which:
-- Avoid Changing Kernel (unless it supports EROFS)
+- DO NOT try to change the included kernel
 - System is Read-Only (restricts making changes to overlays, system APKs, etc.)
-- Avoid using any other recovery than PixelOS recovery which is included (If you wish to use, check for EROFS compatibility)
+- DO NOT USE any other recovery than PixelOS recovery which is included.
+- You MUST format data with given PixelOS recovery
 - YOU MUST CLEAN FLASH IF:
     - You are coming from any other ROM or MIUI
-    - You are coming from July 2022 Update or before
+    - You are coming from previous Android Version
+
+- If you face issues like poor RAM management or storage issues, you have not followed the instructions and/or have changed kernel/recovery. STRICTLY follow the instructions provided again before reporting any issues.
+- Formatting with PixelOS Recovery (yes, I mean PixelOS Recovery ONLY) is MUST during clean flash
 
 # Clean Flash (coming from a different ROM)
 - Download ROM and Recovery to your computer
