@@ -1,3 +1,6 @@
+# 03-Oct-2022
+- Initial Android 13 build
+
 # 15-Aug-2022
 - Reverted back to boot header v3 (try your luck with custom recoveries)
 - Reverted most blobs to stock
