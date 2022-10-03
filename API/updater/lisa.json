@@ -1,13 +1,13 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_lisa-12.1-20220815-1313.zip",
-    "datetime": 1660569180,
-    "size": 2102007782,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220815-1313.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-15/PixelOS_lisa-12.1-20220815-1313.zip",
-    "filehash": "f7311b6b83b055c9c67bbc9d0b765031",
-    "id": "f7311b6b83b055c9c67bbc9d0b765031",
+    "version": "thirteen",
+    "filename": "PixelOS_lisa-13.0-20221002-1836.zip",
+    "datetime": 1664728759,
+    "size": 2131723661,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20221002-1836.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-10-03/PixelOS_lisa-13.0-20221002-1836.zip",
+    "filehash": "25be21a58b92a640da76b61b6208cd4c",
+    "id": "25be21a58b92a640da76b61b6208cd4c",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -22,6 +22,6 @@
     ],
     "donate_url": "",
     "website_url": "https://pixelos.net/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-23-01-2022.4392297/"
 }
