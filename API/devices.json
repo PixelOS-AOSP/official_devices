@@ -250,7 +250,7 @@
             "model": "POCO X3 NFC",
             "maintainer_name": "Ragy",
             "frame": null,
-            "active": true
+            "active": false
         }
     ]
 }
