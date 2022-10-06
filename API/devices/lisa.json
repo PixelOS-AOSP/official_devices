@@ -12,10 +12,10 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "twelve",
+    "beta": true,
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 5G NE",
