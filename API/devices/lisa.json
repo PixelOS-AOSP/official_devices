@@ -15,7 +15,8 @@
     "beta": true,
     "version": "thirteen",
     "available_versions": [
-        "twelve", "thirteen"
+        "twelve",
+        "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 5G NE",
