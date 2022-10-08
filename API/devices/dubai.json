@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Vantom",
+            "telegram": "https://t.me/Vantom",
+            "github": "https://github.com/vantoman"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Motorola Edge 30",
+    "device_display_codename": "dubai",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

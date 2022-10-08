@@ -251,6 +251,15 @@
             "maintainer_name": "Ragy",
             "frame": null,
             "active": false
+        },
+        {
+            "codename": "dubai",
+            "codename_alt": "dubai",
+            "vendor": "Motorola",
+            "model": "Motorola Edge 30",
+            "maintainer_name": "Vantom",
+            "frame": null,
+            "active": true
         }
     ]
 }

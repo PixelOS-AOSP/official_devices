@@ -239,6 +239,14 @@
             "XDA": "https://forum.xda-developers.com/m/ragy747.9235713/",
             "role": "surya Maintainer",
             "tagline": "Tendo bansho"
+        },
+        {
+            "name" : "Vantom",
+            "github": "vantoman",
+            "telegram": "Vantom",
+            "XDA": null,
+            "role": "dubai Maintainer",
+            "tagline": "There is no spoon"
         }
     ]
 }
