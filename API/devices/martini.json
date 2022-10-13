@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Sugakesshaa",
+            "telegram": "https://t.me/Megalodonzs",
+            "github": "https://github.com/bheatleyyy"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 9RT 5G",
+    "device_display_codename": "martini",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

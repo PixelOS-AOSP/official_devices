@@ -260,6 +260,15 @@
             "maintainer_name": "Vantom",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "martini",
+            "codename_alt": "martini",
+            "vendor": "OnePlus",
+            "model": "OnePlus 9RT 5G",
+            "maintainer_name": "Sugakesshaa",
+            "frame": null,
+            "active": true
         }
     ]
 }
