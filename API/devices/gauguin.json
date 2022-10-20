@@ -8,9 +8,9 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite",
