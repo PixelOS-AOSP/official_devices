@@ -1,3 +1,13 @@
+# 20-Oct-2022
+- Update blobs from mojito V13.0.10.0.SKGMIXM
+- Sync audio props from V13.0.10.0.SKGMIXM [Fixes Mic on some apps] 
+- Moved recovery to vendor_boot as per android documentations
+- Bump EROFS PCluster Size
+- Update to Boot Header v4
+- Update to Boot Control HAL v1.2
+- Improve peak brightness 
+- Misc Fixes
+
 # 13-Sep-2022
 - Initial A13
 
