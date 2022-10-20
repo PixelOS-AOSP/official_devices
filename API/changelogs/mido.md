@@ -1,3 +1,6 @@
+# 20-Oct-2022
+- Initial build based on Android 13
+
 # 12-Aug-2022
 - Disable ALAC support 
 - Use default allocstall threshold on k4.9 
