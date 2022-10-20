@@ -6,11 +6,11 @@
             "github": "https://github.com/AndroidHQ254"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi Mi Note 10 Lite",
