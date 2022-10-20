@@ -19,8 +19,12 @@
 
 import datetime
 import os
+import json
+import requests
 
 SF_PASS = os.environ.get("SF_PASS")
+
+android_version_text = "thirteen"
 
 try:
     new_tags = open("new_tags.txt", "r").readlines()
@@ -69,26 +73,29 @@ for tag in new_tags:
     for file in os.listdir(cur_dir + "/releases/"):
         if file.endswith(".json"):
             device = file.replace(".json", "")
-            json = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER",
+            mjson = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER",
                                                                            "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
-            open(cur_dir + "/releases/" + file, "w+").write(json)
+            open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
     if OTA:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
-                json = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
+                mjson = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
                                                                                "https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + device + "/" + ROM_ZIP_NAME)
-                open(cur_dir + "/releases/" + file, "w+").write(json)
+                open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
     else:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
+                updaterInfo = json.loads(requests.get("https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/" + android_version_text  + "/API/updater/" + device + ".json").content)
+                updaterInfo ["github_releases_url"] = "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME
+                open(cur_dir + "/releases/" + file, "w+").write(json.dumps(updaterInfo, indent=4), )
 
-    if OTA:
-        os.system("cp " + cur_dir + "/releases/*.json " +
-                  cur_dir + "/API/updater/")
+
+
+    os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/")
 
 
     push_commands = [
