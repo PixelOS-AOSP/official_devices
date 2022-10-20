@@ -1,3 +1,6 @@
+# 20-Oct-2022
+- Initial Android 13 build
+
 # 15-August-2022
 - Add more gnss seccomp_policy
 - audio: Add compress recording configurations
