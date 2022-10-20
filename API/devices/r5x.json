@@ -7,7 +7,7 @@
         }
     ],
     "updater": false,
-    "beta": true,
+    "beta": false,
     "version": "twelve",
     "available_versions": [
         "twelve"
