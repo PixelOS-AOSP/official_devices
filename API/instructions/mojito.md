@@ -18,7 +18,7 @@
 - Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
 - Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
-- Flash firmware (Version V13.0.9.0SKGMIXM) through ADB sideload by running "adb sideload <path/to/firmware.zip>" in terminal
+- Flash firmware (Version V13.0.10.0.SKGMIXM) through ADB sideload by running "adb sideload <path/to/firmware.zip>" in terminal
 - Reboot and voila!
 
 # Dirty Flash / Update
@@ -28,5 +28,5 @@
 - Reboot to recovery by running "fastboot reboot recovery" in terminal
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
 - Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
-- Flash firmware (Version V13.0.9.0SKGMIXM) through ADB sideload by running "adb sideload <path/to/fw.zip>" in terminal
+- Flash firmware (Version V13.0.10.0.SKGMIXM) through ADB sideload by running "adb sideload <path/to/fw.zip>" in terminal
 - Reboot and voila!

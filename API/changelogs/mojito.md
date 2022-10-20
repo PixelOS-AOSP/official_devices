@@ -1,4 +1,5 @@
 # 20-Oct-2022
+- Switch to User builds
 - Update blobs from mojito V13.0.10.0.SKGMIXM
 - Sync audio props from V13.0.10.0.SKGMIXM [Fixes Mic on some apps] 
 - Moved recovery to vendor_boot as per android documentations
