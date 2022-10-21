@@ -8,14 +8,14 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 10 Pro/Max",
     "device_display_codename": "sweet/sweetin",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/",
     "last_updated": "12 August 2022",
     "private_download_tag": "sweet_20220812_0312",
     "active": true,
