@@ -1,9 +1,14 @@
 {
     "maintainer": [
         {
-            "display_name": "Yusuf",
-            "telegram": "https://t.me/Real_Noonlord",
-            "github": "https://github.com/noonlord"
+            "display_name": "Vantom",
+            "telegram": "https://t.me/Vantom",
+            "github": "https://github.com/vantoman"
+        },
+        {
+            "display_name": "Aryan",
+            "telegram": "https://t.me/Aryannn999",
+            "github": "https://github.com/basamaryan"
         }
     ],
     "updater": true,

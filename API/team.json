@@ -9,6 +9,14 @@
             "tagline": "No excuses!"
         },
         {
+            "name": "Aryan",
+            "github": "basamaryan",
+            "telegram": "Aryan999",
+            "XDA": null,
+            "role": "Core-Member; sweet, courbet, davinci Maintainer",
+            "tagline": null
+        },
+        {
             "name": "Jasutin",
             "github": "Kitsunejasutin",
             "telegram": "tokatsu",
@@ -21,7 +29,7 @@
             "github": "geek0609",
             "telegram": "dsashwin",
             "XDA": "https://forum.xda-developers.com/m/dsashwin.11355545/",
-            "role": "Core-Member",
+            "role": "Core-Member; mojito maintainer",
             "tagline": "Error 403 - Forbidden."
         },
         {
@@ -94,14 +102,6 @@
             "telegram": "chethazz",
             "XDA": "https://forum.xda-developers.com/m/chethas.10059020/",
             "role": "violet Maintainer",
-            "tagline": null
-        },
-        {
-            "name": "Aryan",
-            "github": "basamaryan",
-            "telegram": "Aryan999",
-            "XDA": null,
-            "role": "sweet Maintainer",
             "tagline": null
         },
         {
