@@ -1,3 +1,10 @@
+# 21-Oct-2022
+ - Removed Google Camera Go
+ - Added ANX Camera(Portrait and 48mp won't work)
+ - Updated kernel
+ - Update system blobs from LA.QSSI.13.0.r1-05800-qssi.0
+ - Lot of under the hood changes
+
 # 14-Sept-2022
  - Initial A13 build
 
