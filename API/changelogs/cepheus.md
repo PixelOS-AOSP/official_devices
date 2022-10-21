@@ -1,3 +1,6 @@
+# 21-Oct-2022
+- Initial Android 13 build
+
 # 12-Aug-2022
 - Initial Official Build
 - Fix DT2W
