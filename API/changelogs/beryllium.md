@@ -1,3 +1,6 @@
+# 21-Oct-2022
+- Updated SilverCore Kernel to 4.9.325 linux tag
+
 # 12-Aug-2022
 - Updated kernel to latest linux tag
 - Removed top app boost
