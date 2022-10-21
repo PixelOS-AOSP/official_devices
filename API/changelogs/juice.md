@@ -1,3 +1,13 @@
+# 21-Oct-2022
+- Back with FBEv2 Encryption
+- Back with F2FS Compression
+- Switch back to Pixel Power (libperfmgr)
+- Drop Vulkan HWUI renderer
+- Migrate to AIDL ClearKey DRM HAL
+- Tune auto-brightness configs
+- Disable intrusive GMS components
+- Update Blobs from MIUI V13.0.1.0.SJQMIXM
+
 # 14-Sept-2022
 - Fixed Fingerprint missing
 
