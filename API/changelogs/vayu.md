@@ -1,3 +1,9 @@
+# 21-Oct-2022
+- Initial a13 build
+- Move to common Xiaomi fingerprint hidl
+- Move to common Xiaomi light aidl
+- add livedisplay
+
 # 17-Aug-2022
 vayu: init: Don't mount TraceFS twice
 vayu: powerhint: Decrease launch boost to 3sec
