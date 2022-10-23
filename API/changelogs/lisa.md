@@ -1,3 +1,10 @@
+# 23-Oct-2022
+- Finetune rate limits for prime CPU
+- Disable IOP properties
+- Moved background cpuset to CPU 0-1
+- Disabled pocket service debug
+- Misc. changes and improvements
+
 # 03-Oct-2022
 - Initial Android 13 build
 
