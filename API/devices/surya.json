@@ -7,7 +7,7 @@
         }
     ],
     "updater": true,
-    "beta": false,
+    "beta": true,
     "version": "thirteen",
     "available_versions": [
         "twelve",
@@ -19,7 +19,7 @@
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/",
     "last_updated": "11 September 2022",
     "private_download_tag": "surya_20220816_2031",
-    "active": true,
+    "active": false,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-1-pixelos-surya-karna-stable-16-07-2022.4467219/"
 }
