@@ -5,7 +5,8 @@
 - Extended buffer size to 256kb for offload playback
 - Increased In-call earpiece volume
 - Added blkio tuning from sunfish
-- Reverted WAIPIO adreno stack
+- Switched back to stock adreno stack
+- Fixed NFC (for willow users)
 
 # 11-Sep-2022
 - Initial Android 13 release
