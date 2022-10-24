@@ -1,10 +1,9 @@
-[ROM][12.1][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
+[ROM][13][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
 
 <!-- Read the whole thread and fill the required blanks marked with '*' or '(?)' -->
 
 [CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png[/IMG]
-PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, themed icons,  google sans fonts, Monet color based system wide theming, boot animation), a fork of OG Pixel Experience with improvements on the top of it. Huge respect to Pixel Experience team for their work, thanks to them for making this ROM possible.
-In short a fully functional Pixel Experience with just the right amount of essentials.
+PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
 *
@@ -15,7 +14,7 @@ In short a fully functional Pixel Experience with just the right amount of essen
 * you point the finger at me for messing up your device, I will laugh at you.
 */[/CODE]
 
-[SIZE=6][URL='https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/API/homepage/featurelist.md'][B]Improvements over PixelExperience[/B][/URL][/SIZE]
+[SIZE=6][URL='https://blog.pixelos.net/'][B]Our Featurelist[/B][/URL][/SIZE]
 [/CENTER]
 
 [B][U]Device Specific Issues: [/U][/B]
@@ -39,12 +38,9 @@ PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/tw
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
 • SELinux is enforcing/permissive
-• (?) Support related to MIUI/ANX Camera
-• (?) QuicksilveR v2.5 Kernel Included
+• (?) Included MIUI/ANX Camera
+• (?) QuicksilveR v2 Kernel Included
 
-[CENTER]
-[B][SIZE=4][COLOR=rgb(184, 49, 47)]PixelOS Recovery is recommended if you want to stay encrypted, no custom recovery supports encryption on Android12, i.e. you won't be able to decrypt your data.[/COLOR][/SIZE][/B]
-[/CENTER]
 <!-- Might be different for different devices -->
 [B][U]Flashing Instructions[/U]
 Clean flash (coming from a different ROM):[/B]
@@ -63,15 +59,17 @@ Clean flash (coming from a different ROM):[/B]
 • Wipe cache and dalvik (optional, recommended)
 • Reboot and voila!
 
+Read our blog [URL]https://blog.pixelos.net[/URL]
 Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
 Buy me a Coffee [URL]https://paypal.me/*[/URL]
+Help translate PixelOS [URL]https://translate.pixelos.net[/URL]
 
 [B][U]Source Code[/U][/B]
 PixelOS http://github.com/PixelOS-Pixelish
 Device Tree and Vendor Tree https://github.com/PixelOS-Devices
 Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
 
-[B]ROM OS Version:[/B] Android 12.1.
+[B]ROM OS Version:[/B] Android 13.
 [B]ROM Kernel:[/B] Linux 4.14.x
 [B]Stable Release Date:[/B] DD Month YYYY
 [B]Latest Release Date:[/B] DD Month YYYY
