@@ -1,3 +1,12 @@
+# 24-Oct-2022
+- Upstreamed kernel to v4.14.295
+- Added missing AIDL QTI thermal HAL
+- Addressed a few denials
+- Extended buffer size to 256kb for offload playback
+- Increased In-call earpiece volume
+- Added blkio tuning from sunfish
+- Reverted WAIPIO adreno stack
+
 # 11-Sep-2022
 - Initial Android 13 release
 
