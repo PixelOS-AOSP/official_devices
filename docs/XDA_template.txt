@@ -2,7 +2,7 @@
 
 <!-- Read the whole thread and fill the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/twelve/banners/latest.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/twelve/banners/latest.png[/IMG]
 PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
@@ -65,7 +65,7 @@ Buy me a Coffee [URL]https://paypal.me/*[/URL]
 Help translate PixelOS [URL]https://translate.pixelos.net[/URL]
 
 [B][U]Source Code[/U][/B]
-PixelOS http://github.com/PixelOS-Pixelish
+PixelOS http://github.com/PixelOS-AOSP
 Device Tree and Vendor Tree https://github.com/PixelOS-Devices
 Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
 

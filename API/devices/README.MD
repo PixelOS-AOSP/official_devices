@@ -64,7 +64,7 @@ official build
 ```public_download```: Download link which is to be shared Through Telegram; **New maintainers must set this to ```""```
 (two double quotes with nothing between them) until the first update**
 
-```last_updated```: Date of the latest update. Should be in the format ```dd MMMM YYYY``` as per [unicode](http://unicode.org/reports/tr35/tr35-dates.html#Date_Format_Patterns). Example has been provided in the code snippet [above](https://github.com/PixelOS-Pixelish/official_devices/tree/twelve/API/devices#format)
+```last_updated```: Date of the latest update. Should be in the format ```dd MMMM YYYY``` as per [unicode](http://unicode.org/reports/tr35/tr35-dates.html#Date_Format_Patterns). Example has been provided in the code snippet [above](https://github.com/PixelOS-AOSP/official_devices/tree/twelve/API/devices#format)
 
 ```private_download_tag```: Github releases tag, to be taken from CI Builds; **New maintainers must set this to ```""```
 (two double quotes with nothing between them) until the first update**

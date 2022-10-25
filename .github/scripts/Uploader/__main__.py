@@ -89,7 +89,7 @@ for tag in new_tags:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
-                updaterInfo = json.loads(requests.get("https://raw.githubusercontent.com/PixelOS-Pixelish/official_devices/" + android_version_text  + "/API/updater/" + device + ".json").content)
+                updaterInfo = json.loads(requests.get("https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/" + android_version_text  + "/API/updater/" + device + ".json").content)
                 updaterInfo ["github_releases_url"] = "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME
                 open(cur_dir + "/releases/" + file, "w+").write(json.dumps(updaterInfo, indent=4), )
 
