@@ -1,3 +1,19 @@
+# 25-Oct-2022
+- Bump dex2oat threads
+- Improve SystemUI dimensions
+- Fixed status bar glitch for apps
+- Update power profiles
+- Boost GPU to max on expensive rendering
+- Kang runtime cpusets from coral
+- Switch to FBEv2
+- Set stock fingerprint
+- Switch to Smooth Display toggle
+- Import xiaomi UFS changes
+- UFS: Increase power control and query timeout
+- Wake CPUs explicitly when resuming UFS chip
+- Remove 10 ms CPU idle latency unvote timeout
+- work-simple: Rewrite for clarity and performance
+
 # 16-Aug-2022
 - Use wpa_supplicant.conf from V13.0.1.0.SJGMIXM
 - Pull vendor.qti.hardware.camera.device@3.5 from stock
