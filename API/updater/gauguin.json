@@ -1,13 +1,13 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_gauguin-12.1-20220724-1310.zip",
-    "datetime": 1658668200,
-    "size": 2047393540,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220724-1310.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-07-26/PixelOS_gauguin-12.1-20220724-1310.zip",
-    "filehash": "0d7a2f0e4c9478cecc497b853e964b81",
-    "id": "0d7a2f0e4c9478cecc497b853e964b81",
+    "version": "thirteen",
+    "filename": "PixelOS_gauguin-13.0-20221026-0907.zip",
+    "datetime": 1666772504,
+    "size": 2061589000,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20221026-0907.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-10-27/PixelOS_gauguin-13.0-20221026-0907.zip",
+    "filehash": "6f7d8b40f8a02f580d27db4d5b13a1f2",
+    "id": "6f7d8b40f8a02f580d27db4d5b13a1f2",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-stable-12-06-2022.4456563/"
 }
