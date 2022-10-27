@@ -1,3 +1,6 @@
+# 27-Oct-2022
+- Initial Android 13 Release
+
 # 26-Jul-2022
 - Drop KProfiles
 
