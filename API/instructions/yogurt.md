@@ -1,0 +1,12 @@
+# Clean flash
+- Download ROM from the link above
+- Reboot to recovery
+- Format data
+- Flash ROM zip
+- Reboot and voila!
+
+# Updating to a newer build (dirty flash):
+- Update via OTA Updater, or
+- Wipe dalvik and cache (optional)
+- Flash ROM zip (sideload)
+- Reboot and voila!

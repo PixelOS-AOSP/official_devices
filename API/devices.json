@@ -269,6 +269,15 @@
             "maintainer_name": "Sugakesshaa",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "yogurt",
+            "codename_alt": "yogurt",
+            "vendor": "Micromax",
+            "model": "Micromax IN Note 1 / IN1",
+            "maintainer_name": "SakthivelNadar",
+            "frame": null,
+            "active": true
         }
     ]
 }
