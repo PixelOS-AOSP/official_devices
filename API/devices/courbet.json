@@ -13,14 +13,14 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 4G",
     "device_display_codename": "courbet",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/",
     "last_updated": "12 August 2022",
     "private_download_tag": "courbet_20220812_0555",
     "active": true,
