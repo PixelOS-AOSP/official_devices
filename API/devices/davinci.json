@@ -15,7 +15,8 @@
     "beta": false,
     "version": "thirteen",
     "available_versions": [
-        "twelve", "thirteen"
+        "twelve",
+        "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi K20/Mi 9T",
