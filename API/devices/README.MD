@@ -59,6 +59,8 @@ official build
 
 ```version```: Corresponding branch name of the manifest used to sync PixelOS
 
+```available_versions```: Array of all versions of PixelOS builds available for the device 
+
 ```release```: Release type ie. Monthly, Weekly, Daily, etc.
 
 ```public_download```: Download link which is to be shared Through Telegram; **New maintainers must set this to ```""```
@@ -76,8 +78,4 @@ official build
 ```device_display_name```: Name of the Device given by the Brand
 
 ```device_display_codename```: codename of the device, if there are multiple codename, split it with a ```/```
-
-```available_versions```: Array of all available Android versions for this device
-
-
 
