@@ -1,3 +1,6 @@
+# 29-Oct-2022
+- Initial Android 13 release
+
 # 12-Aug-2022
 - Update blobs from sweet V13.0.12.0.SKFMIXM
 - Upstreamed kernel to 4.14.290
