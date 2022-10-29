@@ -1,22 +1,27 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_courbet-12.1-20220812-0316.zip",
-    "datetime": 1660274160,
-    "size": 2113612100,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220812-0316.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-12/PixelOS_courbet-12.1-20220812-0316.zip",
-    "filehash": "8b1c3c8b521cc61ec9a072c53d83a720",
-    "id": "8b1c3c8b521cc61ec9a072c53d83a720",
+    "version": "thirteen",
+    "filename": "PixelOS_courbet-13.0-20221029-0429.zip",
+    "datetime": 1667017725,
+    "size": 2081744105,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20221029-0429.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-10-29/PixelOS_courbet-13.0-20221029-0429.zip",
+    "filehash": "027993f96a86afe7dea2116819036eb7",
+    "id": "027993f96a86afe7dea2116819036eb7",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "noonlord",
-            "name": "Yusuf"
+            "github_username": "vantoman",
+            "name": "Vantom"
+        },
+        {
+            "main_maintainer": false,
+            "github_username": "basamaryan",
+            "name": "Aryan"
         }
     ],
     "donate_url": "",
     "website_url": "https://pixelos.net/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": ""
 }
