@@ -17,8 +17,8 @@
     "device_display_name": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite",
     "device_display_codename": "gauguin",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/",
-    "private_download_tag": "gauguin_20221026_0916",
-    "last_updated": "27 October 2022",
+    "private_download_tag": "gauguin_20221029_1101",
+    "last_updated": "30 October 2022",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-stable-12-06-2022.4456563/"
 }

@@ -1,3 +1,10 @@
+# 30-Oct-2022
+- Dropped hw_acc effect from audio configs
+- Add back LTM display configs
+- Switch to AOSP NXP NFC HAL
+- Suppressed warnings related to NeuralNetwork HAL
+- Label missing wakeup nodes
+
 # 27-Oct-2022
 - Initial Android 13 Release
 
