@@ -1,3 +1,8 @@
+# 31-Oct-2022
+- Set fingerprint separately for surya and karna
+- Bring back min/max Refresh Rate
+- Fix green tint on camera
+
 # 25-Oct-2022
 - Bump dex2oat threads
 - Improve SystemUI dimensions
