@@ -1,3 +1,7 @@
+# 02-Nov-2022
+- Added support for MIUICamera
+- Use AOSP USB v2 audio HAL
+
 # 30-Oct-2022
 - Dropped hw_acc effect from audio configs
 - Add back LTM display configs
