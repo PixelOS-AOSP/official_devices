@@ -1,16 +1,17 @@
 {
     "maintainer": [
         {
-            "display_name": "Don Sanchez",
-            "telegram": "https://t.me/vegasixfour",
-            "github": "https://github.com/vega128"
+            "display_name": "Debayan Kar",
+            "telegram": "https://t.me/kardebayan",
+            "github": "https://github.com/kardebayan"
         }
     ],
     "updater": true,
     "beta": false,
     "version": "twelve",
     "available_versions": [
-        "twelve"
+        "twelve",
+        "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 9s/Pro/Pro Max & Poco M2 Pro",
