@@ -1,3 +1,16 @@
+# 03-Nov-2022
+- Fix memory management issues
+- Fix AntiFlicker
+- Fix screen off Ok Google
+- Fix AAC and LDAC codec not working properly
+- Address Pixel power libperfmgr HAL denials  
+- Drop SkiaGL renderer 
+- Update CarrierConfig from munch V13.0.4.0.SLMMIXM
+- Include GrapheneCamera
+- EROFS: Switch to lz4
+- Add NoCutOutOverlay
+- Upstreamed kernel to 4.14.296 and partially synced with SOVIET-ANDROID latest changes
+
 # 21-Oct-2022
 - Initial Android 13 build
 
