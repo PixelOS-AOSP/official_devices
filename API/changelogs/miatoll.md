@@ -1,3 +1,6 @@
+# 06-Nov-2022
+- Initial Android 13 build
+
 # 18-Aug-2022
 - Fixed black screen flicker (SOD)
 - Enabled FUSE Passthrough
