@@ -278,6 +278,15 @@
             "maintainer_name": "SakthivelNadar",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "X00TD",
+            "codename_alt": "X00TD/X00T",
+            "vendor": "Asus",
+            "model": "Asus Zenfone Max Pro M1",
+            "maintainer_name": "Sarthak Roy, clhex",
+            "frame": null,
+            "active": true
         }
     ]
 }

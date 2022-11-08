@@ -1,0 +1,28 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Sarthak Roy",
+            "telegram": "https://t.me/sarthakroy2002",
+            "github": "https://github.com/sarthakroy2002"
+        },
+        {
+            "display_name": "clhex",
+            "telegram": "https://t.me/hexcl",
+            "github": "https://github.com/clhexftw/"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Asus Zenfone Max Pro M1",
+    "device_display_codename": "X00TD",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/X00TD/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": ""
+}
