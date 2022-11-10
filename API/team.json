@@ -255,6 +255,14 @@
             "XDA": null,
             "role": "yogurt Maintainer",
             "tagline": "Sleepy..."
+        },
+        {
+            "name": "masarou",
+            "github": "itsurboimasarou",
+            "telegram": "masarou92",
+            "XDA": "https://forum.xda-developers.com/m/masarou92.12332683/",
+            "role": "munch Maintainer",
+            "tagline": "わたしわ雅朗です"
         }
     ]
 }

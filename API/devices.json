@@ -287,6 +287,15 @@
             "maintainer_name": "Sarthak Roy, clhex",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "munch",
+            "codename_alt": "munch",
+            "vendor": "Xiaomi",
+            "model": "Redmi K40S/POCO F4",
+            "maintainer_name": "masarou",
+            "frame": null,
+            "active": true
         }
     ]
 }
