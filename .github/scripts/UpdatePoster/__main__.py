@@ -144,7 +144,7 @@ def post_maker(device_info, name):
 
     recovery_file_size = 0
     rom_file_size = 0
-    upload_date = datetime.date.today()
+    upload_date = str(datetime.date.today())
 
     # Fallback values
     ROM_NAME = "error"
