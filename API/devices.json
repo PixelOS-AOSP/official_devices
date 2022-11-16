@@ -95,9 +95,9 @@
             "codename_alt": "alioth/aliothin",
             "vendor": "Xiaomi",
             "model": "Poco F3/Mi 11X/Redmi K40",
-            "maintainer_name": "cristian",
+            "maintainer_name": "NotZeetaa",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "lisa",
