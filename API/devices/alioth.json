@@ -1,24 +1,25 @@
 {
     "maintainer": [
         {
-            "display_name": "cristian",
-            "telegram": "https://t.me/cristianvaz",
-            "github": "https://github.com/cristianvaz"
+            "display_name": "NotZeetaa",
+            "telegram": "https://t.me/NotZeetaa",
+            "github": "https://github.com/NotZeetaa"
         }
     ],
     "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve",
+        "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Poco F3/Mi 11X/Redmi K40",
     "device_display_codename": "alioth",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/",
     "last_updated": "20 Jun 2022",
     "private_download_tag": "alioth_20220620_1925",
-    "active": false,
+    "active": true,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-alioth-aliothin-27-04-2022.4392649"
 }
