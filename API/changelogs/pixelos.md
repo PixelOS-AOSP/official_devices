@@ -1,3 +1,30 @@
+# 16-Nov-2022
+- Merged android_13.0.0_r14
+- Use Google Sans systemwide
+- Added bluetooth dialog
+- Added face unlock
+- Added optional haptic on back gesture
+- Added one shot auto brightness
+- Allow disabling refresh rate lowering in battery saver
+- Add button to upload crash log to memocho
+- Added Smart Pause feature
+- Added navbar inversion turning
+- Added optional Wi-Fi standard icons
+- Fully switched to Pixel sounds
+- Added black mode
+- Moved dev refresh rate controls under display settings
+- Organized sound settings
+- Fixed call vibration settings not showing up on some devices
+- UI/UX optimizations and Privacy improvements
+- Minor UI/UX changes
+- Updated translations
+
+# 20-Oct-2022
+- PixelOS Stable release based on Android 13
+
+# 8-Sep-2022
+- Initial PixelOS Beta release based on Android 13
+
 # 12-Aug-2022
 - Merged August Security Patch
 - Introduced Quick unlock
