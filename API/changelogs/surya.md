@@ -1,3 +1,13 @@
+# 16-Nov-2022
+- Cleanup unused overlays
+- Rebase kernel on Quicksilver
+- Add llvm support
+- Included qcom FM
+- Added 140mhz GPU frequency
+- Enable UXE in perfconfigstore 
+- Update media configs from V13.0.4.0.SJGIDXM
+- Update stock blobs from V13.0.3.0.SJGEUXM
+
 # 31-Oct-2022
 - Set fingerprint separately for surya and karna
 - Bring back min/max Refresh Rate
