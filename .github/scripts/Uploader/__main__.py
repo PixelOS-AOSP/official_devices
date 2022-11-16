@@ -36,6 +36,14 @@ try:
 except Exception as e:
     OTA = False
 
+try:
+    BIG_ROM_FILE = os.path.exists("BIG_ROM_FILE.log")
+    alt_download = open("BIG_ROM_FILE.log", "r").readlines()[0]
+    # If Size>2GB
+except Exception as e:
+    BIG_ROM_FILE = False
+    alt_download = ""
+
 if OTA:
     print("Pushing OTA")
 else:
@@ -46,6 +54,10 @@ print(new_tags)
 for tag in new_tags:
     os.chdir(cur_dir + "/releases")
     os.system("gh release download " + tag.replace("\n", ""))
+    if BIG_ROM_FILE:
+        print ("File Size greater than 2GB; not depending on GitHub releases")
+        os.chdir(cur_dir + "/releases")
+        os.system("wget " + alt_download)
     recovery_path = ""
     for file in os.listdir(cur_dir + "/releases"):
         if file == "boot.img":
@@ -59,8 +71,9 @@ for tag in new_tags:
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
     os.system("gh release create " + str(datetime.date.today()))
-    os.system("gh release upload " + str(datetime.date.today()) +
-              " " + cur_dir + "/releases/*.zip")
+    if not BIG_ROM_FILE:
+        os.system("gh release upload " + str(datetime.date.today()) +
+                  " " + cur_dir + "/releases/*.zip")
     os.system("gh release upload " + str(datetime.date.today()) +
               " " + cur_dir + "/releases/*.img")
 
@@ -73,8 +86,12 @@ for tag in new_tags:
     for file in os.listdir(cur_dir + "/releases/"):
         if file.endswith(".json"):
             device = file.replace(".json", "")
-            mjson = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER",
-                                                                           "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME)
+            if not BIG_ROM_FILE:
+                github_download_link = "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME
+            else: 
+                # GH releases will not work over 2GB, so just use SF
+                github_download_link = "https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + device + "/" + ROM_ZIP_NAME
+            mjson = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER", github_download_link)
             open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
     if OTA:
