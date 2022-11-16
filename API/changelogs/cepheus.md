@@ -1,3 +1,13 @@
+# 16-Nov-2022
+- Switch back to SkiaGL renderer
+- Sync brightness overlays with coral
+- Switch to legacy sepolicy_vndr
+- Some rootdir changes
+- Powerhal related sepolicy changes
+- Remove blur support
+- Upstreamed kernel to 4.14.299
+- Misc. changes & improvements
+
 # 03-Nov-2022
 - Fix memory management issues
 - Fix AntiFlicker
