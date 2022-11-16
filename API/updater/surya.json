@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_surya-13.0-20221030-2347.zip",
-    "datetime": 1667165867,
-    "size": 1891629934,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20221030-2347.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-10-31/PixelOS_surya-13.0-20221030-2347.zip",
-    "filehash": "ff1317007082967f523528f5cc757459",
-    "id": "ff1317007082967f523528f5cc757459",
+    "filename": "PixelOS_surya-13.0-20221116-1037.zip",
+    "datetime": 1668594981,
+    "size": 1972818995,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20221116-1037.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-16/PixelOS_surya-13.0-20221116-1037.zip",
+    "filehash": "9266f33c9a3721416d5474d2b6fc9c98",
+    "id": "9266f33c9a3721416d5474d2b6fc9c98",
     "maintainers": [
         {
             "main_maintainer": false,
