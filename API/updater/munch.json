@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_munch-13.0-20221116-1414.zip",
+    "datetime": 1668607989,
+    "size": 2182778750,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/none",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-16/none",
+    "filehash": "06370067719c7854e35935cd4165856e",
+    "id": "06370067719c7854e35935cd4165856e",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "itsurboimasarou",
+            "name": "masarou"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
