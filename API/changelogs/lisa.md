@@ -1,3 +1,15 @@
+# 16-Nov-2022
+- Improved battery backup
+- Improved scheduler performance
+- Improved brightness scaling algorithm
+- Fixed low res pictures on MIUI Camera (64MP works too!)
+- Fixed issues with sending compressed video files on tg
+- Bumped vendor security patch level
+- Added display configuration for HBM
+- Drop unused 32 bit libs
+- Addressed a few denials
+- Misc fixes and improvements
+
 # 23-Oct-2022
 - Finetune rate limits for prime CPU
 - Disable IOP properties
