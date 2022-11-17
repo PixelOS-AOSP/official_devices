@@ -1,3 +1,9 @@
+# 17-Nov-2022
+- Initial Official build
+- Fixed BT ldac
+- Merged 4.19.265
+- Updated dolby permissions
+
 # 20-Jun-2022
 - Own LOS 19.1 trees
 - Update Immensity Kernel 4.0.0
