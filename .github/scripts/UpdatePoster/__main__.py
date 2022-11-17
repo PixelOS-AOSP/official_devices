@@ -147,7 +147,7 @@ def post_maker(device_info, name):
     upload_date = str(datetime.date.today())
 
     # Fallback values
-    ROM_NAME = "error"
+    ROM_NAME = ""
     RECOVERY_NAME = "error"
 
     for asset in release_info["assets"]:
