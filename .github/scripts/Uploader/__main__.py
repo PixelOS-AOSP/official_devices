@@ -37,8 +37,6 @@ try:
 except Exception as e:
     OTA = False
 
-BIG_ROM_FILE = os.path.exists("BIG_ROM_FILE.txt")
-
 if OTA:
     print("Pushing OTA")
 else:
@@ -49,6 +47,7 @@ print(new_tags)
 for tag in new_tags:
     os.chdir(cur_dir + "/releases")
     os.system("gh release download " + tag.replace("\n", ""))
+    BIG_ROM_FILE = os.path.exists(cur_dir + "/releases/BIG_ROM_FILE.txt")
     if BIG_ROM_FILE:
         ROM_MD5 = open("BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[1]
         ROM_NAME = open("BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[0]
