@@ -21,6 +21,7 @@ import datetime
 import os
 import json
 import requests
+import hashlib
 
 SF_PASS = os.environ.get("SF_PASS")
 
@@ -36,13 +37,7 @@ try:
 except Exception as e:
     OTA = False
 
-try:
-    BIG_ROM_FILE = os.path.exists("BIG_ROM_FILE.log")
-    alt_download = open("BIG_ROM_FILE.log", "r").readlines()[0]
-    # If Size>2GB
-except Exception as e:
-    BIG_ROM_FILE = False
-    alt_download = ""
+BIG_ROM_FILE = os.path.exists("BIG_ROM_FILE.txt")
 
 if OTA:
     print("Pushing OTA")
@@ -55,9 +50,23 @@ for tag in new_tags:
     os.chdir(cur_dir + "/releases")
     os.system("gh release download " + tag.replace("\n", ""))
     if BIG_ROM_FILE:
-        print ("File Size greater than 2GB; not depending on GitHub releases")
-        os.chdir(cur_dir + "/releases")
-        os.system("wget " + alt_download)
+        ROM_MD5 = open("BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[1]
+        ROM_NAME = open("BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[0]
+        # If Size>2GB
+        print ("Combining bigger files to one ")
+        os.system("cat PixelOS.part?? > " + ROM_NAME)
+
+        try: 
+            with open(ROM_NAME, 'rb') as file_to_check:
+                data = file_to_check.read()    
+                md5_returned = hashlib.md5(data).hexdigest()
+
+            if ROM_MD5 == md5_returned:
+                print ("MD5 verified.")
+            else:
+                print ("MD5 verification failed!.")
+        except Exception as e:
+            print (e)
     recovery_path = ""
     for file in os.listdir(cur_dir + "/releases"):
         if file == "boot.img":
