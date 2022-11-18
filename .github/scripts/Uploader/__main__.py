@@ -49,8 +49,9 @@ for tag in new_tags:
     os.system("gh release download " + tag.replace("\n", ""))
     BIG_ROM_FILE = os.path.exists(cur_dir + "/releases/BIG_ROM_FILE.txt")
     if BIG_ROM_FILE:
-        ROM_MD5 = open("BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[1]
-        ROM_NAME = open("BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[0]
+        print("Big Zip")
+        ROM_MD5 = open(cur_dir + "/releases/BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[0]
+        ROM_NAME = open(cur_dir + "/releases/BIG_ROM_FILE.txt", "r").readlines()[0].split(" ")[1].split("/")[-1]
         # If Size>2GB
         print ("Combining bigger files to one ")
         os.system("cat PixelOS.part?? > " + ROM_NAME)
