@@ -47,6 +47,7 @@ print(new_tags)
 for tag in new_tags:
     os.chdir(cur_dir + "/releases")
     os.system("gh release download " + tag.replace("\n", ""))
+    print (cur_dir)
     BIG_ROM_FILE = os.path.exists(cur_dir + "/releases/BIG_ROM_FILE.txt")
     if BIG_ROM_FILE:
         print("Big Zip")
