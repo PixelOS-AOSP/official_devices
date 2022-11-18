@@ -1,3 +1,6 @@
+# 18-Nov-2022
+- Upstreamed kernel to 4.9.333
+
 # 20-Oct-2022
 - Initial build based on Android 13
 
