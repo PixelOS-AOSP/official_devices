@@ -1,3 +1,9 @@
+# 18-Nov-2022
+- Updated kernel to latest linux tag
+- Switched to legacy sepolicy_vndr
+- Fixed rounded corners in hide notch
+- Some under the hood changes
+
 # 21-Oct-2022
 - Updated SilverCore Kernel to 4.9.325 linux tag
 
