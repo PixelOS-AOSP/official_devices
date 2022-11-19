@@ -1,3 +1,18 @@
+# 19-Nov-2022
+- Updated blobs from gauguin_GLOBAL V13.0.5.0.SJSMIXM release-keys.
+- Updated specific camera blobs from gauguin_CN V13.0.10.0.SJSCNXM release-keys.
+- Updated perf blobs from LA.UM.9.12.r1-14400-SMxx50.QSSI12.0.
+- Drop OEM changes in gps.conf.
+- Drop useless overlays.
+- Drop IOP.
+- Disable SF client composition cache.
+- Fixed AOSP USB v2 audio HAL.
+- Recovery is now made permissive.
+- Switched to legacy sepolicy_vndr.
+- Switched to common Xiaomi light HAL.
+- Bump vendor security patch level.
+- Update device build fingerprints.
+
 # 02-Nov-2022
 - Added support for MIUICamera
 - Use AOSP USB v2 audio HAL
