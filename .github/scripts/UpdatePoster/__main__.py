@@ -154,6 +154,8 @@ def post_maker(device_info, name):
         if asset["name"] == "boot.img" or asset["name"] == "recovery.img":
             recovery_file_size = float(asset["size"]) * 0.00000095367432
             RECOVERY_NAME = asset["name"]
+        elif asset["name"].__contains__("PixelOS.part"):
+            rom_file_size = rom_file_size + float(asset["size"]) * 0.00000000093132
         elif asset["name"].endswith(".zip"):
             ROM_NAME = asset["name"]
             rom_file_size = float(asset["size"]) * 0.00000000093132
