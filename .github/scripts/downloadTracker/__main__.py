@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 import re
 import json
+from datetime import date
 
 ORG="pixelos-releases"
 REPO_NAME="releases-public"
@@ -42,6 +43,18 @@ def merge_download_count(data:dict):
             final += sum(items.values())
     return final
 
+def sf_download_count():
+    SF_URL = f"https://sourceforge.net/projects/{ORG}/files/stats/json?start_date=2022-01-15&end_date={date.today().strftime('%Y-%m-%d')}"
+    resp = urlopen(SF_URL)
+    encoding = resp.info().get_content_charset('utf-8')
+    json_resp = json.loads(resp.read().decode(encoding))
+
+    _sum = 0
+    for dates in json_resp['downloads']:
+        _sum = dates[1]
+    
+    return _sum
+
 if __name__ == '__main__':
     # load the old json as python dict
     with open(f"{DIR_PATH}/per_tag.json","r") as fp:
@@ -58,5 +71,11 @@ if __name__ == '__main__':
         json.dump(old_json,fp, indent=4)
 
     with open(f"{DIR_PATH}/total.json","w") as fp:
-        data = {"total":merge_download_count(new_json)}
+        ghdc = merge_download_count(old_json)
+        sfdc = sf_download_count()
+        data = {
+                "github":ghdc,
+                "sourceforge":sfdc,
+                "total": (ghdc+sfdc)                
+                }
         json.dump(data, fp, indent=4)
