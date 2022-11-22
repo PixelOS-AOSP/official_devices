@@ -1,3 +1,11 @@
+# 22-Nov-2022
+- Fix memory related issues
+ - Update Perf blobs from LA.UM.9.1.r1-11500-SMxxx0.QSSI12.0
+- Update rounded corners for T
+- Switched to QTI Perf
+- Drop redundant props
+- Other miscellaneous fixes
+
 # 20-Oct-2022
 - Switch to User builds
 - Update blobs from mojito V13.0.10.0.SKGMIXM
