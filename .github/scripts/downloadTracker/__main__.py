@@ -49,11 +49,7 @@ def sf_download_count():
     encoding = resp.info().get_content_charset('utf-8')
     json_resp = json.loads(resp.read().decode(encoding))
 
-    _sum = 0
-    for dates in json_resp['downloads']:
-        _sum = dates[1]
-    
-    return _sum
+    return json_resp['total']
 
 if __name__ == '__main__':
     # load the old json as python dict
