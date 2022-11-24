@@ -1,3 +1,10 @@
+# 24-Nov-2022
+- Switched to Litten kernel
+- Fixed ram management
+- Improved idle battery drain
+- Added more dirac presets
+- Many under the hood changes
+
 # 21-Oct-2022
  - Removed Google Camera Go
  - Added ANX Camera(Portrait and 48mp won't work)
