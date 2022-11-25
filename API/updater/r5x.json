@@ -1,12 +1,13 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_r5x-12.1-20220610-1711.zip",
-    "datetime": 1654881015,
-    "size": 1782583865,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/r5x/PixelOS_r5x-12.1-20220610-1711.zip",
-    "filehash": "449827ba152ec76a29d5999689717289",
-    "id": "449827ba152ec76a29d5999689717289",
+    "version": "thirteen",
+    "filename": "PixelOS_r5x-13.0-20221123-0502.zip",
+    "datetime": 1669179675,
+    "size": 1880648890,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20221123-0502.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-25/PixelOS_r5x-13.0-20221123-0502.zip",
+    "filehash": "a00908266b0f37d1ed45cde59dc0b9c7",
+    "id": "a00908266b0f37d1ed45cde59dc0b9c7",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
         }
     ],
     "donate_url": "",
-    "website_url": "https://pixelos.vercel.app/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-beta-11-06-2022.4456239/"
 }
