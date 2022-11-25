@@ -1,3 +1,16 @@
+# 25-Nov-2022
+- Fix several incall mic issue
+- Fix mic volume in some apps
+- Fix Google voice recorder issue
+- Adjust LMKD kill timeout
+- Update Adreno blobs from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+- Import media configs from LA.UM.9.15.2.r1-05100-KAMORTA.QSSI13.0
+- Update init.qti.dcvs script from LA.UM.9.15.1.r1-07200-KAMORTA.0
+- Update blobs from miui_LIME_V13.1.22.10.24.DEV_f5c6ad431e_12.0
+- Remove CAF input boost
+- Disable slow avoid lagging
+- and many more
+
 # 21-Oct-2022
 - Back with FBEv2 Encryption
 - Back with F2FS Compression
