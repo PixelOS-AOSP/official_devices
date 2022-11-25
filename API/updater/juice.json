@@ -1,18 +1,18 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_juice-13.0-20221021-0311.zip",
-    "datetime": 1666321834,
-    "size": 1879487999,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20221021-0311.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-10-21/PixelOS_juice-13.0-20221021-0311.zip",
-    "filehash": "4ea701345b06c73d6b65936cd1bf4c49",
-    "id": "4ea701345b06c73d6b65936cd1bf4c49",
+    "filename": "PixelOS_juice-13.0-20221124-1207.zip",
+    "datetime": 1669288212,
+    "size": 1947587709,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20221124-1207.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-25/PixelOS_juice-13.0-20221124-1207.zip",
+    "filehash": "e38eaf0a38c42a040e9990b530679a7f",
+    "id": "e38eaf0a38c42a040e9990b530679a7f",
     "maintainers": [
         {
             "main_maintainer": false,
             "github_username": "rktdnt",
-            "name": "RayapKun"
+            "name": "rktdnt"
         }
     ],
     "donate_url": "",
