@@ -6,16 +6,16 @@
             "github": "https://github.com/bheatleyyy"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
-    "version": "twelve",
+    "version": "thirteen",
     "available_versions": [
-        "twelve"
+        "twelve", "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Realme 5 Series",
     "device_display_codename": "r5x",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/r5x/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/",
     "last_updated": "25 November 2022",
     "private_download_tag": "r5x_20221123_0542",
     "active": true,
