@@ -1,3 +1,11 @@
+# 25-Nov-2022
+- Rebased on the latest xiaomi-sm6150 sources
+- Updated common blobs from sweet V13.0.16.0.SKFEUXM
+- Updated XiaomiParts from lisa
+- Updated power-libperfmgr
+- Updated VantomKernel
+- Various other misc. changes
+
 # 29-Oct-2022
 - Initial Android 13 release
 
