@@ -1,3 +1,14 @@
+# 25-Nov-2022
+- Rebased on the latest xiaomi-sm6150 sources
+- Fixed screen-off UDFPS and UDFPS on AOD
+- Fixed some bluetooth related issues
+- Disabled light sensor for pocket lock
+- Updated statusbar padding
+- Updated common blobs from sweet V13.0.16.0.SKFEUXM
+- Updated power-libperfmgr
+- Updated VantomKernel
+- Other misc. changes
+
 # 29-Oct-2022
 - Initial Android 13 release
 
