@@ -10,7 +10,8 @@
     "beta": false,
     "version": "thirteen",
     "available_versions": [
-        "twelve", "thirteen"
+        "twelve",
+        "thirteen"
     ],
     "release": "monthly",
     "device_display_name": "Realme 5 Series",
