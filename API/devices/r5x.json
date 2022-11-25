@@ -16,8 +16,8 @@
     "device_display_name": "Realme 5 Series",
     "device_display_codename": "r5x",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/r5x/",
-    "last_updated": "11 June 2022",
-    "private_download_tag": "r5x_20220610_1944",
+    "last_updated": "25 November 2022",
+    "private_download_tag": "r5x_20221123_0542",
     "active": true,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-beta-11-06-2022.4456239/"
