@@ -1,3 +1,14 @@
+# 25-Nov-2022
+- Rebased on the latest xiaomi-sm6150 sources
+- Included Sevtinge's modded Leica MIUICamera app
+- Switched to an adaptive refresh-rate implementation
+- Updated blobs from sweet V13.0.16.0.SKFEUXM
+- Updated the s5kgw3 camera libraries from MIUI V13.0.7.0.SKFINXM 
+- Updated XiaomiParts from lisa
+- Updated power-libperfmgr
+- Updated VantomKernel
+- Various other misc. changes
+
 # 21-Oct-2022
 - Initial Android 13 release
 
