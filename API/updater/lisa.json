@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_lisa-13.0-20221116-0827.zip",
-    "datetime": 1668587189,
-    "size": 2143016189,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20221116-0827.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-16/PixelOS_lisa-13.0-20221116-0827.zip",
-    "filehash": "db7511151feac3a1f7f5e2944cbe924b",
-    "id": "db7511151feac3a1f7f5e2944cbe924b",
+    "filename": "PixelOS_lisa-13.0-20221126-1441.zip",
+    "datetime": 1669473586,
+    "size": 2143424097,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20221126-1441.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-27/PixelOS_lisa-13.0-20221126-1441.zip",
+    "filehash": "b0bab4899bc838ac78e9fbd6707d5468",
+    "id": "b0bab4899bc838ac78e9fbd6707d5468",
     "maintainers": [
         {
             "main_maintainer": false,
