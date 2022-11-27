@@ -1,3 +1,9 @@
+# 27-Nov-2022
+- Added support for aptX codecs
+- Xiaomi Parts improvements
+- Fixed an issue where some website wouldn't load
+- Added support for WiFi MAC randomization
+
 # 16-Nov-2022
 - Improved battery backup
 - Improved scheduler performance
