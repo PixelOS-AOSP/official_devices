@@ -1,3 +1,13 @@
+# 28-Nov-2022
+- vayu: Move to legacy um sepolicy vndr
+- Update wifi config 
+- Ignore harmless denials
+- Move to aidl clearkey drm hal
+- fixup! Import NFC configs
+- kernel: checkout thermal changes with mochi kernel
+- kernel: enable wireguard
+- Misc fixes and improvement
+
 # 21-Oct-2022
 - Initial a13 build
 - Move to common Xiaomi fingerprint hidl
