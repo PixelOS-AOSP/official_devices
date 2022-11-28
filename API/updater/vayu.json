@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_vayu-13.0-20221021-1025.zip",
-    "datetime": 1666347861,
-    "size": 2059605295,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/vayu/PixelOS_vayu-13.0-20221021-1025.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-10-21/PixelOS_vayu-13.0-20221021-1025.zip",
-    "filehash": "c61889d218410dfe52a065b29c191446",
-    "id": "c61889d218410dfe52a065b29c191446",
+    "filename": "PixelOS_vayu-13.0-20221128-0640.zip",
+    "datetime": 1669611419,
+    "size": 2143088442,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/vayu/PixelOS_vayu-13.0-20221128-0640.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-28/PixelOS_vayu-13.0-20221128-0640.zip",
+    "filehash": "7c0f8b4e5b1cfc1aa263c3176b52c378",
+    "id": "7c0f8b4e5b1cfc1aa263c3176b52c378",
     "maintainers": [
         {
             "main_maintainer": false,
