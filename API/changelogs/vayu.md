@@ -1,12 +1,9 @@
 # 28-Nov-2022
-- vayu: Move to legacy um sepolicy vndr
-- Update wifi config 
-- Ignore harmless denials
-- Move to aidl clearkey drm hal
-- fixup! Import NFC configs
-- kernel: checkout thermal changes with mochi kernel
-- kernel: enable wireguard
-- Misc fixes and improvement
+- Updated wifi config 
+- Supressed harmless denials
+- Checked out thermal changes with mochi kernel
+- Enabled wireguard
+- Misc fixes and improvements
 
 # 21-Oct-2022
 - Initial a13 build
