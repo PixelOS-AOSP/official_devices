@@ -1,3 +1,44 @@
+# 30-Nov-2022
+- Add permission for Xiaomiparts
+- Add xiaomi misys support
+- Address various sepolicy denials
+- Clean up permissions
+- configs: Update public.libraries.txt from stock
+- Decommonize battery charger blobs
+- overlay: Disable pocket lock support
+- dolby: Update dax-default.xml
+- Drop remnant sound_trigger stuff
+- Drop tetheroffload packages
+- Drop vendor.qti.hardware.servicetracker@1.2 HIDL
+- Fixup Vulkan deQP permission copy
+- Import Xiaomi displayfeature
+- Include AndroidAuto at build time
+- libinit: Add support of .mod_device hides 
+- MiuiCamera with working portrait mode
+- overlay: Add default vibration intensites
+- parts: Add missing thermal profile permission
+- parts: Disable startup provider
+- parts: Drop support for Hi-Fi
+- parts: Implement Pocket Detection service
+- parts: Remove proximity sensor gestures
+- parts: Restore MiSound scene on boot complete
+- prop: Do not block binder thread on incoming calls
+- prop: Don't set to adaptive mode by default
+- prop: Enable IncrementalFS support
+- prop: For smoother scrolling and better responsiveness
+- prop: Pull props for USB controller configuration
+- prop: Remove QTI BT stack bits
+- rootdir: Enable suspend to RAM
+- rootdir: Import oriole cpuctl tuning
+- rootdir: Remove package cache on early boot
+- Ship VantomKernel v4.14.300
+- Switch to common QTI vibrator HAL
+- Switch to Pixel thermal HAL
+- Switch to sepolicy_vndr-legacy-um
+- Update blobs from sweet V13.0.14.0.SKFMIXM
+- Update system from LA.QSSI.13.0.r1-07400-qssi.0
+- Use LZ4 compression for ramdisks
+
 # 20-Oct-2022
 - Initial Android 13 build
 
