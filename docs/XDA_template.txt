@@ -2,7 +2,7 @@
 
 <!-- Read the whole thread and fill the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/twelve/banners/latest.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/thirteen/banners/latest.png[/IMG]
 PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
@@ -31,7 +31,7 @@ Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 DFE (optional) (not recommended) [URL]https://github.com/PixelOS-Devices/builds/releases/download/2021-10-28/Disable_Dm-Verity_ForceEncrypt_20201008.zip[/URL]
 <!-- Link a custom recovery here, preferrably twrp or orange fox -->
 Recovery [URL]*[/URL]
-PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/twelve/*/recovery/[/URL]
+PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/thirteen/*/recovery/[/URL]
 [CENTER]
 [SIZE=4][B][COLOR=rgb(184, 49, 47)]Note: GApps are included, don't flash separately.[/COLOR][/B][/SIZE][/CENTER]
 
