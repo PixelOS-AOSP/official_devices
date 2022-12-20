@@ -53,9 +53,9 @@ for tag in new_tags:
         print("Big Zip")
         BIG_FILE_INFO = open(cur_dir + "/releases/ROM_TOO_BIG.txt", "r").readlines()[0]
         print (BIG_FILE_INFO)
-        ROM_MD5 = BIG_FILE_INFO.split(" ")[0]
+        ROM_HASH = BIG_FILE_INFO.split(" ")[0]
         ROM_NAME = BIG_FILE_INFO.split("/")[-1].replace("\n", "")
-        print (ROM_MD5 , ROM_NAME)
+        print (ROM_HASH , ROM_NAME)
         # If Size>2GB
         print ("Combining bigger files to one ")
         os.system("cat PixelOS.part?? > " + ROM_NAME)
@@ -63,12 +63,12 @@ for tag in new_tags:
         try: 
             with open(ROM_NAME, 'rb') as file_to_check:
                 data = file_to_check.read()    
-                md5_returned = hashlib.md5(data).hexdigest()
+                hash_returned = hashlib.sha256(data).hexdigest()
 
-            if ROM_MD5 == md5_returned:
-                print ("MD5 verified.")
+            if ROM_HASH == hash_returned:
+                print ("sha256 verified.")
             else:
-                print ("MD5 verification failed!.")
+                print ("sha256 verification failed!.")
         except Exception as e:
             print (e)
     recovery_path = ""
