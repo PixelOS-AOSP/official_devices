@@ -1,6 +1,3 @@
-# 01-Jan-2023
-- Mojito has been rebranded to "sunny". There will not be any more updates to "mojito". New updates will be under codename "sunny" 
-
 # 22-Nov-2022
 - Fix memory related issues
  - Update Perf blobs from LA.UM.9.1.r1-11500-SMxxx0.QSSI12.0
