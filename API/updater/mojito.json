@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_mojito-13.0-20221122-0318.zip",
-    "datetime": 1669087043,
-    "size": 2066305720,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20221122-0318.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-22/PixelOS_mojito-13.0-20221122-0318.zip",
-    "filehash": "939de11bef627813d733fdf0399da114",
-    "id": "939de11bef627813d733fdf0399da114",
+    "filename": "PixelOS_mojito-13.0-20230122-1521.zip",
+    "datetime": 1674400800,
+    "size": 1960915476,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230122-1521.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-22/PixelOS_mojito-13.0-20230122-1521.zip",
+    "filehash": "6e05caaeaa6786b8fac9ba5874dee19f",
+    "id": "6e05caaeaa6786b8fac9ba5874dee19f",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -28,5 +28,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-mojito-sunny-pixelos-official-aosp.4401635/"
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-official-pixelos-aosp-stable.4531019/"
 }
