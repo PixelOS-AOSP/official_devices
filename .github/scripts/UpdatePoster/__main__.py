@@ -166,9 +166,7 @@ def post_maker(device_info, name):
         + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
            "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a> | <a href=\"https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + \
-        device_info["device_display_codename"].split(
-            "/")[0] + "/" + ROM_NAME + "\">Sourceforge</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a>"
 
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
