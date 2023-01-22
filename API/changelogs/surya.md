@@ -1,3 +1,13 @@
+# 22-Jan-2023
+- Rebased on kenny Trees
+- Inherit several Android Go configurations
+- Don't limit inodes on /system_ext
+- Update FPs to latest available
+- Update blobs from V13.0.4.0.SJGEUXM
+- Switch and configure Aperture
+- Address MiuiCamera sepolicy denials
+- Optimize dex flags
+
 # 16-Nov-2022
 - Cleanup unused overlays
 - Rebase kernel on Quicksilver
