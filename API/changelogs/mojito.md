@@ -1,3 +1,14 @@
+# 22-Jan-2023
+- Update blobs from MIUI V13.0.11.0.SKGMIXM
+- Disallow aux cam usage for Owlgram
+- Switch to Aperture and configure it properly 
+- Adjust statusbar padding
+- Fix camera interface on ViLTE calls
+- Fix mic in few 3rd party apps
+- When connected to PC, it now shows "Redmi Note 10" instead of model
+- Fix QTI Perf related issues (essentially fixes lags and stutters)
+- More misc changes and optimizations
+
 # 22-Nov-2022
 - Fix memory related issues
  - Update Perf blobs from LA.UM.9.1.r1-11500-SMxxx0.QSSI12.0
