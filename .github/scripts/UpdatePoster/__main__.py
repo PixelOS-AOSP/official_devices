@@ -166,7 +166,7 @@ def post_maker(device_info, name):
         + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
            "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a>"
+    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a>\n"
 
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
