@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_alioth-13.0-20221117-1659.zip",
-    "datetime": 1668704275,
-    "size": 1881337694,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20221117-1659.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-11-17/PixelOS_alioth-13.0-20221117-1659.zip",
-    "filehash": "2c876394f1ac026d5bb00ec510a147cd",
-    "id": "2c876394f1ac026d5bb00ec510a147cd",
+    "filename": "PixelOS_alioth-13.0-20230122-1037.zip",
+    "datetime": 1674383795,
+    "size": 1874952723,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230122-1037.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-22/PixelOS_alioth-13.0-20230122-1037.zip",
+    "filehash": "6da2fd8112dfaac135fb6b1ec1e0a076",
+    "id": "6da2fd8112dfaac135fb6b1ec1e0a076",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-official-pixelos-aosp-alioth-aliothin-27-04-2022.4392649"
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
 }
