@@ -5,14 +5,14 @@
             "github": "whyredfire",
             "telegram": "whyredfire",
             "XDA": "https://forum.xda-developers.com/m/whyredfire.11124523/",
-            "role": "Core-Member; lisa Maintainer",
+            "role": "Core-Member; lisa, ginkgo Maintainer",
             "tagline": "No excuses!"
         },
         {
             "name": "Aryan",
             "github": "basamaryan",
             "telegram": "Aryan999",
-            "XDA": null,
+            "XDA": "https://forum.xda-developers.com/m/aryannn999.9385746/",
             "role": "Core-Member; sweet, courbet, davinci Maintainer",
             "tagline": null
         },
@@ -193,38 +193,6 @@
             "tagline": "Flexing toco!"
         },
         {
-            "name": "Mia Ryujin",
-            "github": "Seraphine3",
-            "telegram": "AISeraphine3_3",
-            "XDA": "https://forum.xda-developers.com/m/seraphine3_3.12102213/",
-            "role": "starlte, star2lte, crownlte Ex-Maintainer",
-            "tagline": "Shine Above The Stars\u2728"
-        },
-        {
-            "name": "Ackerman",
-            "github": "syhhw",
-            "telegram": "hastefrin",
-            "XDA": null,
-            "role": "Ex-vayu Maintainer",
-            "tagline": null
-        },
-        {
-            "name": "Anoosragh",
-            "github": "ok-ano0s",
-            "telegram": "ok_aNo0s",
-            "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
-            "role": "Ex-RMX1941 Maintainer",
-            "tagline": "How does that even work?"
-        },
-        {
-            "name": "Don Sanchez",
-            "github": "vega128",
-            "telegram": "vegasixfour",
-            "XDA": "https://forum.xda-developers.com/m/vega64.8089627/",
-            "role": "Ex-miatoll Maintainer",
-            "tagline": "Praise the Sun!"
-        },
-        {
             "name": "balgxmr",
             "github": "balgxmr",
             "telegram": "balgxmr",
@@ -265,12 +233,52 @@
             "tagline": "\u308f\u305f\u3057\u308f\u96c5\u6717\u3067\u3059"
         },
         {
+            "name": "Rodrigo Martinez",
+            "github": "DqrKn3Zz",
+            "telegram": "ObviouslyImNotDqrKn3Zz",
+            "XDA": "https://forum.xda-developers.com/m/dqrkn3zz.6877568/",
+            "role": "ginkgo Maintainer",
+            "tagline": "Inactivity serves no purpose whatsoever"
+        },
+        {
             "name": "Om Patel",
             "github": "takumi021",
             "telegram": "takumi021",
             "XDA": "https://forum.xda-developers.com/m/takumi021.11052283/",
             "role": "r5x Maintainer",
             "tagline": "I saw white wings like on birds."
+        },
+        {
+            "name": "Don Sanchez",
+            "github": "vega128",
+            "telegram": "vegasixfour",
+            "XDA": "https://forum.xda-developers.com/m/vega64.8089627/",
+            "role": "Ex-miatoll Maintainer",
+            "tagline": "Praise the Sun!"
+        },
+        {
+            "name": "Mia Ryujin",
+            "github": "Seraphine3",
+            "telegram": "AISeraphine3_3",
+            "XDA": "https://forum.xda-developers.com/m/seraphine3_3.12102213/",
+            "role": "starlte, star2lte, crownlte Ex-Maintainer",
+            "tagline": "Shine Above The Stars\u2728"
+        },
+        {
+            "name": "Ackerman",
+            "github": "syhhw",
+            "telegram": "hastefrin",
+            "XDA": null,
+            "role": "Ex-vayu Maintainer",
+            "tagline": null
+        },
+        {
+            "name": "Anoosragh",
+            "github": "ok-ano0s",
+            "telegram": "ok_aNo0s",
+            "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
+            "role": "Ex-RMX1941 Maintainer",
+            "tagline": "How does that even work?"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
     "maintainer": [
         {
-            "display_name": "Jasutin Doktah",
-            "telegram": "https://t.me/tokatsu",
-            "github": "https://github.com/Kitsunejasutin"
-        },
-        {
             "display_name": "Rodrigo Martinez",
             "telegram": "https://t.me/ObviouslyImNotDqrKn3Zz",
             "github": "https://github.com/DqrKn3Zz"
+        },
+	{
+            "display_name": "Karan Parashar",
+            "telegram": "https://t.me/whyredfire",
+            "github": "https://github.com/whyredfire"
         }
     ],
     "updater": true,
