@@ -1,3 +1,13 @@
+# 22-Jan-2023
+- Kernel updated to latest CLO revision
+- Fixed fast charging on Chinese variants
+- Fixed 48MP mode in miui camera
+- Updated GPU drivers from latest sm8450 release
+- Updated telephony stack to android 13
+- Updated qcom media/display stack to latest CLO revision
+- Switched HWUI renderer back to default (skiagl) to fix green artifacts in videos
+- Misc optimizations and fixes.
+
 # 24-Oct-2022
 - Upstreamed kernel to v4.14.295
 - Added missing AIDL QTI thermal HAL
