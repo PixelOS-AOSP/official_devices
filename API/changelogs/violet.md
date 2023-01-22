@@ -3,10 +3,10 @@
 - Removed ANX Camera
 - Tuned vibration pattern
 - Enabled call recording
-- Added two channels for echo reference(reduces echo in calls)
+- Added two channels for echo reference (reduces echo in calls)
 - Redesigned FPS info 
-- Icreased statusbar padding
-- Many under the hood changes
+- Increased statusbar padding
+- Many under-the-hood changes
 
 # 24-Nov-2022
 - Switched to Litten kernel
