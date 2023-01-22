@@ -1,3 +1,13 @@
+# 22-Jan-2023
+- Switched to Xcalibur kernel
+- Removed ANX Camera
+- Tuned vibration pattern
+- Enabled call recording
+- Added two channels for echo reference(reduces echo in calls)
+- Redesigned FPS info 
+- Icreased statusbar padding
+- Many under the hood changes
+
 # 24-Nov-2022
 - Switched to Litten kernel
 - Fixed ram management
