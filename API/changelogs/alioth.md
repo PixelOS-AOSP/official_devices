@@ -1,3 +1,17 @@
+# 22-Jan-2023
+- Merged 4.19.269
+- Fixed rounded corners
+- Added aperture lens and aditional videos framerates
+- Switch to Vulkan render
+- Added high touch polling rate
+- Fixed AOD flicking
+- Disabled kpti
+- Enabled zygote critical window
+- Added blkio tuning from sunfish
+- Imported userdata tuning from oriole
+- Set GPU idle timeout to 58 ms
+- And alot more stuff on kernel side...
+
 # 17-Nov-2022
 - Initial Official build
 - Fixed BT ldac
