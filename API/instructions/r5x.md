@@ -1,9 +1,7 @@
 # Clean flash (coming from a different ROM):
-- Download ROM from the link above
-- Download Magisk v23.0 or newer (optionally)
-- Flash PBRP
-- Reboot to recovery
-- Flash the rom zip
+- Flash recovery (linked above)
+- Reboot to recovery 
+- Flash ROM zip
 - Format Data
 - Flash VBmeta_disabler.zip
 - Reboot and voila!
@@ -11,9 +9,5 @@
 
 # Updating to a newer build (dirty flash):
 - Flash ROM zip and magisk (optional)
-- Wipe cache and dalvik (optional, recommended)
 - Reboot and voila!
 - If rom loops to recovery, flash VBmeta_disabler.zip and reboot
-
-# For Realme 5i users:
-- Follow this guide here https://t.me/RealmemeCloud/513
