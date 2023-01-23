@@ -1,3 +1,18 @@
+# 23-Jan-2023
+- Enable perf hint window
+- Drop MMS user agent overlays
+- Update Audio HIDL to 7.1
+- Switch audio HAL to V7
+- Update Sensor from LA.UM.10.6.2.r1-01600-89xx.0
+- Update Audio from LA.UM.10.6.2.r1-01600-89xx.0
+- Update ANT+ from LA.UM.10.6.2.r1-01600-89xx.0
+- Update ADSP from LA.UM.10.6.2.r1-01600-89xx.0
+- Update Perf stack from LA.UM.10.6.2.r1-01600-89xx.0
+- Speed profile services and wifi-service to reduce RAM and storage
+- Update supported qcom parsers
+- Upstream kernel version to 4.9.337
+- Switched to user build
+
 # 18-Nov-2022
 - Upstreamed kernel to 4.9.333
 
