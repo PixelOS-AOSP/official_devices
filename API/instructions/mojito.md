@@ -11,9 +11,10 @@
 - Formatting with PixelOS Recovery (yes, I mean PixelOS Recovery ONLY) is MUST during clean flash
 
 # Clean Flash (coming from a different ROM)
-- Download ROM and Recovery to your computer
+- Download ROM, vendor_boot and boot files to your computer (click on recovery button for vendor_boot and boot)
 - Reboot the device to bootloader (Fastboot Mode)
-- Flash the recovery by running "fastboot flash vendor_boot <path/to/vendor_boot.img>" in terminal
+- Flash the vendor_boot by running "fastboot flash vendor_boot <path/to/vendor_boot.img>" in terminal
+- Flash the boot by running "fastboot flash boot <path/to/boot.img>" in terminal
 - Reboot to recovery by running "fastboot reboot recovery" in terminal
 - Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
@@ -22,10 +23,8 @@
 - Reboot and voila!
 
 # Dirty Flash / Update
-- Download ROM and Recovery to your computer
-- Reboot the device to bootloader (Fastboot Mode) [Skip if already using PixelOS recovery]
-- Flash the recovery by running "fastboot flash vendor_boot <path/to/vendor_boot.img>" in terminal [Skip if already using PixelOS recovery]
-- Reboot to recovery by running "fastboot reboot recovery" in terminal
+- Download ROM file to your computer
+- Reboot the device to recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
 - Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
 - Flash firmware (Version V13.0.11.0.SKGMIXM) through ADB sideload by running "adb sideload <path/to/fw.zip>" in terminal
