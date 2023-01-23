@@ -1,3 +1,19 @@
+# 23-Jan-2023
+- Added MIUI Camera
+- Addressed more SELinux policy denials
+- Drop pixel thermal hal workaround
+- Drop s2idle usage
+- Media: Update from LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Merge tag LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Move to lz4 for EROFS
+- overlay: Add dummy udfps sensor (Fixes screen off fod toggle)
+- Removed Dirac
+- Switch back to OpenGL renderer
+- Update CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0
+- Update GPS blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Upstreamed kernel to 4.14.303
+- Misc changes and improvements.
+
 # 16-Nov-2022
 - Switch back to SkiaGL renderer
 - Sync brightness overlays with coral
