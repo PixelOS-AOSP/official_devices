@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_munch-13.0-20221117-1448.zip",
-    "datetime": 1668695350,
-    "size": 2182784528,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20221117-1448.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20221117-1448.zip",
-    "filehash": "4a84e7c9bf7b4646f13f1bb0843ef1b4",
-    "id": "4a84e7c9bf7b4646f13f1bb0843ef1b4",
+    "filename": "PixelOS_munch-13.0-20230123-1156.zip",
+    "datetime": 1674474928,
+    "size": 1833304175,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230123-1156.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-23/PixelOS_munch-13.0-20230123-1156.zip",
+    "filehash": "66b5b5945dae12cdd8f69af529b596b1",
+    "id": "66b5b5945dae12cdd8f69af529b596b1",
     "maintainers": [
         {
             "main_maintainer": false,
