@@ -1,3 +1,10 @@
+# 23-Jan-2023
+- Removed GcamGO and added Aperture
+- Updated Dolby
+- Moved to Proton Clang
+- Changed kernel to perf
+- Fixed issue with offline charging indicator
+
 # 18-Nov-2022
 - Updated kernel to latest linux tag
 - Switched to legacy sepolicy_vndr
