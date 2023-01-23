@@ -1,3 +1,15 @@
+# 23-Jan-2023
+- Fixed bluetooth LE (low energy) audio
+- Fixed HDR video playback on Netflix
+- Added P3 and sRBG color profiles
+- Improved battery backup ;)
+- Updated stock blobs from MIUI13 SKOMIXM.13.0.8.0
+- Improved refresh rate switching
+- Locked refresh rate to 60hz on AOD
+- Added picture adjustment options in livedisplay
+- Enabled google dialer call recording feature
+- Reworked cutout and statusbar paddings
+
 # 27-Nov-2022
 - Added support for aptX codecs
 - Xiaomi Parts improvements
