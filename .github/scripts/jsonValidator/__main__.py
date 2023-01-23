@@ -23,6 +23,17 @@ def prettyJSON(jsonPath):
         json.dump(data, write_file, indent=4)
 
 
+
+with open("API/devices.json", "r") as json_file:
+    devices = json.load(json_file)
+
+# sort the devices by the "model" field
+devices["devices"].sort(key=lambda x: x["model"])
+
+# write the sorted data back to the file
+with open("API/devices.json", "w") as json_file:
+    json.dump(devices, json_file)
+
 for folder in foldersToFormat:
     for file in os.listdir(folder):
         if file.endswith(".json"):
