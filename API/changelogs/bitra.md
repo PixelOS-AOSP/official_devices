@@ -1,4 +1,7 @@
 # 24-Jan-2023
+- Fixed APN issue, now included
+
+# 24-Jan-2023
 - Initial builld
 - Added doze settings (raise to wake and pickup)
 - Latest Bigshot kernel
