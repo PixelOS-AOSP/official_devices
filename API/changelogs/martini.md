@@ -1,11 +1,11 @@
 # 26-Jan-2023
-- Switched to QTI Vibrator HAL (haptic effects are controlled in kernel now) - thanks to pjgowtham
+- Switched to QTI Vibrator HAL (haptic effects are controlled in kernel now) - thanks to [*pjgowtham*](https://github.com/pjgowtham)
 - Enabled AOSP vibration intensity control
 - Switched back to android.sensor.tilt_detector for pickup events
 - Reserved space for dynamic partitions
 - Allow only 5G SA for Jio carrier
 - Fixed heavy active/idle drain issues for some users
-- Rebased kernel on OOS 13 source - thanks to Albert Tang for his kernel source
+- Rebased kernel on OOS 13 source - thanks to [*Albert Tang*](https://github.com/tangalbert919) for his kernel source
 
 # 18-Dec-2022
 - Updated to Android 13 blobs

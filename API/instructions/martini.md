@@ -13,8 +13,8 @@
 - Reboot and voila!
 
 # If you're coming from an aosp rom based on OOS 12:
-- Flash OOS 13 F.13 fastboot rom and boot to it (Get it from [here](https://drive.google.com/uc?id=1N-k64Es6QJqN4c-yU21dZTVyXZsn-MU1&export=download))
-- Install OOS 13 F.13 full OTA zip in system updater (can get from oxygen updater app by enabling [them](https://drive.google.com/uc?id=1N-k64Es6QJqN4c-yU21dZTVyXZsn-MU1&export=download))
+- Flash OOS 13 F.13 fastboot rom and boot to it ( Get it from [__*HERE*__](https://drive.google.com/uc?id=1N-k64Es6QJqN4c-yU21dZTVyXZsn-MU1&export=download) )
+- Install OOS 13 F.13 full OTA zip in system updater ( Can get from oxygen updater app by enabling [__*THEM*__](https://drive.google.com/uc?id=1N-k64Es6QJqN4c-yU21dZTVyXZsn-MU1&export=download) )
 - Once done, reboot to bootloader, flash boot, dtbo and vendor_boot images
 - Reboot to recovery, format data and sideload the ROM zip
 - Reboot and voila!
