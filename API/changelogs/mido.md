@@ -1,3 +1,6 @@
+# 26-Jan-2023
+- Fixed an issue where volume cannot be changed
+
 # 23-Jan-2023
 - Enable perf hint window
 - Drop MMS user agent overlays
