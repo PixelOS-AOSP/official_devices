@@ -6,6 +6,29 @@
 - Format data
 - Reboot and voila!
 
+# If you're coming from an aosp rom based on OOS 13:
+- Reboot to bootloader
+- Flash boot, dtbo and vendor_boot images
+- Reboot to recovery, format data and sideload the ROM zip
+- Reboot and voila!
+
+# If you're coming from an aosp rom based on OOS 12:
+- Flash OOS 13 F.13 fastboot rom and boot to it (Get it from [here](https://drive.google.com/uc?id=1N-k64Es6QJqN4c-yU21dZTVyXZsn-MU1&export=download))
+- Install OOS 13 F.13 full OTA zip in system updater (can get from oxygen updater app by enabling [them](https://drive.google.com/uc?id=1N-k64Es6QJqN4c-yU21dZTVyXZsn-MU1&export=download))
+- Once done, reboot to bootloader, flash boot, dtbo and vendor_boot images
+- Reboot to recovery, format data and sideload the ROM zip
+- Reboot and voila!
+
+# If you're coming from OOS 13 F.13:
+- Same steps as above but skip the first step
+
+# If you're coming from any older OOS 13/12 versions:
+- Same steps as above but Install OOS 13 F.13 full OTA zip twice in system updater instead of flashing fastboot rom
+
+# Updating to a newer build (dirty flash):
+- Sideload ROM zip
+- Reboot and voila!
+
 # If sideloading rom gives error 7:
 - Reboot to recovery
 - Enter fastbootd
@@ -14,12 +37,3 @@
 - Sideload the rom zip
 - Format data
 - Reboot
-
-# For those who are coming from OOS13 open beta or those who downgraded from OOS13 to OOS12:
-- Please follow the instructions [_`HERE`_](https://telegra.ph/Rollback-from-oos13-11-05)
-- If you don't understand please come to the device group and ask for help
-- I'm not responsible for any bricked devices if you fail to follow it properly
-
-# Updating to a newer build (dirty flash):
-- Sideload ROM zip
-- Reboot and voila!
