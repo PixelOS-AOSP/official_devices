@@ -1,3 +1,9 @@
+# 26-Jan-2023
+- Added Refresh rate per-app
+- Added Mi sound Enhancer
+- Added Clear Speaker
+- Added gcam to aux Allowlist
+
 # 22-Jan-2023
 - Rebased on kenny Trees
 - Inherit several Android Go configurations
