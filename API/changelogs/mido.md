@@ -1,3 +1,8 @@
+# 27-Jan-2023
+- Fix Bluetooth audio on media
+- Dropped aperture camera (breaks video recording, gcam works fine)
+- Fixed fingerprint for goodix users
+
 # 26-Jan-2023
 - Fixed an issue where volume cannot be changed
 
