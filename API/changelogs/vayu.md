@@ -1,3 +1,12 @@
+# 27-Jan-2023
+-  Drop Gcamgo Prebuilt
+- Disable SF composition prediction model
+- Force device to treat 170M as sRGB in SF
+- Allow fingerprint to access adsp
+- Enable pelt
+- defconfig: Disable qcom core control
+- Misc fixes and improvement
+
 # 28-Nov-2022
 - Updated wifi config 
 - Supressed harmless denials
