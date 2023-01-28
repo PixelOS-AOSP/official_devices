@@ -11,6 +11,7 @@
 - Formatting with PixelOS Recovery (yes, I mean PixelOS Recovery ONLY) is MUST during clean flash
 
 # Clean Flash (coming from a different ROM)
+Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
 - Download ROM, vendor_boot and boot files to your computer (click on recovery button for vendor_boot and boot)
 - Reboot the device to bootloader (Fastboot Mode)
 - Flash the vendor_boot by running "fastboot flash vendor_boot <path/to/vendor_boot.img>" in terminal
@@ -23,6 +24,7 @@
 - Reboot and voila!
 
 # Dirty Flash / Update
+There will be no loss of data if everything goes well. Keep backups incase of any mishap. I will not be responsible for any loss of data.
 - Download ROM file to your computer
 - Reboot the device to recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
