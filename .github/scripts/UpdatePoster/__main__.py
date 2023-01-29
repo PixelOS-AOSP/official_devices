@@ -177,11 +177,8 @@ def post_maker(device_info, name):
 
     message = message + "\n"  # Leave a line unconditionally
 
-    message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
-
     if not device_info["updater"]:
-        # message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
-        print("")
+        message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
     else:
         open("no_ota.txt", "w+").write("no")
 
