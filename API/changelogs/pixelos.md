@@ -1,3 +1,19 @@
+# 26-Jan-2023
+- Rebased on android_13.0.0_r20
+- Switched to tracking most repositories from LineageOS
+- Switched to Aperture as the default camera app
+- Improved smooth display implementation for devices with higher refresh rates
+- Updated GMS components from the latest Pixel release
+- Added Network speed indicator for monitoring internet connection
+- Added an option to show data usage in the quick settings
+- Added one-shot auto brightness
+- Added configurable rotation angles for auto-rotate
+- Added an ADB root toggle
+- Improved black (dark) mode
+- Organized sound settings
+- Bluetooth dialog tile is now optional, with both custom and stock options available
+- Switched to the Expanded volume dialog implementation
+
 # 16-Nov-2022
 - Merged android_13.0.0_r14
 - Use Google Sans systemwide
