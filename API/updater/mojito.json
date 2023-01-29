@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_mojito-13.0-20230122-1521.zip",
-    "datetime": 1674400800,
-    "size": 1960915476,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230122-1521.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-22/PixelOS_mojito-13.0-20230122-1521.zip",
-    "filehash": "6e05caaeaa6786b8fac9ba5874dee19f",
-    "id": "6e05caaeaa6786b8fac9ba5874dee19f",
+    "filename": "PixelOS_mojito-13.0-20230129-0800.zip",
+    "datetime": 1674979011,
+    "size": 1960945556,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230129-0800.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-29/PixelOS_mojito-13.0-20230129-0800.zip",
+    "filehash": "5b3556eca222efbfe930a74cb2ad5ffa",
+    "id": "5b3556eca222efbfe930a74cb2ad5ffa",
     "maintainers": [
         {
             "main_maintainer": false,
