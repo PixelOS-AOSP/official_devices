@@ -1,3 +1,10 @@
+# 29-Jan-2023
+- Fixed random reboots
+- Dropped Livedisplay (doesn't work properly on sm8350 devices)
+- Added back boosted color profile (dropped sRGB and P3)
+- Updated kernel to CLO tag 'LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0'
+- Updated wireguard to v1.0.20220627
+
 # 23-Jan-2023
 - Fixed bluetooth LE (low energy) audio
 - Fixed HDR video playback on Netflix
