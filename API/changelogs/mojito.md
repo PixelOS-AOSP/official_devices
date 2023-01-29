@@ -1,3 +1,8 @@
+# 29-Jan-2023
+- Fine-tune auto brightness to prevent rapid brightness changes 
+- Sync latest source for minor fixes (Read Blog)
+- Fix ViLTE related issues
+
 # 22-Jan-2023
 - Update blobs from MIUI V13.0.11.0.SKGMIXM
 - Disallow aux cam usage for Owlgram
