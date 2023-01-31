@@ -1,3 +1,19 @@
+# 31-Jan-2023
+- Updated stock blobs from MIUI V13.0.11.0.SKQMIXM
+- Update common blobs from sweet V13.0.15.0.SKFMIXM
+- Update the Adreno stack
+- Uprev IQtiRadio with v2.6
+- Uprev ImsRadio version to 1.7
+- Uprev Bluetooth Audio HIDL to 2.1
+- Uprev IFactory version to 2.3.
+- Update GPS to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Revert gps PROXY_APP_PACKAGE_NAME OEM change
+- Disable SF composition prediction model
+- Force device to treat 170M as sRGB in SF
+- Disable redir_party_num
+- ViLTE should work now?
+- Tons of other misc. changes
+
 # 25-Nov-2022
 - Rebased on the latest xiaomi-sm6150 sources
 - Updated common blobs from sweet V13.0.16.0.SKFEUXM
