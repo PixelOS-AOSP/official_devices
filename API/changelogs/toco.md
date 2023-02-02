@@ -1,3 +1,41 @@
+# 02-Feb-2023
+- configs: Update qdcm display calibration to MIUI V13.0.4.0
+- Drop remnant sound_trigger stuff
+- Enable AIDL DRM HALs
+- gps: Update to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Inherit several Android Go configurations
+- media: Add swap width and height feature
+- media: Fix VTS issue
+- Move to common Xiaomi displayfeature HIDL
+- overlay: Configure SQLite to operate in MEMORY mode
+- overlay: Don't pin camera app in memory
+- overlay: Restore COLOR_MODE_SATURATED
+- overlay: Set google autofill service as default
+- overlay: Update pinner configuration from gs201
+- parts: Add Dirac logo
+- parts: Address services derp
+- powerhint: Fix undefined value in Node[PMQoSCpuDmaLatency]
+- powerhint: Import camera hints
+- powerhint: Restore EnergyAware node
+- powerhint: Set camera cpuset to little cores when unused
+- prop: Add touch improvements sysprops
+- prop: Disable QCRIL power saving
+- prop: Disable Skia tracing by default
+- prop: Don't set to adaptive mode by default
+- prop: Enable apk fs-verity 
+- prop: Remove QTI BT stack bits
+- prop: RIL edits for battery life
+- prop: Switch to AutoSingleLayer A13 setting
+- Refactor media configs
+- rootdir: Add back UFS sysfs path
+- sepolicy: Address denials for audio props
+- sepolicy: Address more denials for displayfeature props
+- Speed profile services and wifi-service
+- Ship Leica camera
+- Support udfps on AOD
+- Switch to OnePlus Dolby
+- Update system blobs from LA.QSSI.13.0.r1-08200-qssi.0
+
 # 30-Nov-2022
 - Add permission for Xiaomiparts
 - Add xiaomi misys support
