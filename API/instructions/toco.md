@@ -1,7 +1,7 @@
 # Clean flash:
 - Download ROM from the link above
 - Reboot to recovery
-- Flash the latest MIUI 13.0.2.0 firmware
+- Flash the latest MIUI 13.0.4.0 firmware
 - Flash ROM zip
 - Format DATA
 - Reboot and voila!
