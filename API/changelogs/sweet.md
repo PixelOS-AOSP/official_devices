@@ -1,3 +1,10 @@
+# 02-Feb-2023
+- Downgraded Adreno stack to older tag since a few games were crashing after the update
+- Update blobs from sweet V13.0.16.0.SKFMIXM
+- Fixed HDR in Netflix (using sweet's model this time)
+- Fixed an issue with WiFi on the previous build
+- Dropped LN8000 and Dolby
+
 # 29-Jan-2023
 - Update blobs from MIUI V13.0.15.0.SKFMIXM
 - Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
