@@ -15,7 +15,7 @@
     "release": "monthly",
     "device_display_name": "Motorola Edge 30",
     "device_display_codename": "dubai",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/",
     "last_updated": "01 February 2023",
     "private_download_tag": "dubai_20230131_2248",
     "active": true,
