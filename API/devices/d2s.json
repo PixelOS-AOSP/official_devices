@@ -1,0 +1,23 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Fellipe Lima",
+            "telegram": "https://t.me/Jubscleisson",
+            "github": "https://github.com/Jubscleisson"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy Note10+",
+    "device_display_codename": "d2s",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": "https://forum.xda-developers.com/t/rom-13-0-unofficial-pixelos-aosp-encryption-stable-04-02-2023.4506557/"
+}
