@@ -244,6 +244,69 @@
             "active": false
         },
         {
+            "codename": "d1",
+            "codename_alt": "d1",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy Note10",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "d2s",
+            "codename_alt": "d2s",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy Note10+",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "d2x",
+            "codename_alt": "d2x",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy Note10+ 5G",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "beyond1lte",
+            "codename_alt": "beyond1lte",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy S10",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "beyondx",
+            "codename_alt": "beyondx",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy S10 5G",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "beyond2lte",
+            "codename_alt": "beyond2lte",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy S10+",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "beyond0lte",
+            "codename_alt": "beyond0lte",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy S10e",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "starlte",
             "codename_alt": "starlte",
             "vendor": "Samsung",
@@ -296,69 +359,6 @@
             "maintainer_name": "Dennis Murimi",
             "frame": null,
             "active": true
-        },
-        {
-            "codename" : "beyond0lte",
-            "codename_alt" : "beyond0lte",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy S10e",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
-        },
-        {
-            "codename" : "beyond1lte",
-            "codename_alt" : "beyond1lte",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy S10",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
-        },
-        {
-            "codename" : "beyond2lte",
-            "codename_alt" : "beyond2lte",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy S10+",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
-        },
-        {
-            "codename" : "beyondx",
-            "codename_alt" : "beyondx",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy S10 5G",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
-        },
-        {
-            "codename" : "d1",
-            "codename_alt" : "d1",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy Note10",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
-        },
-        {
-            "codename" : "d2s",
-            "codename_alt" : "d2s",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy Note10+",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
-        },
-        {
-            "codename" : "d2x",
-            "codename_alt" : "d2x",
-            "vendor" : "Samsung",
-            "model" : "Samsung Galaxy Note10+ 5G",
-            "maintainer_name" : "Fellipe Lima",
-            "frame" : null,
-            "active" : true
         }
     ]
 }
