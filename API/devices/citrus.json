@@ -1,0 +1,23 @@
+{
+    "maintainer": [
+        {
+            "display_name": "ryyaap",
+            "telegram": "https://t.me/twenfourl",
+            "github": "https://github.com/hiirakuun"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "POCO M3",
+    "device_display_codename": "citrus",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": "https://forum.xda-developers.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
+}
