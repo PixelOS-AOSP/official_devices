@@ -1,3 +1,10 @@
+# 14-Feb-2023
+- Updated blobs from sweet V14.0.1.0.TKFEUXM (Be sure to sure the updated firmware from the support group)
+- Updated miuicamera from V14.0.1.0.TKFEUXM
+- Added translations for XiaomiParts
+- Adjust status bar padding once again (thanks Nayan)
+- Kernel upstream, compiled with clang 17
+
 # 02-Feb-2023
 - Downgraded Adreno stack to older tag since a few games were crashing after the update
 - Update blobs from sweet V13.0.16.0.SKFMIXM
