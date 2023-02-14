@@ -1,3 +1,26 @@
+# 14-Feb-2023
+- Adjust thread count and cpuset after setup wizard
+- Move audio-app cpuset to 1-2
+- Disable client composition cache
+- Adjust ripple animation duration
+- Force device to treat 170M as sRGB in SF
+- Disable SF Latch Buffer Signaled property
+- Import powerhint from Pixel 4A
+- Decrease launch boost to 3sec
+- Change default GPU idle timeout to 60ms
+- Update audio_io_policy for VoIP
+- Offload 24 bits playback supports mp3/aac format
+- Add hotword input for hotword mic concurrency
+- Update pinner configuration
+- Disable UI touch sounds by default
+- Allow more cached apps in the background
+- Set default screen density
+- Define AAPT configuration
+- Fix Google Assistant hotword "Hey Google"
+- Renable Mi smart fps
+- Bring back 30HZ & 50HZ Refresh rate
+- Add 140MHz GPU frequency step
+
 # 26-Jan-2023
 - Added Refresh rate per-app
 - Added Mi sound Enhancer
