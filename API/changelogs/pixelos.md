@@ -1,3 +1,17 @@
+# 14-Feb-2023
+- The February patch has been merged
+- Switch to PropImitationHooks
+- Updated GMS components from the Pixel 5 (redfin)
+- CTS/Play Integrity passes again
+- Switched Network Traffic implementation
+- Switch to Immersive Navigation
+- Added Volume Long Press Skip Tracks
+- Allow hiding power menu on secure lockscreen
+- Require unlocking to use sensitive QS tiles
+- Allow disabling screenshot shutter sound
+- Introduce camera & flashlight keyguard affordance
+- Allow setting bottom keyguard shortcuts
+
 # 26-Jan-2023
 - Rebased on android_13.0.0_r20
 - Switched to tracking most repositories from LineageOS
