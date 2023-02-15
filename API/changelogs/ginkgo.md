@@ -1,3 +1,6 @@
+# 15-Feb-2023
+- Switched back to stock adreno stack
+
 # 22-Jan-2023
 - Kernel updated to latest CLO revision
 - Fixed fast charging on Chinese variants
