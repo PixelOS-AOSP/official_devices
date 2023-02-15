@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_RMX2020-13.0-20230126-0046.zip",
-    "datetime": 1674693938,
-    "size": 1723587698,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230126-0046.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-26/PixelOS_RMX2020-13.0-20230126-0046.zip",
-    "filehash": "280576894ad3b6d4aac3ecc50f055c10",
-    "id": "280576894ad3b6d4aac3ecc50f055c10",
+    "filename": "PixelOS_RMX2020-13.0-20230214-2010.zip",
+    "datetime": 1676405362,
+    "size": 1724987906,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230214-2010.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-15/PixelOS_RMX2020-13.0-20230214-2010.zip",
+    "filehash": "1cad571f833f102a322787f5b0e6fa1a",
+    "id": "1cad571f833f102a322787f5b0e6fa1a",
     "maintainers": [
         {
             "main_maintainer": false,
