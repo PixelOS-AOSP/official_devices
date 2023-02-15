@@ -1,3 +1,23 @@
+# 15-Feb-2023
+- Updated blobs to MIUI V14.0.1.0.TLMMIXM
+- Moved to EROFS
+- Disabled AAudio MMAP (fixed audio muted or lost in some games, eg. Genshin Impact)
+- Only allow 5G SA for Jio
+- Built with KProfiles
+- Use HintManager for HWUI
+- Re-adjusted status bar padding
+- Reduce the Maximum vertical offset of statusbar for burn-in protection
+- Updated Nexus kernel v6 (Merged with Linux 4.19.272 tag)
+- Disable SF EGL image tracking 
+- Enable backpressure propagation in SF 
+- Migrate power saving props to system
+- Enable SSR for all subsystem types
+- Adjust thread count & cpuset after setup wizard
+- Fix app mode layout height for parts
+- Declare power AIDL v3
+- Compact & allow cached apps in the background
+- Offload 24-bits playback supports mp3/aac format
+
 # 23-Jan-2023
 - Reverted back to ext4 filesystem
 - Added dynamic refresh rate props
