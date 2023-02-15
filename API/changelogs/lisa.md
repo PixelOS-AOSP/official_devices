@@ -1,3 +1,11 @@
+# 15-Feb-2023
+- Updated stock blobs and configs from MIUI V14.0.2.0.TKOMIXM
+- Updated MIUI Camera from MIUI V14.0.2.0.TKOMIXM
+- Switched back to stock adreno stack
+- Enabled anti-aliasing for notch cutout and corners
+- Added support for aux on Aperture camera
+- Misc. improvements and fixes
+
 # 29-Jan-2023
 - Fixed random reboots
 - Dropped Livedisplay (doesn't work properly on sm8350 devices)
