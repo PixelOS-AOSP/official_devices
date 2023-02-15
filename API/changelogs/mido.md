@@ -1,3 +1,6 @@
+# 15-Feb-2023
+- Fixed audio buffering
+
 # 27-Jan-2023
 - Fix Bluetooth audio on media
 - Dropped aperture camera (breaks video recording, gcam works fine)
