@@ -140,7 +140,25 @@
             "codename_alt": "lime/pomelo/lemon/citrus",
             "vendor": "Xiaomi",
             "model": "Redmi 9T, Redmi Note 9 4G, Redmi 9 Power, Poco M3",
-            "maintainer_name": "RayapKun",
+            "maintainer_name": "hiirakuun",
+            "frame": null,
+            "active": false
+        },
+        {
+            "codename": "lime",
+            "codename_alt": "lime/pomelo/lemon",
+            "vendor": "Xiaomi",
+            "model": "Redmi 9T, Redmi Note 9 4G, Redmi 9 Power",
+            "maintainer_name": "ryyaap",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "citrus",
+            "codename_alt": "citrus",
+            "vendor": "Xiaomi",
+            "model": "POCO M3",
+            "maintainer_name": "ryyaap",
             "frame": null,
             "active": true
         },
