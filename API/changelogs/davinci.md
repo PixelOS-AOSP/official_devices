@@ -1,3 +1,7 @@
+# 15-Feb-2023
+- Updated common blobs from sweet V14.0.1.0.TKFEUXM
+- Kernel upstream, compiled with clang 17
+
 # 31-Jan-2023
 - Update blobs from MIUI V13.0.15.0.SKFMIXM
 - Update the Adreno stack
