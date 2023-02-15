@@ -1,3 +1,8 @@
+# 15-Feb-2023
+- Updated common blobs from sweet V14.0.1.0.TKFEUXM
+- Added translations for XiaomiParts
+- Kernel upstream, compiled with clang 17
+
 # 31-Jan-2023
 - Updated stock blobs from MIUI V13.0.11.0.SKQMIXM
 - Update common blobs from sweet V13.0.15.0.SKFMIXM
