@@ -1,3 +1,6 @@
+# 16-Feb-2023
+- Revert back to MIUI 13 blobs due to critical SMS issue
+
 # 15-Feb-2023
 - Updated blobs to MIUI V14.0.1.0.TLMMIXM
 - Moved to EROFS
