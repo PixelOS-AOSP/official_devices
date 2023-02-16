@@ -1,3 +1,6 @@
+# 16-Feb-2023
+- Updated fingerprint and desc. from MIUI 14
+
 # 15-Feb-2023
 - Updated stock blobs and configs from MIUI V14.0.2.0.TKOMIXM
 - Updated MIUI Camera from MIUI V14.0.2.0.TKOMIXM
