@@ -1,3 +1,16 @@
+# 16-Feb-2023
+- Statusbar padding tweaked
+- Unnecessary thermal profiles dropped
+- Compiled with Playground Clang 17
+- Removed Moto Dolby
+- Unlocked Aperture cam additional framerates
+- Disabled banking apps detecting root in init
+- Mlipay support has been dropped
+- Fixed hyper orange nightlight
+- Switch back to prebuilt USB configurations
+- Kcal support added via kernel
+- Brought back stock beryllium fingeprint
+
 # 23-Jan-2023
 - Removed GcamGO and added Aperture
 - Updated Dolby
