@@ -1,3 +1,9 @@
+# 17-Feb-2023
+- Fix low mic volume on VoIP
+- Update device that aptX is pulled from
+- Enabled audio suspend(reduces CPU/Battery usage)
+- Disabled statusbar burn in protection(It was on by default in source)
+
 # 22-Jan-2023
 - Switched to Xcalibur kernel
 - Removed ANX Camera
