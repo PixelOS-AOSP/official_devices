@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_yogurt-13.0-20230216-0609.zip",
+    "datetime": 1676527678,
+    "size": 1462501336,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/yogurt/PixelOS_yogurt-13.0-20230216-0609.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-18/PixelOS_yogurt-13.0-20230216-0609.zip",
+    "filehash": "784cd31135d4e291c5836d7b86eac9ad",
+    "id": "784cd31135d4e291c5836d7b86eac9ad",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "sakthivelnadar",
+            "name": "Sakthivel Nadar"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
