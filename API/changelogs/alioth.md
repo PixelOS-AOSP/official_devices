@@ -1,3 +1,20 @@
+# 19-Feb-2023
+- Built with Aosp Clang 17.0.0
+- Built Kprofiles
+- Merged 4.19.272
+- Improved High Brightness Mode (HBM)
+- Update CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0
+- Fixed layout height on Thermal Profiles
+- Updated camera cutout
+- Disabled QCRIL power saving
+- Fixed fingerprint wake-up animation
+- Re-configured CPU variant according to GS101
+- Reverted userdata tuning from oriole (Seems like decreases storage speed)
+- Disabled Wallpaper Zooming
+- Disabled sf EGL image tracking (To reduce overhead)
+- Fixed some audio related issues
+- Use AOSP default ripple animation duration
+
 # 18-Feb-2023
 - Built with Aosp Clang 17.0.0
 - Built Kprofiles

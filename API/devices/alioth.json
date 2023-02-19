@@ -17,8 +17,8 @@
     "device_display_name": "Poco F3/Mi 11X/Redmi K40",
     "device_display_codename": "alioth",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/",
-    "last_updated": "18 February 2023",
-    "private_download_tag": "alioth_20230218_1529",
+    "last_updated": "19 February 2023",
+    "private_download_tag": "alioth_20230218_2011",
     "active": true,
     "customRecoveryRequired": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
