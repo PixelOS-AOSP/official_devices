@@ -1,3 +1,12 @@
+# 20-Feb-2023
+- Rebased kernel
+- Fixed USB tethering
+- Enabled F2FS Compression
+- Update adreno blobs from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0 
+- Introduce Aperture
+- Switched to common QTI vibrator HAL
+- Update blobs from gauguin_GLOBAL_V13.0.7.0.SJSMIXM
+
 # 19-Nov-2022
 - Updated blobs from gauguin_GLOBAL V13.0.5.0.SJSMIXM release-keys.
 - Updated specific camera blobs from gauguin_CN V13.0.10.0.SJSCNXM release-keys.
