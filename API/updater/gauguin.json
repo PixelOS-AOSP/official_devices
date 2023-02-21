@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_gauguin-13.0-20230220-0831.zip",
-    "datetime": 1676881782,
-    "size": 2196035137,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230220-0831.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230220-0831.zip",
-    "filehash": "70e186833b6bb378eda6300c7c24ee7a",
-    "id": "70e186833b6bb378eda6300c7c24ee7a",
+    "filename": "PixelOS_gauguin-13.0-20230221-1006.zip",
+    "datetime": 1676973938,
+    "size": 2195746500,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230221-1006.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230221-1006.zip",
+    "filehash": "bdf75aa4fc26d23b911537c109f748c1",
+    "id": "bdf75aa4fc26d23b911537c109f748c1",
     "maintainers": [
         {
             "main_maintainer": false,
