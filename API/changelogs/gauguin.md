@@ -1,3 +1,6 @@
+# 21-Feb-2023
+- Fixed Safetynet Attestation.
+
 # 20-Feb-2023
 - Rebased kernel
 - Fixed USB tethering
