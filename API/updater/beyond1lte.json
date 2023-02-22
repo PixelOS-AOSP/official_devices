@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_beyond1lte-13.0-20230222-0210.zip",
+    "datetime": 1677031775,
+    "size": 1563750347,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond1lte/PixelOS_beyond1lte-13.0-20230222-0210.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-22/PixelOS_beyond1lte-13.0-20230222-0210.zip",
+    "filehash": "c2a5018efeb5c0b5ff571fa34f4c6d84",
+    "id": "c2a5018efeb5c0b5ff571fa34f4c6d84",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Jubscleisson",
+            "name": "Fellipe Lima"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-0-unofficial-pixelos-aosp-encryption-stable-04-02-2023.4506553/"
+}
