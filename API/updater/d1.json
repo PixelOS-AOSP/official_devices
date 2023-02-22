@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_d1-13.0-20230222-0331.zip",
+    "datetime": 1677036635,
+    "size": 1573348596,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d1/PixelOS_d1-13.0-20230222-0331.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-22/PixelOS_d1-13.0-20230222-0331.zip",
+    "filehash": "501c93353d5eeab0e42bfc453082435c",
+    "id": "501c93353d5eeab0e42bfc453082435c",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Jubscleisson",
+            "name": "Fellipe Lima"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-0-unofficial-pixelos-aosp-encryption-stable-04-02-2023.4506557/"
+}
