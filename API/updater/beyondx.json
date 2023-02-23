@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_beyondx-13.0-20230222-0314.zip",
-    "datetime": 1677035591,
-    "size": 1563614847,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyondx/PixelOS_beyondx-13.0-20230222-0314.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-22/PixelOS_beyondx-13.0-20230222-0314.zip",
-    "filehash": "d4de51fd8c50aec1e75c6be7d6084730",
-    "id": "d4de51fd8c50aec1e75c6be7d6084730",
+    "filename": "PixelOS_beyondx-13.0-20230223-1617.zip",
+    "datetime": 1677168971,
+    "size": 1563853542,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyondx/PixelOS_beyondx-13.0-20230223-1617.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-23/PixelOS_beyondx-13.0-20230223-1617.zip",
+    "filehash": "c312b2f3ef838c5fbe2de31b7ce05409",
+    "id": "c312b2f3ef838c5fbe2de31b7ce05409",
     "maintainers": [
         {
             "main_maintainer": false,
