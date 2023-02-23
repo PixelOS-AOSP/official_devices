@@ -1,3 +1,22 @@
+# 23-Feb-2023
+- Add power off alarm support (Needs LineageOS/DeskClock, or an alarm clock which supports power off alarm)
+- Address more sepolicy denials
+- Change default FOD pressed color to cyan
+- Drop cpu affinity configs
+- Enable qcrild and data services instead of starting them
+- Inherit several Android Go configurations
+- Switch to OSS mtdservice and mlipay
+- Update telephony package list to LA.QSSI.12.0.r1-05600-qssi.0
+- Silence CamX and CHIUSECASE log spam
+- Switch to source built camera stack
+- Temporary remove MIUI Camera due to reported issues
+- Added Aperture camera with AUX support
+- Use AOSP USB v2 audio HAL
+- Add some missing IMS blobs
+- Updated F2FS from Linux 6.2
+- Merge CodeLinaro LA.UM.9.1.r1-13100-SMxxx0.QSSI13.0 tag
+- Upstream kernel to 4.14.305 and compile it with playground clang 17
+
 # 23-Jan-2023
 - Added MIUI Camera
 - Addressed more SELinux policy denials
