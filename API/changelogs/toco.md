@@ -1,3 +1,17 @@
+# 23-Feb-2023
+- audio: Fix 24bit audio playback
+- dolby: Drop AC4 codec support
+- overlay: Disable UI touch sounds by default
+- overlay: Use AOSP default ripple animation duration
+- powerhint: Set GPU idle timeout to match kernel
+- prop: Disable SF composition prediction model
+- prop: Force device to treat 170M as sRGB in SF
+- rootdir: Delete /data/system/package_cache after updates
+- sepolicy: Allow parts to get SettingsLib prop
+- sepolicy: Allow system_server to set tethering properties
+- Update blobs from sweet V13.0.16.0.SKFMIXM
+- Update system from LA.QSSI.13.0.r1-09000.01-qssi.0
+
 # 02-Feb-2023
 - configs: Update qdcm display calibration to MIUI V13.0.4.0
 - Drop remnant sound_trigger stuff
