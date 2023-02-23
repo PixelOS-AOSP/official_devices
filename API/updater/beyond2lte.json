@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_beyond2lte-13.0-20230222-0257.zip",
-    "datetime": 1677034563,
-    "size": 1563673233,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond2lte/PixelOS_beyond2lte-13.0-20230222-0257.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-22/PixelOS_beyond2lte-13.0-20230222-0257.zip",
-    "filehash": "fa3794bf258e1cb85d57477b8d4d8790",
-    "id": "fa3794bf258e1cb85d57477b8d4d8790",
+    "filename": "PixelOS_beyond2lte-13.0-20230223-1602.zip",
+    "datetime": 1677168045,
+    "size": 1563829094,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond2lte/PixelOS_beyond2lte-13.0-20230223-1602.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-23/PixelOS_beyond2lte-13.0-20230223-1602.zip",
+    "filehash": "8f1dd7c13f9cdec197add63296824068",
+    "id": "8f1dd7c13f9cdec197add63296824068",
     "maintainers": [
         {
             "main_maintainer": false,
