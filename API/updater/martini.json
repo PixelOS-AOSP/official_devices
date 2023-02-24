@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_martini-13.0-20230126-1822.zip",
-    "datetime": 1674756811,
-    "size": 1941007173,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230126-1822.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-26/PixelOS_martini-13.0-20230126-1822.zip",
-    "filehash": "276bd5963a5ce467e23dfb579a89965f",
-    "id": "276bd5963a5ce467e23dfb579a89965f",
+    "filename": "PixelOS_martini-13.0-20230223-1854.zip",
+    "datetime": 1677177980,
+    "size": 1952436619,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230223-1854.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-24/PixelOS_martini-13.0-20230223-1854.zip",
+    "filehash": "08a9c1ddf426bd2e493c7c1f4a656018",
+    "id": "08a9c1ddf426bd2e493c7c1f4a656018",
     "maintainers": [
         {
             "main_maintainer": false,
