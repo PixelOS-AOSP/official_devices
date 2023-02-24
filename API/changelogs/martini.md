@@ -1,3 +1,10 @@
+# 24-Feb-2023
+- Enabled usage of blur under dev options 
+- Updated carrierconfig from OOS 13
+- Init script optimisations for better performance and battery life
+- Enabled automatic refresh rate switching for better battery life
+- Dropped a bunch of redundant services/blobs
+
 # 26-Jan-2023
 - Switched to QTI Vibrator HAL (haptic effects are controlled in kernel now) - thanks to [*pjgowtham*](https://github.com/pjgowtham)
 - Enabled AOSP vibration intensity control
