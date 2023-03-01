@@ -106,7 +106,7 @@
             "model": "Pocophone F1",
             "maintainer_name": "PaperBoy",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "r5x",
@@ -214,7 +214,7 @@
             "model": "Redmi Note 5 Pro/AI",
             "maintainer_name": "PaperBoy",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "violet",
