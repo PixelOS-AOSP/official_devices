@@ -1,3 +1,21 @@
+# 01-Mar-2023
+- Labelled Wakeup Nodes 
+- Switch to Silont-Inline 
+- Drop some redundant sepolicy 
+- Add init script for variant identification
+- Fix CTS 
+- Fix Double Tap To Wake 
+- Drop Camera Hal V1 
+- Switch to User build
+- Drop useless stuff in rootdir
+- Some Dex2oat tuning
+- Enable Some Android Go Configurations
+- Cleanup and re-order some props
+- Drop some useless Sepolicy 
+- Strip off some debugging packages
+- Fix performance hit on Unity Apps
+- Optimize ART
+
 # 15-Feb-2023
 - Labelled Wakeup Nodes 
 - Switch to Silont-Inline 
