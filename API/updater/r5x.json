@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_r5x-13.0-20230215-0932.zip",
-    "datetime": 1676453448,
-    "size": 1734926241,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20230215-0932.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-02-15/PixelOS_r5x-13.0-20230215-0932.zip",
-    "filehash": "17d19c7eade32291e98b1d24483afae3",
-    "id": "17d19c7eade32291e98b1d24483afae3",
+    "filename": "PixelOS_r5x-13.0-20230228-1202.zip",
+    "datetime": 1677582350,
+    "size": 1756303069,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20230228-1202.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-03-01/PixelOS_r5x-13.0-20230228-1202.zip",
+    "filehash": "6f618af323cad5a986293f351d5d51f8",
+    "id": "6f618af323cad5a986293f351d5d51f8",
     "maintainers": [
         {
             "main_maintainer": false,
