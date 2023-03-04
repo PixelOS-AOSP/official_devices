@@ -4,11 +4,6 @@
             "display_name": "Sarthak Roy",
             "telegram": "https://t.me/sarthakroy2002",
             "github": "https://github.com/sarthakroy2002"
-        },
-        {
-            "display_name": "clhex",
-            "telegram": "https://t.me/hexcl",
-            "github": "https://github.com/clhexftw/"
         }
     ],
     "updater": true,
@@ -23,6 +18,6 @@
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/X00T/",
     "last_updated": "",
     "private_download_tag": "",
-    "active": true,
+    "active": false,
     "xda": ""
 }
