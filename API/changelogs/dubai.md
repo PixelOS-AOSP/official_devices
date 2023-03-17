@@ -1,3 +1,10 @@
+# 17-Mar-2023
+- Updated blobs to S1RDS32.55-106 (Be sure to update your firmware!)
+- Fixed issue with Netflix
+- Limit AOD & Ambient Display refresh rate to 48Hz
+- Switched back to SLMK
+- Kernel upstream
+
 # 16-Feb-2023
 - Placeholder
 
