@@ -106,7 +106,7 @@
             "model": "Pocophone F1",
             "maintainer_name": "PaperBoy",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "r5x",
