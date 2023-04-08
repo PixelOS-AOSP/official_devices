@@ -64,15 +64,6 @@
             "active": true
         },
         {
-            "codename": "porsche",
-	    "codename_alt": "porsche",
-            "vendor": "Realme",
-            "model": "Realme GT 2",
-            "maintainer_name": "Sugakesshaa",
-            "frame": null,
-            "active": true
-        },
-        {
             "codename": "citrus",
             "codename_alt": "citrus",
             "vendor": "Xiaomi",
@@ -134,6 +125,15 @@
             "maintainer_name": "Anoosragh",
             "frame": null,
             "active": false
+        },
+        {
+            "codename": "porsche",
+            "codename_alt": "porsche",
+            "vendor": "Realme",
+            "model": "Realme GT 2",
+            "maintainer_name": "Sugakesshaa",
+            "frame": null,
+            "active": true
         },
         {
             "codename": "bitra",
