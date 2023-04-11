@@ -10,7 +10,6 @@
             "telegram": "https://t.me/kardebayan",
             "github": "https://github.com/kardebayan"
         }
-
     ],
     "updater": true,
     "beta": false,
