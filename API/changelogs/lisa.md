@@ -1,3 +1,10 @@
+# 13-Apr-2023
+- Fixed an issue where blacks were displayed as grey in apps like Netflix
+- Fixed an issue where stock camera app would force close randomly
+- Fixed media playback in browsers and a few more apps like Twitter
+- Updated kernel to latest CLO tag
+- Misc. fixes and improvements
+
 # 16-Feb-2023
 - Updated fingerprint and desc. from MIUI 14
 
