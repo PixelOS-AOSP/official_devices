@@ -1,3 +1,13 @@
+# 13-Apr-2023
+- Updated blobs from sweet V14.0.1.0.TKFMIXM
+- Repatched IMS from sweet V14.0.1.0.TKFMIXM
+- Updated the s5kgw3 camera libraries from MIUI V14.0.1.0.TKFINXM
+- Updated Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Adjusted status bar padding 
+- Fixed EGL symlink
+- Updated XiaomiParts translations
+- Updated VantomKernel
+
 # 14-Feb-2023
 - Updated blobs from sweet V14.0.1.0.TKFEUXM (Be sure to sure the updated firmware from the support group)
 - Updated miuicamera from V14.0.1.0.TKFEUXM
