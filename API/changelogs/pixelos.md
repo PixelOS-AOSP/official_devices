@@ -1,3 +1,15 @@
+# 13-Apr-2023
+- The March/April patches have been merged
+- Switched to the Paranoid Android Launcher
+- Added icon styles and icon shape options
+- Added ability to switch fonts
+- Added over the air updates
+- Added AppLock
+- Use Monet colors for the power menu 
+- Updated the Bluetooth tile implementation
+- Updates to the network traffic indicator implementation
+- Updates to the Dark Mode implementation
+
 # 14-Feb-2023
 - The February patch has been merged
 - Switch to PropImitationHooks
