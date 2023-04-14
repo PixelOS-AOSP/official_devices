@@ -1,3 +1,6 @@
+# 14-Apr-2023
+- Dropped Livedisplay (we've kcal and HBM in parts)
+
 # 15-Feb-2023
 - Switched back to stock adreno stack
 
