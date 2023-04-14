@@ -1,3 +1,11 @@
+# 14-Apr-2023
+- Enable ro.hwui.render_ahead and set it to 20 frames
+- Fix fingerprint wakeup animation
+- Fix a rare crash of dirac
+- Disabled UI touch by default
+- Disabled status bar burn in protection
+- Tweaked padding a bit
+
 # 16-Feb-2023
 - Statusbar padding tweaked
 - Unnecessary thermal profiles dropped
