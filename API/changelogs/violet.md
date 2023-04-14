@@ -1,3 +1,12 @@
+# 14-Apr-2023
+- Upstreamed kernel
+- Improved signal reception
+- Boosted performance during bootup
+- Enabled LTE_CA workaround
+- Fixed issues with loud speaker
+- Fixed random mic issues
+- Redefined bluetooth a2dp offload capabilities
+
 # 17-Feb-2023
 - Fix low mic volume on VoIP
 - Update device that aptX is pulled from
