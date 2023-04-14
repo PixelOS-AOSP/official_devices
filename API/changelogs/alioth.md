@@ -1,3 +1,23 @@
+# 14-Apr-2023
+- Added Leica Camera
+- Nuked Dolby (Just creates more issues then it improves)
+- Fixed Bluetooth issues on Tik tok 
+- Adjusted status bar padding
+- Dropped Qualcomm WFD (Fixes wfd crashes)
+- Added touch profiles
+- Fixed Google Recorder
+- Enabled ufs powersaving after boot
+- Dropped PM QoS boosting
+- Removed Audio hints
+- Removed Google-specific camera hints
+- Removed hints for Adaptive Battery CPU Throttling
+- Enabled F2F2 background GC
+- Updated pinner configuration
+- Use FUSE passthrough by default
+- Enabled volte on some carriers
+- Stealed SurfaceFlinger offsets from taro (Decreases latency)
+- Enabled use_smooth_motion
+
 # 19-Feb-2023
 - Built with Aosp Clang 17.0.0
 - Built Kprofiles
