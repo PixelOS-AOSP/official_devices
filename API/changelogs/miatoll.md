@@ -1,3 +1,10 @@
+# 15-Apr-2023
+- Add Dirac sound enhancer
+- Fixed carrier aggregation
+- Enable ro.hwui.render_ahead and set it to 20 frames
+- Remove no longer needed aptX blobs
+- Removed prebuilt gcam and brought back Aperture
+
 # 27-Jan-2023
 - Switched to Alex tree
 
