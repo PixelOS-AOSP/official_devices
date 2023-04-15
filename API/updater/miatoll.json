@@ -1,14 +1,19 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_miatoll-13.0-20230126-0748.zip",
-    "datetime": 1674719212,
-    "size": 2055711672,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230126-0748.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-01-27/PixelOS_miatoll-13.0-20230126-0748.zip",
-    "filehash": "70326ffd3951cff2edff17259823afdd",
-    "id": "70326ffd3951cff2edff17259823afdd",
+    "filename": "PixelOS_miatoll-13.0-20230414-1929.zip",
+    "datetime": 1681500499,
+    "size": 1961443712,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230414-1929.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-04-15/PixelOS_miatoll-13.0-20230414-1929.zip",
+    "filehash": "ab6d5023f691fb5a080266f1a678701d",
+    "id": "ab6d5023f691fb5a080266f1a678701d",
     "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "sajidshahriar72543",
+            "name": "PaperBoy"
+        },
         {
             "main_maintainer": false,
             "github_username": "kardebayan",
