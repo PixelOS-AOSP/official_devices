@@ -1,3 +1,9 @@
+# 15-Apr-2023
+- Switched to libperfmgr (Pixel Power HAL)
+- Included Oplus Camera and Gallery from OnePlus 10 Pro
+- Improved punch hole cutout
+- Reworked display color modes
+
 # 24-Feb-2023
 - Enabled usage of blur under dev options 
 - Updated carrierconfig from OOS 13
