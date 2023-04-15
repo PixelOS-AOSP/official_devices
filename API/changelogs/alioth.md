@@ -1,3 +1,10 @@
+# 15-Apr-2023
+- Switched to Smooth Display
+- Dropped Qs refresh rate (We have switched to smooth display)
+- Fixed Calling on some carriers
+- Enhanced Audio quality
+- Fixed libperfmgr spamming
+
 # 14-Apr-2023
 - Added Leica Camera
 - Nuked Dolby (Just creates more issues then it improves)
