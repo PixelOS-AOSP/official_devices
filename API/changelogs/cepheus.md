@@ -1,3 +1,17 @@
+# 16-Apr-2023
+- Upstreamed to 4.14.312 
+- Update cpusets for efficiency
+- Update adreno to LA.UM.9.14.r1-21000-LAHAINA
+- Switch to new UDFPS sensor implementation
+- Update power_profile from coral
+- Adjusted DC dimming values
+- Dropped zram and use zswap+vbswap
+- Fixed an issue with stuck scrolling through FOD area
+- Fixed an issue with crashing calls on background
+- Fixed brightness issues 
+- Fixed deep sleep / idle drain
+- Merged tag LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0
+
 # 23-Feb-2023
 - Add power off alarm support (Needs LineageOS/DeskClock, or an alarm clock which supports power off alarm)
 - Address more sepolicy denials
