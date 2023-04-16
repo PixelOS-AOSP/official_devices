@@ -1,9 +1,9 @@
 [ROM][13][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
 
-<!-- Read the whole thread and fill the required blanks marked with '*' or '(?)' -->
+<!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
 [CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/thirteen/banners/latest.png[/IMG]
-PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
+PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
 *
@@ -17,8 +17,8 @@ PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. W
 [SIZE=6][URL='https://blog.pixelos.net/'][B]Our Featurelist[/B][/URL][/SIZE]
 [/CENTER]
 
-[B][U]Device Specific Issues: [/U][/B]
-<!-- Include device specific bugs here -->
+[B][U]Device-specific issues: [/U][/B]
+<!-- Include device-specific bugs here -->
 
 [B][U]Requirements[/U][/B]
 <!-- Include minimum firmware or vendor (if prebuilt) requirements -->
@@ -27,13 +27,11 @@ PixelOS is an AOSP based ROM, with Google apps included and all Pixel goodies. W
 Get the latest PixelOS Build for * [URL='https://pixelos.net/download/*']Download[/URL]
 Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
-<!-- Linking DFE is optional, as some of the devices don't support it -->
-DFE (optional) (not recommended) [URL]https://github.com/PixelOS-Devices/builds/releases/download/2021-10-28/Disable_Dm-Verity_ForceEncrypt_20201008.zip[/URL]
-<!-- Link a custom recovery here, preferrably twrp or orange fox -->
+<!-- Link a custom recovery here, preferably TWRP or OrangeFox Recovery -->
 Recovery [URL]*[/URL]
 PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/thirteen/*/recovery/[/URL]
 [CENTER]
-[SIZE=4][B][COLOR=rgb(184, 49, 47)]Note: GApps are included, don't flash separately.[/COLOR][/B][/SIZE][/CENTER]
+[SIZE=4][B][COLOR=rgb(184, 49, 47)]Note: GApps are included, don't flash them separately.[/COLOR][/B][/SIZE][/CENTER]
 
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
@@ -41,27 +39,25 @@ PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/th
 • (?) Included MIUI/ANX Camera
 • (?) QuicksilveR v2 Kernel Included
 
-<!-- Might be different for different devices -->
+<!-- Instructions may vary for different devices -->
 [B][U]Flashing Instructions[/U]
 Clean flash (coming from a different ROM):[/B]
-• Download ROM from the link above
-• Download Magisk v23.0 or newer (optionally)
+• Download the ROM from the link above
+• Download Magisk v26.1 or newer (optionally)
 • Reboot to recovery
-• Format data (if encrypted)
-• Wipe system, vendor, cache, dalvik, data
-• Flash latest android 11 global stable firmware (link above)
-• Flash ROM zip
+• Flash the latest Android 13 firmware (linked above)
+• Flash the ROM zip
 • Reboot and voila!
-• To get root access, reboot to recovery after ROM setup and flash magisk.
+• To get root access, reboot to recovery after the ROM setup and flash Magisk.
 
 [B]Updating to a newer build (dirty flash):[/B]
-• Flash ROM zip and magisk (optional)
+• Flash the ROM zip and Magisk (optional)
 • Wipe cache and dalvik (optional, recommended)
 • Reboot and voila!
 
 Read our blog [URL]https://blog.pixelos.net[/URL]
 Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
-Buy me a Coffee [URL]https://paypal.me/*[/URL]
+Help support PixelOS [URL]https://blog.pixelos.net/docs/donate[/URL]
 Help translate PixelOS [URL]https://translate.pixelos.net[/URL]
 
 [B][U]Source Code[/U][/B]
