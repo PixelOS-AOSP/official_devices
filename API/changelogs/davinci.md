@@ -1,7 +1,6 @@
 # 16-Apr-2023
 - Updated blobs from sweet V14.0.1.0.TKFMIXM
 - Repatched IMS from sweet V14.0.1.0.TKFMIXM
-V14.0.1.0.TKFINXM
 - Updated Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
 - Fixed EGL symlink
 - Updated VantomKernel
