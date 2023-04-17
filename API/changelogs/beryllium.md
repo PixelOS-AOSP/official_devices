@@ -1,3 +1,6 @@
+# 17-Apr-2023
+- Fixed a few banking apps detecting root
+
 # 14-Apr-2023
 - Enable ro.hwui.render_ahead and set it to 20 frames
 - Fix fingerprint wakeup animation
