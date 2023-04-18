@@ -201,6 +201,14 @@
             "tagline": "In the Milky Way"
         },
         {
+            "name": "ragy",
+            "github": "ragy365",
+            "telegram": "ragy366",
+            "XDA": "https://forum.xda-developers.com/m/ragy747.9235713/",
+            "role": "surya Maintainer",
+            "tagline": "Tendo bansho"
+        },
+        {
             "name": "Vantom",
             "github": "vantoman",
             "telegram": "Vantom",
@@ -247,14 +255,6 @@
             "XDA": "https://forum.xda-developers.com/m/jubscleisson.10485153/",
             "role": "Samsung Galaxy S10 & Note10 Series Maintainer",
             "tagline": "Stay calm and be yourself!!"
-        },
-        {
-            "name": "ragy",
-            "github": "ragy365",
-            "telegram": "ragy366",
-            "XDA": "https://forum.xda-developers.com/m/ragy747.9235713/",
-            "role": "Ex-surya Maintainer",
-            "tagline": "Tendo bansho"
         },
         {
             "name": "Don Sanchez",
