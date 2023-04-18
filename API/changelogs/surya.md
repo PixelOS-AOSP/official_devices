@@ -1,3 +1,12 @@
+# 18-Apr-2023
+- Enable config_avoidGfxAccel
+- Update gps to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Update telephony package list to LA.QSSI.12.0.r1-05600-qssi.0
+- Drop vestigial FM board-flags
+- Audio: Drop 24 and 32 bit recording support
+- Media: Fix VTS issue.
+- Media: Add swap width and height feature
+
 # 14-Feb-2023
 - Adjust thread count and cpuset after setup wizard
 - Move audio-app cpuset to 1-2
