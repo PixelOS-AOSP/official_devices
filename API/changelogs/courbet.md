@@ -1,3 +1,12 @@
+# 18-Apr-2023
+- Updated device blobs from MIUI V14.0.2.0.TKQMIXM
+- Updated common blobs from sweet V14.0.1.0.TKFMIXM
+- Repatched IMS from sweet V14.0.1.0.TKFMIXM
+- Updated Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Fixed EGL symlink
+- Updated XiaomiParts translations
+- Updated VantomKernel
+
 # 15-Feb-2023
 - Updated common blobs from sweet V14.0.1.0.TKFEUXM
 - Added translations for XiaomiParts
