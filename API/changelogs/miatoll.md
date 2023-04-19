@@ -1,3 +1,7 @@
+# 19-Apr-2023
+- Fix low mic volume on reception end in loudspeaker and wired earphones
+- Fix some banking apps detecting root
+
 # 15-Apr-2023
 - Add Dirac sound enhancer
 - Fixed carrier aggregation
