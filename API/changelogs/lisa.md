@@ -1,3 +1,7 @@
+# 19-Apr-2023
+- Fixed safetynet issues for non root users
+- Updated stock blobs MIUI V14.0.3.0.TKOMIXM
+
 # 13-Apr-2023
 - Fixed an issue where blacks were displayed as grey in apps like Netflix
 - Fixed an issue where stock camera app would force close randomly
