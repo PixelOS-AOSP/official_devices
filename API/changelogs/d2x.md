@@ -1,3 +1,10 @@
+# 23-Apr-2023
+- Compile the kernel without GCC
+- Replace libutils-v32 with a shim
+- Update blobs from *HWA1/*HWA3
+- Update kernel to Linux 4.14.310
+- Use linaro BSP
+
 # 23-Feb-2023
 - Fix NFC
 - Revert SkiaGL stuff (causes lags)
