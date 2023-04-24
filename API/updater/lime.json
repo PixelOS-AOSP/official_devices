@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_lime-13.0-20230424-1046.zip",
+    "datetime": 1682316540,
+    "size": 1808577867,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/PixelOS_lime-13.0-20230424-1046.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-04-24/PixelOS_lime-13.0-20230424-1046.zip",
+    "filehash": "f643eb3f68a5287bf087ac7d3075395b",
+    "id": "f643eb3f68a5287bf087ac7d3075395b",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "hiirakuun",
+            "name": "ryyaap"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "https://forum.xda-developers.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
+}
