@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_citrus-13.0-20230424-1921.zip",
+    "datetime": 1682364042,
+    "size": 1803396834,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/PixelOS_citrus-13.0-20230424-1921.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-04-25/PixelOS_citrus-13.0-20230424-1921.zip",
+    "filehash": "b772126ffcb0ebab09e62b17827c35d0",
+    "id": "b772126ffcb0ebab09e62b17827c35d0",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "hiirakuun",
+            "name": "ryyaap"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "https://forum.xda-developers.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
+}
