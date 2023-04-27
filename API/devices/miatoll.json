@@ -4,11 +4,6 @@
             "display_name": "PaperBoy",
             "telegram": "https://t.me/paperboy22",
             "github": "https://github.com/sajidshahriar72543"
-        },
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "https://t.me/kardebayan",
-            "github": "https://github.com/kardebayan"
         }
     ],
     "updater": true,
