@@ -1,3 +1,6 @@
+# 29-Apr-2023
+- Update common blobs from sweet MIUI V14.0.2.0.TKFMIXM
+
 # 20-Apr-2023
 - audio: Use 24bit as primary output
 - Import Xiaomi TouchFeature service
