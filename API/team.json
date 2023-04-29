@@ -287,6 +287,14 @@
             "XDA": "https://forum.xda-developers.com/m/ano0.10677975/",
             "role": "Ex-RMX1941 Maintainer",
             "tagline": "How does that even work?"
+        },
+        {
+            "name": "HELLINFIX",
+            "github": "HELLINFIX",
+            "telegram": "HELLINFIX",
+            "XDA": "https://forum.xda-developers.com/m/hellinfix57570.12502859/",
+            "role": "spaced Maintainer",
+            "tagline": "DEAD AF"
         }
     ]
 }

@@ -154,6 +154,15 @@
             "active": true
         },
         {
+            "codename": "spaced",
+            "codename_alt": "spaced",
+            "vendor": "Realme",
+            "model": "Realme Narzo 50/8i",
+            "maintainer_name": "HELLINFIX",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "lime",
             "codename_alt": "lime/pomelo/lemon",
             "vendor": "Xiaomi",

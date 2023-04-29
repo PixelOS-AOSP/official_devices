@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "HELLINFIX",
+            "telegram": "https://t.me/HELLINFIX",
+            "github": "https://github.com/HELLINFIX"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Realme 8i/Realme Narzo 50",
+    "device_display_codename": "RMX3151,RMX3286",
+    "public_download": "null",
+    "last_updated": "null",
+    "private_download_tag": "null",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
