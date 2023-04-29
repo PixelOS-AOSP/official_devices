@@ -6,7 +6,7 @@
 - Drop debugfs related sepolicy, mount flags, ownership changes.
 - Drop unused A-only fstab.
 - Increase autobrightness light debounce.
-- Implement a new and modernized double tap to wake sensor(toggle is located in YASP->Gestures).
+- Implement a new and modernized double tap to wake sensor(toggle is located in System->Gestures).
 - Cleanup unused SEPolicy rules.
 - Drop XiaomiParts as its redundant.
 - Drop dolby/dirac configs as its redundant.
