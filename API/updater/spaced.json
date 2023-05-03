@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_spaced-13.0-20230503-0523.zip",
+    "datetime": 1683091357,
+    "size": 1813756144,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/spaced/PixelOS_spaced-13.0-20230503-0523.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-05-03/PixelOS_spaced-13.0-20230503-0523.zip",
+    "filehash": "1d75addb64150127c9aa3e7f9842f6ad",
+    "id": "1d75addb64150127c9aa3e7f9842f6ad",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "HELLINFIX",
+            "name": "HELLINFIX"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
