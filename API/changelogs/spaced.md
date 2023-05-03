@@ -1,0 +1,12 @@
+# 03-May-2023
+- Fixed Videoplayback Issue
+- Fixed Refresh Rate Weird behaviour
+- The default camera is now LineageOS Aperture
+- Match brightness range with stock
+- Switch to EROFS odm and vendor
+- Fixed Auto Brightness
+- Imported Live Display
+- Fixed Dt2w service
+- Fixed Fast Charging
+- Improved Stability 
+- Fixed QS Lag  
