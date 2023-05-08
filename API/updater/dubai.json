@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_dubai-13.0-20230416-0833.zip",
-    "datetime": 1681633994,
-    "size": 1889070177,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230416-0833.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-04-16/PixelOS_dubai-13.0-20230416-0833.zip",
-    "filehash": "02e36c53252beb52389e3dbcd5556793",
-    "id": "02e36c53252beb52389e3dbcd5556793",
+    "filename": "PixelOS_dubai-13.0-20230508-1911.zip",
+    "datetime": 1683573013,
+    "size": 1891912065,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230508-1911.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-05-08/PixelOS_dubai-13.0-20230508-1911.zip",
+    "filehash": "afd7deb3141887569b76bcc67af28b94",
+    "id": "afd7deb3141887569b76bcc67af28b94",
     "maintainers": [
         {
             "main_maintainer": false,
