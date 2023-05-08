@@ -1,3 +1,20 @@
+# 8-May-2023
+- Merged the May security patch
+- Switched back to the Pixel launcher (with a potential fix) and Pixel theme picker
+- Brought back unlinked ringer streams
+- Brought back the option to hide the power menu on the secure lock screen
+- Added option for haptic feedback on back gesture
+- Added button to upload crash log to Memocho for easier bug reporting
+- Minor improvements to SafetyNet/banking app hiding
+- Made App Lock more properly accessible and fixed a few issues
+- Update pocket mode style to the latest OxygenOS specs
+- Re-organized the sound settings
+- Introduced the power-off-alarm service
+- Updated themed icons
+- HWUI improvements
+- Reduced log spam
+- Other improvements
+
 # 13-Apr-2023
 - The March/April patches have been merged
 - Switched to the Paranoid Android Launcher
