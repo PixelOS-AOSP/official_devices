@@ -196,7 +196,7 @@
             "model": "Redmi K40S/POCO F4",
             "maintainer_name": "masarou",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "mojito",
