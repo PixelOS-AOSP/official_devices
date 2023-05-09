@@ -1,3 +1,15 @@
+# 09-May-2023
+- Update FP from V14.0.1.0. (SJGMIXM) (SJGIDXM)
+- Remove no longer needed aptX blobs
+- Redefine bluetooth a2dp offload capabilities
+- Update app/sf durations from MIUI
+- Extend buffer size to 256kb for offload playback
+- Build missing omx libs
+- Fixup wpa supplicant service init
+- Add missing camera blobs
+- Import 32 bit CamX libraries
+- Update blobs from V14.0.4.0.SJGEUXM
+
 # 18-Apr-2023
 - Enable config_avoidGfxAccel
 - Update gps to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
