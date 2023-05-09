@@ -1,3 +1,6 @@
+# 09-May-2023
+- Enabled CA by default
+
 # 14-Feb-2023
 - Improved fingerprint unlock speed (same as a12 now)
 - linkerconfig selinux spams are suppressed
