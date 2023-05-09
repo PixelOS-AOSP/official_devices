@@ -1,3 +1,10 @@
+# 09-May-2023
+- Fixed buffering in audio/video
+- Fix screen record lag
+- Update audio HIDL to v7.1
+- Added support for f2fs
+- Add available colour modes
+
 # 14-Apr-2023
 - Switch to jemalloc for libc and camera
 - Improved fingerprint unlock speed
