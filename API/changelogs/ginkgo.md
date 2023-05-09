@@ -1,3 +1,10 @@
+# 09-May-2023
+- Disabled combined QS header
+- Use pie chromatix libs for better camera quality
+- Improved cpusets and cpufreq governor ratelimits
+- Fixed portrait mode crash in MIUICamera
+- Updated kernel to latest CLO revision (13400-SMxxx0)
+
 # 14-Apr-2023
 - Dropped Livedisplay (we've kcal and HBM in parts)
 
