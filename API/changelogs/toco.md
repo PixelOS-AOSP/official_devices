@@ -1,3 +1,9 @@
+# 09-May-2023
+- Ship VantomKernel v4.14.314
+- Switch to common Xiaomi 1.0 sensors implementation
+- Update blobs from LA.QSSI.13.0.r1-09700-qssi.0
+- Update CarrierConfig from LA.QSSI.13.0.r1-09700-qssi.0
+
 # 29-Apr-2023
 - Update common blobs from sweet MIUI V14.0.2.0.TKFMIXM
 
