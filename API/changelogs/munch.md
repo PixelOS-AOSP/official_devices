@@ -1,3 +1,12 @@
+# 10-May-2023
+- Use IMS from renoir (Mi 11 Youth/Lite 5G)
+- Switched to Hoshiyomi kernel
+- Re-adjusted status bar padding
+- Set screen-off schedutil ratelimits
+- Set to powersave governor when device is idle (increased Deep Sleep efficiency)
+- Reverted to Smooth Display toggle
+- Removed Adaptive Battery CPU throttling & some other deprecated hints
+
 # 16-Feb-2023
 - Revert back to MIUI 13 blobs due to critical SMS issue
 
