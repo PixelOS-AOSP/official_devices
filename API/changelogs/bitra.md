@@ -1,3 +1,19 @@
+# 10-May-2023
+-Kernel updated to 4.19.282
+-Updated fingerprint to F05
+-Added custom ih8sn for prevent safetynet issues
+-Added Livedisplay
+-Imported brightness overlays from lemonadep
+-Fixed low brightness on AOD
+-Added back bluetooth 2.0 HIDL
+-Added punchole protection based on porsche
+-Imported new display calibration config from martini
+-Prebuilt audio hal
+-Added QCOM Audio Effects
+-Set to powersave governor on screen off (better idle)
+-Powerhint optimization
+-Vibration improved according to stock behaviour
+
 # 17-Feb-2023
 - Updated BigShot kernel
 - QuickTap support
