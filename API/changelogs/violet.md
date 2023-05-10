@@ -1,8 +1,3 @@
-# 10-May-2023
-- Updated kernel
-- Enable 24-bit for primary output and deep buffer
-- Enable VoLTE/ViLTE/VoWiFi for entire 470 mcc
-
 # 14-Apr-2023
 - Upstreamed kernel
 - Improved signal reception
