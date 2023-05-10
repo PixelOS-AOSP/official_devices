@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_bitra-13.0-20230216-2157.zip",
-    "datetime": 1676584564,
-    "size": 2376392545,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230216-2157.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230216-2157.zip",
-    "filehash": "6e22b28f651f2fd62d7993c21c915288",
-    "id": "6e22b28f651f2fd62d7993c21c915288",
+    "filename": "PixelOS_bitra-13.0-20230510-1837.zip",
+    "datetime": 1683743766,
+    "size": 2377366740,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230510-1837.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230510-1837.zip",
+    "filehash": "eb962abd2e65e65b9cd71a96dce6c184",
+    "id": "eb962abd2e65e65b9cd71a96dce6c184",
     "maintainers": [
         {
             "main_maintainer": false,
