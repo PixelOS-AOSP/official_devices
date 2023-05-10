@@ -1,3 +1,15 @@
+# 10-May-2023
+- Switched to pixel libperfmgr for boosting
+- Fixed ViLTE (carrier video calling)
+- Updated MIUICamera from MIUI V14.0.3.0.TKOINXM
+- Fixed clone mode in MIUICamera
+- Updated CarrierConfig from MIUI 14
+- Reverted back to stock GPU peak frequency
+- Switched back to HWC for brightness control
+- Fixed issues with Google recorder
+- Merged 'LA.UM.9.16.r1-13000-MANNAR.QSSI12.0' tag in kernel
+- Misc improvements and fixes.
+
 # 19-Apr-2023
 - Fixed safetynet issues for non root users
 - Updated stock blobs MIUI V14.0.3.0.TKOMIXM
