@@ -81,16 +81,16 @@ for tag in new_tags:
     for file in os.listdir(cur_dir + "/releases"):
         # TODO: All the following if conditions can be made much simpler instead of 69 cases
         if file == "vendor_boot.img":
-            os.system("mv " + cur_dir + "/releases/vendor_boot.img " + cur_dir + "/releases/vendor_boot-" + mDevice +
+            os.system("mv " + cur_dir + "/releases/vendor_boot.img " + cur_dir + "/releases/vendor_boot-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "boot.img":
-            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/releases/boot-" + mDevice +
+            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/releases/boot-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "recovery.img":
-            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/releases/recovery-" + mDevice +
+            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/releases/recovery-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "dtbo.img":
-            os.system("mv " + cur_dir + "/releases/dtbo.img " + cur_dir + "/releases/dtbo-" + mDevice +
+            os.system("mv " + cur_dir + "/releases/dtbo.img " + cur_dir + "/releases/dtbo-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
