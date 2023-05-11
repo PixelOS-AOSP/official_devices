@@ -1,3 +1,15 @@
+# 11-May-2023
+- Switch FOD color back to green
+- Set to powersave governor when device is idle
+- Remove audio and Adaptive Battery CPU Throttling hints
+- Make use of task_profiles and cgroups
+- Fixed VoWiFi not working on outgoing calls or airplane mode
+- Upstreamed kernel to 4.14.314
+- Merged CLO tag 'LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0' in kernel
+- Backport f2fs from 6.4-rc1-5.10
+- Silence more kernel logging
+- Misc. fixes and improvements
+
 # 16-Apr-2023
 - Upstreamed to 4.14.312 
 - Update cpusets for efficiency
