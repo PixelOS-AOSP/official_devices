@@ -1,3 +1,22 @@
+# 11-May-2023
+- Updated common blobs from sweet V14.0.2.0.TKFMIXM
+- Disabled combined QS header
+- Ignore CNE in location indicator
+- Properly labelled fpc wakeup node 
+- Disabled SF client composition cache
+- Switched to unsignaled buffer latching with AutoSingleLayer
+- Removed non-existent SF properties
+- Do not balance msm_drm and kgsl-3d0 IRQs
+- Remove max ZRAM compression streams setting 
+- Drop vestigial FM board-flags
+- Upgrade IImsFactory to 1.1 in manifest
+- Update QTI Radio LPA HIDL to 1.1
+- Uprev bluetooth audio HIDL impl to 2.1
+- Remove discard command tuning
+- Don't mount TraceFS twice
+- Upstreamed kernel to 4.14.314
+- Merge CLO tag 'LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0' in kernel
+
 # 18-Apr-2023
 - Updated device blobs from MIUI V14.0.2.0.TKQMIXM
 - Updated common blobs from sweet V14.0.1.0.TKFMIXM
