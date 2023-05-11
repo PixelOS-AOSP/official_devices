@@ -1,3 +1,11 @@
+# 11-May-2023
+- Fixed adaptive LDAC
+- Remove FM tuner from audio input devices to fix google recorder
+- Tweaked status bar padding
+- Set USB product string to Xiaomi Pocophone F1
+- Set hotspot default ssid to Xiaomi Pocophone F1
+- Added overlay for available color modes
+
 # 17-Apr-2023
 - Fixed a few banking apps detecting root
 
