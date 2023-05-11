@@ -1,3 +1,8 @@
+# 11-May-2023
+- Dropped PowerOffAlarm service which seemed to cause unwanted reboots
+- Removed non-existent SF properties
+- Switched to unsignaled buffer latching with AutoSingleLayer
+
 # 08-May-2023
 - Updated blobs from sweet V14.0.2.0.TKFMIXM
 - Update mixer_paths_idp.xml from MIUI V14.0.2.0.TKFMIXM
