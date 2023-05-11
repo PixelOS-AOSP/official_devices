@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_cepheus-13.0-20230416-1638.zip",
-    "datetime": 1681663031,
-    "size": 1974706208,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230416-1638.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-04-16/PixelOS_cepheus-13.0-20230416-1638.zip",
-    "filehash": "f73f00deaf1f2650cf676d449f7e9242",
-    "id": "f73f00deaf1f2650cf676d449f7e9242",
+    "filename": "PixelOS_cepheus-13.0-20230510-2239.zip",
+    "datetime": 1683758303,
+    "size": 1975573080,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230510-2239.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-05-11/PixelOS_cepheus-13.0-20230510-2239.zip",
+    "filehash": "93d4108ac6e73f31241ca450042212ec",
+    "id": "93d4108ac6e73f31241ca450042212ec",
     "maintainers": [
         {
             "main_maintainer": false,
