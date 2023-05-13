@@ -1,3 +1,12 @@
+# 13-May-2023
+- Merged 4.19.282 ACK
+- Update blobs to V14.0.4.0.TKHMIXM
+- Rebased kernel to Immensity 
+- Fixed Camera viewfinder lag
+- Fixed Display goes darker when video streaming
+- Increaded top-app schedtune boost
+- Added dc dimming support
+
 # 15-Apr-2023
 - Switched to Smooth Display
 - Dropped Qs refresh rate (We have switched to smooth display)
