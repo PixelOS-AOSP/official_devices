@@ -1,3 +1,9 @@
+# 19-May-2023
+- Update power profile from coral
+- Fix hyper orange colour in night light
+- Improve idle drain
+- Misc fixed and Improvement
+
 # 22-Apr-2023
 - Misc Fixes and Improvements
 
