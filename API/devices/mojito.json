@@ -27,8 +27,8 @@
     "device_display_name": "Redmi Note 10",
     "device_display_codename": "mojito/sunny",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/",
-    "last_updated": "29 April 2023",
-    "private_download_tag": "mojito_20230428_0619",
+    "last_updated": "03 June 2023",
+    "private_download_tag": "mojito_20230601_1234",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-official-pixelos-aosp-stable.4531019/",
     "customRecoveryRequired": true

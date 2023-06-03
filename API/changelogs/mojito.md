@@ -1,3 +1,13 @@
+# 03-Jun-2023
+- Revert redundant highprio wq commits.
+- Transition to LMKD.
+- Merge LA.UM.9.1.r1-12900-SMxxx0.0 in kernel.
+- Update audio drivers to LA.UM.9.1.r1-12900-SMxxx0.0.
+- Update wlan drivers to LA.UM.9.1.r1-12900-SMxxx0.0.
+- Fully build kernel with GCC.
+- AoD on Doze.
+- Update blobs to MIUI V14.0.3.0
+
 # 29-Apr-2023
 - SafetyNet passes now.
 - Fix permissions for PowerOffAlarm.
