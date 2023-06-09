@@ -343,6 +343,15 @@
             "active": true
         },
         {
+            "codename": "f62",
+            "codename_alt": "f62/m62",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy F62/M62",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "starlte",
             "codename_alt": "starlte",
             "vendor": "Samsung",

@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Fellipe Lima",
+            "telegram": "https://t.me/Jubscleisson",
+            "github": "https://github.com/Jubscleisson"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy F62/M62",
+    "device_display_codename": "f62/m62",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
