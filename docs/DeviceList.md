@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 35
+Number Of Devices in Official PixelOS: 36
 
 Number of Brands in Official PixelOS: 7
 
@@ -29,13 +29,14 @@ Officially Supported Devices:
 5. Realme Narzo 50/8i (spaced)
 
 **Samsung**
-1. Samsung Galaxy Note10 (d1)
-2. Samsung Galaxy Note10+ (d2s)
-3. Samsung Galaxy Note10+ 5G (d2x)
-4. Samsung Galaxy S10 (beyond1lte)
-5. Samsung Galaxy S10 5G (beyondx)
-6. Samsung Galaxy S10+ (beyond2lte)
-7. Samsung Galaxy S10e (beyond0lte)
+1. Samsung Galaxy F62/M62 (f62/m62)
+2. Samsung Galaxy Note10 (d1)
+3. Samsung Galaxy Note10+ (d2s)
+4. Samsung Galaxy Note10+ 5G (d2x)
+5. Samsung Galaxy S10 (beyond1lte)
+6. Samsung Galaxy S10 5G (beyondx)
+7. Samsung Galaxy S10+ (beyond2lte)
+8. Samsung Galaxy S10e (beyond0lte)
 
 **Xiaomi**
 1. POCO M3 (citrus)

@@ -271,6 +271,15 @@
             "active": true
         },
         {
+            "codename": "f62",
+            "codename_alt": "f62/m62",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy F62/M62",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "crownlte",
             "codename_alt": "crownlte",
             "vendor": "Samsung",
@@ -338,15 +347,6 @@
             "codename_alt": "beyond0lte",
             "vendor": "Samsung",
             "model": "Samsung Galaxy S10e",
-            "maintainer_name": "Fellipe Lima",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "f62",
-            "codename_alt": "f62/m62",
-            "vendor": "Samsung",
-            "model": "Samsung Galaxy F62/M62",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
             "active": true
