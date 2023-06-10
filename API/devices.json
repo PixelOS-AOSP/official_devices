@@ -142,7 +142,7 @@
             "model": "Realme GT Neo 2",
             "maintainer_name": "cristian",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "RMX2020",
