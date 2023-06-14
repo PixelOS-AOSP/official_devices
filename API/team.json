@@ -17,12 +17,12 @@
             "tagline": null
         },
         {
-            "name": "Jasutin",
-            "github": "Kitsunejasutin",
-            "telegram": "tokatsu",
-            "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
-            "role": "Core-Member",
-            "tagline": "Nyahalo! Doktah here."
+            "name": "Sugakesshaa",
+            "github": "bheatleyyy",
+            "telegram": "Megalodonzs",
+            "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
+            "role": "Core-member; martini, porsche Maintainer",
+            "tagline": "Make every moment cherish :)"
         },
         {
             "name": "Ashwin DS",
@@ -81,6 +81,14 @@
             "tagline": null
         },
         {
+            "name": "Jasutin",
+            "github": "Kitsunejasutin",
+            "telegram": "tokatsu",
+            "XDA": "https://forum.xda-developers.com/m/csapawn.9239199/",
+            "role": "Ex-Core Member",
+            "tagline": "Nyahalo! Doktah here."
+        },
+        {
             "name": "Vladislav",
             "github": "maade69",
             "telegram": "maade69",
@@ -127,14 +135,6 @@
             "XDA": "https://forum.xda-developers.com/m/cristianvaz.11729943/",
             "role": "Ex-bitra Maintainer",
             "tagline": null
-        },
-        {
-            "name": "Sugakesshaa",
-            "github": "bheatleyyy",
-            "telegram": "Megalodonzs",
-            "XDA": "https://forum.xda-developers.com/m/sugacrx.11383885/",
-            "role": "martini, porsche Maintainer",
-            "tagline": "Till we meet again :)"
         },
         {
             "name": "Hridaya",
