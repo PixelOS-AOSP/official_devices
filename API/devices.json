@@ -160,7 +160,7 @@
             "model": "Realme Narzo 50/8i",
             "maintainer_name": "HELLINFIX",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "lime",
