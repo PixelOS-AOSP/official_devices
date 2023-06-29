@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Di Raizel",
+            "telegram": "https://t.me/acex88",
+            "github": "https://github.com/acex69"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Redmi 9",
+    "device_display_codename": "lancelot",
+    "public_download": "null",
+    "last_updated": "null",
+    "private_download_tag": "null",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
