@@ -15,9 +15,9 @@
     "release": "monthly",
     "device_display_name": "Redmi 9",
     "device_display_codename": "lancelot",
-    "public_download": "null",
-    "last_updated": "null",
-    "private_download_tag": "null",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
     "active": true,
     "xda": null,
     "customRecoveryRequired": true
