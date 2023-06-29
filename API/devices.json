@@ -163,6 +163,15 @@
             "active": false
         },
         {
+            "codename": "lancelot",
+            "codename_alt": "lancelot",
+            "vendor": "Xiaomi",
+            "model": "Redmi 9",
+            "maintainer_name": "Raizel",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "lime",
             "codename_alt": "lime/pomelo/lemon",
             "vendor": "Xiaomi",
@@ -384,15 +393,6 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi 11 Lite 5G NE",
             "maintainer_name": "Karan",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "lancelot",
-            "codename_alt": "lancelot",
-            "vendor": "Xiaomi",
-            "model": "Redmi 9",
-            "maintainer_name": "Raizel",
             "frame": null,
             "active": true
         },
