@@ -413,6 +413,24 @@
             "maintainer_name": "Dennis Murimi",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "flame",
+            "codename_alt": "flame",
+            "vendor": "Googe",
+            "model": "Google Pixel 4",
+            "maintainer_name": "Yularzhi",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "coral",
+            "codename_alt": "coral",
+            "vendor": "Googe",
+            "model": "Google Pixel 4 XL",
+            "maintainer_name": "Yularzhi",
+            "frame": null,
+            "active": true
         }
     ]
 }

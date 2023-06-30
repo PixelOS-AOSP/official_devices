@@ -1,0 +1,22 @@
+{
+    "maintainer":[
+        {
+            "display_name": "Yularzhi",
+            "telegram": "https://t.me/Yul_Nicolai",
+            "github": "https://github.com/Yularzhi"
+        },
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": ["thirteen"],
+    "release": "monthly",
+    "device_display_name": "Google Pixel 4",
+    "device_display_codename": "flame",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "xda": null,
+    "customRecoveryRequired": true
+}
