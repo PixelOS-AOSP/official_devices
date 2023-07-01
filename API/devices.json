@@ -21,7 +21,7 @@
         {
             "codename": "flame",
             "codename_alt": "flame",
-            "vendor": "Googe",
+            "vendor": "Google",
             "model": "Google Pixel 4",
             "maintainer_name": "Yularzhi",
             "frame": null,
@@ -30,7 +30,7 @@
         {
             "codename": "coral",
             "codename_alt": "coral",
-            "vendor": "Googe",
+            "vendor": "Google",
             "model": "Google Pixel 4 XL",
             "maintainer_name": "Yularzhi",
             "frame": null,
