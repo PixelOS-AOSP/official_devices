@@ -1,5 +1,5 @@
 {
-    "maintainer":[
+    "maintainer": [
         {
             "display_name": "Yularzhi",
             "telegram": "https://t.me/Yul_Nicolai",
@@ -9,7 +9,9 @@
     "updater": true,
     "beta": false,
     "version": "thirteen",
-    "available_versions": ["thirteen"],
+    "available_versions": [
+        "thirteen"
+    ],
     "release": "monthly",
     "device_display_name": "Google Pixel 4",
     "device_display_codename": "flame",
