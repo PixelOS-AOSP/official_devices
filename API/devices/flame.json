@@ -4,7 +4,7 @@
             "display_name": "Yularzhi",
             "telegram": "https://t.me/Yul_Nicolai",
             "github": "https://github.com/Yularzhi"
-        },
+        }
     ],
     "updater": true,
     "beta": false,
