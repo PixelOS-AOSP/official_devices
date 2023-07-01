@@ -10,7 +10,7 @@ Officially Supported Devices:
 **10or**
 1. 10or G (G)
 
-**Googe**
+**Google**
 1. Google Pixel 4 (flame)
 2. Google Pixel 4 XL (coral)
 
