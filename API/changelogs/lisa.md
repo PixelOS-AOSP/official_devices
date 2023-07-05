@@ -1,3 +1,12 @@
+# 05-Jul-2023
+- Switched to QTI WiFi Display
+- Included latest global stable firmware
+- Update IMS blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Added MGLRU for better memory management
+- Fixed an issue where auto brightness ramps up randomly after the last update
+- Performance improvements
+- Misc improvements and fixes.
+
 # 10-May-2023
 - Switched to pixel libperfmgr for boosting
 - Fixed ViLTE (carrier video calling)
