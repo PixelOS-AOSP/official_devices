@@ -1,3 +1,24 @@
+# 5-Jul-2023
+- June 2023 AOSP patches
+- Brought back quick tap
+- Enabled new wallpaper picker UI and emoji wallpapers
+- Enabled lockscreen clock customisation
+- Smart 5G
+    - Disable 5G in battery saver mode
+    - Disable 5G when not on mobile data (such as Wi-Fi)
+    - Disable 5G on non-active data sim
+- Enabled new plug-in status bar chip
+- Enabled explicit media indicator
+- Brought back monet boot animation
+- Allow picking lockscreen shortcuts
+- Switch to AOSPA's GMS
+- Switch to AOSPA's face unlock implementation
+- Pitch black mode improvements
+- Fixed an issue where the launcher in light mode would still have dark search results
+- Fixed an issue where the wallpapers section would not open from the home screen 
+- Fixed an issue where two status bars used to display 
+- Fixed Google battery widget not updating
+
 # 8-May-2023
 - Merged the May security patch
 - Switched back to the Pixel launcher (with a potential fix) and Pixel theme picker
