@@ -1,7 +1,7 @@
 # 05-Jul-2023
 - Update camera IDs for Aperture
-- Updated kernel
-- Misc improvements and fixes on
+- Minor kernel improvements
+- Misc improvements and fixes
 
 # 09-May-2023
 - Update FP from V14.0.1.0. (SJGMIXM) (SJGIDXM)
