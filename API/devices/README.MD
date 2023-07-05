@@ -25,7 +25,7 @@ devices.
     "release": "monthly",
     "device_display_name": "Redmi Note 8 PUBG Edition",
     "device_display_codename": "ginkgo/willow",
-    "public_download": "https://www.download.com",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/",
     "last_updated": "6 September 2022",
     "private_download_tag": "ginkgo_20220105_2327",
     "active": true,
@@ -34,6 +34,8 @@ devices.
 }
 ```
 ## Variables
+
+Refer to the example above for clarity
 
 ### Maintainer Information
 
@@ -63,8 +65,7 @@ official build
 
 ```release```: Release type ie. Monthly, Weekly, Daily, etc.
 
-```public_download```: Download link which is to be shared Through Telegram; **New maintainers must set this to ```""```
-(two double quotes with nothing between them) until the first update**
+```public_download```: Should be set in the following format ```https://sourceforge.net/projects/pixelos-releases/files/<VERSION_IN_WORDS>/<CODENAME/```
 
 ```last_updated```: Date of the latest update. Should be in the format ```dd MMMM YYYY``` as per [unicode](http://unicode.org/reports/tr35/tr35-dates.html#Date_Format_Patterns). Example has been provided in the code snippet [above](https://github.com/PixelOS-AOSP/official_devices/tree/twelve/API/devices#format)
 
