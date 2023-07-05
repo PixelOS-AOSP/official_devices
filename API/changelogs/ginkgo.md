@@ -1,3 +1,7 @@
+# 05-Jul-2023
+- Tune and enabled SLMK
+- Misc changes in kernel
+
 # 09-May-2023
 - Disabled combined QS header
 - Use pie chromatix libs for better camera quality
