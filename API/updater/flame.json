@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_flame-13.0-20230705-1034.zip",
+    "datetime": 1688553013,
+    "size": 1714697149,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20230705-1034.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-05/PixelOS_flame-13.0-20230705-1034.zip",
+    "filehash": "f27e277af992d31eec5445fcbaae8bf6",
+    "id": "f27e277af992d31eec5445fcbaae8bf6",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Yularzhi",
+            "name": "Yularzhi"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
