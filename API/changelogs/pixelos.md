@@ -1,5 +1,5 @@
 # 5-Jul-2023
-- June 2023 AOSP patches
+- Merged June (QPR3) security patches
 - Brought back quick tap
 - Enabled new wallpaper picker UI and emoji wallpapers
 - Enabled lockscreen clock customisation
@@ -11,13 +11,12 @@
 - Enabled explicit media indicator
 - Brought back monet boot animation
 - Allow picking lockscreen shortcuts
-- Switch to AOSPA's GMS
 - Switch to AOSPA's face unlock implementation
 - Pitch black mode improvements
-- Fixed an issue where the launcher in light mode would still have dark search results
+- Fixed an issue where Launcher in light mode used to display search results in dark theme
 - Fixed an issue where the wallpapers section would not open from the home screen 
 - Fixed an issue where two status bars used to display 
-- Fixed Google battery widget not updating
+- Fixed an issue where Google battery would not update
 
 # 8-May-2023
 - Merged the May security patch
