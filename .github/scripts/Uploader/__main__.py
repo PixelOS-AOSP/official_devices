@@ -78,9 +78,11 @@ for tag in new_tags:
         if file.endswith(".json"):
             device = file.replace(".json", "")
             mDevice = device + "-"
+    VendorBootExists = False
     for file in os.listdir(cur_dir + "/releases"):
         # TODO: All the following if conditions can be made much simpler instead of 69 cases
         if file == "vendor_boot.img":
+            VendorBootExists = True
             os.system("mv " + cur_dir + "/releases/vendor_boot.img " + cur_dir + "/releases/vendor_boot-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "boot.img":
@@ -92,6 +94,10 @@ for tag in new_tags:
         if file == "dtbo.img":
             os.system("mv " + cur_dir + "/releases/dtbo.img " + cur_dir + "/releases/dtbo-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
+    
+    if not VendorBootExists:
+        os.system("rm " + cur_dir + "/releases/dtbo*.img" )
+    
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
     os.system("gh release create " + str(datetime.date.today()))
