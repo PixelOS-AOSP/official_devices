@@ -15,7 +15,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy Note10+ 5G",
     "device_display_codename": "d2x",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2x/",
     "last_updated": "23 April 2023",
     "private_download_tag": "d2x_20230423_0101",
     "active": true,

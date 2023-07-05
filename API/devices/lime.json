@@ -15,7 +15,7 @@
     "release": "monthly",
     "device_display_name": "Redmi 9T / 9 Power / 9T NFC",
     "device_display_codename": "lime",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/",
     "last_updated": "10 May 2023",
     "private_download_tag": "lime_20230510_0923",
     "active": true,

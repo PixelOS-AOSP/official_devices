@@ -15,7 +15,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy Note10+",
     "device_display_codename": "d2s",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2s/",
     "last_updated": "23 April 2023",
     "private_download_tag": "d2s_20230423_0045",
     "active": true,

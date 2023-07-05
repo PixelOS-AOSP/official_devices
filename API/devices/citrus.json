@@ -15,7 +15,7 @@
     "release": "monthly",
     "device_display_name": "POCO M3",
     "device_display_codename": "citrus",
-    "public_download": "",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/",
     "last_updated": "10 May 2023",
     "private_download_tag": "citrus_20230510_1317",
     "active": true,
