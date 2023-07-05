@@ -1,3 +1,13 @@
+# 05-Jul-2023
+- Merged latest ACK (4.19.288)
+- Merged latest clo tag (LA.UM.9.12.r1-15500-SMXX50.QSSI12.0)
+- Improved deep sleep
+- Disabled sf EGL image tracking
+- Disabled cpu boost 
+- Disabled msm performance (we are using libperfmgr its useless)
+- Tuned Adaptive Suspend parameters
+- Move background cpuset to CPU0-1 (Might save more power)
+
 # 13-May-2023
 - Merged 4.19.282 ACK
 - Update blobs to V14.0.4.0.TKHMIXM
