@@ -1,3 +1,12 @@
+# 06-Jul-2023
+- Cleaned up sepolicy and removed duplicate labels
+- Fixed wakeup labels
+- Fully switched to jemalloc 
+- Set powersave governor when the device is idle for better deep sleep
+- Added Oneplus dolby
+- Removed Dirac
+- Enabled config_avoidGfxAccel
+
 # 11-May-2023
 - Removed prebuilt Firmware
 - Switched to Prebuilt audio HAL- Remove FM tuner from input devices
