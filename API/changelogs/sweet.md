@@ -1,3 +1,15 @@
+# 06-Jul-2023
+- Dropped prebuilt display stack
+- SDCardFS Deprecation
+- Enabled case folding support on userdata
+- Use FUSE passthrough by default
+- Update CarrierConfig from  LA.QSSI.13.0.r1-10000.02-qssi.0
+- Imported missing audio and sensor libraries
+- Reduce the number of pinned acdb files
+- Enabled full LTO
+- Switched to adrian-clang
+- Various other device tree and kernel changes
+
 # 11-May-2023
 - Dropped PowerOffAlarm service which seemed to cause unwanted reboots
 - Removed non-existent SF properties
