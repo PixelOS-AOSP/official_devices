@@ -9,6 +9,7 @@
 - Enabled full LTO
 - Switched to adrian-clang
 - Various other device tree and kernel changes
+- Note: To avoid issues people must clean flash with the either the latest PixelOS recovery or the latest OrangeFox recovery [R11.1_4](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/tag/R11.1_4). Changing the kernel will probably lead to issues as custom kernels do not have the required commits.
 
 # 11-May-2023
 - Dropped PowerOffAlarm service which seemed to cause unwanted reboots
