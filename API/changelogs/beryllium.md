@@ -1,3 +1,10 @@
+# 06-Jul-2023
+- Tweaked statusbar padding a bit
+- Relaxed charging mitigation
+- Remove FM tuner from input devices
+- Fixed adaptive LDAC
+- Removed redundant color modes
+
 # 11-May-2023
 - Fixed adaptive LDAC
 - Remove FM tuner from audio input devices to fix google recorder
