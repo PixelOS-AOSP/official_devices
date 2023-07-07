@@ -16,8 +16,8 @@
     "device_display_name": "Google Pixel 4",
     "device_display_codename": "flame",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/",
-    "last_updated": "05 July 2023",
-    "private_download_tag": "flame_20230705_1310",
+    "last_updated": "07 July 2023",
+    "private_download_tag": "flame_20230707_0425",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-05-07-2023.4579257/",
     "customRecoveryRequired": true
