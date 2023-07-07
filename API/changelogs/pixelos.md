@@ -1,3 +1,10 @@
+# 6-Jul-2023
+- Merged July security patches
+- Updated the default wallpaper to Pixel 8 licorice dark wallpaper
+- Force enabled precise/approximate location toggle
+- Fixed an issue with advanced reboot translations
+- Brought back 720p and 1440p bootanimations for supported devices
+
 # 5-Jul-2023
 - Merged June (QPR3) security patches
 - Brought back quick tap
