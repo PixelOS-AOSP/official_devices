@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_coral-13.0-20230705-0923.zip",
-    "datetime": 1688548953,
-    "size": 1715054314,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20230705-0923.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-05/PixelOS_coral-13.0-20230705-0923.zip",
-    "filehash": "77daf5b53e3d4cd23875c7bd1b7462f1",
-    "id": "77daf5b53e3d4cd23875c7bd1b7462f1",
+    "filename": "PixelOS_coral-13.0-20230707-0057.zip",
+    "datetime": 1688691383,
+    "size": 1725744742,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20230707-0057.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-07/PixelOS_coral-13.0-20230707-0057.zip",
+    "filehash": "dc55fea4fcba36a23f251a8058512ae7",
+    "id": "dc55fea4fcba36a23f251a8058512ae7",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-05-07-2023.4576535/"
 }
