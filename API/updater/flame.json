@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_flame-13.0-20230705-1034.zip",
-    "datetime": 1688553013,
-    "size": 1714697149,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20230705-1034.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-05/PixelOS_flame-13.0-20230705-1034.zip",
-    "filehash": "f27e277af992d31eec5445fcbaae8bf6",
-    "id": "f27e277af992d31eec5445fcbaae8bf6",
+    "filename": "PixelOS_flame-13.0-20230707-0159.zip",
+    "datetime": 1688695109,
+    "size": 1725181983,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20230707-0159.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-07/PixelOS_flame-13.0-20230707-0159.zip",
+    "filehash": "a2a955e4fb347fb953759c3fefb9093c",
+    "id": "a2a955e4fb347fb953759c3fefb9093c",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-05-07-2023.4579257/"
 }
