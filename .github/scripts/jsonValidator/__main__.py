@@ -41,6 +41,10 @@ for folder in foldersToFormat:
             if validateJSON(open(folder + "/" + file).read()):
                 print("Json valid")
                 prettyJSON(folder + "/" + file)
+                if folder == "API/devices":
+                    old_json = json.load(open(folder + "/" + file, "r"))
+                    old_json["public_download"] = "https://sourceforge.net/projects/pixelos-releases/files/" + str(old_json["version"]) + "/" + file.replace(".json", "") + "/"
+                    json.dump(old_json, open(folder + "/" + file, "w"), indent=4)
             else:
                 print("json error")
                 raise SystemExit("invalid json")

@@ -65,7 +65,7 @@ official build
 
 ```release```: Release type ie. Monthly, Weekly, Daily, etc.
 
-```public_download```: Should be set in the following format ```https://sourceforge.net/projects/pixelos-releases/files/<VERSION_IN_WORDS>/<CODENAME/```
+```public_download```: Could be set as ```""``` (two double quotes with nothing between them), will be automatically updated
 
 ```last_updated```: Date of the latest update. Should be in the format ```dd MMMM YYYY``` as per [unicode](http://unicode.org/reports/tr35/tr35-dates.html#Date_Format_Patterns). Example has been provided in the code snippet [above](https://github.com/PixelOS-AOSP/official_devices/tree/twelve/API/devices#format)
 
