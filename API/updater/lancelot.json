@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_lancelot-13.0-20230707-1250.zip",
+    "datetime": 1688734155,
+    "size": 1706870283,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lancelot/PixelOS_lancelot-13.0-20230707-1250.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-08/PixelOS_lancelot-13.0-20230707-1250.zip",
+    "filehash": "0c80553794f7f72380da7e1b0ec468e1",
+    "id": "0c80553794f7f72380da7e1b0ec468e1",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "acex69",
+            "name": "Di Raizel"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
