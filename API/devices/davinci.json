@@ -11,7 +11,7 @@
             "github": "https://github.com/basamaryan"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": false,
     "version": "thirteen",
     "available_versions": [
