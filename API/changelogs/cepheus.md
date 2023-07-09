@@ -1,3 +1,14 @@
+# 09-Jul-2023
+- Change fingerprint color to white with red center
+- Remove parts (clean speaker)
+- Drop powersave governor
+- Update Audio HIDL to 7.1
+- Use foreground cpuset/uclamp for fingerprint
+- Merge kernel CLO tag 'LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0'
+- Upstream kernel to 4.14.320
+- Switch to Simple Low Memory Killer
+- Misc. fixes and improvements
+
 # 11-May-2023
 - Switch FOD color back to green
 - Set to powersave governor when device is idle
