@@ -1,3 +1,8 @@
+# 09-Jul-2023
+- Fixed offline charging animation
+- Configure and enable CPU input boost
+- Enabled force fast charge
+
 # 07-Jul-2023
 - Source upstream
 
