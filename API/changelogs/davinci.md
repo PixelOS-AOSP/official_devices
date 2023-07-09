@@ -1,3 +1,15 @@
+# 09-Jul-2023
+- Retrofit Dynamic partitions 
+- Switched to FBEv2
+- SDCardFS Deprecation
+- Enabled case folding support on userdata
+- Use FUSE passthrough by default
+- Update CarrierConfig from  LA.QSSI.13.0.r1-10000.02-qssi.0
+- Enabled full LTO
+- Switched to adrian-clang
+- Various other device tree and kernel changes
+- A clean flash is mandatory using the PixelOS recovery
+
 # 27-May-2023
 - Updated common blobs from sweet V14.0.2.0.TKFMIXM
 - Disabled combined QS header
