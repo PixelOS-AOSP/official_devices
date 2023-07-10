@@ -431,6 +431,15 @@
             "maintainer_name": "Dennis Murimi",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "panther",
+            "codename_alt": "pantah",
+            "vendor": "Google",
+            "model": "Google Pixel 7",
+            "maintainer_name": "Justine",
+            "frame": null,
+            "active": true
         }
     ]
 }

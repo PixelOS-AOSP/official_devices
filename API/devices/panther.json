@@ -1,0 +1,23 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Kitsunejasutin",
+            "telegram": "https://t.me/tokatsu",
+            "github": "https://github.com/Kitsunejasutin"
+        }
+    ],
+    "updater": false,
+    "beta": true,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Google Pixel 7",
+    "device_display_codename": "panther",
+    "public_download": "",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true
+}
