@@ -37,6 +37,15 @@
             "active": true
         },
         {
+            "codename": "panther",
+            "codename_alt": "pantah",
+            "vendor": "Google",
+            "model": "Google Pixel 7",
+            "maintainer_name": "Justine",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "yogurt",
             "codename_alt": "yogurt",
             "vendor": "Micromax",
@@ -429,15 +438,6 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "panther",
-            "codename_alt": "pantah",
-            "vendor": "Google",
-            "model": "Google Pixel 7",
-            "maintainer_name": "Justine",
             "frame": null,
             "active": true
         }
