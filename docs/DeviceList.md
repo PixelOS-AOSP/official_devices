@@ -13,7 +13,7 @@ Officially Supported Devices:
 **Google**
 1. Google Pixel 4 (flame)
 2. Google Pixel 4 XL (coral)
-3. Google Pixel 7 (pantah)
+3. Google Pixel 7 (panther)
 
 **Micromax**
 1. Micromax IN Note 1 / IN1 (yogurt)
