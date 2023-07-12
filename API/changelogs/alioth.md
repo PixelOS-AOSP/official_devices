@@ -1,3 +1,10 @@
+# 12-Jul-2023
+- Fixed offline charging
+- Enabled wallpaper zoom
+- Tuned vibration patterns
+- Improve performance when the main System UI thread is busy.
+- Some kernel changes
+
 # 06-Jul-2023
 - Source upstream
 
