@@ -1,13 +1,13 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_toco-12.1-20220815-0137.zip",
-    "datetime": 1660527420,
-    "size": 2130070868,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/toco/PixelOS_toco-12.1-20220815-0137.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-05-09/PixelOS_toco-13.0-20230509-2034.zip",
-    "filehash": "95fd5bb6d12cf78bb22dacba6a86061e",
-    "id": "95fd5bb6d12cf78bb22dacba6a86061e",
+    "version": "thirteen",
+    "filename": "PixelOS_toco-13.0-20230713-1558.zip",
+    "datetime": 1689263817,
+    "size": 2140349508,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/toco/PixelOS_toco-13.0-20230713-1558.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-13/PixelOS_toco-13.0-20230713-1558.zip",
+    "filehash": "3be88db6532946294e12f6dccfddb925",
+    "id": "3be88db6532946294e12f6dccfddb925",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -17,6 +17,6 @@
     ],
     "donate_url": "",
     "website_url": "https://pixelos.net/",
-    "news_url": "https://t.me/PixelOSOfficial",
+    "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://forum.xda-developers.com/t/rom-12-1-toco-official-pixelos.4439221/"
 }
