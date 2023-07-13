@@ -1,3 +1,10 @@
+# 13-Jul-2023
+- Updated display and bluetooth stack from LAHAINA 21000
+- Switched to AIDL bluetooth audio service
+- Improved aod
+- Massively slowed down autobrightness ramp/decrease rates to fix occasional flickers
+- Lots of kernel changes and improvements
+
 # 14-May-2023
 - Switched to user build
 - Improved haptics effects
