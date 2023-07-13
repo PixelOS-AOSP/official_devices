@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_porsche-13.0-20230514-1352.zip",
-    "datetime": 1684072246,
-    "size": 2455225359,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230514-1352.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230514-1352.zip",
-    "filehash": "f4ce42bdea8aa5b1bffeacb30fca3454",
-    "id": "f4ce42bdea8aa5b1bffeacb30fca3454",
+    "filename": "PixelOS_porsche-13.0-20230712-0350.zip",
+    "datetime": 1689133733,
+    "size": 2516620541,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230712-0350.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230712-0350.zip",
+    "filehash": "e90dfc9fdb1ea46716d599c8691485b1",
+    "id": "e90dfc9fdb1ea46716d599c8691485b1",
     "maintainers": [
         {
             "main_maintainer": false,
