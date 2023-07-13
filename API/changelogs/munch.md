@@ -1,3 +1,14 @@
+# 13-Jul-2023
+- Updated blobs to MIUI V14.0.3.0.TLMMIXM
+- Updated CarrierConfig to MIUI V14.0.3.0.TLMMIXM
+- Reverted to ext4
+- Kernel improvements
+- Included latest global firmware
+- Reported max frequency for Unity games
+- Pre-enabled 5G SA & NSA
+- Restored original power profiles
+- Removed Tethering Offload config
+
 # 10-May-2023
 - Use IMS from renoir (Mi 11 Youth/Lite 5G)
 - Switched to Hoshiyomi kernel
