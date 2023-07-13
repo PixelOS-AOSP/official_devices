@@ -1,4 +1,5 @@
 # 13-Jul-2023
+- Updated blobs from OxygenOS 13.1.0.500
 - Updated display and bluetooth stack from LAHAINA 21000
 - Switched to AIDL bluetooth audio service
 - Improved aod
