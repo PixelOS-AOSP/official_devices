@@ -1,3 +1,9 @@
+# 13-Jul-2023
+- parts: Use vector drawable for Dirac™ logo
+- Ship VantomKernel v4.14.320
+- Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Update system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
+
 # 09-May-2023
 - Ship VantomKernel v4.14.314
 - Switch to common Xiaomi 1.0 sensors implementation
