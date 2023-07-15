@@ -1,3 +1,10 @@
+# 15-Jul-2023
+- Ship Leica Camera as default camera app
+- Improve Auto Brightness 
+- Update power profile from coral
+- Switch back to EXT4 from EROFS
+- Misc fixes and improvement
+
 # 19-May-2023
 - Update power profile from coral
 - Fix hyper orange colour in night light
