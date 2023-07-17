@@ -1,3 +1,9 @@
+# 17-Jul-2023
+- Updated blobs and MiuiCamera from MIUI V14.0.4.0.TKFMIXM
+- Improved QS pulldown
+- Other misc. changes
+- Source upstream
+
 # 06-Jul-2023
 - Dropped prebuilt display stack
 - SDCardFS Deprecation
