@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_sweet-13.0-20230706-0621.zip",
-    "datetime": 1683750325,
-    "size": 2127080499,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/PixelOS_sweet-13.0-20230706-0621.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-06/PixelOS_sweet-13.0-20230706-0621.zip",
-    "filehash": "3026cdc83a3f8d2d1f350af18d4ffe0e",
-    "id": "3026cdc83a3f8d2d1f350af18d4ffe0e",
+    "filename": "PixelOS_sweet-13.0-20230717-1025.zip",
+    "datetime": 1689589438,
+    "size": 2108931458,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/PixelOS_sweet-13.0-20230717-1025.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-17/PixelOS_sweet-13.0-20230717-1025.zip",
+    "filehash": "43d8426bfe618b0f738a6175325d7717",
+    "id": "43d8426bfe618b0f738a6175325d7717",
     "maintainers": [
         {
             "main_maintainer": false,
