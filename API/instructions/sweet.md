@@ -4,7 +4,7 @@
 - You MUST use the latest PixelOS recovery or the OrangeFox build (version R11.1_4 by me) for clean flashing!
 - YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI
 
-# Clean flash:
+# Clean flash (Required from the May 2023 build to any future update):
 - Flash the recovery
 - Download the ROM
 - Reboot to recovery
