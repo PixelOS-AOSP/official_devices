@@ -1,3 +1,10 @@
+# 18-Jul-2023
+- Updated IMS stack to LA.QSSI.13.0.r1-10000.02-qssi.0 
+- Updated blobs and MIUiCamera to miui_LISAGlobal_V14.0.4.0.TKOMIXM
+- Fixed an issue where hotspot would take several attempts to turn on
+- Set correct device name and hotspot SSID 
+- Fixed MIUICamera crash on CN models
+
 # 05-Jul-2023
 - Switched to QTI WiFi Display
 - Included latest global stable firmware
