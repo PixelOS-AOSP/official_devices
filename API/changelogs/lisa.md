@@ -1,3 +1,6 @@
+# 19-Jul-2023
+- Fixed CTS profile match not passing (Safetynet)
+
 # 18-Jul-2023
 - Updated IMS stack to LA.QSSI.13.0.r1-10000.02-qssi.0 
 - Updated blobs and MIUiCamera to miui_LISAGlobal_V14.0.4.0.TKOMIXM
