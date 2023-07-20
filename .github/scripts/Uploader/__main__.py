@@ -79,24 +79,25 @@ for tag in new_tags:
             device = file.replace(".json", "")
             mDevice = device + "-"
     VendorBootExists = False
+    os.system ("mkdir " + cur_dir + "/images_to_upload")
     for file in os.listdir(cur_dir + "/releases"):
         # TODO: All the following if conditions can be made much simpler instead of 69 cases
         if file == "vendor_boot.img":
             VendorBootExists = True
-            os.system("mv " + cur_dir + "/releases/vendor_boot.img " + cur_dir + "/releases/vendor_boot-" +
+            os.system("mv " + cur_dir + "/releases/vendor_boot.img " + cur_dir + "/images_to_upload/vendor_boot-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "boot.img":
-            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/releases/boot-" +
+            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/images_to_upload/boot-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "recovery.img":
-            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/releases/recovery-" +
+            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/images_to_upload/recovery-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
         if file == "dtbo.img":
-            os.system("mv " + cur_dir + "/releases/dtbo.img " + cur_dir + "/releases/dtbo-" +
+            os.system("mv " + cur_dir + "/releases/dtbo.img " + cur_dir + "/images_to_upload/dtbo-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
     
     if not VendorBootExists:
-        os.system("rm " + cur_dir + "/releases/dtbo*.img" )
+        os.system("rm " + cur_dir + "/images_to_upload/dtbo*.img" )
     
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
@@ -105,7 +106,7 @@ for tag in new_tags:
         os.system("gh release upload " + str(datetime.date.today()) +
                   " " + cur_dir + "/releases/*.zip")
     os.system("gh release upload " + str(datetime.date.today()) +
-              " " + cur_dir + "/releases/*.img")
+              " " + cur_dir + "/images_to_upload/*.img")
 
     ROM_ZIP_NAME = "none"
 
