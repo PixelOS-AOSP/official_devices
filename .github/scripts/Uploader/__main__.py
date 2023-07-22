@@ -81,23 +81,9 @@ for tag in new_tags:
     VendorBootExists = False
     os.system ("mkdir " + cur_dir + "/images_to_upload")
     for file in os.listdir(cur_dir + "/releases"):
-        # TODO: All the following if conditions can be made much simpler instead of 69 cases
-        if file == "vendor_boot.img":
-            VendorBootExists = True
-            os.system("mv " + cur_dir + "/releases/vendor_boot.img " + cur_dir + "/images_to_upload/vendor_boot-" +
+        if file.endswith (".img"):
+            os.system("mv " + cur_dir + "/releases/" + file + " " + cur_dir + "/images_to_upload/" + file.replace(".img", "") + "-" +
                       tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
-        if file == "boot.img":
-            os.system("mv " + cur_dir + "/releases/boot.img " + cur_dir + "/images_to_upload/boot-" +
-                      tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
-        if file == "recovery.img":
-            os.system("mv " + cur_dir + "/releases/recovery.img " + cur_dir + "/images_to_upload/recovery-" +
-                      tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
-        if file == "dtbo.img":
-            os.system("mv " + cur_dir + "/releases/dtbo.img " + cur_dir + "/images_to_upload/dtbo-" +
-                      tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
-    
-    if not VendorBootExists:
-        os.system("rm " + cur_dir + "/images_to_upload/dtbo*.img" )
     
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
@@ -164,10 +150,10 @@ for tag in new_tags:
     # os.system("ssh-keyscan frs.sourceforge.net >> ~/.ssh/known_hosts")
 
     try:
-        for file in os.listdir(cur_dir + "/releases"):
+        for file in os.listdir(cur_dir + "/images_to_upload"):
             if file.endswith(".img"):
                 os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/" + file + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "/recovery")
+                  "/images_to_upload/" + file + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "/recovery")
 
         os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
                   "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
