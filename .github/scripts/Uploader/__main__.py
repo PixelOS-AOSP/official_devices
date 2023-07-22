@@ -188,6 +188,6 @@ for tag in new_tags:
         print("Something went wrong")
     finally:
         os.system("rm -rf " + cur_dir + "/releases/*.img " +
-              cur_dir + "/releases/*.zip ")
+              cur_dir + "/releases/*.zip " + cur_dir + "/images_to_upload")
     print("Uploaded")
 
