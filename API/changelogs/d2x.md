@@ -1,3 +1,9 @@
+# 22-Jul-2023
+- Configure aux cameras for Aperture
+- Face unlock now works fine (In the last update PixelOS switched to AOSPA's face unlock implementation, ParanoidSense)
+- Fix Widevine/Netflix (Thanks @Linux4)
+- Update kernel to Linux 4.14.320
+
 # 23-Apr-2023
 - Compile the kernel without GCC
 - Replace libutils-v32 with a shim
