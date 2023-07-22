@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_violet-13.0-20230510-1325.zip",
-    "datetime": 1683725066,
-    "size": 1720047852,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20230510-1325.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-05-10/PixelOS_violet-13.0-20230510-1325.zip",
-    "filehash": "3eb14cecedd54faedc57bdb9bdac5344",
-    "id": "3eb14cecedd54faedc57bdb9bdac5344",
+    "filename": "PixelOS_violet-13.0-20230722-0442.zip",
+    "datetime": 1690000851,
+    "size": 1774113092,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20230722-0442.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-22/PixelOS_violet-13.0-20230722-0442.zip",
+    "filehash": "206e51999c1a9d20c0f452868e278130",
+    "id": "206e51999c1a9d20c0f452868e278130",
     "maintainers": [
         {
             "main_maintainer": false,
