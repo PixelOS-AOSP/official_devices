@@ -71,7 +71,31 @@ for tag in new_tags:
                 print ("sha256 verification failed!.")
         except Exception as e:
             print (e)
-    recovery_path = ""
+    
+    CONTAINS_UPDATEPACKAGE = os.path.exists(cur_dir + "/releases/big_updatepackage.txt")
+    
+    if CONTAINS_UPDATEPACKAGE:
+        print("UpdatePackage found")
+        UPDATEPACKAGE_INFO = open(cur_dir + "/releases/big_updatepackage.txt", "r").readlines()[0]
+        print (UPDATEPACKAGE_INFO)
+        UPDATEPACKAGE_HASH = UPDATEPACKAGE_INFO.split(" ")[0]
+        UPDATEPACKAGE_NAME = UPDATEPACKAGE_INFO.split("/")[-1].replace("\n", "")
+        print (UPDATEPACKAGE_HASH , RUPDATEPACKAGE_NAME)
+        print ("Combining bigger files to one ")
+        os.system("cat PixelOS-updatepackage.part?? > " + UPDATEPACKAGE_NAME)
+
+        try: 
+            with open(UPDATEPACKAGE_NAME, 'rb') as file_to_check:
+                data = file_to_check.read()    
+                hash_returned = hashlib.sha256(data).hexdigest()
+
+            if UPDATEPACKAGE_HASH == hash_returned:
+                print ("sha256 verified.")
+            else:
+                print ("sha256 verification failed!.")
+        except Exception as e:
+            print (e)
+
     mDevice = ""
     device = ""
     for file in os.listdir(cur_dir + "/releases/"):
@@ -90,14 +114,14 @@ for tag in new_tags:
     os.system("gh release create " + str(datetime.date.today()))
     if not BIG_ROM_FILE:
         os.system("gh release upload " + str(datetime.date.today()) +
-                  " " + cur_dir + "/releases/*.zip")
+                  " " + cur_dir + "/releases/PixelOS_*.zip")
     os.system("gh release upload " + str(datetime.date.today()) +
               " " + cur_dir + "/images_to_upload/*.img")
 
     ROM_ZIP_NAME = "none"
 
     for file in os.listdir(cur_dir + "/releases/"):
-        if file.endswith(".zip"):
+        if file.endswith(".zip") and file.startswith("PixelOS_"):
             ROM_ZIP_NAME = file
 
     for file in os.listdir(cur_dir + "/releases/"):
@@ -156,11 +180,14 @@ for tag in new_tags:
                   "/images_to_upload/" + file + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "/recovery")
 
         os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
+                  "/releases/PixelOS_*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
+        if CONTAINS_UPDATEPACKAGE:
+            os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
+                  "/releases/aosp_*-img-*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
     except:
         print("Something went wrong")
-
+    finally:
+        os.system("rm -rf " + cur_dir + "/releases/*.img " +
+              cur_dir + "/releases/*.zip ")
     print("Uploaded")
 
-    os.system("rm -rf " + cur_dir + "/releases/*.img " +
-              cur_dir + "/releases/*.zip ")
