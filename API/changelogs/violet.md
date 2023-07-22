@@ -1,3 +1,7 @@
+# 22-Jul-2023
+- Don't use proximity sensor for Doze
+- Upstreamed kernel
+
 # 10-May-2023
 - Updated kernel
 - Enable 24-bit for primary output and deep buffer
