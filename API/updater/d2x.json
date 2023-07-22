@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_d2x-13.0-20230423-0052.zip",
-    "datetime": 1682211076,
-    "size": 1604256954,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2x/PixelOS_d2x-13.0-20230423-0052.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-04-23/PixelOS_d2x-13.0-20230423-0052.zip",
-    "filehash": "0d235e94e5fdbde964bab332bbda8eae",
-    "id": "0d235e94e5fdbde964bab332bbda8eae",
+    "filename": "PixelOS_d2x-13.0-20230721-1609.zip",
+    "datetime": 1689955710,
+    "size": 1646871725,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2x/PixelOS_d2x-13.0-20230721-1609.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-22/PixelOS_d2x-13.0-20230721-1609.zip",
+    "filehash": "896ee6d688667bd2b4868ab42757eced",
+    "id": "896ee6d688667bd2b4868ab42757eced",
     "maintainers": [
         {
             "main_maintainer": false,
