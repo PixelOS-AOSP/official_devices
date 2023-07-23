@@ -295,7 +295,7 @@
             "model": "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite",
             "maintainer_name": "Hridaya",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "miatoll",
