@@ -16,8 +16,8 @@
     "device_display_name": "Google Pixel 7",
     "device_display_codename": "panther",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/",
-    "last_updated": "",
-    "private_download_tag": "",
+    "last_updated": "23 July 2023",
+    "private_download_tag": "panther_202307220811",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/",
     "customRecoveryRequired": true
