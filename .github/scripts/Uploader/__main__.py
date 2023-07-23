@@ -80,7 +80,7 @@ for tag in new_tags:
         print (UPDATEPACKAGE_INFO)
         UPDATEPACKAGE_HASH = UPDATEPACKAGE_INFO.split(" ")[0]
         UPDATEPACKAGE_NAME = UPDATEPACKAGE_INFO.split("/")[-1].replace("\n", "")
-        print (UPDATEPACKAGE_HASH , RUPDATEPACKAGE_NAME)
+        print (UPDATEPACKAGE_HASH , UPDATEPACKAGE_NAME)
         print ("Combining bigger files to one ")
         os.system("cat PixelOS-updatepackage.part?? > " + UPDATEPACKAGE_NAME)
 
