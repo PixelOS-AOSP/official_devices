@@ -1,3 +1,9 @@
+# 24-Jul-2023
+- Upgrade Adreno from ROG Phone 6
+- Upgrade GNSS from LA.UM.9.15.2.r1-07000-KAMORTA.QSSI13.0
+- Added MiParts
+- More misc improvement and optimized
+
 # 10-May-2023
 - Add missing sepolicy and blobs
 - Update CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0
