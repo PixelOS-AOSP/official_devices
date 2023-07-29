@@ -1,6 +1,4 @@
 # Clean flash:
-- I recommend being on RealmeUI 4.0 firmware version C.14 or newer before flashing
-  to avoid any possible issues.
 - Reboot to bootloader
 - Flash boot, vendor_boot and dtbo images
 - Reboot to recovery
