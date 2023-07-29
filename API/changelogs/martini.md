@@ -1,6 +1,8 @@
 # 29-Jul-2023
+- Updated device blobs from OxygenOS 13.1.0.582
 - Fixed battery drain
 - Fixed heating
+- Improve app launch speeds
 - Improved Dolby Atmos
 - Fixed issues with Airtel network
 - Latest OxygenOS 13.1.0.582 firmware included
