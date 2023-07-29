@@ -1,9 +1,11 @@
 # 29-Jul-2023
+- Updated device blobs from RealmeUI 4.0 C.15 (EX01)
 - Fixed battery drain
 - Fixed heating
+- Improved app launch speeds 
 - Improved Dolby Atmos
 - Fixed issues with Airtel network
-- Latest RealmeUI 13.1.0.1240 firmware included
+- Latest RealmeUI 4.0 C15 firmware included
 
 # 13-Jul-2023
 - Updated blobs from Realme UI 4.0 C.14 (EX01)
