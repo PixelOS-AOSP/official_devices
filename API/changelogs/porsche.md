@@ -1,3 +1,10 @@
+# 29-Jul-2023
+- Fixed battery drain
+- Fixed heating
+- Improved Dolby Atmos
+- Fixed issues with Airtel network
+- Latest RealmeUI 13.1.0.1240 firmware included
+
 # 13-Jul-2023
 - Updated blobs from Realme UI 4.0 C.14 (EX01)
 - Updated display and bluetooth stack from LAHAINA 21000
