@@ -1,3 +1,10 @@
+# 29-Jul-2023
+- Fixed battery drain
+- Fixed heating
+- Improved Dolby Atmos
+- Fixed issues with Airtel network
+- Latest OxygenOS 13.1.0.582 firmware included
+
 # 13-Jul-2023
 - Updated blobs from OxygenOS 13.1.0.500
 - Updated display and bluetooth stack from LAHAINA 21000
