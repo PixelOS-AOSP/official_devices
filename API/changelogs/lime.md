@@ -1,3 +1,8 @@
+# 30-Jul-2023
+- Revert back to adreno stack LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Fixed fingerprint missing at some device
+- Misc improvement stuff
+
 # 24-Jul-2023
 - Upgrade Adreno from ROG Phone 6
 - Upgrade GNSS from LA.UM.9.15.2.r1-07000-KAMORTA.QSSI13.0
