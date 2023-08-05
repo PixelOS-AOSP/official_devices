@@ -1,3 +1,15 @@
+# 05-Aug-2023
+- Rebased kernel on CodeLinaro tag LA.UM.9.12.r1-15500-SMxx50.QSSI13.0.
+- Merged ACK tag ASB-2023-07-05_4.19-stable.
+- Massive cleanup of Xiaomi display driver changes.
+- Drop unused media and audio configs.
+- Utilize Xiaomi CIT sensor service for proper and smooth auto brightness transitions.
+- Updated blobs to MIUI V14.0.3.0.SJSINXM.
+- Switch to Pixel-like DCVS configuration.
+- Massive cleanup of unwanted init scripts.
+- Migrate to Xiaomi libperfmgr.
+- Drop FM configuration completely.
+
 # 21-Feb-2023
 - Fixed Safetynet Attestation.
 
