@@ -97,7 +97,7 @@
             "model": "POCO M3",
             "maintainer_name": "ryyaap",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "surya",
@@ -205,7 +205,7 @@
             "model": "Redmi 9T, Redmi Note 9 4G, Redmi 9 Power",
             "maintainer_name": "ryyaap",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "juice",
