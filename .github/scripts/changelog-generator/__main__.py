@@ -18,6 +18,8 @@ import requests
 import os
 import json
 import time
+from datetime import datetime
+
 
 auth = os.environ.get("GH_PAT")
 org = "PixelOS-AOSP"
@@ -38,6 +40,20 @@ for member in raw_members:
         members.append(member_info["name"])
 
 
+def get_full_date():
+    with open('.github/scripts/changelog-generator/last_updated.txt', 'r') as file:
+        date_string = file.readline().strip()
+
+    date_object = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%SZ")
+    full_date = date_object.strftime("%d %B %Y")
+
+    return full_date
+
+
+def mkdn_links(text, url):
+    return f"[{text}]({url})"
+
+
 def getCommits(repo_name):
     # YYYY-MM-DDTHH:MM:SSZ
     commits = requests.get("https://api.github.com/repos/" + repo_name + "/commits?since=" + last_updated, headers=auth_json).json()
@@ -46,10 +62,10 @@ def getCommits(repo_name):
     for commit in commits:
         if (commit["committer"] != None and commit["committer"]["login"] in members) or (commit["commit"]["committer"]["name"] in members):
             commitNumber += 1
-            changes = changes + commit["commit"]["message"].split("\n")[0] + " (" + commit["commit"]["committer"]["date"].split("T")[0] +") " + "\n"
+            changes = changes + "- " + mkdn_links( commit["commit"]["message"].split("\n")[0] + " (" + commit["commit"]["committer"]["date"].split("T")[0] +") ", commit["html_url"]) + "\n"
 
     if commitNumber > 0:
-        changes = repo_name.split("/")[1] + "\n" + changes
+        changes = "## " + repo_name.split("/")[1] + "\n" + changes
         return changes
 
     else:
@@ -69,6 +85,14 @@ for repo in raw_repo_list:
         if Changes != "":
             ChangeLog = ChangeLog + Changes + "\n\n"
 
+
+ChangeLog = "# Changes since " + get_full_date() + "\n\n" + ChangeLog 
+
 print (ChangeLog)    
 
-open("API/changelogs/source.md", "w+").write(ChangeLog)
+existing = open("API/changelogs/source.md", "r").read()
+open("API/changelogs/source.md", "w+").write(ChangeLog + "\n\n" + existing)
+
+formatted_datetime = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+
+open(".github/scripts/changelog-generator/last_updated.txt", "w+").write(formatted_datetime)
