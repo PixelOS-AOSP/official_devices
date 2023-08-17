@@ -1,3 +1,9 @@
+# 17-Aug-2023
+- Improved speed of biometric authentication methods (face unlock, fingerprint)
+- Set default model name for USB device
+- Resolved issue with rapid decrease in brightness under adaptive brightness
+- Miscellaneous improvements and fixes.
+
 # 19-Jul-2023
 - Fixed CTS profile match not passing (Safetynet)
 
