@@ -24,6 +24,7 @@ from datetime import datetime
 auth = os.environ.get("GH_PAT")
 org = "PixelOS-AOSP"
 last_updated = open(".github/scripts/changelog-generator/last_updated.txt", "r").read().split("\n")[0].replace(" ", "")
+changelog_path = "docs/commits.md"
 
 auth_json = {
     "Authorization": "Bearer " + auth,
@@ -90,8 +91,8 @@ ChangeLog = "# Changes since " + get_full_date() + "\n\n" + ChangeLog
 
 print (ChangeLog)    
 
-existing = open("API/changelogs/source.md", "r").read()
-open("API/changelogs/source.md", "w+").write(ChangeLog + "\n\n" + existing)
+existing = open(changelog_path, "r").read()
+open(changelog_path, "w+").write(ChangeLog + "\n\n" + existing)
 
 formatted_datetime = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
