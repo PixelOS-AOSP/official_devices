@@ -1,3 +1,13 @@
+# 18-Aug-2023
+- Rebased Kernel over lineage
+- Decreased top-app schedtune boost (Saves more power usage)
+- Fixed Facebook marketplace (Source side)
+- Added more color profiles
+- Merge f2fs stable (Kernel Side)
+- Enabled Optimized Power Management
+- Optimized native executables for Cortex-A76 CPU
+- Alot more changes on kernel side...
+
 # 12-Jul-2023
 - Fixed offline charging
 - Enabled wallpaper zoom
