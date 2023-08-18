@@ -1,3 +1,14 @@
+# 18-Aug-2023
+- Switch to DFC kernel
+- Bring in XiaomiParts
+- Drop legacy DRM hal
+- Move dolby to XiaomiParts
+- Double tap sensor now needs a proximity check
+- Disabled statusbar burn-in protection
+- Move to Xiaomi sensors Multi-HAL
+- Disabled livedisplay
+- Dropped Mlipay support
+
 # 06-Jul-2023
 - Cleaned up sepolicy and removed duplicate labels
 - Fixed wakeup labels
