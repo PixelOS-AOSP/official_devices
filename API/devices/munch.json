@@ -16,8 +16,8 @@
     "device_display_name": "Redmi K40S/POCO F4",
     "device_display_codename": "munch",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/",
-    "private_download_tag": "munch_20230715_1756",
-    "last_updated": "16 July 2023",
+    "private_download_tag": "munch_202308180919",
+    "last_updated": "18 August 2023",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-16-10-2022.4508623"
 }

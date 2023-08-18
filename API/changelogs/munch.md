@@ -1,3 +1,10 @@
+# 18-Aug-2023
+- Use the new auto network selection UI
+- Updated MIUI Camera
+- Use new Dirac logo
+- Disable proximity sensor usage during doze
+- Enable proximity check for touchscreen gestures
+
 # 16-Jul-2023
 - Source upstream
 
