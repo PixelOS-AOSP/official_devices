@@ -1,3 +1,12 @@
+# 18-Aug-2023
+- Fixed back tap causing SystemUI restart
+- Disable proximity sensor usage during doze
+- Enable proximity check for touchscreen gestures
+- Fixed Facebook Marketplace's font not visible
+- Refined CPU input boost parameters
+- Remove CPUFreq times driver
+- Set GPU idle  timeout to 64ms
+
 # 09-Jul-2023
 - Fixed offline charging animation
 - Configure and enable CPU input boost
