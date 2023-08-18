@@ -1,3 +1,9 @@
+# 18-Aug-2023
+- Merged August security patches
+- Added Native support for Apple AirPods
+- Fixed battery drain issues stemming from Pixel Launcher and Android System Intelligence
+- Lots of under the hood changes, optimisations and bug fixes
+
 # 6-Jul-2023
 - Merged July security patches
 - Updated the default wallpaper to Pixel 8 licorice dark wallpaper
