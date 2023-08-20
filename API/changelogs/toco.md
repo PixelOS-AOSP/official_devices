@@ -1,3 +1,14 @@
+# 20-Aug-2023
+- configs: Update dax-default profiles
+- Decommonize misys prebuilts
+- Disable per-cgroup PSI accounting
+- Explicitly disable serial console
+- Fix IMS symlink as per dynamic partitions
+- parts: Use vector drawable for Dirac™ logo
+- prop: Default to boosted color mode
+- Switch to Moto Dolby
+- Update common blobs from sweet MIUI V14.0.4.0.TKFMIXM
+
 # 13-Jul-2023
 - parts: Use vector drawable for Dirac™ logo
 - Ship VantomKernel v4.14.320
