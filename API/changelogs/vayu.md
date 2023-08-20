@@ -1,3 +1,11 @@
+# 20-Aug-2023
+- Update blobs from Miui 14.0.3 and LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Use adreno and perf from qcom common
+- Optimize audio codec
+- Add per app Refresh Rate
+- Update Leica camera app
+- Misc fixes and improvement
+
 # 15-Jul-2023
 - Ship Leica Camera as default camera app
 - Improve Auto Brightness 
