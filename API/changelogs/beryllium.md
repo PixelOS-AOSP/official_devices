@@ -1,3 +1,7 @@
+# 20-Aug-2023
+- Included miuicamera
+- Removed devicesettings dependency
+
 # 06-Jul-2023
 - Tweaked statusbar padding a bit
 - Relaxed charging mitigation
