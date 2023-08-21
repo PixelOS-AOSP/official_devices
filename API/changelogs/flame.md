@@ -1,3 +1,6 @@
+# 21-Aug-2023
+- Misc. Fixes and Improvements
+
 # 07-Jul-2023
 - Add NowPlaying
 - Fix boot animation resolution
