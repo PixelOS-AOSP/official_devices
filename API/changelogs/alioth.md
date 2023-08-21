@@ -1,3 +1,12 @@
+# 21-Aug-2023
+- Fixed random reboots (Caused by modem crashes)
+- Updated blobs to V14.0.9.0.TKHEUXM
+- Added FPS info qs tile
+- Moved Thermal Profile to System
+- Dropped LiveDisplay
+- Reverted more color profiles (Was giving black screen issues)
+And alot more...
+
 # 18-Aug-2023
 - Rebased Kernel over lineage
 - Decreased top-app schedtune boost (Saves more power usage)
