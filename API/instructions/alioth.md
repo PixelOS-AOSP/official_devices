@@ -1,6 +1,6 @@
 # Clean flash (coming from a different ROM):
 - Format data, wipe data/cache/metadata
-- Flash FW (14.0.4.0)
+- Flash FW (14.0.9.0)
 - Flash ROM
 - Reboot recovery
 - Flash magisk (Optional)
