@@ -1,3 +1,11 @@
+# 22-Aug-2023
+- Update task_profiles.json from AOSPA
+- Update ueventd from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Setup UClamp boosting
+- Upstreamed kernel to 4.14.323
+- Switch to TEO for cpuidle
+- Misc. fixes and improvements
+
 # 09-Jul-2023
 - Change fingerprint color to white with red center
 - Remove parts (clean speaker)
