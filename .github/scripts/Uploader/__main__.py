@@ -22,10 +22,19 @@ import os
 import json
 import requests
 import hashlib
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
 
 SF_PASS = os.environ.get("SF_PASS")
 
 android_version_text = "thirteen"
+
+cred = credentials.Certificate("priv/pixelos-telegram-bot-firebase-adminsdk-crrnu-4e65db1b73.json")
+firebase_admin.initialize_app(cred, {
+    "databaseURL": "https://pixelos-telegram-bot-default-rtdb.firebaseio.com/"
+})
+
 
 try:
     new_tags = open("new_tags.txt", "r").readlines()
@@ -191,3 +200,10 @@ for tag in new_tags:
               cur_dir + "/releases/*.zip " + cur_dir + "/images_to_upload")
     print("Uploaded")
 
+    # Remove tag from queue 
+    ref = db.reference('/release/queue')
+    current_queue = ref.get()
+    if current_queue != None:
+        if tag in current_queue:
+            current_queue.remove(tag)
+            ref.set(current_queue)
