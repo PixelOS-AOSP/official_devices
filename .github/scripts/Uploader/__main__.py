@@ -226,6 +226,7 @@ for tag in new_tags:
     if current_queue != None:
         if mtag in current_queue:
             current_queue.remove(mtag)
+            ref = db.reference('/release/queue')
             ref.set(current_queue)
     else:
         print ("No Release Queue")
