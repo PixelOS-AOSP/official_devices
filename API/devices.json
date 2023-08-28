@@ -91,6 +91,15 @@
             "active": true
         },
         {
+            "codename": "lunaa",
+            "codename_alt": "lunaa",
+            "vendor": "realme",
+            "model": "realme GT Master",
+            "maintainer_name": "itsXRP",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "citrus",
             "codename_alt": "citrus",
             "vendor": "Xiaomi",
