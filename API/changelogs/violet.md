@@ -1,3 +1,8 @@
+# 28-Aug-2023
+- Tuned audio output
+- Ported brightness overlays from miui
+- WiFi: Increase maximum bss counflt
+
 # 22-Jul-2023
 - Don't use proximity sensor for Doze
 - Upstreamed kernel
