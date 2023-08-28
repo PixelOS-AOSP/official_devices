@@ -1,9 +1,9 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 37
+Number Of Devices in Official PixelOS: 38
 
-Number of Brands in Official PixelOS: 8
+Number of Brands in Official PixelOS: 9
 
 Officially Supported Devices:
 
@@ -59,5 +59,8 @@ Officially Supported Devices:
 15. Xiaomi 11 Lite 5G NE (lisa)
 16. Xiaomi Mi 9 (cepheus)
 17. Xiaomi Mi Note 10 Lite (toco)
+
+**realme**
+1. realme GT Master (lunaa)
 
 We hope you enjoyed the project! Your donations help us maintain our infrastructure and continue our work. Please consider showing your support by donating! [Click Me](https://wiki.pixelos.net/docs/donate)
