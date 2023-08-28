@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_panther-13.0-20230723-0200.zip",
-    "datetime": 1690077497,
-    "size": 1828329112,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20230723-0200.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-23/PixelOS_panther-13.0-20230723-0200.zip",
-    "filehash": "282ae97ed3ae95997c59cceee3418edd",
-    "id": "282ae97ed3ae95997c59cceee3418edd",
+    "filename": "PixelOS_panther-13.0-20230828-0141.zip",
+    "datetime": 1693186831,
+    "size": 1762500419,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20230828-0141.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-08-28/PixelOS_panther-13.0-20230828-0141.zip",
+    "filehash": "9457e50fa1fe124beb87f1cd2d7cd052",
+    "id": "9457e50fa1fe124beb87f1cd2d7cd052",
     "maintainers": [
         {
             "main_maintainer": false,
