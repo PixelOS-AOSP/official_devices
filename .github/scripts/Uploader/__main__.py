@@ -52,7 +52,27 @@ else:
     print("Not Pushing OTA")
 
 cur_dir = os.getcwd()
+
+def Santize_list (mList):
+    new_list = []
+    for value in mList:
+        if value != None:
+            new_list.append(value)
+    return new_list
+
+def Release_viewQueue():
+    ref = db.reference('/release/queue')
+    refget = ref.get()
+    if refget != None:
+        mlist = Santize_list(refget)
+        print (mlist)
+        return mlist
+    else: 
+        print ("Queue None")
+        return None
+
 print(new_tags)
+print (Release_viewQueue())
 for tag in new_tags:
     os.chdir(cur_dir + "/releases")
     os.system("gh release download " + tag.replace("\n", "") + " && ls")
@@ -201,9 +221,11 @@ for tag in new_tags:
     print("Uploaded")
 
     # Remove tag from queue 
-    ref = db.reference('/release/queue')
-    current_queue = ref.get()
+    current_queue = Release_viewQueue()
+    mtag = tag.replace("\n", "")
     if current_queue != None:
-        if tag in current_queue:
-            current_queue.remove(tag)
+        if mtag in current_queue:
+            current_queue.remove(mtag)
             ref.set(current_queue)
+    else:
+        print ("No Release Queue")
