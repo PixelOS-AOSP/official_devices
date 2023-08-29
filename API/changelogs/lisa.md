@@ -1,3 +1,10 @@
+# 29-Aug-2023
+- Enable secure NFC
+- Fixed auto brightness behavior  
+- Fixed weird glitches on apps like YouTube
+- Merged tag LA.UM.9.14.r1-22200-LAHAINA.QSSI14.0 in kernel
+- Minor improvements and fixes
+
 # 17-Aug-2023
 - Improved speed of biometric authentication methods (face unlock, fingerprint)
 - Set default model name for USB device
