@@ -1,3 +1,17 @@
+# 31-Aug-2023
+- As mentioned in the instructions, a clean flash is mandatory from the May 2023 build
+- Update blobs from MIUI V14.0.3.0.TKQMIXM
+- Update audio configs from MIUI V14.0.3.0.TKQMIXM
+- Added MiuiCamera from MIUI V14.0.3.0.TKQMIXM
+- Adjusted status bar and rounded corner padding
+- SDCardFS Deprecation
+- Enabled case folding support on userdata
+- Use FUSE passthrough by default
+- Updated Adreno to Moto G84 (bangkk)
+- Enabled full LTO
+- Switched to adrian-clang
+- Various other device tree and kernel changes
+
 # 11-May-2023
 - Updated common blobs from sweet V14.0.2.0.TKFMIXM
 - Disabled combined QS header
