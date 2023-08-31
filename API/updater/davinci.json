@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_davinci-13.0-20230526-1410.zip",
-    "datetime": 1685110165,
-    "size": 1950449100,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230526-1410.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-09/PixelOS_davinci-13.0-20230709-0858.zip",
-    "filehash": "6c42158d8c30b616fe09a9f9f7cf83c5",
-    "id": "6c42158d8c30b616fe09a9f9f7cf83c5",
+    "filename": "PixelOS_davinci-13.0-20230831-0603.zip",
+    "datetime": 1693461761,
+    "size": 1952167666,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230831-0603.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-08-31/PixelOS_davinci-13.0-20230831-0603.zip",
+    "filehash": "6144adcaab14afdfb1a2cad073e5d17c",
+    "id": "6144adcaab14afdfb1a2cad073e5d17c",
     "maintainers": [
         {
             "main_maintainer": false,
