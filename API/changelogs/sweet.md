@@ -1,3 +1,11 @@
+# 31-Aug-2023
+- Added support for the FTS touchscreen driver
+- Fixed an issue where the screen would flicker on the top/bottom in certain apps
+- Add metadata to recovery.fstab so it is formatted on factory reset
+- Updated Adreno to Moto G84 (bangkk)
+- Merged latest CLO/Linux tags in kernel
+- Other misc. changes
+
 # 17-Jul-2023
 - Updated blobs and MiuiCamera from MIUI V14.0.4.0.TKFMIXM
 - Improved QS pulldown
