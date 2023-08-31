@@ -1,3 +1,10 @@
+# 31-Aug-2023
+- Moved sku version setup to kernel
+- Updated Adreno to Moto G84 (bangkk)
+- Add metadata to recovery.fstab so it is formatted on factory reset
+- Merged latest CLO/Linux tags in kernel
+- Other misc. changes
+
 # 09-Jul-2023
 - Retrofit Dynamic partitions 
 - Switched to FBEv2
