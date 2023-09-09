@@ -1,3 +1,9 @@
+# 09-Sep-2023
+- Resolved issue preventing users from flashing custom kernels in PixelOS recovery.
+- Addressed problem hindering device shutdown.
+- Restored max readahead size to 128KB.
+- Rectified Power Off Charging anomaly.
+
 # 05-Aug-2023
 - Rebased kernel on CodeLinaro tag LA.UM.9.12.r1-15500-SMxx50.QSSI13.0.
 - Merged ACK tag ASB-2023-07-05_4.19-stable.
