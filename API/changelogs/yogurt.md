@@ -1,3 +1,9 @@
+# 10-Sep-2023
+- Kang AIDL DRM blobs from Omix X600
+- Checkout APN Config from RMX2020
+- Enable C2 Codecs back
+- Improve PowerHAL Interaction hints
+
 # 23-Jul-2023
 - Initial OSS Vendor build
 - Fix battery drain issues
