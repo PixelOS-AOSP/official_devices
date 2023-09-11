@@ -1,3 +1,11 @@
+# 11-Sep-2023
+- Updated device specific blobs to OxygenOS 13.1.0.591
+- Fixed mic rated issues in calls and games
+- Updated Adreno/Graphics blobs to LA.UM.9.14.1.r1-10300-QCM6490.QSSI13.0 (V600)
+- Fixed camera viewfinder layout
+- Latest OxygenOS 13.1.0.591 firmware included
+- Lots of kernel side improvements
+
 # 29-Jul-2023
 - Updated device blobs from OxygenOS 13.1.0.582
 - Fixed battery drain
