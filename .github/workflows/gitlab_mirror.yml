@@ -1,7 +1,10 @@
 name: GitLab Mirror
+
 on:
   push:
   workflow_dispatch:
+  schedule: 
+    -cron: '30 */3 * * *'
 
 env:
   TOKEN: ${{ secrets.TOKEN }}
