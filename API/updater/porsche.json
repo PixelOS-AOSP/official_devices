@@ -1,17 +1,17 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_porsche-13.0-20230729-1728.zip",
-    "datetime": 1690647516,
-    "size": 2611935032,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230729-1728.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230729-1728.zip",
-    "filehash": "f58c106f6b2ca798d67b4745b13b4b39",
-    "id": "f58c106f6b2ca798d67b4745b13b4b39",
+    "filename": "PixelOS_porsche-13.0-20230912-1541.zip",
+    "datetime": 1694533247,
+    "size": 2450144079,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230912-1541.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230912-1541.zip",
+    "filehash": "3a4ac991cd1c4d94355ad4c98a9c093e",
+    "id": "3a4ac991cd1c4d94355ad4c98a9c093e",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "kunmun36",
+            "github_username": "ElectroPerf",
             "name": "Kunmun"
         }
     ],
