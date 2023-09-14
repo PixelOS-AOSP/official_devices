@@ -2,6 +2,7 @@
 - Updated device specific blobs to RUI 13.1.0.1411
 - Fixed mic related issues in calls and games
 - Updated Adreno/Graphics blobs to LA.UM.9.14.1.r1-10300-QCM6490.QSSI13.0 (V600)
+- Ditched OplusGallery and patched OplusCamera to use GPhotos as default gallery
 - Fixed camera viewfinder layout
 - Latest RUI 13.1.0.1411 firmware included
 - Lots of kernel side improvements
