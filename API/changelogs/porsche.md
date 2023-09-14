@@ -1,3 +1,11 @@
+# 14-Sep-2023
+- Updated device specific blobs to RUI 13.1.0.1411
+- Fixed mic related issues in calls and games
+- Updated Adreno/Graphics blobs to LA.UM.9.14.1.r1-10300-QCM6490.QSSI13.0 (V600)
+- Fixed camera viewfinder layout
+- Latest RUI 13.1.0.1411 firmware included
+- Lots of kernel side improvements
+
 # 29-Jul-2023
 - Updated device blobs from RealmeUI 4.0 C.15 (EX01)
 - Fixed battery drain
