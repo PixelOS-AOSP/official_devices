@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_G-13.0-20230508-2141.zip",
-    "datetime": 1683581988,
-    "size": 1442166917,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230508-2141.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-05-09/PixelOS_G-13.0-20230508-2141.zip",
-    "filehash": "b13d21a283178026cb26338a861ab868",
-    "id": "b13d21a283178026cb26338a861ab868",
+    "filename": "PixelOS_G-13.0-20230914-1945.zip",
+    "datetime": 1694720648,
+    "size": 1424433405,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230914-1945.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-09-15/PixelOS_G-13.0-20230914-1945.zip",
+    "filehash": "69f663077e5431326bb0eef4a776e8f2",
+    "id": "69f663077e5431326bb0eef4a776e8f2",
     "maintainers": [
         {
             "main_maintainer": false,
