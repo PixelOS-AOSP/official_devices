@@ -5,6 +5,15 @@
 - Decreased top-app schedtune boost to value 1
 - Updated kprofiles to 6.0.0
 - Decreased latency and heat on kernel side
+- Override Aperture
+
+# 15-Sep-2023
+- Updated Adreno/Graphics blobs to LA.UM.9.14.1.r1-10300-QCM6490.QSSI13.0 (V600)
+- Fixed lift to check phone
+- Use the new auto network selection UI
+- Decreased top-app schedtune boost to value 1
+- Updated kprofiles to 6.0.0
+- Decreased latency and heat on kernel side
 
 # 21-Aug-2023
 - Fixed random reboots (Caused by modem crashes)
