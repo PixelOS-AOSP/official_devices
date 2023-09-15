@@ -1,3 +1,6 @@
+# 15-Sep-2023
+- Removed LTE CA Hax
+
 # 09-May-2023
 - Enabled CA by default
 
