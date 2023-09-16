@@ -1,3 +1,13 @@
+# 16-Sep-2023
+- Add fastcharge implementation
+- Add keylayout mapping for Xbox360 compatible controllers
+- Drop unnecessary Google Hotword stuff
+- Import Qualcomm CameraX Vendor Extensions
+- keylayout: Import joystick keylayouts from 1Controller v1.5.2
+- Restore soundtrigger
+- sepolicy: Label more wakeup nodes
+- wifi: Enable Optimized Power Management
+
 # 20-Aug-2023
 - configs: Update dax-default profiles
 - Decommonize misys prebuilts
