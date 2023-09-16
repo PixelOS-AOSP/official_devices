@@ -1,3 +1,11 @@
+# 16-Sep-2023
+- Switch back to libperfmgr
+- Address denials
+- Drop megvii libraries
+- Disable statusbar burnin protection
+- Set thermal data path for xiaomi mi_thermald
+- Misc fixes and improvements
+
 # 20-Aug-2023
 - Update blobs from Miui 14.0.3 and LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
 - Use adreno and perf from qcom common
