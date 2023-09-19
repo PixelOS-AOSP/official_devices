@@ -327,6 +327,14 @@
             "XDA": "https://forum.xda-developers.com/m/hellinfix57570.12502859/",
             "role": "Ex-spaced Maintainer",
             "tagline": "DEAD AF"
+        },
+        {
+            "name": "Raghav Tandon",
+            "github": "raghavt20",
+            "telegram": "raghavt20",
+            "XDA": "https://forum.xda-developers.com/m/raghavt20.11102031/",
+            "role": "Tundra Maintainer",
+            "tagline": ";-;"
         }
     ]
 }
