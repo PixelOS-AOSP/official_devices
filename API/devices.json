@@ -55,6 +55,15 @@
             "active": true
         },
         {
+            "codename": "tundra",
+            "codename_alt": "tundra",
+            "vendor": "Motorola",
+            "model": "Motorola Edge (30 Fusion/S30 Pro)",
+            "maintainer_name": "raghavt20",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "dubai",
             "codename_alt": "dubai",
             "vendor": "Motorola",
@@ -447,15 +456,6 @@
             "vendor": "Realme",
             "model": "realme GT Master",
             "maintainer_name": "itsXRP",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "tundra",
-            "codename_alt": "tundra",
-            "vendor": "Motorola",
-            "model": "Motorola Edge (30 Fusion/S30 Pro)",
-            "maintainer_name": "raghavt20",
             "frame": null,
             "active": true
         }
