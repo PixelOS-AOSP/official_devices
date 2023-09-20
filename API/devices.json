@@ -100,6 +100,15 @@
             "active": true
         },
         {
+            "codename": "oscaro",
+            "codename_alt": "oscaro",
+            "vendor": "OnePlus",
+            "model": "OnePlus Nord CE 2 Lite",
+            "maintainer_name": "Sugakesshaa",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "citrus",
             "codename_alt": "citrus",
             "vendor": "Xiaomi",
