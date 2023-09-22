@@ -1,0 +1,22 @@
+{
+  "error": false,
+  "version": "thirteen",
+  "filename": "PixelOS_oscaro-13.0-20230922-0056.zip",
+  "datetime": 1695344147,
+  "size": 2037090732,
+  "url": "URL_PLACEHOLDER",
+  "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+  "filehash": "77619848ef6cab23905c49de32141dfc",
+  "id": "77619848ef6cab23905c49de32141dfc",
+  "maintainers": [
+      {
+          "main_maintainer": false,
+          "github_username": "bheatleyyy",
+          "name": "Sugakesshaa"
+      }
+  ],
+  "donate_url": "",
+  "website_url": "https://pixelos.net/",
+  "news_url": "https://blog.pixelos.net/",
+  "forum_url": ""
+}
