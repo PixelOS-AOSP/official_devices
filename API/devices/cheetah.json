@@ -1,0 +1,24 @@
+{
+  "maintainer": [
+      {
+          "display_name": "Kitsunejasutin",
+          "telegram": "https://t.me/tokatsu",
+          "github": "https://github.com/Kitsunejasutin"
+      }
+  ],
+  "updater": true,
+  "beta": true,
+  "version": "thirteen",
+  "available_versions": [
+      "thirteen"
+  ],
+  "release": "monthly",
+  "device_display_name": "Google Pixel 7 Pro",
+  "device_display_codename": "cheetah",
+  "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cheetah/",
+  "last_updated": "",
+  "private_download_tag": "",
+  "active": true,
+  "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/",
+  "customRecoveryRequired": true
+}

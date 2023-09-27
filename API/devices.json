@@ -467,6 +467,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "cheetah",
+            "codename_alt": "cheetah",
+            "vendor": "Google",
+            "model": "Google Pixel 7 Pro",
+            "maintainer_name": "Justine",
+            "frame": null,
+            "active": true
         }
     ]
 }
