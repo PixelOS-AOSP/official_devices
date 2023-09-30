@@ -1,3 +1,9 @@
+# 30-Sep-2023
+- Improved battery life and performance
+- Added charging control from lineage
+- Updated stock blobs from MIUI V14.0.6.0.TKOMIXM
+- OTA Updater is now faster
+
 # 29-Aug-2023
 - Enable secure NFC
 - Fixed auto brightness behavior  
