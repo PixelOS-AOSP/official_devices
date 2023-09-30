@@ -1,3 +1,99 @@
+# Changes since 16 August 2023
+
+## frameworks_base
+- [New Crowdin updates (#44) (2023-09-30) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/c149bd24743ab3f16ff35b4912b5fe05eb4a6e26)
+- [ChargingControl: Additional log lines for deadline (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/57ca2121c09dd999dcc15f4f35bd2f4df206a3db)
+- [ChargingControl: Retry setting deadline if it fails (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/2a76f5982a638806fedd6e028276355565609846)
+- [ChargingControl: Drop default values for initially zero variables (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/23abb13031af65eecba96aa7262171e279b6c617)
+- [ChargingControl: Return early if lineage health HAL is not found (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/fff124f72a20a7a3c948fb3dca57fe06da949350)
+- [ChargingControl: Don't set deadline if charging control is not enabled (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/8fff8462f9fbbb1d6d01d54ba42202a22de10667)
+- [ChargingControl: Use ServiceManager.waitForDeclaredService() (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/89f65093b8b696b4a28a6fe557ff569c7358bfbe)
+- [ChargingControl: No need to log a crash when not supported (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/7fbaf08b0abf03e8570690d1e615decaca8c02ce)
+- [ChargingControl: Handle cancel toggle correctly if bypass is not supported (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/fa16a386f2351e2bd44299caa50a0b6718d5cfa9)
+- [ChargingControl: Add cancel toggle for limit done notification (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/285671360fdc2b884593a9ab77534f442c1667cf)
+- [ChargingControl: Reset internal states on settings change (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/0a456694f7c711d60fad1b764ad8cdd1e298fc4b)
+- [ChargingControl: Set a small margin for devices with bypass support (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/87b6af7a7c6860db42c720570db432ed55ee5216)
+- [base: Add static isChargingControlSupported(ctx) method (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/5bda6669238b1e96280efe3d95ff7da9133b2803)
+- [base: Implement Lineage health service (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/d0bf39ec798e698171511fb32d709f093efbda5d)
+- [base: Extract base class for lineage base feature (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/fd665877b7e908ce943cbf897922cc61d776f012)
+- [base: Settings: Add settings for charging control (2023-09-28) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/b299580b98a0997e0e4711594475641f2b0acb42)
+- [display: Handle zero auto brightness adjustment (2023-09-19) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/67a09cdd892bf513a01b6129fcd646129eca18ab)
+- [PixelPropsUtils: Update device property (2023-09-18) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/a5d81ecdfe0f8bd17ad4873a6805659a70573d52)
+- [PixelPropsUtils: Update fingerprints to September (2023-09-18) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/506b9706781c0189554098388f25659e8e050d21)
+- [Merge tag 'android-13.0.0_r82' into thirteen (2023-09-18) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/00843cfe59b19aab00f9b8b2062620fd44956058)
+- [Unmount unusable partition instead of putting device into crashloop. (2023-09-14) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/535840251fe5d18f200674d3615c80022e5f53c6)
+- [core: legacy toasts deserve rounded corners too (2023-09-14) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/19e03d5f9badbf3fe0c027e9acd6dfe695bf80b8)
+- [core: pm: Allow wildcard in RRO system property value checks (2023-09-14) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/853e0c322e0e8764e561414bd3e39201503c94dc)
+- [wm: fix APPEARANCE_LOW_PROFILE_BARS not working in non-fullscreen app (2023-09-14) ](https://github.com/PixelOS-AOSP/frameworks_base/commit/ae171966072fe4005889e5ae79dc25baa379accc)
+
+
+## packages_apps_Settings
+- [New Crowdin updates (#35) (2023-09-30) ](https://github.com/PixelOS-AOSP/packages_apps_Settings/commit/cf49df87959c0d85e9e3b944457238c43c919c4c)
+- [Settings: Add charging control preferences (2023-09-28) ](https://github.com/PixelOS-AOSP/packages_apps_Settings/commit/b01f75a8af9bd0c55c68be018848722cfc0e4084)
+- [Merge tag 'android-13.0.0_r82' into thirteen (2023-09-18) ](https://github.com/PixelOS-AOSP/packages_apps_Settings/commit/98d2143b53ef6ccd44028e3f027adb97bb50fafa)
+- [New Crowdin updates (#33) (2023-08-16) ](https://github.com/PixelOS-AOSP/packages_apps_Settings/commit/b8f997e4ee27107f87ed41b8ba72f865607c5673)
+
+
+## build
+- [Merge tag 'android-13.0.0_r82' into thirteen (2023-09-18) ](https://github.com/PixelOS-AOSP/build/commit/a58daf9ce6c77d8cafbab9f4340984c19f487fef)
+
+
+## vendor_aosp
+- [soong: Add TARGET_HEALTH_CHARGING_CONTROL related configs (2023-09-28) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/26e5fbf6e5e76471856b1d44203460fafb47c0f2)
+- [config: device_framework_matrix: Add vendor.lineage.health (2023-09-28) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/ff10696c4b0cd35a4275f943a047d5c25c73c0b8)
+- [common: Add google dialer call recording feature (2023-09-28) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/cd4207e1766a7a4f7036681ecc9ed26db9067d3a)
+- [kernel: Use pahole from Google prebuilts (2023-09-20) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/7a816e65de4beee871f70f22d9f45e5bbcdc9867)
+- [kernel: Allow to limit the used .dtb files for the final DTB image (2023-09-20) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/9e680e0c679912cf1cffdde97c17595143b77ed7)
+- [kernel: Include DTBOs from OEM/ODM folder in base DTB (2023-09-20) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/34dad32744324e5ce92bc87c43e25723feb518e8)
+- [kernel: Handle GKI modules (2023-09-20) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/191a6a3d52715d97f1658c60b0d6f0c3a5d2588f)
+- [overlay: Move config_hspa_data_distinguishable to proper location (2023-09-20) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/101cf9d01b145adcea972bfada4f31949b088acb)
+- [common: Dexpreopt SystemUIGoogle and SettingsGoogle (2023-09-18) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/e64cdd553308ef28940df00ccbf775e2e48cd08d)
+- [overlay: Do not overwrite default config_pluginAllowlist (2023-09-14) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/c6a042d8e0303a48e56a2854009b2b794eb5c998)
+- [overlay: Treat org.lineageos.settings.device as privileged (2023-09-14) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/9bde434d8acb7c552f8797d4e2519b6f929f8822)
+- [sensitive_pn: Add website for AASRA, India (2023-09-14) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/e5502ce5371529a59cf681604bad2087ea011f8b)
+- [kernel: Support copying modules to recovery (2023-09-14) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/d00a63cbd683155cb091e36d59c994434d9fb048)
+- [kernel: Support Qualcomm merge_dtbs script (2023-09-14) ](https://github.com/PixelOS-AOSP/vendor_aosp/commit/d7fd82f3302c8d0f70a6f0df5a914c4aa7f49ef4)
+
+
+## packages_apps_Updates
+- [New Crowdin updates (#3) (2023-08-16) ](https://github.com/PixelOS-AOSP/packages_apps_Updates/commit/4f4d31741956ae6b66a024c74a0d7576d3145080)
+
+
+## manifest
+- [Revert "lineage: Sync external/dwarves from AOSP" (2023-09-20) ](https://github.com/PixelOS-AOSP/manifest/commit/b5a71008242b7b537548aaa067775d1f205cc171)
+- [Merge tag 'android-13.0.0_r82' into thirteen (2023-09-18) ](https://github.com/PixelOS-AOSP/manifest/commit/6fed42b8910b64a692fc216aacbacc5bb61b0727)
+- [manifest: Track hardware/libhardware_legacy from lineage (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/f50e3f7fc7d13839e5a1dc3314e80b5bed20f784)
+- [manifest: qcom: Remove sdm660 display group (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/d6c26a52832cb2ff325dd67430752f2d40331b61)
+- [manifest: qcom: Correct core-utils-vendor group (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/c49b6278d2aa558a95278437969a94ffa272707d)
+- [manifest: Track external/dtc from lineage (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/e26d4cca1370eff843165e2cdd462b7749d5c5ec)
+- [manifest: qcom: Add kalama HALs (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/cbccc25daba87d9dd09cb1299b02552a84156006)
+- [manifest: qcom: Add taro HALs (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/525a5a938b6923e920a19dd3430760f4b6b6a9d3)
+- [manifest: qcom: Remove deprecated custom APM (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/d156907ad99d83176bf610f7ebf696bb52a24d28)
+- [manifest: qcom: Sync core-utils-sys and core-utils-vendor (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/0368f5b6c9e74040271402c8de73c1652760b793)
+- [manifest: Specify revision for WiFi hal (2023-08-26) ](https://github.com/PixelOS-AOSP/manifest/commit/8f67ce5b5827245d07f2a93c487b66a26c2cfd03)
+
+
+## frameworks_native
+- [Merge tag 'android-13.0.0_r82' into thirteen (2023-09-18) ](https://github.com/PixelOS-AOSP/frameworks_native/commit/cb90850a9573f761f95f59c4cddd348cb5f9fb21)
+
+
+## frameworks_av
+- [Merge tag 'android-13.0.0_r82' into thirteen (2023-09-18) ](https://github.com/PixelOS-AOSP/frameworks_av/commit/97490fa9764d5ea0d5146ba492b60daa83d518e8)
+
+
+## vendor_pixel-framework
+- [SettingsGoogle: Sync preferences (2023-09-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/e0bc1695c7a28a8e50ec429d3954b2e8d909e69f)
+- [SystemUIGoogle: googlebattery: rework system feature check sequence (2023-09-19) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/b2ee1758efc321ef5d335c68b264f41a3aa98b7b)
+- [SystemUIGoogle: Fix now playing visibility updates (2023-08-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/bf2e59ae4016e0a7f2a59348fd820d98edb8187d)
+- [SystemUIGoogle: Hide now playing icon if not clickable (2023-08-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/411b213c0f093beda5cdf3f249a75669caf12709)
+- [now playing: Resolve compiler warnings (2023-08-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/7f3c624a7876450c8ee45c8cc9847bf47de313fa)
+- [SystemUIGoogle: Rewrite AmbientIndicationContainer to kotlin (2023-08-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/2ad5ce9ff702653101757498ef17012a4e30645a)
+- [SystemUIGoogle: Trigger an ambient pulse on a new Now Playing track (2023-08-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/08ea331be80e6aa39c3ab9c5b12b1e2c04695679)
+- [SystemUIGoogle: Fix now playing text alignment (2023-08-28) ](https://github.com/PixelOS-AOSP/vendor_pixel-framework/commit/8aacfb765f7171c3e86deee4e86f83dfcec618b2)
+
+
+
+
 # Changes since 05 July 2023
 
 ## frameworks_base

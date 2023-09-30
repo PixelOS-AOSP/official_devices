@@ -9,3 +9,4 @@ releases-public
 images_to_upload
 priv
 priv/*
+.github/scripts/changelog-generator/__pycache__
