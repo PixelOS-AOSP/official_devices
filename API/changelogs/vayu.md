@@ -1,3 +1,15 @@
+# 01-Oct-2023
+- Update vendor blobs from  LA.UM.9.1.r1-12900-SMxxx0.0 and LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0
+- Update adreno from moto g84
+- Update gps stack from LA.UM.9.1.r1-13500-SMxxx0.0|13.0
+- Disable per cgroup psi accounting
+- Clean up libinit
+- Tune post boot script and qcom power rc 
+- Set default USB string 
+- Merge tag LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0 in kernel
+- Alot of improvement and fixes in kernel
+- Misc fixes and improvement
+
 # 16-Sep-2023
 - Switch back to libperfmgr
 - Address denials
