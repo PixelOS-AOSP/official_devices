@@ -1,3 +1,9 @@
+# 01-Oct-2023
+- Bring back dropped media and audio configs [Temporary].
+- Disabled APEX Compression in order to fix kernel panics.
+- Drop Xiaomi CIT censor service because of no debatable improvements seen in ALS correction.
+- Probing of NQ-NCI driver has been stopped when the HWC prop is detected as INDIA.
+
 # 09-Sep-2023
 - Resolved issue preventing users from flashing custom kernels in PixelOS recovery.
 - Addressed problem hindering device shutdown.
