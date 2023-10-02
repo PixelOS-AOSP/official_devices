@@ -1,3 +1,9 @@
+# 02-Oct-2023
+- Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Enable apk fs-verity
+- Add FM Tuner to voip_tx input
+- Copy prebuilt libhidlbase from vndk v32
+
 # 28-Aug-2023
 - Tuned audio output
 - Ported brightness overlays from miui
