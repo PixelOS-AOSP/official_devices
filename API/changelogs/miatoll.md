@@ -1,3 +1,9 @@
+# 02-Oct-2023
+- Switched to power-libperfmgr
+- Reduced device boot time
+- Switched to Pixel Thermal
+- Removed Kcal in favor of LiveDisplay
+
 # 18-Aug-2023
 - Switch to DFC kernel
 - Bring in XiaomiParts
