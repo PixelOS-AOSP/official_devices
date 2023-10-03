@@ -1,3 +1,7 @@
+# 03-Oct-2023
+- Switched to Sultan kernel
+- Improved battery life and performance significantly
+
 # 28-Aug-2023
 - Fixed Lockscreen padding
 - Fixed Adaptive Charging 
