@@ -1,3 +1,10 @@
+# 30-Sep-2023
+- Merged September security patches from AOSP (android-13.0.0_r82)
+- Introduced Charge control feature
+- Updated Google Apps
+- Updated translations
+- Under the hood improvements and fixes.
+
 # 18-Aug-2023
 - Merged August security patches
 - Added Native support for Apple AirPods
