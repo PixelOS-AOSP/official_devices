@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_coral-13.0-20230821-0803.zip",
-    "datetime": 1692604926,
-    "size": 1657165595,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20230821-0803.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-08-21/PixelOS_coral-13.0-20230821-0803.zip",
-    "filehash": "fed9f8b640d3fcefe4a6f46f64cfd745",
-    "id": "fed9f8b640d3fcefe4a6f46f64cfd745",
+    "filename": "PixelOS_coral-13.0-20231003-1028.zip",
+    "datetime": 1696328858,
+    "size": 1669189244,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20231003-1028.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-10-03/PixelOS_coral-13.0-20231003-1028.zip",
+    "filehash": "bfbd3767adc224c3102dc0452ca102ce",
+    "id": "bfbd3767adc224c3102dc0452ca102ce",
     "maintainers": [
         {
             "main_maintainer": false,
