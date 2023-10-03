@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_cheetah-13.0-20231003-0850.zip",
+    "datetime": 1696322939,
+    "size": 1771551699,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cheetah/PixelOS_cheetah-13.0-20231003-0850.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-10-03/PixelOS_cheetah-13.0-20231003-0850.zip",
+    "filehash": "aa4c85fd9af7916308a9888379d423b8",
+    "id": "aa4c85fd9af7916308a9888379d423b8",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Kitsunejasutin",
+            "name": "Kitsunejasutin"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/"
+}
