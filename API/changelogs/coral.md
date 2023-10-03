@@ -1,3 +1,7 @@
+# 03-Oct-2023
+- Fix NowPlaying
+- Misc. Fixes and Improvements
+
 # 21-Aug-2023
 - Based on August security patch
 - CTS passed by default

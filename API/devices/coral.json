@@ -16,8 +16,8 @@
     "device_display_name": "Google Pixel 4 XL",
     "device_display_codename": "coral",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/",
-    "last_updated": "21 August 2023",
-    "private_download_tag": "coral_202308210803",
+    "last_updated": "03 October 2023",
+    "private_download_tag": "coral_202310031028",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-05-07-2023.4576535/",
     "customRecoveryRequired": true
