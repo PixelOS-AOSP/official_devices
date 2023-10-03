@@ -16,8 +16,8 @@
     "device_display_name": "Google Pixel 7 Pro",
     "device_display_codename": "cheetah",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cheetah/",
-    "last_updated": "",
-    "private_download_tag": "",
+    "last_updated": "03 October 2023",
+    "private_download_tag": "cheetah_202310030850",
     "active": true,
     "xda": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/",
     "customRecoveryRequired": true
