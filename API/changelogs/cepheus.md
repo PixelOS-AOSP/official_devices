@@ -1,3 +1,8 @@
+# 05-Oct-2023
+- Update adreno from Moto G84
+- Merge CLO tag LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0
+- Misc. improvements and fixes
+
 # 22-Aug-2023
 - Update task_profiles.json from AOSPA
 - Update ueventd from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
