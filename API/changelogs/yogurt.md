@@ -1,3 +1,7 @@
+# 13-Oct-2023
+- Switched to f2fs filesystem to reduce cases of user data corruption
+- Fixed apn entries for JIO
+
 # 10-Sep-2023
 - Kang AIDL DRM blobs from Omix X600
 - Checkout APN Config from RMX2020
