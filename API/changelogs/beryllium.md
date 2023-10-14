@@ -1,3 +1,13 @@
+# 14-Oct-2023
+- Dropped Kprofiles
+- Added Charge Control
+- Enabled to set multiple vibration intensity levels
+
+# 14-Oct-2023
+- Dropped Kprofiles
+- Added Charge Control
+- Enabled to set multiple vibration intensity levels
+
 # 20-Aug-2023
 - Included miuicamera
 - Removed devicesettings dependency
