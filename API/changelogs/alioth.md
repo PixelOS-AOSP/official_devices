@@ -1,3 +1,10 @@
+# 29-Oct-2023
+- Implemented Dolby from Paranoid Android
+- Fixed USB dac
+- Updated Carrier Config from munch V14.0.3.0.TLMMIXM
+- Enabled 5G SA and NSA
+- Implemented charging control
+
 # 15-Sep-2023
 - Updated Adreno/Graphics blobs to LA.UM.9.14.1.r1-10300-QCM6490.QSSI13.0 (V600)
 - Fixed lift to check phone
