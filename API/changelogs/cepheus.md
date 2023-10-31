@@ -1,3 +1,7 @@
+# 31-Oct-2023
+- Fixed GPS and heating issues
+- Upstreamed kernel to 4.14.328
+
 # 05-Oct-2023
 - Update adreno from Moto G84
 - Merge CLO tag LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0
