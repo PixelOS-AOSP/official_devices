@@ -31,11 +31,12 @@ from telegram.ext import *
 BOT_API = os.environ.get("BOT_API")  # Telegram Bot API Token
 # GitHub PAT (for accessing private repos and APIs)
 TOKEN = os.environ.get("TOKEN")
+android_Version_text = "fourteen"
 GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001551285228"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/thirteen/banners/latest.png"
+banner = "https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/" + android_Version_text + "/banners/latest.png"
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"

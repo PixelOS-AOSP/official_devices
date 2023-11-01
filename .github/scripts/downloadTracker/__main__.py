@@ -61,7 +61,7 @@ def sf_download_count(path: str = None):
 
 def sf_per_device_count(device_list : list[str]) -> dict:
     _sf_json = {}
-    android_versions = ["thirteen", "twelve"]
+    android_versions = ["fourteen", "thirteen", "twelve"]
     for android in android_versions:
         _android_tmp = {}
         for device in device_list:

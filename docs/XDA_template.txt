@@ -1,8 +1,8 @@
-[ROM][13][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
+[ROM][14][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
 
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/thirteen/banners/latest.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/fourteen/banners/latest.png[/IMG]
 PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
@@ -29,7 +29,7 @@ Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 <!-- Link a custom recovery here, preferably TWRP or OrangeFox Recovery -->
 Recovery [URL]*[/URL]
-PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/thirteen/*/recovery/[/URL]
+PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/fourteen/*/recovery/[/URL]
 [CENTER]
 [SIZE=4][B][COLOR=rgb(184, 49, 47)]Note: GApps are included, don't flash them separately.[/COLOR][/B][/SIZE][/CENTER]
 
@@ -65,7 +65,7 @@ PixelOS http://github.com/PixelOS-AOSP
 Device Tree and Vendor Tree https://github.com/PixelOS-Devices
 Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
 
-[B]ROM OS Version:[/B] Android 13.
-[B]ROM Kernel:[/B] Linux 4.14.x
+[B]ROM OS Version:[/B] Android 14.
+[B]ROM Kernel:[/B] Linux 5.4.x
 [B]Stable Release Date:[/B] DD Month YYYY
 [B]Latest Release Date:[/B] DD Month YYYY

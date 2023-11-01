@@ -28,7 +28,7 @@ from firebase_admin import db
 
 SF_PASS = os.environ.get("SF_PASS")
 
-android_version_text = "thirteen"
+android_version_text = "fourteen"
 
 cred = credentials.Certificate("priv/pixelos-telegram-bot-firebase-adminsdk-crrnu-4e65db1b73.json")
 firebase_admin.initialize_app(cred, {
@@ -160,7 +160,7 @@ for tag in new_tags:
                 github_download_link = "https://github.com/PixelOS-Releases/releases-public/releases/download/" + str(datetime.date.today()) + "/" + ROM_ZIP_NAME
             else: 
                 # GH releases will not work over 2GB, so just use SF
-                github_download_link = "https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + device + "/" + ROM_ZIP_NAME
+                github_download_link = "https://sourceforge.net/projects/pixelos-releases/files/" + android_version_text + "/" + device + "/" + ROM_ZIP_NAME
             mjson = open(cur_dir + "/releases/" + file, "r").read().replace("GITHUB_RELEASES_PLACEHOLDER", github_download_link)
             open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
@@ -169,7 +169,7 @@ for tag in new_tags:
             if file.endswith(".json"):
                 device = file.replace(".json", "")
                 mjson = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
-                                                                               "https://sourceforge.net/projects/pixelos-releases/files/thirteen/" + device + "/" + ROM_ZIP_NAME)
+                                                                               "https://sourceforge.net/projects/pixelos-releases/files/" + android_version_text + "/" + device + "/" + ROM_ZIP_NAME)
                 open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
     else:
@@ -192,7 +192,7 @@ for tag in new_tags:
         "git pull",
         "git add .",
         "git commit -m \"official_devices: update tags [no ci]\"",
-        "git push origin thirteen",
+        "git push origin " + android_version_text + "",
     ]
 
     for command in push_commands:
@@ -206,13 +206,13 @@ for tag in new_tags:
         for file in os.listdir(cur_dir + "/images_to_upload"):
             if file.endswith(".img"):
                 os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/images_to_upload/" + file + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "/recovery")
+                  "/images_to_upload/" + file + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/" + android_version_text + "/" + device + "/recovery")
 
         os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/PixelOS_*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
+                  "/releases/PixelOS_*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/" + android_version_text + "/" + device + "")
         if CONTAINS_UPDATEPACKAGE:
             os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/aosp_*-img-*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/thirteen/" + device + "")
+                  "/releases/aosp_*-img-*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/" + android_version_text + "/" + device + "")
     except:
         print("Something went wrong")
     finally:
