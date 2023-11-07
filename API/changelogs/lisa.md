@@ -1,3 +1,9 @@
+# 07-Nov-2023
+- Initial beta build based on Android 14
+- Fixed an issue where big and prime core would get struck on higher frequencies on idle
+- Enabled MGLRU (better memory management)
+- Merged tag LA.UM.9.14.r1-22400-LAHAINA.QSSI13.0 in kernel
+
 # 30-Sep-2023
 - Improved battery life and performance
 - Added charging control from lineage
