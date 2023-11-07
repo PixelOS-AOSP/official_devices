@@ -7,16 +7,17 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 5G NE",
     "device_display_codename": "lisa",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/",
     "last_updated": "07 November 2023",
     "private_download_tag": "lisa_202311070652",
     "active": true,
