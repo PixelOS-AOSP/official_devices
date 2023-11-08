@@ -52,7 +52,7 @@ Officially Supported Devices:
 4. Redmi 9 (lancelot)
 5. Redmi K20/Mi 9T (davinci/davinciin)
 6. Redmi K40S/POCO F4 (munch)
-7. Redmi Note 10 (mojito/sunny)
+7. Redmi Note 10 (sunny/mojito)
 8. Redmi Note 10 Pro/Max (sweet/sweetin)
 9. Redmi Note 4 (mido)
 10. Redmi Note 7 Pro (violet)
