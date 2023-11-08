@@ -262,8 +262,8 @@
             "active": true
         },
         {
-            "codename": "mojito",
-            "codename_alt": "mojito/sunny",
+            "codename": "sunny",
+            "codename_alt": "sunny/mojito",
             "vendor": "Xiaomi",
             "model": "Redmi Note 10",
             "maintainer_name": "Ashwin DS, Cyberknight and Sarthak Roy ",
