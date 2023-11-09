@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Aditya",
+            "telegram": "https://t.me/Ad1tyaS1ngh",
+            "github": "https://github.com/Ad1tyaS1ngh"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Sony Xperia 5 II",
+    "device_display_codename": "pdx206",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

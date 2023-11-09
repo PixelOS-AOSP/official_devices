@@ -476,6 +476,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "pdx206",
+            "codename_alt": "pdx206",
+            "vendor": "Sony",
+            "model": "Sony Xperia 5 II",
+            "maintainer_name": "Aditya",
+            "frame": null,
+            "active": true
         }
     ]
 }
