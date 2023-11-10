@@ -1,3 +1,6 @@
+# 10 November 2023
+- Hotfix for Play Integrity fix
+
 # 07-Nov-2023
 - Initial beta build based on Android 14
 - Fixed an issue where big and prime core would get struck on higher frequencies on idle
