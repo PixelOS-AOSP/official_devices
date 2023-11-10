@@ -10,12 +10,13 @@
     "beta": false,
     "version": "thirteen",
     "available_versions": [
-        "thirteen"
+        "thirteen",
+	"fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "OnePlus Nord CE 2 Lite",
-    "device_display_codename": "oscaro",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/oscaro/",
+    "device_display_name": "OnePlus Nord CE 2 Lite / Realme 9 Pro",
+    "device_display_codename": "oscar",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/",
     "last_updated": "",
     "private_download_tag": "",
     "active": true,

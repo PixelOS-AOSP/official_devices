@@ -109,10 +109,10 @@
             "active": true
         },
         {
-            "codename": "oscaro",
-            "codename_alt": "oscaro",
+            "codename": "oscar",
+            "codename_alt": "oscar",
             "vendor": "OnePlus",
-            "model": "OnePlus Nord CE 2 Lite",
+            "model": "OnePlus Nord CE 2 Lite / Realme 9 Pro",
             "maintainer_name": "Sugakesshaa",
             "frame": null,
             "active": true
