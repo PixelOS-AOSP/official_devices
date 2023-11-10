@@ -27,7 +27,7 @@ Officially Supported Devices:
 1. OnePlus 7T Pro (OnePlus7TPro)
 2. OnePlus 7T Pro 5G McLaren Edition (OnePlus7TProNR)
 3. OnePlus 9RT 5G (martini)
-4. OnePlus Nord CE 2 Lite (oscaro)
+4. OnePlus Nord CE 2 Lite / Realme 9 Pro (oscar)
 
 **Realme**
 1. Realme 5 Series (r5x)
