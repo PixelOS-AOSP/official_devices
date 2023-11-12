@@ -1,3 +1,18 @@
+# 13 November 2023
+- Update blobs and MiuiCamera from from sweet V14.0.8.0.TKFMIXM
+- Update and label public libraries from sweet V14.0.7.0.TKFMIXM 
+- Fixed an issue where the autobrightness transition was not smooth after using MiuiCamera
+- Added missing ADSP modules and audio dependencies
+- Unpin the global acdbdata calibration file 
+- Fix PowerOffAlarm (where the phone used to reboot before the alarm even when the phone was on)
+- Enable usage of dex2oat64 
+- Import missing qcrild dependency 
+- Target current sdk for XiaomiParts
+- Refactor ClearSpeakerFragment code
+- Add {navigation,video} thermal profiles
+- Updated VantomKernel
+- Other misc. changes
+
 # 31-Aug-2023
 - Added support for the FTS touchscreen driver
 - Fixed an issue where the screen would flicker on the top/bottom in certain apps
