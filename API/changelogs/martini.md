@@ -1,3 +1,8 @@
+# 12 November 2023
+- Initial Android 14 release
+- Switched to 64-bit-only builds
+- Disable OMX service and fully switched to QTI C2 media service
+
 # 11-Sep-2023
 - Updated device specific blobs to OxygenOS 13.1.0.591
 - Fixed mic rated issues in calls and games
