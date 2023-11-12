@@ -1,3 +1,9 @@
+# 12 November 2023
+- Initial A14 beta release
+- Merged 4.19.297 from ACK
+- Fixed play device integrity
+- Nuked Dolby
+
 # 29-Oct-2023
 - Implemented Dolby from Paranoid Android
 - Fixed USB dac
