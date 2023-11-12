@@ -1,3 +1,9 @@
+# 12 November 2023
+- Initial Android 14 release
+- Switched to 64-bit-only builds
+- Fixed Night Mode output
+- Fixed low mic issue on WhatsApp
+
 # 03-Oct-2023
 - Updated status bar padding,Height overlays
 - Charge Control Included
