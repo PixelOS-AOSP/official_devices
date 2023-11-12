@@ -7,16 +7,17 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Poco F3/Mi 11X/Redmi K40",
     "device_display_codename": "alioth",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/",
     "last_updated": "12 November 2023",
     "private_download_tag": "alioth_202311101647",
     "active": true,
