@@ -7,16 +7,17 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi Mi 9",
     "device_display_codename": "cepheus",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/",
     "last_updated": "13 November 2023",
     "private_download_tag": "cepheus_202311120137",
     "active": true,
