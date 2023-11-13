@@ -1,3 +1,6 @@
+# 13 November 2023
+- Initial Android 14 release
+
 # 01-Oct-2023
 - Bring back dropped media and audio configs [Temporary].
 - Disabled APEX Compression in order to fix kernel panics.
