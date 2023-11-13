@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "filename": "PixelOS_pdx206-14.0-20231112-0548.zip",
+    "datetime": 1699768021,
+    "size": 1663914806,
+    "url": "URL_PLACEHOLDER",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "a5f6f8760c2f2f650cc13dc8483df082",
+    "id": "a5f6f8760c2f2f650cc13dc8483df082",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "Ad1tyaS1ngh",
+            "name": "Aditya"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
