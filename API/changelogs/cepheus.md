@@ -1,3 +1,6 @@
+# 13 November 2023
+- Initial Android 14 release
+
 # 31-Oct-2023
 - Fixed GPS and heating issues
 - Upstreamed kernel to 4.14.328
