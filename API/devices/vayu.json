@@ -7,16 +7,17 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "POCO X3 Pro",
     "device_display_codename": "vayu/bhima",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/vayu/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/",
     "last_updated": "14 November 2023",
     "private_download_tag": "vayu_202311131259",
     "active": true,
