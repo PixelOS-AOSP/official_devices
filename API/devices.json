@@ -10,15 +10,6 @@
             "active": true
         },
         {
-            "codename": "X00T",
-            "codename_alt": "X00TD/X00T",
-            "vendor": "Asus",
-            "model": "Asus Zenfone Max Pro M1",
-            "maintainer_name": "Sarthak Roy",
-            "frame": null,
-            "active": false
-        },
-        {
             "codename": "flame",
             "codename_alt": "flame",
             "vendor": "Google",
