@@ -1,3 +1,9 @@
+# 14-Nov-2023
+- Initial android 14 build
+- gps update to Update to LA.UM.9.1.r1-14700-SMxxx0.QSSI13.0
+- Bringup schedutils
+- Misc fixes and improvement
+
 # 01-Oct-2023
 - Update vendor blobs from  LA.UM.9.1.r1-12900-SMxxx0.0 and LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0
 - Update adreno from moto g84
