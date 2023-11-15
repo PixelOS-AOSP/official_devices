@@ -7,15 +7,16 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Motorola Edge (30 Fusion/S30 Pro)",
     "device_display_codename": "tundra",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/tundra/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/",
     "last_updated": "15 November 2023",
     "private_download_tag": "tundra_202311151157",
     "active": true,
