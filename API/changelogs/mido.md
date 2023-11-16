@@ -1,3 +1,6 @@
+# 16-Nov-2023
+- Initial Android 14 release
+
 # 09-May-2023
 - Fixed buffering in audio/video
 - Fix screen record lag
