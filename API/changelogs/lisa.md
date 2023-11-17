@@ -1,3 +1,7 @@
+# 17-Nov-2023
+- Fixed PlayIntegrity
+- Fixed Updater
+
 # 10 November 2023
 - Hotfix for Play Integrity fix
 
