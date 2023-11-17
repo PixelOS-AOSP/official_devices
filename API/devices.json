@@ -154,6 +154,15 @@
             "active": true
         },
         {
+            "codename": "salaa",
+            "codename_alt": "salaa",
+            "vendor": "Realme",
+            "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+            "maintainer_name": "kardebayan",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "r5x",
             "codename_alt": "r5x",
             "vendor": "Realme",

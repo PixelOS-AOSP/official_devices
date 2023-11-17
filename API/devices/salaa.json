@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Debayan Kar",
+            "telegram": "https://t.me/kardebayan",
+            "github": "https://github.com/kardebayan"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+    "device_display_codename": "salaa",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
