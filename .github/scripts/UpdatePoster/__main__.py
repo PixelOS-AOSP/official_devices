@@ -126,7 +126,7 @@ def post_maker(device_info, name):
         ")\n\nVersion:</b> " + device_info["version"]
 
     if device_info["beta"]:
-        message = message + " beta\n"
+        message = message + " (beta)\n"
     else:
         message = message + "\n"
 
