@@ -215,7 +215,7 @@ def uploader():
 
 
 for device in get_updated_device():
-    banner = 
+    banner = get_Device_banner(device)
     current_device_info = json.loads(open(json_dir + device + ".json").read())
     # print(post_maker(current_device_info))
     send_photo(post_maker(current_device_info, device),
