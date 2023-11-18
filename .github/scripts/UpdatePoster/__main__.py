@@ -36,7 +36,7 @@ GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001551285228"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/" + android_Version_text + "/banners/latest.png"
+banner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/pixelos.png"
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
@@ -56,6 +56,14 @@ bot = Bot(BOT_API)
 updater = Updater(BOT_API, use_context=True, workers=1)
 dispatcher = updater.dispatcher
 
+
+def get_Device_banner (device):
+    DeviceBanner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/" + device + ".png"
+    if (requests.get(DeviceBanner).status_code == 200):
+        return DeviceBanner
+    else:
+        return banner
+ 
 
 # HTML Hyperlink Fomatting
 def html_link(url, text):
@@ -207,6 +215,7 @@ def uploader():
 
 
 for device in get_updated_device():
+    banner = 
     current_device_info = json.loads(open(json_dir + device + ".json").read())
     # print(post_maker(current_device_info))
     send_photo(post_maker(current_device_info, device),
