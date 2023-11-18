@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_alioth-14.0-20231110-1647.zip",
-    "datetime": 1699634754,
-    "size": 2039218929,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20231110-1647.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-11-12/PixelOS_alioth-14.0-20231110-1647.zip",
-    "filehash": "bde8b2aefcc6cb85c848a4031815fa33",
-    "id": "bde8b2aefcc6cb85c848a4031815fa33",
+    "filename": "PixelOS_alioth-14.0-20231118-1247.zip",
+    "datetime": 1700311528,
+    "size": 2062837617,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20231118-1247.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-11-18/PixelOS_alioth-14.0-20231118-1247.zip",
+    "filehash": "6ae7c82803fa59561e4abbbf6460fe51",
+    "id": "6ae7c82803fa59561e4abbbf6460fe51",
     "maintainers": [
         {
             "main_maintainer": false,

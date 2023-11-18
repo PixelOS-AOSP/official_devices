@@ -1,4 +1,9 @@
-# 12 November 2023
+# 18-Nov-2023
+- Fixed device Integrity (once again)
+- Eliminated debug codes in QCA-CLD
+- Built with Aosp Clang 17.0.4
+
+# 12-Nov-2023
 - Initial A14 beta release
 - Merged 4.19.297 from ACK
 - Fixed play device integrity
