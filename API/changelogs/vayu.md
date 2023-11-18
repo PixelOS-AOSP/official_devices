@@ -1,3 +1,11 @@
+# 18-Nov-2023
+- Fix play integrity
+- Update adreno to v728
+- Improve per app refresh rate layout
+- Refactor clear speaker code
+- Upstream kernel to v4.14.329
+- Misc fixes and improvement
+
 # 14-Nov-2023
 - Initial android 14 build
 - gps update to Update to LA.UM.9.1.r1-14700-SMxxx0.QSSI13.0
