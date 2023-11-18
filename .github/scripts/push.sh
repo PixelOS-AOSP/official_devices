@@ -3,5 +3,5 @@ git config --global user.email "pixelos.pixelish@gmail.com"
 git fetch
 git pull
 git add .
-git commit -m "official_devices: update tags" -f
-git push origin fourteen
+git commit -m "official_devices: update tags" 
+git push origin fourteen -f
