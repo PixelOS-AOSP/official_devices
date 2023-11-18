@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_pdx206-14.0-20231112-0548.zip",
-    "datetime": 1699768021,
-    "size": 1663914806,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20231112-0548.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-11-13/PixelOS_pdx206-14.0-20231112-0548.zip",
-    "filehash": "a5f6f8760c2f2f650cc13dc8483df082",
-    "id": "a5f6f8760c2f2f650cc13dc8483df082",
+    "filename": "PixelOS_pdx206-14.0-20231117-1931.zip",
+    "datetime": 1700249366,
+    "size": 1666577194,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20231117-1931.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-11-18/PixelOS_pdx206-14.0-20231117-1931.zip",
+    "filehash": "358a39af063eb296e53ca29f56a19486",
+    "id": "358a39af063eb296e53ca29f56a19486",
     "maintainers": [
         {
             "main_maintainer": false,
