@@ -1,3 +1,7 @@
+# 18-Nov-2023
+- Initial beta fourteen build
+- Shipped with LOS Aperture
+
 # 18-Aug-2023
 - Use the new auto network selection UI
 - Updated MIUI Camera
