@@ -1,3 +1,15 @@
+# 19-Nov-2023
+- Show 4G Icon for all carriers.
+- Enable LTE+ icon aswell.
+- Switch to 64-bit only.
+- Fix PowerOffAlarm.
+- Disable phantom process monitoring.
+- Allow 5 multiusers.
+- Update adreno to V@0728.0.
+- Update QTI Perf to SD8G3.
+- Sync perf configs with SD8G3.
+- Kernel state at r17a9.
+
 # 19-Aug-2023
 - Source Upstream
 
