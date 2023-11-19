@@ -1,10 +1,10 @@
 # Keep in mind...
 - Do NOT change the kernel 
 - System is Read-Only due to EROFS (restricts making changes to overlays, system APKs, etc. directly, however you can replace stuff with Magisk)
-- You MUST use the latest PixelOS recovery or the OrangeFox build (version R11.1_4 by me) for clean flashing!
+- You MUST use the latest PixelOS recovery or the OrangeFox build (version R11.1_6 by me) for clean flashing!
 - YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI
 
-# Clean flash (Required from the May 2023 build to any future update):
+# Clean flash (Required from Android 13 to Android 14):
 - Flash the recovery
 - Download the ROM
 - Reboot to recovery
