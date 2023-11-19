@@ -1,3 +1,16 @@
+# 19-Nov-2023
+- Added the double tap to sleep gesture 
+- Added support for window ignore secure
+- Added Incall vibration options
+- Added an option to allow disabling refresh rate lowering in battery saver 
+- Added support for the strict standby policy
+- Introduced cutout force full-screen
+- Introduced burn-in protection for status/navbar
+- Configurable 0, 90, 180 and 270-degree rotation 
+- Require unlocking to use sensitive QS tiles 
+- Added a Screen-off UDFPS toggle
+- Make all user apps cloneable
+
 # 30-Sep-2023
 - Merged September security patches from AOSP (android-13.0.0_r82)
 - Introduced Charge control feature
