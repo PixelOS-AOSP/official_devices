@@ -1,3 +1,10 @@
+# 19-Nov-2023
+- Fixed an issue where the number would not be parsed correctly in the phone app
+- Fixed an issue where the adaptive color mode would have frame drops
+- Enable subtle tick vibration when revealing shelf
+- Move to QTI health AIDL service
+- Other misc. changes
+
 # 13 November 2023
 - Update blobs and MiuiCamera from from sweet V14.0.8.0.TKFMIXM
 - Update and label public libraries from sweet V14.0.7.0.TKFMIXM 
