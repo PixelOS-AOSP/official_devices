@@ -17,16 +17,17 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 10",
     "device_display_codename": "sunny/mojito",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/sunny/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/",
     "last_updated": "19 August 2023",
     "private_download_tag": "",
     "active": true,
