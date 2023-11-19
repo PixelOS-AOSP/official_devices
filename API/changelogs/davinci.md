@@ -1,3 +1,14 @@
+# 19-Nov-2023
+- Update common blobs from from sweet V14.0.8.0.TKFMIXM
+- Update and label public libraries from sweet V14.0.7.0.TKFMIXM
+- Fix PowerOffAlarm (where the phone used to reboot before the alarm even when the phone was on)
+- Move to QTI health AIDL service
+- Enable usage of dex2oat64
+- Import missing qcrild dependency
+- Target current sdk for XiaomiParts
+- Updated VantomKernel
+- Other misc. changes
+
 # 31-Aug-2023
 - Moved sku version setup to kernel
 - Updated Adreno to Moto G84 (bangkk)
