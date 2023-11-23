@@ -61,7 +61,7 @@ Officially Supported Devices:
 9. Redmi Note 4 (mido)
 10. Redmi Note 7 Pro (violet)
 11. Redmi Note 8/8T (ginkgo/willow)
-12. Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite (gauguin)
+12. Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite 5G (gauguin)
 13. Redmi Note 9S/Pro/Pro Max & Poco M2 Pro (curtana/joyeuse/excalibur/gram)
 14. Xiaomi 11 Lite 4G (courbet/courbetin)
 15. Xiaomi 11 Lite 5G NE (lisa)
