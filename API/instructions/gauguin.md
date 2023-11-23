@@ -1,12 +1,8 @@
-# Keep in mind...
-- YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI (A clean flash is recommended for users on the February build)
-- For F2FS Compression to work, you are required to clean flash the ROM with AOSP recovery
-
-# Clean flash:
-- Flash recovery (link is above)
-- Download ROM from the link above
+# Clean flash (Required from Android 13 to Android 14):
+- Flash the recovery
+- Download the ROM
 - Reboot to recovery
-- Flash the latest  MIUI 13 firmware for your region
+- Flash the latest MIUI 14 firmware for your region
 - Flash ROM zip
 - Format data
 - Reboot and voila!
