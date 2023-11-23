@@ -9,7 +9,10 @@
     "updater": true,
     "beta": false,
     "version": "thirteen",
-    "available_versions": "thirteen",
+    "available_versions": [
+        "thirteen",
+        "fourteen"
+    ],
     "release": "monthly",
     "device_display_name": "10.or G",
     "device_display_codename": "G",
