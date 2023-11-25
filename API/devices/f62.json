@@ -10,7 +10,8 @@
     "beta": false,
     "version": "thirteen",
     "available_versions": [
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Samsung Galaxy F62/M62",
@@ -19,6 +20,6 @@
     "last_updated": "08 July 2023",
     "private_download_tag": "f62_20230708_0135",
     "active": true,
-    "xda": null,
+    "xda": "https://xdaforums.com/t/rom-13-0-official-pixelos-aosp-encryption-stable-08-07-2023.4611581/",
     "customRecoveryRequired": true
 }

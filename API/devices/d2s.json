@@ -10,7 +10,8 @@
     "beta": false,
     "version": "thirteen",
     "available_versions": [
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Samsung Galaxy Note10+",
