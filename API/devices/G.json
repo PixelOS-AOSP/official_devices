@@ -8,7 +8,7 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "thirteen",
+    "version": "fourteen",
     "available_versions": [
         "thirteen",
         "fourteen"
@@ -16,7 +16,7 @@
     "release": "monthly",
     "device_display_name": "10.or G",
     "device_display_codename": "G",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/",
     "last_updated": "25 November 2023",
     "private_download_tag": "G_202311240441",
     "active": true,
