@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "filename": "PixelOS_salaa-14.0-20231125-1055.zip",
+    "datetime": 1700906951,
+    "size": 1984377687,
+    "url": "URL_PLACEHOLDER",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "cecdb28e27e4cce4cb69831739cf5db1",
+    "id": "cecdb28e27e4cce4cb69831739cf5db1",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "kardebayan",
+            "name": "Debayan Kar"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
