@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_lisa-14.0-20231117-2337.zip",
-    "datetime": 1700264112,
-    "size": 2162521482,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231117-2337.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231117-2337.zip",
-    "filehash": "f0c8a0cd2f481551f4d80badb13db965",
-    "id": "f0c8a0cd2f481551f4d80badb13db965",
+    "filename": "PixelOS_lisa-14.0-20231127-1340.zip",
+    "datetime": 1701092341,
+    "size": 2168101481,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231127-1340.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231127-1340.zip",
+    "filehash": "2a0e83c52f23864e2635f63af414aa69",
+    "id": "2a0e83c52f23864e2635f63af414aa69",
     "maintainers": [
         {
             "main_maintainer": false,
