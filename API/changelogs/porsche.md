@@ -1,3 +1,6 @@
+# 27-Nov-2023
+- Initial build based on Android 14
+
 # 14-Sep-2023
 - Updated device specific blobs to RUI 13.1.0.1411
 - Fixed mic related issues in calls and games
