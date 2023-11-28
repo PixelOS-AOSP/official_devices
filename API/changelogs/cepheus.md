@@ -1,3 +1,8 @@
+# 28-Nov-2023
+- Added support for charging control
+- Fix UDFPS enroll radius
+- Upstream kernel to 4.14.330
+
 # 13 November 2023
 - Initial Android 14 release
 
