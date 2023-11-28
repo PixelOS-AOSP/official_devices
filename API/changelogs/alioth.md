@@ -1,3 +1,9 @@
+# 28-Nov-2023
+- Source Upstream
+- Added charging control
+- OTA is now faster due to Dexopt changes
+- Kernel changes...
+
 # 18-Nov-2023
 - Fixed device Integrity (once again)
 - Eliminated debug codes in QCA-CLD
