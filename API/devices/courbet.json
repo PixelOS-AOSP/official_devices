@@ -16,7 +16,8 @@
     "version": "thirteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 4G",
