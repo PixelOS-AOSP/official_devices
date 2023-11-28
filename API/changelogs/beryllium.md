@@ -1,3 +1,6 @@
+# 28-Nov-2023
+- Initial build based on Android 14
+
 # 14-Oct-2023
 - Dropped Kprofiles
 - Added Charge Control
