@@ -1,3 +1,11 @@
+# 29-Nov-2023
+- Dropped 32-bit Zygote (completely moved to 64-bit support only)
+- Implemented Dolby Atmos (replacing Mi Sound/Dirac sound Enhancer)
+- Re-implemented dynamic refresh rate switching
+- Boosted Dex2oat (OTA update should now faster)
+- Build Lineage health HAL (charging control)
+- Updated Xiaomi Parts to current targeted SDK version
+
 # 18-Nov-2023
 - Initial beta fourteen build
 - Shipped with LOS Aperture
