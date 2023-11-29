@@ -1,3 +1,9 @@
+# 29-Nov-2023
+- Introduced Dolby Atmos (A XiaomiParts implementation)
+- Switch BtAudio to AIDL
+- Fixed offline charging animation
+- Upstreamed kernel to v4.14.330
+
 # 19-Nov-2023
 - Fixed an issue where the number would not be parsed correctly in the phone app
 - Fixed an issue where the adaptive color mode would have frame drops
