@@ -1,3 +1,11 @@
+# 30-Nov-2023
+- Build Lineage Health HAL (charging control)
+- Increase handset volume
+- Invert the microphones (Previously the top microphone was used as the main one and this was not good during calls)
+- Update Audio HIDL to 7.1
+- Use Audio HAL OSS now
+- Initial Android 14 release
+
 # 22-Jul-2023
 - Configure aux cameras for Aperture
 - Face unlock now works fine (In the last update PixelOS switched to AOSPA's face unlock implementation, ParanoidSense)
