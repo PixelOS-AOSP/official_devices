@@ -7,8 +7,8 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "thirteen",
         "fourteen"
@@ -16,7 +16,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy Note10",
     "device_display_codename": "d1",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d1/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/",
     "last_updated": "30 November 2023",
     "private_download_tag": "d1_202311300523",
     "active": true,

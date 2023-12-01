@@ -7,8 +7,8 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "thirteen",
         "fourteen"
@@ -16,7 +16,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy S10+",
     "device_display_codename": "beyond2lte",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond2lte/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/",
     "last_updated": "30 November 2023",
     "private_download_tag": "beyond2lte_202311300344",
     "active": true,

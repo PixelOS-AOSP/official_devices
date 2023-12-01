@@ -7,8 +7,8 @@
         }
     ],
     "updater": true,
-    "beta": false,
-    "version": "thirteen",
+    "beta": true,
+    "version": "fourteen",
     "available_versions": [
         "thirteen",
         "fourteen"
@@ -16,7 +16,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy F62/M62",
     "device_display_codename": "f62/m62",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/f62/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/",
     "last_updated": "01 December 2023",
     "private_download_tag": "f62_202311300754",
     "active": true,
