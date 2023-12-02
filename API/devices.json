@@ -478,6 +478,15 @@
             "active": true
         },
         {
+            "codename": "RMX2001L1",
+            "codename_alt": "nemo",
+            "vendor": "Realme",
+            "model": "realme 6/6i(Indian)/6s/Narzo",
+            "maintainer_name": "kardebayan",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "lunaa",
             "codename_alt": "lunaa",
             "vendor": "Realme",

@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 43
+Number Of Devices in Official PixelOS: 44
 
 Number of Brands in Official PixelOS: 9
 
@@ -34,7 +34,8 @@ Officially Supported Devices:
 2. Realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)
 3. Realme GT 2 (porsche)
 4. Realme Monet (RMX2020)
-5. realme GT Master (lunaa)
+5. realme 6/6i(Indian)/6s/Narzo (nemo)
+6. realme GT Master (lunaa)
 
 **Samsung**
 1. Samsung Galaxy F62/M62 (f62/m62)

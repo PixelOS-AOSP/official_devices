@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Debayan Kar",
+            "telegram": "https://t.me/kardebayan",
+            "github": "https://github.com/kardebayan"
+        }
+    ],
+    "updater": true,
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "realme 6/6i(Indian)/6s/Narzo",
+    "device_display_codename": "RMX2001L1",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
