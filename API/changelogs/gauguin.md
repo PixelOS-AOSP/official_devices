@@ -1,3 +1,8 @@
+# 07-Dec-2023
+- Enable IMS VT
+- Drop unused audio configurations
+- Refined powerhint for better energy consumption
+
 # 25-Nov-2023
 - Fixed Play Integrity.
 
