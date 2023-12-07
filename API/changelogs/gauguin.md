@@ -1,7 +1,4 @@
 # 07-Dec-2023
-- Refine powerhint
-
-# 07-Dec-2023
 - Enable IMS VT
 - Drop unused audio configurations
 - Refined powerhint for better energy consumption
