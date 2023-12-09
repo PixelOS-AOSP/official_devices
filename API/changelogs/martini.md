@@ -1,3 +1,12 @@
+# 09-Dec-2023
+- Updated blobs and camera from OxygenOS 14.0.0.80(EX01)
+- Switched to a better Dolby Atmos implementation
+- Enabled support Dolby HW decoders
+- Fixed filters in oplus camera
+- Improved statusbar padding
+- Improved interaction boosting for better fluency
+- Switched to step_wise thermal governor for better heat management
+
 # 12 November 2023
 - Initial Android 14 release
 - Switched to 64-bit-only builds
