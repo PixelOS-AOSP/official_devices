@@ -1,3 +1,13 @@
+# 11-Dec-2023
+- Switched to a better Dolby Atmos implementation
+- Enabled support Dolby HW decoders
+- Improved statusbar padding
+- Improved interaction boosting for better fluency
+- Switched to step_wise thermal governor for better heat management
+- Switched back to adreno v600 blobs
+- Fixed Ok Google Detection
+- Fixed Youtube Videos 1080p capped issue
+
 # 12 November 2023
 - Initial Android 14 release
 - Switched to 64-bit-only builds
