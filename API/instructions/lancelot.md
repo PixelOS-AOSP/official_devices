@@ -1,6 +1,4 @@
-### Installation Guide For Project Elixir on lancelot
-
-## Clean flash (Recomended)
+# Clean flash (Recomended)
 
 - Download the latest build
 - Reboot to your current recovery
@@ -11,11 +9,11 @@
 - Format data
 - Reboot
 
-## Updating to a newer build (dirty flash):
+# Updating to a newer build (dirty flash):
 - Flash ROM zip and magisk (optional)
 - Reboot and voila!
 
-### Note:
+## Note:
 
 - This is steps is if you're comming from S Vendor, if you're on R Vendor just flash the rom and format data
 - Clean flash is mandatory
