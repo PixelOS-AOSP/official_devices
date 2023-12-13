@@ -223,7 +223,7 @@
             "model": "Redmi 9",
             "maintainer_name": "Raizel",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "lime",
