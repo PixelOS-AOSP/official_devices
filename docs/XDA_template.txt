@@ -2,7 +2,7 @@
 
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/fourteen/banners/latest.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-releases/banners/fourteen/pixelos.png[/IMG]
 PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
@@ -14,7 +14,7 @@ PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. W
 * you point the finger at me for messing up your device, I will laugh at you.
 */[/CODE]
 
-[SIZE=6][URL='https://blog.pixelos.net/'][B]Our Featurelist[/B][/URL][/SIZE]
+[SIZE=6][URL='https://blog.pixelos.net/'][B]Our Blog[/B][/URL][/SIZE]
 [/CENTER]
 
 [B][U]Device-specific issues: [/U][/B]
@@ -24,35 +24,34 @@ PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. W
 <!-- Include minimum firmware or vendor (if prebuilt) requirements -->
 
 [B][U]Downloads[/U][/B]
-Get the latest PixelOS Build for * [URL='https://pixelos.net/download/*']Download[/URL]
+Download [URL='https://pixelos.net/download/*']Download[/URL]
 Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
-<!-- Link a custom recovery here, preferably TWRP or OrangeFox Recovery -->
+<!-- Optionally Linkink a custom recovery here, preferably TWRP or OrangeFox Recovery -->
 Recovery [URL]*[/URL]
 PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/fourteen/*/recovery/[/URL]
 [CENTER]
-[SIZE=4][B][COLOR=rgb(184, 49, 47)]Note: GApps are included, don't flash them separately.[/COLOR][/B][/SIZE][/CENTER]
 
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
-• SELinux is enforcing/permissive
+• (?) Firmware is included
 • (?) Included MIUI/ANX Camera
 • (?) QuicksilveR v2 Kernel Included
 
 <!-- Instructions may vary for different devices -->
 [B][U]Flashing Instructions[/U]
 Clean flash (coming from a different ROM):[/B]
-• Download the ROM from the link above
-• Download Magisk v26.1 or newer (optionally)
+• Download ROM
+• Download Magisk (optionally)
 • Reboot to recovery
-• Flash the latest Android 13 firmware (linked above)
-• Flash the ROM zip
+• Sideload the latest firmware `adb sideload firmware.zip`
+• Sideload ROM zip `adb sideload PixelOS_14.0*.zip`
+• Format data
 • Reboot and voila!
-• To get root access, reboot to recovery after the ROM setup and flash Magisk.
+• To get root access, reboot to recovery after the ROM setup and sideload Magisk.
 
 [B]Updating to a newer build (dirty flash):[/B]
-• Flash the ROM zip and Magisk (optional)
-• Wipe cache and dalvik (optional, recommended)
+• Sideload ROM zip and optionally Magisk
 • Reboot and voila!
 
 Read our blog [URL]https://blog.pixelos.net[/URL]
@@ -68,4 +67,3 @@ Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
 [B]ROM OS Version:[/B] Android 14.
 [B]ROM Kernel:[/B] Linux 5.4.x
 [B]Stable Release Date:[/B] DD Month YYYY
-[B]Latest Release Date:[/B] DD Month YYYY
