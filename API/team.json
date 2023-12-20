@@ -351,6 +351,22 @@
             "XDA": "https://xdaforums.com/m/xyz_sourav.11956971/",
             "role": "porsche & beryllium Maintainer",
             "tagline": "komaru bes"
+        },
+        {
+            "name": "Sushmit",
+            "github": "redducc",
+            "telegram": "redducc",
+            "XDA": "https://xdaforums.com/m/redducc.11452247/",
+            "role": "sky Maintainer",
+            "tagline": "."
+        },
+        {
+            "name": "Saikiran",
+            "github": "saikiran2001",
+            "telegram": "Saikiran008",
+            "XDA": "https://xdaforums.com/m/saikiran001.8222620/",
+            "role": "marble Maintainer",
+            "tagline": null
         }
     ]
 }

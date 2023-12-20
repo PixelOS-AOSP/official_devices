@@ -494,6 +494,24 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "sky",
+            "codename_alt": "sky/skyin",
+            "vendor": "Xiaomi",
+            "model": "Redmi 12 5G / Poco M6 Pro",
+            "maintainer_name": "Sushmit",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "marble",
+            "codename_alt": "marble/marblein",
+            "vendor": "Xiaomi",
+            "model": "Poco F5/ Redmi Note 12 Turbo",
+            "maintainer_name": "Saikiran",
+            "frame": null,
+            "active": true
         }
     ]
 }
