@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_lisa-14.0-20231127-1340.zip",
-    "datetime": 1701092341,
-    "size": 2168101481,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231127-1340.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231127-1340.zip",
-    "filehash": "2a0e83c52f23864e2635f63af414aa69",
-    "id": "2a0e83c52f23864e2635f63af414aa69",
+    "filename": "PixelOS_lisa-14.0-20231221-2059.zip",
+    "datetime": 1703192272,
+    "size": 2216842095,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231221-2059.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231221-2059.zip",
+    "filehash": "798b638020d6562f752c7010439097da",
+    "id": "798b638020d6562f752c7010439097da",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-12-official-pixelos-aosp-stable-23-01-2022.4392297/"
+    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-29-11-2023.4392297/"
 }
