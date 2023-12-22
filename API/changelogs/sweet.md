@@ -11,7 +11,7 @@
 - Move to QTI health AIDL service
 - Other misc. changes
 
-# 13 November 2023
+# 13-Nov-2023
 - Update blobs and MiuiCamera from from sweet V14.0.8.0.TKFMIXM
 - Update and label public libraries from sweet V14.0.7.0.TKFMIXM 
 - Fixed an issue where the autobrightness transition was not smooth after using MiuiCamera

@@ -3,7 +3,7 @@
 - Fix UDFPS enroll radius
 - Upstream kernel to 4.14.330
 
-# 13 November 2023
+# 13-Nov-2023
 - Initial Android 14 release
 
 # 31-Oct-2023

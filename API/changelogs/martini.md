@@ -7,7 +7,7 @@
 - Improved interaction boosting for better fluency
 - Switched to step_wise thermal governor for better heat management
 
-# 12 November 2023
+# 12-Nov-2023
 - Initial Android 14 release
 - Switched to 64-bit-only builds
 - Disable OMX service and fully switched to QTI C2 media service

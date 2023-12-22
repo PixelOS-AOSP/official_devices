@@ -6,7 +6,7 @@
 # 25-Nov-2023
 - Fixed Play Integrity.
 
-# 13 November 2023
+# 13-Nov-2023
 - Initial Android 14 release
 
 # 01-Oct-2023

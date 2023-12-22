@@ -8,7 +8,7 @@
 - Fixed Ok Google Detection
 - Fixed Youtube Videos 1080p capped issue
 
-# 12 November 2023
+# 12-Nov-2023
 - Initial Android 14 release
 - Switched to 64-bit-only builds
 - Fixed Night Mode output
