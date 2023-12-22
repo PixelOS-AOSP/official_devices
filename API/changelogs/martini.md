@@ -1,3 +1,11 @@
+# 22-Dec-2023
+- Updated blobs from OxygenOS 14.0.0.210(EX01)
+- Fixed VoWiFi
+- Bring back LiveDisplay and Sunlight Mode for HBM
+- Update IMS from LA.QSSI.14.0.r1-10000.01-qssi.0
+- Fixed frame drops on video playback
+- Define correct dimens for power button for seamless AOD transition
+
 # 09-Dec-2023
 - Updated blobs and camera from OxygenOS 14.0.0.80(EX01)
 - Switched to a better Dolby Atmos implementation
