@@ -56,8 +56,12 @@ Clean flash (coming from a different ROM):[/B]
 
 Read our blog [URL]https://blog.pixelos.net[/URL]
 Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
-Help support PixelOS [URL]https://blog.pixelos.net/docs/donate[/URL]
-Help translate PixelOS [URL]https://translate.pixelos.net[/URL]
+
+If you've noticed anything that isn't translated in a language you speak, please consider helping out with the translations.
+[URL unfurl="true"]https://translate.pixelos.net[/URL]
+
+We depend on donations to keep our infrastructure running, show your support by donating! 
+[B][URL unfurl="true"]https://blog.pixelos.net/docs/donate[/URL][/B]
 
 [B][U]Source Code[/U][/B]
 PixelOS http://github.com/PixelOS-AOSP
