@@ -1,3 +1,19 @@
+# 22-Dec-2023
+- Re-adjusted status bar overlay
+- Spoof Netflix to POCO F4 (Global) for HDR10
+- Re-enable VoNR on Jio 5G
+- Only allowed 5G SA on Jio
+- Use HintManager for HWUI
+- Enabled RCS
+- Enabled VoNR calls support
+- Enabled blur
+- Bring back Bluetooth props
+- Reduce refresh rate idle & touch time
+- Fixed PowerOffAlarm
+- [Xiaomi Parts] Added DC Dimming (Anti-flicker) & Touch controls for game
+- [Xiaomi Parts] Added Per-app refresh rate
+- [Xiaomi Parts] Removed Dolby
+
 # 29-Nov-2023
 - Dropped 32-bit Zygote (completely moved to 64-bit support only)
 - Implemented Dolby Atmos (replacing Mi Sound/Dirac sound Enhancer)
