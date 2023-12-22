@@ -1,3 +1,8 @@
+# 22-Dec-2023
+- Updated refresh rate timings from op9 PA
+- Improved kernel scheduler
+- Nuked teo cpu idle governor on kernel side (seems like it was draining a bit more)
+
 # 28-Nov-2023
 - Source Upstream
 - Added charging control
