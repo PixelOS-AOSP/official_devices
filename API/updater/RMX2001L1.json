@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PLACEHOLDER",
-    "datetime": 123456789,
-    "size": 12345667,
-    "url": "URL_PLACEHOLDER",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "",
-    "id": "",
+    "filename": "PixelOS_RMX2001L1-14.0-20231219-1740.zip",
+    "datetime": 1703007525,
+    "size": 1988289824,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20231219-1740.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-12-22/PixelOS_RMX2001L1-14.0-20231219-1740.zip",
+    "filehash": "5b09b97b77453e63c2d58961fecf3af8",
+    "id": "5b09b97b77453e63c2d58961fecf3af8",
     "maintainers": [
         {
             "main_maintainer": false,
