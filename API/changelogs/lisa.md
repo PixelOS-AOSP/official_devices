@@ -1,3 +1,9 @@
+# 22-Dec-2023
+- Updated IMS stack to LA.QSSI.14.0.r1-10000.01-qssi.0
+- Disabled refresh rate override
+- Labelled early_wakeup node for libperfmgr
+- Fixed and enabled displayfeature service
+
 # 27-Nov-2023
 - Source upstream
 
