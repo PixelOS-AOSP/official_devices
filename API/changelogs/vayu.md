@@ -1,3 +1,12 @@
+# 23-Dec-2023
+- Source Upstream to QPR1
+- Update Blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI12.0
+- Cleanup Blobs
+- Upstream kernel to v4.14.334
+- Add ru translations in xiaomi parts
+- Enable F2FS background GC
+- Misc fixes and improvement
+
 # 18-Nov-2023
 - Fix play integrity
 - Update adreno to v728
