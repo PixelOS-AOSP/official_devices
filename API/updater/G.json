@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_G-14.0-20231124-0441.zip",
-    "datetime": 1700800766,
-    "size": 1609770777,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20231124-0441.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-11-26/PixelOS_G-14.0-20231124-0441.zip",
-    "filehash": "167c11a5554cbcbfbfbbe9f372159f6b",
-    "id": "167c11a5554cbcbfbfbbe9f372159f6b",
+    "filename": "PixelOS_G-14.0-20231222-2005.zip",
+    "datetime": 1703275447,
+    "size": 1663218498,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20231222-2005.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-12-23/PixelOS_G-14.0-20231222-2005.zip",
+    "filehash": "ce337888b7415d3f2b490b5a20a5e3e0",
+    "id": "ce337888b7415d3f2b490b5a20a5e3e0",
     "maintainers": [
         {
             "main_maintainer": false,
