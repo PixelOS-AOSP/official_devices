@@ -1,3 +1,6 @@
+# 23-Dec-2023
+- Initial build
+
 # 02-Oct-2023
 - Switched to power-libperfmgr
 - Reduced device boot time
