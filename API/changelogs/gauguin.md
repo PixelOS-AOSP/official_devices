@@ -1,3 +1,6 @@
+# 23-Dec-2023
+- Decrease NFC debug level.
+
 # 07-Dec-2023
 - Enable IMS VT
 - Drop unused audio configurations
