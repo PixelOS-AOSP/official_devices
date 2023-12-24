@@ -1,6 +1,12 @@
+# Keep in mind...
+- DO NOT change the kernel 
+- System is Read-Only due to EROFS (restricts making changes to overlays, system APKs, etc. directly. However, you can replace stuff with Magisk)
+- You MUST use the latest PixelOS recovery or the A14 builds of OrangeFox, TWRP, or PBRB for clean flashing!
+- YOU MUST CLEAN FLASH if you are coming from any other ROM or MIUI
+
 # Clean flash:
 - Download ROM from the link above
-- Reboot to recovery
+- Reboot to recovery (PixelOS, OrangeFox, TWRP, or PBRP)
 - Flash the latest MIUI 13.0.4.0 firmware
 - Flash ROM zip
 - Format DATA

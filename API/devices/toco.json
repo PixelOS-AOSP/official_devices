@@ -8,7 +8,7 @@
     ],
     "updater": true,
     "beta": false,
-    "version": "thirteen",
+    "version": "fourteen",
     "available_versions": [
         "twelve",
         "thirteen",
@@ -17,7 +17,7 @@
     "release": "monthly",
     "device_display_name": "Xiaomi Mi Note 10 Lite",
     "device_display_codename": "toco",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/toco/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/",
     "last_updated": "16 September 2023",
     "private_download_tag": "toco_202309161020",
     "active": true,
