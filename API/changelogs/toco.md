@@ -1,3 +1,9 @@
+# 24-Dec-2023
+- Initial Android 14 build with rebased trees
+- Introduce Dolby Atmos (A XiaomiParts implementation)
+- Ship upstreamed kernel v4.14.333
+- Ship Leica MiuiCamera
+
 # 16-Sep-2023
 - Add fastcharge implementation
 - Add keylayout mapping for Xbox360 compatible controllers
