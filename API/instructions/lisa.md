@@ -7,9 +7,10 @@
 
 # Clean Flash (coming from a different ROM)
 Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
-- Download ROM, vendor_boot and boot files to your computer (click on recovery button for vendor_boot and boot)
+- Download ROM, vendor_boot, dtbo and boot files to your computer (click on recovery button for vendor_boot, dtbo and boot)
 - Reboot the device to bootloader (Fastboot Mode)
 - Flash the vendor_boot by running `fastboot flash vendor_boot <path/to/vendor_boot.img>` in terminal
+- Flash the dtbo by running `fastboot flash dtbo <path/to/dtbo.img>` in terminal
 - Flash the boot by running `fastboot flash boot <path/to/boot.img>` in terminal
 - Reboot to recovery by running "fastboot reboot recovery" in terminal
 - Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
