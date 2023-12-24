@@ -1,5 +1,4 @@
-[ROM][14][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][DD/MM/YYYY]
-
+[ROM][14][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE/BETA]
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
 [CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-releases/banners/fourteen/pixelos.png[/IMG]
@@ -70,4 +69,3 @@ Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
 
 [B]ROM OS Version:[/B] Android 14.
 [B]ROM Kernel:[/B] Linux 5.4.x
-[B]Stable Release Date:[/B] DD Month YYYY
