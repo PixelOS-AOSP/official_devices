@@ -1,3 +1,9 @@
+# 24-Dec-2023
+- Updated common blobs from OxygenOS 14.0.0.210(EX01)
+- Update IMS from LA.QSSI.14.0.r1-10000.01-qssi.0
+- Define correct dimens for power button for seamless AOD transition
+- Dropped AI Video Mode(Op cam)
+
 # 11-Dec-2023
 - Switched to a better Dolby Atmos implementation
 - Enabled support Dolby HW decoders
