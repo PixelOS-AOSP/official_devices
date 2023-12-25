@@ -1,3 +1,12 @@
+# 25-Dec-2023
+- Added back LiveDisplay support
+- Added back charging control support
+- Fix laggy video playback issue
+- Fix UDFPS enroll radius
+- Merge CLO tag 'LA.UM.9.1.r1-14900-SMxxx0.QSSI14.0'
+- Upstream kernel to 4.14.334
+- Misc. fixes and improvement
+
 # 28-Nov-2023
 - Added support for charging control
 - Fix UDFPS enroll radius
