@@ -2,7 +2,7 @@
     "maintainer": [
         {
             "display_name": "clhex",
-            "telegram": "https://t.me/hexcl",
+            "telegram": "https://t.me/itsclhex",
             "github": "https://github.com/clhexftw/"
         }
     ],
@@ -22,5 +22,5 @@
     "private_download_tag": "vayu_202312231523",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-19-04-2022.4467493/"
+    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4467493/"
 }
