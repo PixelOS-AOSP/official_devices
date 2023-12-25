@@ -1,3 +1,11 @@
+# 25-Dec-2023
+- Initial Android 14 beta release
+- Retrofitted dynamic partitions
+- Enabled new file encryption FBE V2
+- Enabled casefolding and FUSE passthrough
+- Merged 'LA.UM.9.1.r1-14900-SMxxx0.QSSI14.0' in kernel
+- A lot of other improvements and fixes
+
 # 18-Aug-2023
 - Fixed back tap causing SystemUI restart
 - Disable proximity sensor usage during doze
