@@ -12,10 +12,10 @@ Clean flash involves formatting data which means you will be loosing data stored
 - Flash the vendor_boot by running `fastboot flash vendor_boot <path/to/vendor_boot.img>` in terminal
 - Flash the dtbo by running `fastboot flash dtbo <path/to/dtbo.img>` in terminal
 - Flash the boot by running `fastboot flash boot <path/to/boot.img>` in terminal
-- Reboot to recovery by running "fastboot reboot recovery" in terminal
-- Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
+- Reboot to recovery by running `fastboot reboot recovery` in terminal
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
 - Flash the ROM through ADB sideload by running `adb sideload <path/to/rom.zip>` in terminal
+- Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
 - Reboot and voila!
 
 # Dirty Flash / Update
