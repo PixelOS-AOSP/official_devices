@@ -29,7 +29,6 @@ Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 <!-- Optionally Linkink a custom recovery here, preferably TWRP or OrangeFox Recovery -->
 Recovery [URL]*[/URL]
 PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/fourteen/*/recovery/[/URL]
-[CENTER]
 
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
