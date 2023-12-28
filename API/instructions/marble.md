@@ -6,9 +6,11 @@
 - Magisk should only be flashed after booting once into the ROM. Do not flash Magisk along with the ROM package
 - Do not flash Hyper OS firmware. Use the latest available MIUI firmware.
 
+- In PixelOS/AOSP Recovery, touch won't be working. Use Volume keys and Power button to navigate through Recovery UI
+
 - If you face issues like poor RAM management or storage issues, you have not followed the instructions and/or have changed kernel/recovery. STRICTLY follow the instructions provided again before reporting any issues.
 
-# Clean Flash (coming from a different ROM)
+# Clean Flash (coming from a different ROM) (Using TWRP)
 Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
 - Download ROM
 - Reboot the device to Recovery mode by powering off the device and then by holding Power button and Volume UP key together
@@ -18,10 +20,32 @@ Clean flash involves formatting data which means you will be loosing data stored
 - Flash Firmware
 - Reboot and voila!
 
-# Dirty Flash / Update
+# Dirty Flash / Update (Using TWRP)
 There will be no loss of data if everything goes well. Keep backups incase of any mishap. I will not be responsible for any loss of data.
 - Download ROM file to your computer
 - Reboot the device to recovery
 - Flash the ROM
 - Flash the firmware if you are not on the latest firmware
+- Reboot and voila!
+
+# Clean Flash (coming from a different ROM) (Using PixelOS/AOSP recovery)
+Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
+- Download ROM, vendor_boot and boot files to your computer (click on recovery button for vendor_boot and boot)
+- Reboot the device to bootloader (Fastboot Mode)
+- Flash the vendor_boot by running "fastboot flash vendor_boot <path/to/vendor_boot.img>" in terminal
+- Flash the boot by running "fastboot flash boot <path/to/boot.img>" in terminal
+- Reboot to recovery by running "fastboot reboot recovery" in terminal
+- Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
+- On your phone [which is in recovery mode], Apply update > Apply from ADB 
+- Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
+- Flash firmware through ADB sideload by running "adb sideload <path/to/firmware.zip>" in terminal
+- Reboot and voila!
+
+# Dirty Flash / Update (Using PixelOS/AOSP recovery)
+There will be no loss of data if everything goes well. Keep backups incase of any mishap. I will not be responsible for any loss of data.
+- Download ROM file to your computer
+- Reboot the device to recovery
+- On your phone [which is in recovery mode], Apply update > Apply from ADB 
+- Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
+- Flash firmware through ADB sideload by running "adb sideload <path/to/fw.zip>" in terminal
 - Reboot and voila!
