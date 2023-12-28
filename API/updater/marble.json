@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PLACEHOLDER",
-    "datetime": 123456789,
-    "size": 12345667,
-    "url": "URL_PLACEHOLDER",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "",
-    "id": "",
+    "filename": "PixelOS_marble-14.0-20231228-1455.zip",
+    "datetime": 1703775225,
+    "size": 2498902227,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20231228-1455.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20231228-1455.zip",
+    "filehash": "eec2e614aecc4a4f7c2f17accfa495f3",
+    "id": "eec2e614aecc4a4f7c2f17accfa495f3",
     "maintainers": [
         {
             "main_maintainer": false,
