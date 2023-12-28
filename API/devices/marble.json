@@ -7,7 +7,7 @@
         }
     ],
     "updater": true,
-    "beta": true,
+    "beta": false,
     "version": "fourteen",
     "available_versions": [
         "fourteen"
@@ -20,5 +20,5 @@
     "private_download_tag": "",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": null
+    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4648035/"
 }
