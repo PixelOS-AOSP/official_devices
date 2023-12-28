@@ -1,3 +1,11 @@
+# 28-Dec-2023
+- Update common blobs from sweet V14.0.9.0.TKFMIXM
+- Fixed offline charging animation 
+- Set debug.sf.auto_latch_unsignaled to 0
+- Disable frame rate override feature
+- Switch BtAudio to AIDL
+- Kernel upstream
+
 # 19-Nov-2023
 - Update common blobs from from sweet V14.0.8.0.TKFMIXM
 - Update and label public libraries from sweet V14.0.7.0.TKFMIXM
