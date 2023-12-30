@@ -512,6 +512,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "nabu",
+            "codename_alt": "nabu/nabuin",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Pad 5",
+            "maintainer_name": "Saikiran",
+            "frame": null,
+            "active": true
         }
     ]
 }
