@@ -1,3 +1,7 @@
+# 31-Dec-2023
+- Drop unrequired NT36672C MP firmwares
+- Drop unused QCOM soundfx libraries
+
 # 23-Dec-2023
 - Decrease NFC debug level.
 
