@@ -47,6 +47,6 @@ There will be no loss of data if everything goes well. Keep backups incase of an
 - Download ROM file to your computer
 - Reboot the device to recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB 
-- Flash the ROM through ADB sideload by running "adb sideload <path/to/rom.zip>" in terminal
-- Flash firmware through ADB sideload by running "adb sideload <path/to/fw.zip>" in terminal
+- Flash the ROM through ADB sideload by running `adb sideload <path/to/rom.zip>` in terminal
+- Flash firmware through ADB sideload by running `adb sideload <path/to/fw.zip>` in terminal
 - Reboot and voila!
