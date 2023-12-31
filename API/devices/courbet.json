@@ -11,9 +11,9 @@
             "github": "https://github.com/basamaryan"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
-    "version": "thirteen",
+    "version": "fourteen",
     "available_versions": [
         "twelve",
         "thirteen",
@@ -22,7 +22,7 @@
     "release": "monthly",
     "device_display_name": "Xiaomi 11 Lite 4G",
     "device_display_codename": "courbet",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/",
     "last_updated": "31 August 2023",
     "private_download_tag": "courbet_202308291452",
     "active": true,
