@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Saikiran",
+            "telegram": "https://t.me/saikiran008",
+            "github": "https://github.com/saikiran2001"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Pad 5",
+    "device_display_codename": "nabu",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/nabu/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
