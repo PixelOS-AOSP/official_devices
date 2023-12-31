@@ -1,3 +1,22 @@
+# 31-Dec-2023
+- Updated device blobs from MIUI V14.0.4.0.TKQMIXM
+- Updated common blobs from sweet V14.0.9.0.TKFMIXM
+- Introduced Dolby Atmos (A XiaomiParts implementation)
+- Update and label public libraries from sweet V14.0.7.0.TKFMIXM
+- Fixed an issue where the autobrightness transition was not smooth after using MiuiCamera
+- Set debug.sf.auto_latch_unsignaled to 0
+- Disabled frame rate override feature
+- Added missing ADSP modules
+- Fix PowerOffAlarm (where the phone used to reboot before the alarm even when the phone was on)
+- Move to QTI health AIDL service
+- Enable usage of dex2oat64
+- Import missing qcrild dependency
+- Target current sdk for XiaomiParts
+- Refactor ClearSpeakerFragment code
+- Add {navigation,video} thermal profiles
+- Updated VantomKernel
+- Other misc. changes
+
 # 31-Aug-2023
 - As mentioned in the instructions, a clean flash is mandatory from the May 2023 build
 - Update blobs from MIUI V14.0.3.0.TKQMIXM
