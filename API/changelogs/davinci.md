@@ -1,3 +1,7 @@
+# 31-Dec-2023
+- Fixed an issue where the system would have unexpected slowdowns 
+- Disabled light sensor for pocket lock
+
 # 28-Dec-2023
 - Update common blobs from sweet V14.0.9.0.TKFMIXM
 - Fixed offline charging animation 
