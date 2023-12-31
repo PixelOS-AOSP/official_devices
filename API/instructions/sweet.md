@@ -14,7 +14,7 @@ Clean flash involves formatting data which means you will be loosing data stored
 - Flash the recovery by running `fastboot flash recovery <path/to/recovery.img>` in terminal
 - Reboot to recovery by holding volume up + power button
 - Go to Advanced > Enable ADB Sideload
-- Flash the latest Android 11 firmware for your region through ADB sideload by running `adb sideload <path/to/firmware.zip>`
+- Flash the latest MIUI 14 firmware for your region through ADB sideload by running `adb sideload <path/to/firmware.zip>`
 - Flash the ROM through ADB sideload by running `adb sideload <path/to/rom.zip>` in terminal
 - Go to main menu > Wipe > Format Data > Type "yes" and confirm
 - Reboot and voila!
