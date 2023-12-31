@@ -1,3 +1,10 @@
+# 31-Dec-2023
+- Updated blobs from sweet V14.0.9.0.TKFMIXM
+- Various Dolby Atmos enhancements
+- Set debug.sf.auto_latch_unsignaled to 0
+- Disabled frame rate override feature
+- Updated VantomKernel
+
 # 29-Nov-2023
 - Introduced Dolby Atmos (A XiaomiParts implementation)
 - Switch BtAudio to AIDL
