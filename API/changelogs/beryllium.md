@@ -1,3 +1,10 @@
+# 31-Dec-2023
+- Switched To Retrofit Dynamic Partitions 
+- Fixed Youtube & Chrome Video Lags 
+- Implemented Lineage Charge Control 
+- Moved Overlays to Product Partition 
+- IR Face Unlock is back
+
 # 28-Nov-2023
 - Initial build based on Android 14
 
