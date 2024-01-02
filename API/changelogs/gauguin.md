@@ -1,3 +1,6 @@
+# 02-Jan-2024
+- Fix high memory usage issue
+
 # 31-Dec-2023
 - Drop unrequired NT36672C MP firmwares
 - Drop unused QCOM soundfx libraries
