@@ -1,14 +1,14 @@
 {
     "maintainer": [
         {
+            "display_name": "Karan Parashar",
+            "telegram": "https://t.me/whyredfire",
+            "github": "https://github.com/whyredfire"
+        },
+        {
             "display_name": "Sourav",
             "telegram": "https://t.me/xyz_sourav",
             "github": "https://github.com/resist15"
-        },
-        {
-            "display_name": "Kunmun",
-            "telegram": "https://t.me/kunmun36",
-            "github": "https://github.com/ElectroPerf"
         }
     ],
     "updater": true,
@@ -26,5 +26,5 @@
     "private_download_tag": "porsche_202311261620",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": null
+    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4650893/"
 }
