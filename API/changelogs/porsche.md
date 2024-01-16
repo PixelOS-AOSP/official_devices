@@ -1,3 +1,8 @@
+# 16-Jan-2024
+- Brought back LiveDisplay
+- Set default hotspot ssid
+- Misc. changes
+
 # 27-Nov-2023
 - Initial build based on Android 14
 
