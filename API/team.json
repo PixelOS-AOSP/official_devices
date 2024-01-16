@@ -13,7 +13,7 @@
             "github": "basamaryan",
             "telegram": "Aryan999",
             "XDA": "https://xdaforums.com/m/aryannn999.9385746/",
-            "role": "Core-Member; sweet, courbet, davinci Maintainer",
+            "role": "Core-Member; sweet, courbet and davinci Maintainer",
             "tagline": null
         },
         {
@@ -21,7 +21,7 @@
             "github": "bheatleyyy",
             "telegram": "Megalodonzs",
             "XDA": "https://xdaforums.com/m/sugacrx.11383885/",
-            "role": "Core-member; martini, oscar Maintainer",
+            "role": "Core-Member; martini and oscar Maintainer",
             "tagline": "Make every moment cherish :)"
         },
         {
@@ -31,6 +31,14 @@
             "XDA": "https://xdaforums.com/m/dsashwin.11355545/",
             "role": "Core-Member; sunny Maintainer",
             "tagline": "Error 403 - Forbidden."
+        },
+        {
+            "name": "Hridaya",
+            "github": "kawaaii",
+            "telegram": "hridaya01",
+            "XDA": "https://xdaforums.com/m/kawaaii.12021051//",
+            "role": "Core-Member; gauguin Maintainer",
+            "tagline": "Life is not so yahooo~"
         },
         {
             "name": "Mohit Kumar",
@@ -113,14 +121,6 @@
             "tagline": null
         },
         {
-            "name": "Vansh",
-            "github": "vansh123456",
-            "telegram": "noobvansh",
-            "XDA": null,
-            "role": "Ex-davinci Maintainer",
-            "tagline": "Trying to do better everyday."
-        },
-        {
             "name": "Muhammad Nauman",
             "github": "itsXRP",
             "telegram": "itsXRP",
@@ -137,22 +137,6 @@
             "tagline": "Let PaperBoy's stories kept untold."
         },
         {
-            "name": "cristian",
-            "github": "cristianvaz",
-            "telegram": "cristianvaz",
-            "XDA": "https://xdaforums.com/m/cristianvaz.11729943/",
-            "role": "Ex-bitra Maintainer",
-            "tagline": null
-        },
-        {
-            "name": "Hridaya",
-            "github": "kawaaii",
-            "telegram": "hridaya01",
-            "XDA": "https://xdaforums.com/m/kawaaii.12021051//",
-            "role": "gauguin Maintainer",
-            "tagline": "Life is not so yahooo~"
-        },
-        {
             "name": "sarthakroy2002",
             "github": "sarthakroy2002",
             "telegram": "sarthakroy2002",
@@ -161,28 +145,12 @@
             "tagline": "Ain't I cool"
         },
         {
-            "name": "Kunmun",
-            "github": "ElectroPerf",
-            "telegram": "kunmun36",
-            "XDA": "https://xdaforums.com/m/kunmun36.12667599/",
-            "role": "Ex-porsche Maintainer",
-            "tagline": "Being logical for a moment !"
-        },
-        {
             "name": "kardebayan",
             "github": "kardebayan",
             "telegram": "kardebayan",
             "XDA": "https://xdaforums.com/m/kardebayan3.9878693/",
             "role": "G, RMX2001L1 and salaa maintainer",
             "tagline": null
-        },
-        {
-            "name": "ryyaap",
-            "github": "hiirakuun",
-            "telegram": "twenfourl",
-            "XDA": "https://xdaforums.com/m/rayapkun.12085931/",
-            "role": "Ex-lime and citrus Maintainer",
-            "tagline": "Hi Capt!"
         },
         {
             "name": "cyberknight777",
@@ -217,14 +185,6 @@
             "tagline": "In the Milky Way"
         },
         {
-            "name": "ragy",
-            "github": "ragy365",
-            "telegram": "ragy366",
-            "XDA": "https://xdaforums.com/m/ragy747.9235713/",
-            "role": "surya Maintainer",
-            "tagline": "Tendo bansho"
-        },
-        {
             "name": "Vantom",
             "github": "vantoman",
             "telegram": "Vantom",
@@ -257,14 +217,6 @@
             "tagline": "\u308f\u305f\u3057\u308f\u96c5\u6717\u3067\u3059"
         },
         {
-            "name": "Rodrigo Martinez",
-            "github": "DqrKn3Zz",
-            "telegram": "ObviouslyImNotDqrKn3Zz",
-            "XDA": "https://xdaforums.com/m/dqrkn3zz.6877568/",
-            "role": "Ex-ginkgo Maintainer",
-            "tagline": "Inactivity serves no purpose whatsoever"
-        },
-        {
             "name": "Fellipe Lima",
             "github": "Jubscleisson",
             "telegram": "Jubscleisson",
@@ -273,20 +225,100 @@
             "tagline": "Stay calm and be yourself!"
         },
         {
-            "name": "Raizel",
-            "github": "acex69",
-            "telegram": "acex88",
-            "XDA": "https://xdaforums.com/m/abhinav-3181.12262095/",
-            "role": "lancelot Maintainer",
-            "tagline": "Why looking at me ?"
-        },
-        {
             "name": "Yularzhi",
             "github": "Yularzhi",
             "telegram": "Yul_Nicolai",
             "XDA": "https://xdaforums.com/m/yulnicolai.11450249/",
             "role": "coral, flame Maintainer",
             "tagline": null
+        },
+        {
+            "name": "Raghav Tandon",
+            "github": "raghavt20",
+            "telegram": "raghavt20",
+            "XDA": "https://xdaforums.com/m/raghavt20.11102031/",
+            "role": "Tundra Maintainer",
+            "tagline": ";-;"
+        },
+        {
+            "name": "Aditya",
+            "github": "Ad1tyaS1ngh",
+            "telegram": "Ad1tyaS1ngh",
+            "XDA": "https://xdaforums.com/m/ad1tyas1ngh.11053817/",
+            "role": "pdx206 Maintainer",
+            "tagline": "bhupender jogi"
+        },
+        {
+            "name": "Sourav Jagtap",
+            "github": "resist15",
+            "telegram": "xyz_sourav",
+            "XDA": "https://xdaforums.com/m/xyz_sourav.11956971/",
+            "role": "porsche & beryllium Maintainer",
+            "tagline": "komaru bes"
+        },
+        {
+            "name": "Sushmit",
+            "github": "redducc",
+            "telegram": "redducc",
+            "XDA": "https://xdaforums.com/m/redducc.11452247/",
+            "role": "sky Maintainer",
+            "tagline": "."
+        },
+        {
+            "name": "Saikiran",
+            "github": "saikiran2001",
+            "telegram": "Saikiran008",
+            "XDA": "https://xdaforums.com/m/saikiran001.8222620/",
+            "role": "marble & nabu Maintainer",
+            "tagline": null
+        },
+        {
+            "name": "Pascoato",
+            "github": "pascoato",
+            "telegram": "pascoato",
+            "XDA": null,
+            "role": "lisa Maintainer",
+            "tagline": null
+        },
+        {
+            "name": "Kunmun",
+            "github": "ElectroPerf",
+            "telegram": "kunmun36",
+            "XDA": "https://xdaforums.com/m/kunmun36.12667599/",
+            "role": "Ex-porsche Maintainer",
+            "tagline": "Being logical for a moment !"
+        },
+        {
+            "name": "cristian",
+            "github": "cristianvaz",
+            "telegram": "cristianvaz",
+            "XDA": "https://xdaforums.com/m/cristianvaz.11729943/",
+            "role": "Ex-bitra Maintainer",
+            "tagline": null
+        },
+        {
+            "name": "ragy",
+            "github": "ragy365",
+            "telegram": "ragy366",
+            "XDA": "https://xdaforums.com/m/ragy747.9235713/",
+            "role": "Ex-surya Maintainer",
+            "tagline": "Tendo bansho"
+        },
+        {
+            "name": "Rodrigo Martinez",
+            "github": "DqrKn3Zz",
+            "telegram": "ObviouslyImNotDqrKn3Zz",
+            "XDA": "https://xdaforums.com/m/dqrkn3zz.6877568/",
+            "role": "Ex-ginkgo Maintainer",
+            "tagline": "Inactivity serves no purpose whatsoever"
+        },
+        {
+            "name": "ryyaap",
+            "github": "hiirakuun",
+            "telegram": "twenfourl",
+            "XDA": "https://xdaforums.com/m/rayapkun.12085931/",
+            "role": "Ex-lime and citrus Maintainer",
+            "tagline": "Hi Capt!"
         },
         {
             "name": "Don Sanchez",
@@ -329,44 +361,12 @@
             "tagline": "DEAD AF"
         },
         {
-            "name": "Raghav Tandon",
-            "github": "raghavt20",
-            "telegram": "raghavt20",
-            "XDA": "https://xdaforums.com/m/raghavt20.11102031/",
-            "role": "Tundra Maintainer",
-            "tagline": ";-;"
-        },
-        {
-            "name": "Aditya",
-            "github": "Ad1tyaS1ngh",
-            "telegram": "Ad1tyaS1ngh",
-            "XDA": "https://xdaforums.com/m/ad1tyas1ngh.11053817/",
-            "role": "pdx206 Maintainer",
-            "tagline": "bhupender jogi"
-        },
-        {
-            "name": "Sourav Jagtap",
-            "github": "resist15",
-            "telegram": "xyz_sourav",
-            "XDA": "https://xdaforums.com/m/xyz_sourav.11956971/",
-            "role": "porsche & beryllium Maintainer",
-            "tagline": "komaru bes"
-        },
-        {
-            "name": "Sushmit",
-            "github": "redducc",
-            "telegram": "redducc",
-            "XDA": "https://xdaforums.com/m/redducc.11452247/",
-            "role": "sky Maintainer",
-            "tagline": "."
-        },
-        {
-            "name": "Saikiran",
-            "github": "saikiran2001",
-            "telegram": "Saikiran008",
-            "XDA": "https://xdaforums.com/m/saikiran001.8222620/",
-            "role": "marble & nabu Maintainer",
-            "tagline": null
+            "name": "Vansh",
+            "github": "vansh123456",
+            "telegram": "noobvansh",
+            "XDA": null,
+            "role": "Ex-davinci Maintainer",
+            "tagline": "Trying to do better everyday."
         }
     ]
 }
