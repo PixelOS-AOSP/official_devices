@@ -1,27 +1,27 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_porsche-14.0-20231126-1620.zip",
-    "datetime": 1701015530,
-    "size": 2486999877,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20231126-1620.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20231126-1620.zip",
-    "filehash": "c9d52a3e60ad9c41390c55e33ff05966",
-    "id": "c9d52a3e60ad9c41390c55e33ff05966",
+    "filename": "PixelOS_porsche-14.0-20240116-2219.zip",
+    "datetime": 1705443454,
+    "size": 2636648274,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240116-2219.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240116-2219.zip",
+    "filehash": "49cbdca82f1b620a64ee4e90b96ba80c",
+    "id": "49cbdca82f1b620a64ee4e90b96ba80c",
     "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "whyredfire",
+            "name": "Karan Parashar"
+        },
         {
             "main_maintainer": false,
             "github_username": "resist15",
             "name": "Sourav"
-        },
-        {
-            "main_maintainer": false,
-            "github_username": "ElectroPerf",
-            "name": "Kunmun"
         }
     ],
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4650893/"
 }
