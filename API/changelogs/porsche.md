@@ -1,6 +1,3 @@
-# 17-Jan-2024
-- test
-
 # 16-Jan-2024
 - Brought back LiveDisplay
 - Set default hotspot ssid
