@@ -1,3 +1,6 @@
+# 17-Jan-2024
+- Bring back QDCM display configs. (reasoning mentioned in DT commit)
+
 # 22-Dec-2023
 - Move overlays to product.
 - Migrate and ship custom task_profiles.
