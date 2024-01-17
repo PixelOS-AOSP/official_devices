@@ -1,3 +1,8 @@
+# 17-Jan-2024
+- Remove obsolete config_keyboardTapVibePattern
+- Disable display refresh rate override
+- Kernel upstreamed to 4.19.300
+
 # 22-Dec-2023
 - Re-adjusted status bar overlay
 - Spoof Netflix to POCO F4 (Global) for HDR10
