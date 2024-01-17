@@ -1,3 +1,8 @@
+# 17-Jan-2024
+- Removed my_bigball partition
+- Labeled more wakeup nodes
+- Fixed USB Dac
+
 # 23-Dec-2023
 - Fixed touch issues
 - Switched to EAS
