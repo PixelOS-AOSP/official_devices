@@ -1,3 +1,15 @@
+# 17-Jan-2024
+- Added Network traffic indicator
+- Added auto-brightness button near brightness slider
+- Ability to disable screenshot sounds
+- Added extra options for screen recording
+- Added new floating volume panel
+- Added saner heads up for priority notifications only
+- Added back missing NFC tile in quick settings
+- System-wide Google sans font
+- Rearranged additional sound settings
+- Fixed an issue where Private Compute Services wouldn't update from the play store
+
 # 22-Dec-2023
 - Ability to disable QS battery estimates
 - Ability to hide power menu on lock screen
