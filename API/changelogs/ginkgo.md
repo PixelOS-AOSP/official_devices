@@ -1,3 +1,6 @@
+# 17-Jan-2024
+- Source upstream
+
 # 25-Dec-2023
 - Initial Android 14 beta release
 - Retrofitted dynamic partitions
