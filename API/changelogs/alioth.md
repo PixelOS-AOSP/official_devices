@@ -1,3 +1,13 @@
+# 18-Jan-2024
+- Source upstream 
+- Kernel upstream
+- Updated power profile from stock
+- Adjusted statur bar padding
+- Switched to vendor-defined color modes
+- Fixed AOD black screens
+- Disabled display refresh rate override
+- Disabled a lot of debug configs on kernel side
+
 # 22-Dec-2023
 - Updated refresh rate timings from op9 PA
 - Improved kernel scheduler
