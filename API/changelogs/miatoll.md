@@ -1,3 +1,8 @@
+# 23-Jan-2024
+- Fixed high vibration intensity  
+- Adjusted status bar padding  
+- Removed miui camera
+
 # 23-Dec-2023
 - Initial build
 
