@@ -4,6 +4,7 @@
 - Updated power profile from stock
 - Adjusted statur bar padding
 - Switched to vendor-defined color modes
+- Added back 32 bit app support
 - Fixed AOD black screens
 - Disabled display refresh rate override
 - Disabled a lot of debug configs on kernel side
