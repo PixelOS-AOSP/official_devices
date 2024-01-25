@@ -1,3 +1,7 @@
+# 25-Jan-2024
+- Fixed youtube autoplay issue
+- Fixed google recorder mic detection issue
+
 # 31-Dec-2023
 - Switched To Retrofit Dynamic Partitions 
 - Fixed Youtube & Chrome Video Lags 
