@@ -1,3 +1,8 @@
+# 25-Jan-2024
+- Fixed an issue where toggling airplane mode crashes SystemUI.
+- Fixed an issue where installing certain APKs crashes PackageInstaller.
+- Implemented Show Ambient for Lift to Wake and Tap to Wake.
+
 # 17-Jan-2024
 - Bring back QDCM display configs. (reasoning mentioned in DT commit)
 
