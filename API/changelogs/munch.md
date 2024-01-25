@@ -1,3 +1,6 @@
+# 25-Jan-2024
+- Fixed Airplane mode QS bug
+
 # 17-Jan-2024
 - Remove obsolete config_keyboardTapVibePattern
 - Disable display refresh rate override
