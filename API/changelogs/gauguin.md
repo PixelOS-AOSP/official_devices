@@ -1,3 +1,6 @@
+# 25-Jan-2024
+- Screen recorder bug fixes.
+
 # 02-Jan-2024
 - Fix high memory usage issue
 
