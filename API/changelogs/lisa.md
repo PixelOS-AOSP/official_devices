@@ -1,3 +1,12 @@
+# 26-Jan-2024
+- Added back support for dolby vision
+- Updated stock blobs from MIUI V14.0.7.0.TKOMIXM
+- Updated MIUI Camera from MIUI V14.0.7.0.TKOMIXM
+- Enabled freezer service
+- Switched to common QTI vibrator HAL
+- Addressed a few sepolicy denials
+- Performance improvements
+
 # 22-Dec-2023
 - Updated IMS stack to LA.QSSI.14.0.r1-10000.01-qssi.0
 - Disabled refresh rate override
