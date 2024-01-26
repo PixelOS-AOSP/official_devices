@@ -1,3 +1,6 @@
+# 26-Jan-2024
+- Fixed screen recording
+
 # 17-Jan-2024
 - Source upstream
 
