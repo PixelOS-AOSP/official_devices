@@ -1,3 +1,6 @@
+# 26-Jan-2024
+- Revert brightness overlay changes.
+
 # 25-Jan-2024
 - Screen recorder bug fixes.
 
