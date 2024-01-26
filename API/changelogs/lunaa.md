@@ -1,3 +1,10 @@
+# 26-Jan-2024
+- Updated device blobs from 13.1.0.158(EX01)
+- Downgraded IMS to OOS 13.1.0.592(EX01)
+- Adjusted Volume Panel to Left
+- Fixed Camera Cutout
+- Fixed Random Screen Flickering
+
 # 24-Dec-2023
 - Updated common blobs from OxygenOS 14.0.0.210(EX01)
 - Update IMS from LA.QSSI.14.0.r1-10000.01-qssi.0
