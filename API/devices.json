@@ -52,7 +52,7 @@
             "model": "Micromax IN Note 1 / IN1",
             "maintainer_name": "SakthivelNadar",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "tundra",
