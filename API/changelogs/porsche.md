@@ -1,3 +1,7 @@
+# 29-Jan-2024
+- Brought back support for 32 bits app
+- Fixed an issue where some apps won't install on manual installation
+
 # 16-Jan-2024
 - Brought back LiveDisplay
 - Set default hotspot ssid
