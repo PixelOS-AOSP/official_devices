@@ -1,3 +1,11 @@
+# 29-Jan-2024
+- Updated blobs from OxygenOS 14.0.0.211(EX01)
+- Bring back support for 32bit apps
+- Fixed issues with DRM apps such as netflix
+- Set default hotspot name
+- Fixed WIfi Display
+- Fixed an issue where some apps won't install on manual installation
+
 # 22-Dec-2023
 - Updated blobs from OxygenOS 14.0.0.210(EX01)
 - Fixed VoWiFi
