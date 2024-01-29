@@ -1,3 +1,6 @@
+# 29-Jan-2024
+- Dropped CASS Scheduler
+
 # 23-Dec-2023
 - Source upstream
 
