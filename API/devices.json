@@ -203,9 +203,9 @@
             "codename_alt": "bitra",
             "vendor": "Realme",
             "model": "Realme GT Neo 2",
-            "maintainer_name": "cristian",
+            "maintainer_name": "Aditya",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "RMX2020",
