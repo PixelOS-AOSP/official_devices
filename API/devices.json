@@ -304,7 +304,7 @@
             "model": "Redmi Note 4",
             "maintainer_name": "Silent Killer",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "whyred",
