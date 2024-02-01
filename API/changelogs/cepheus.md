@@ -1,3 +1,8 @@
+# 01-Feb-2024
+- Fixed stability and reboots when USB-C Type Headphones are connected
+- Upstream kernel to 4.14.336
+- Misc. improvements and fixes
+
 # 25-Dec-2023
 - Added back LiveDisplay support
 - Added back charging control support
