@@ -58,7 +58,7 @@ dispatcher = updater.dispatcher
 
 
 def get_Device_banner (device):
-    DeviceBanner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/" + device + ".png"
+    DeviceBanner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/" + device + ".jpg"
     if (requests.get(DeviceBanner).status_code == 200):
         return DeviceBanner
     else:
