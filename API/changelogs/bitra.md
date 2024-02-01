@@ -1,3 +1,6 @@
+# 01-Feb-2024
+- Initial build
+
 # 10-May-2023
 -Kernel updated to 4.19.282
 -Updated fingerprint to F05
