@@ -1,3 +1,7 @@
+# 02-Feb-2024
+- Enable SVELTE memory configuration
+- Ship upstreamed kernel v4.14.336
+
 # 24-Dec-2023
 - Initial Android 14 build with rebased trees
 - Introduce Dolby Atmos (A XiaomiParts implementation)
