@@ -359,6 +359,14 @@
             "XDA": null,
             "role": "Ex-davinci Maintainer",
             "tagline": "Trying to do better everyday."
+        },
+	{
+            "name": "jendermine",
+            "github": "jendermine",
+            "telegram": "jendermine",
+            "XDA": "https://xdaforums.com/m/jendermine.12801337/",
+            "role": "sky Maintainer",
+            "tagline": "..."
         }
     ]
 }
