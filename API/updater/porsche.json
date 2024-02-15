@@ -1,23 +1,18 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_porsche-14.0-20240127-1806.zip",
-    "datetime": 1706378650,
-    "size": 2639997690,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240127-1806.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240127-1806.zip",
-    "filehash": "b5cdb90993567a67745153e49e8d8496",
-    "id": "b5cdb90993567a67745153e49e8d8496",
+    "filename": "PixelOS_porsche-14.0-20240215-1946.zip",
+    "datetime": 1708026273,
+    "size": 2591851573,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240215-1946.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240215-1946.zip",
+    "filehash": "f1e5d6e455b5334c0f736d8acbaec4e7",
+    "id": "f1e5d6e455b5334c0f736d8acbaec4e7",
     "maintainers": [
         {
             "main_maintainer": false,
             "github_username": "whyredfire",
             "name": "Karan Parashar"
-        },
-        {
-            "main_maintainer": false,
-            "github_username": "resist15",
-            "name": "Sourav"
         }
     ],
     "donate_url": "",
