@@ -1,3 +1,17 @@
+# 16-Feb-2024
+- Merged February Security patches
+- Added expandable volume dialog
+- Added in-call vibration options
+- Added VPN over tethering/ hotspot
+- Integrated link to windows
+- Fixed an issue where some apks wouldn't install
+- Fixed an issue where separate data and wifi tiles wouldn't work properly
+- Fixed an issue where recording notification wouldn't dismiss on delete
+- Fixed an issue where DT2S toggle wouldn't work
+- Improved refresh rate settings
+- Removed Power off alarm notification 
+- Updated translations
+
 # 17-Jan-2024
 - Added Network traffic indicator
 - Added auto-brightness button near brightness slider
