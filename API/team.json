@@ -249,14 +249,6 @@
             "tagline": "bhupender jogi"
         },
         {
-            "name": "Sourav Jagtap",
-            "github": "resist15",
-            "telegram": "xyz_sourav",
-            "XDA": "https://xdaforums.com/m/xyz_sourav.11956971/",
-            "role": "porsche & beryllium Maintainer",
-            "tagline": "komaru bes"
-        },
-        {
             "name": "Sushmit",
             "github": "redducc",
             "telegram": "redducc",
@@ -271,6 +263,14 @@
             "XDA": "https://xdaforums.com/m/saikiran001.8222620/",
             "role": "marble & nabu Maintainer",
             "tagline": null
+        },
+        {
+            "name": "Sourav Jagtap",
+            "github": "resist15",
+            "telegram": "xyz_sourav",
+            "XDA": "https://xdaforums.com/m/xyz_sourav.11956971/",
+            "role": "porsche & beryllium Ex-Maintainer",
+            "tagline": "komaru bes"
         },
         {
             "name": "Kunmun",

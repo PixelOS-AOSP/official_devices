@@ -4,11 +4,6 @@
             "display_name": "Karan Parashar",
             "telegram": "https://t.me/whyredfire",
             "github": "https://github.com/whyredfire"
-        },
-        {
-            "display_name": "Sourav",
-            "telegram": "https://t.me/xyz_sourav",
-            "github": "https://github.com/resist15"
         }
     ],
     "updater": true,
