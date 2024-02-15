@@ -1,3 +1,7 @@
+# 15-Feb-2024
+- Cleaned up sepolicy
+- Misc. changes and fixes
+
 # 26-Jan-2024
 - Added back support for dolby vision
 - Updated stock blobs from MIUI V14.0.7.0.TKOMIXM
