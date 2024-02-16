@@ -1,18 +1,23 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_sky-14.0-20240120-0403.zip",
-    "datetime": 1705723287,
-    "size": 1863241196,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240120-0403.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-01-20/PixelOS_sky-14.0-20240120-0403.zip",
-    "filehash": "d3b93003fb7538fab71fe9f066e82acc",
-    "id": "d3b93003fb7538fab71fe9f066e82acc",
+    "filename": "PixelOS_sky-14.0-20240216-0734.zip",
+    "datetime": 1708068775,
+    "size": 1817457836,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240216-0734.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-02-16/PixelOS_sky-14.0-20240216-0734.zip",
+    "filehash": "13b6d9f86cac34233bafbc29f2846a9c",
+    "id": "13b6d9f86cac34233bafbc29f2846a9c",
     "maintainers": [
         {
             "main_maintainer": false,
             "github_username": "redducc",
             "name": "Sushmit"
+        },
+        {
+            "main_maintainer": false,
+            "github_username": "jendermine",
+            "name": "jendermine"
         }
     ],
     "donate_url": "",
