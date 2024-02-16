@@ -1,3 +1,11 @@
+# 16-Feb-2024
+- Tune charging control parameters
+- Switch back to lzo-rle for zram
+- Add dirac and clear speaker
+- Inherit 4GB dalvik heap instead of 6GB
+- Update vibration overlays
+- Update performance tuning
+
 # 20-Jan-2024
 - Added per app thermal profiles
 - Updated CarrierConfig from nothing phone 1
