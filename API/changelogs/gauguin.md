@@ -1,3 +1,7 @@
+# 16-Feb-2024
+- Handle DT2W through powerhint
+- Removed unused SEPolicy changes
+
 # 26-Jan-2024
 - Revert brightness overlay changes.
 
