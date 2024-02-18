@@ -1,3 +1,15 @@
+# 18-Feb-2024
+- Merged latest ACK (4.19.306)
+- Merged latest CLO tag (LA.UM.9.12.r1-18100-SMxx50.QSSI14.0)
+- Switched to WFI only (should reduce the drain on deep sleep)
+- Switched to 100hz tick rate (should decrease power consumption)
+- Imported minimal Mi_thermald changes from AOSPA
+- Implemented spatial audio from cheetah
+- Dropped doze related features
+- Added xiaomi cit sensor
+- Removed unwanted dolby sepolicy
+- Removed unwanted audio blobs
+
 # 18-Jan-2024
 - Source upstream 
 - Kernel upstream
