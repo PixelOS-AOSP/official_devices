@@ -1,3 +1,7 @@
+# 18-Feb-2024
+- Updated blobs to F.17
+- Switched to OSS dtb
+
 # 17-Jan-2024
 - Removed my_bigball partition
 - Labeled more wakeup nodes
