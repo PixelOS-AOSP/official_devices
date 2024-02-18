@@ -1,3 +1,6 @@
+# 18-Feb-2024
+- Source upstream
+
 # 01-Feb-2024
 - Fixed stability and reboots when USB-C Type Headphones are connected
 - Upstream kernel to 4.14.336
