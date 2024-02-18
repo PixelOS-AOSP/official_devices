@@ -1,3 +1,6 @@
+# 18-Feb-2024
+- Move to QTI Health AIDL service.
+
 # 25-Jan-2024
 - Fixed an issue where toggling airplane mode crashes SystemUI.
 - Fixed an issue where installing certain APKs crashes PackageInstaller.
