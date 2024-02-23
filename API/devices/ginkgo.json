@@ -1,18 +1,13 @@
 {
     "maintainer": [
         {
-            "display_name": "Danish",
-            "telegram": "https://t.me/ddvnish",
-            "github": "https://github.com/Danyscape"
-        },
-        {
             "display_name": "Karan Parashar",
             "telegram": "https://t.me/whyredfire",
             "github": "https://github.com/whyredfire"
         }
     ],
     "updater": true,
-    "beta": true,
+    "beta": false,
     "version": "fourteen",
     "available_versions": [
         "twelve",
