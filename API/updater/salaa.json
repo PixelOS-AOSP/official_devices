@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_salaa-14.0-20240216-1623.zip",
-    "datetime": 1708100481,
-    "size": 1923716792,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240216-1623.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-02-18/PixelOS_salaa-14.0-20240216-1623.zip",
-    "filehash": "3f4c44dbd0dedb61040c31c22626b1eb",
-    "id": "3f4c44dbd0dedb61040c31c22626b1eb",
+    "filename": "PixelOS_salaa-14.0-20240223-0524.zip",
+    "datetime": 1708665743,
+    "size": 1923858831,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240223-0524.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-02-23/PixelOS_salaa-14.0-20240223-0524.zip",
+    "filehash": "d0a4dc7fae56d3a746bcff01b77fa8c2",
+    "id": "d0a4dc7fae56d3a746bcff01b77fa8c2",
     "maintainers": [
         {
             "main_maintainer": false,
