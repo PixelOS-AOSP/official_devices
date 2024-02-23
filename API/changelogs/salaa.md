@@ -1,3 +1,6 @@
+# 23-Feb-2024
+- Fixed deep sleep
+
 # 18-Feb-2024
 - Updated blobs to F.17
 - Switched to OSS dtb
