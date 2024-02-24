@@ -1,3 +1,9 @@
+# 24-Feb-2024
+- CarrierConfigOverlay: Update from sweet V14.0.9.0.TKFMIXM
+- Decommonize ADSP modules
+- Enable SVELTE memory configuration
+- Update blobs from sweet_k6a V816.0.2.0.THGMIXM
+
 # 02-Feb-2024
 - Enable SVELTE memory configuration
 - Ship upstreamed kernel v4.14.336
