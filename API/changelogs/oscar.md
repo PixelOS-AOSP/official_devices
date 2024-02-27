@@ -1,3 +1,10 @@
+# 27-Feb-2024
+- Update common blobs from OxygenOS 14
+- Fixed OK Google hotword detection
+- Fixed WiFi-Display
+- Kernel upstream and much more improvements
+- CPH2381_11_C.29 firmware included
+
 # 24-Dec-2023
 - Initial Android 14 release
 - Fixed NFC
