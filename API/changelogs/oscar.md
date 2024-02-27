@@ -4,6 +4,7 @@
 - Fixed WiFi-Display
 - Kernel upstream and much more improvements
 - CPH2381_11_C.29 firmware included
+- Dropped support for Realme 9 Pro series (PLEASE DON'T FLASH)
 
 # 24-Dec-2023
 - Initial Android 14 release
