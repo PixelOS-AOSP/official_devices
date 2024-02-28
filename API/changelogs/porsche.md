@@ -1,3 +1,6 @@
+# 28-Feb-2024
+- Updated stock blobs from android-14 (RMX3312_14.0.0.85(EX01) and OxygenOS 14 MT2111_14.0.0.212(EX01)
+
 # 15-Feb-2024
 - Updated kernel
 
