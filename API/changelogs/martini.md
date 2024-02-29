@@ -1,3 +1,6 @@
+# 29-Feb-2024
+- Updated blobs from OxygenOS 14 MT2111_14.0.0.212(EX01)
+
 # 29-Jan-2024
 - Updated blobs from OxygenOS 14.0.0.211(EX01)
 - Bring back support for 32bit apps
