@@ -1,3 +1,6 @@
+# 02-Mar-2024
+- Fixed portrait mode
+
 # 26-Jan-2024
 - Updated device blobs from 13.1.0.158(EX01)
 - Downgraded IMS to OOS 13.1.0.592(EX01)
