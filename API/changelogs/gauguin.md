@@ -1,3 +1,7 @@
+# 02-Mar-2024
+- Upstream kernel.
+- Handle modem configuration from init.modem.sh.
+
 # 16-Feb-2024
 - Handle DT2W through powerhint
 - Removed unused SEPolicy changes
