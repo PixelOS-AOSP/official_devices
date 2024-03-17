@@ -1,22 +1,22 @@
 {
-  "error": false,
-  "version": "fourteen",
-  "filename": "PixelOS_diting-14.0-20240317-0416.zip",
-  "datetime": 202403170416,
-  "size": 2178147127,
-  "url": "GITHUB_URL_PLACEHOLDER",
-  "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-  "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
-  "id": "GITHUB_ID_PLACEHOLDER",
-  "maintainers": [
-      {
-          "main_maintainer": false,
-          "github_username": "bheatleyyy",
-          "name": "Sugakesshaa"
-      }
-  ],
-  "donate_url": "",
-  "website_url": "https://pixelos.net/",
-  "news_url": "https://blog.pixelos.net/",
-  "forum_url": ""
+    "error": false,
+    "version": "fourteen",
+    "filename": "PixelOS_diting-14.0-20240317-0416.zip",
+    "datetime": 202403170416,
+    "size": 2178147127,
+    "url": "GITHUB_URL_PLACEHOLDER",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
+    "id": "GITHUB_ID_PLACEHOLDER",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "bheatleyyy",
+            "name": "Sugakesshaa"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
 }
