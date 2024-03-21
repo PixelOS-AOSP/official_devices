@@ -6,7 +6,7 @@
 
 # Clean flash (coming from a different ROM):
 Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
-- Download ROM, TWRP recovery (click [HERE](https://t.me/clarencebuilds/116) for TWRP) and your device specific firmware (click [HERE](https://xiaomifirmwareupdater.com/)) to your computer
+- Download ROM, Recovery (click [HERE](https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/recovery/)) and your device specific firmware (click [HERE](https://xiaomifirmwareupdater.com/)) to your computer
 - Reboot the device to bootloader (Fastboot Mode)
 - Flash the recovery by running `fastboot flash recovery <path/to/recovery.img>` in terminal
 - Reboot to recovery by running `fastboot reboot recovery` in terminal
