@@ -257,11 +257,19 @@
             "tagline": "."
         },
         {
+            "name": "jendermine",
+            "github": "jendermine",
+            "telegram": "jendermine",
+            "XDA": "https://xdaforums.com/m/jendermine.12801337/",
+            "role": "sky Maintainer",
+            "tagline": "..."
+        },
+        {
             "name": "Saikiran",
             "github": "saikiran2001",
             "telegram": "Saikiran008",
             "XDA": "https://xdaforums.com/m/saikiran001.8222620/",
-            "role": "marble & nabu Maintainer",
+            "role": "Ex-marble Maintainer",
             "tagline": null
         },
         {
@@ -269,7 +277,7 @@
             "github": "resist15",
             "telegram": "xyz_sourav",
             "XDA": "https://xdaforums.com/m/xyz_sourav.11956971/",
-            "role": "porsche & beryllium Ex-Maintainer",
+            "role": "Ex-porsche & beryllium Maintainer",
             "tagline": "komaru bes"
         },
         {
@@ -359,14 +367,6 @@
             "XDA": null,
             "role": "Ex-davinci Maintainer",
             "tagline": "Trying to do better everyday."
-        },
-        {
-            "name": "jendermine",
-            "github": "jendermine",
-            "telegram": "jendermine",
-            "XDA": "https://xdaforums.com/m/jendermine.12801337/",
-            "role": "sky Maintainer",
-            "tagline": "..."
         }
     ]
 }

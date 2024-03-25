@@ -151,7 +151,7 @@
             "model": "Poco F5/ Redmi Note 12 Turbo",
             "maintainer_name": "Saikiran",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "beryllium",
@@ -492,15 +492,6 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "nabu",
-            "codename_alt": "nabu/nabuin",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi Pad 5",
-            "maintainer_name": "Saikiran",
             "frame": null,
             "active": true
         },
