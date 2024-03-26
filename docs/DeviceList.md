@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 41
+Number Of Devices in Official PixelOS: 42
 
 Number of Brands in Official PixelOS: 8
 
@@ -63,5 +63,6 @@ Officially Supported Devices:
 14. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
 15. Xiaomi Mi 9 (cepheus)
 16. Xiaomi Mi Note 10 Lite (toco)
+17. Xiaomi 12 (cupid)
 
 We hope you enjoyed the project! Your donations help us maintain our infrastructure and continue our work. Please consider showing your support by donating! [Click Me](https://wiki.pixelos.net/docs/donate)

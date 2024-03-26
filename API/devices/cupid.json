@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Rahul",
+            "telegram": "https://t.me/rahul_k06",
+            "github": "https://github.com/rk134"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi 12",
+    "device_display_codename": "cupid",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

@@ -478,6 +478,15 @@
             "active": true
         },
         {
+            "codename": "cupid",
+            "codename_alt": "cupid",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 12",
+            "maintainer_name": "Rahul",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "cepheus",
             "codename_alt": "cepheus",
             "vendor": "Xiaomi",
