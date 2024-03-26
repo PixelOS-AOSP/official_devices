@@ -469,20 +469,20 @@
             "active": true
         },
         {
-            "codename": "diting",
-            "codename_alt": "diting",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi 12T Pro/Redmi K50 Ultra",
-            "maintainer_name": "Sugakesshaa",
-            "frame": null,
-            "active": true
-        },
-        {
             "codename": "cupid",
             "codename_alt": "cupid",
             "vendor": "Xiaomi",
             "model": "Xiaomi 12",
             "maintainer_name": "Rahul",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "diting",
+            "codename_alt": "diting",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 12T Pro/Redmi K50 Ultra",
+            "maintainer_name": "Sugakesshaa",
             "frame": null,
             "active": true
         },

@@ -60,9 +60,9 @@ Officially Supported Devices:
 11. Redmi Note 9S/Pro/Pro Max & Poco M2 Pro (curtana/joyeuse/excalibur/gram)
 12. Xiaomi 11 Lite 4G (courbet/courbetin)
 13. Xiaomi 11 Lite 5G NE (lisa)
-14. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
-15. Xiaomi Mi 9 (cepheus)
-16. Xiaomi Mi Note 10 Lite (toco)
-17. Xiaomi 12 (cupid)
+14. Xiaomi 12 (cupid)
+15. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
+16. Xiaomi Mi 9 (cepheus)
+17. Xiaomi Mi Note 10 Lite (toco)
 
 We hope you enjoyed the project! Your donations help us maintain our infrastructure and continue our work. Please consider showing your support by donating! [Click Me](https://wiki.pixelos.net/docs/donate)
