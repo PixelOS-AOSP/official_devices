@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 42
+Number Of Devices in Official PixelOS: 41
 
 Number of Brands in Official PixelOS: 8
 
@@ -54,15 +54,14 @@ Officially Supported Devices:
 5. Redmi K20/Mi 9T (davinci/davinciin)
 6. Redmi Note 10 (sunny/mojito)
 7. Redmi Note 10 Pro/Max (sweet/sweetin)
-8. Redmi Note 7 Pro (violet)
-9. Redmi Note 8/8T (ginkgo/willow)
-10. Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite 5G (gauguin)
-11. Redmi Note 9S/Pro/Pro Max & Poco M2 Pro (curtana/joyeuse/excalibur/gram)
-12. Xiaomi 11 Lite 4G (courbet/courbetin)
-13. Xiaomi 11 Lite 5G NE (lisa)
-14. Xiaomi 12 (cupid)
-15. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
-16. Xiaomi Mi 9 (cepheus)
-17. Xiaomi Mi Note 10 Lite (toco)
+8. Redmi Note 8/8T (ginkgo/willow)
+9. Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite 5G (gauguin)
+10. Redmi Note 9S/Pro/Pro Max & Poco M2 Pro (curtana/joyeuse/excalibur/gram)
+11. Xiaomi 11 Lite 4G (courbet/courbetin)
+12. Xiaomi 11 Lite 5G NE (lisa)
+13. Xiaomi 12 (cupid)
+14. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
+15. Xiaomi Mi 9 (cepheus)
+16. Xiaomi Mi Note 10 Lite (toco)
 
 We hope you enjoyed the project! Your donations help us maintain our infrastructure and continue our work. Please consider showing your support by donating! [Click Me](https://wiki.pixelos.net/docs/donate)
