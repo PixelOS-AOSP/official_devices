@@ -105,22 +105,6 @@
             "tagline": null
         },
         {
-            "name": "Alone0316",
-            "github": "Alone0316",
-            "telegram": "Alone0316",
-            "XDA": "https://xdaforums.com/m/alone0316.11913735/",
-            "role": "Ex-mido Maintainer",
-            "tagline": null
-        },
-        {
-            "name": "Chethas",
-            "github": "chethazz",
-            "telegram": "chethazz",
-            "XDA": "https://xdaforums.com/m/chethas.10059020/",
-            "role": "violet Maintainer",
-            "tagline": null
-        },
-        {
             "name": "Muhammad Nauman",
             "github": "itsXRP",
             "telegram": "itsXRP",
@@ -289,6 +273,14 @@
             "tagline": "komaru bes"
         },
         {
+            "name": "Chethas",
+            "github": "chethazz",
+            "telegram": "chethazz",
+            "XDA": "https://xdaforums.com/m/chethas.10059020/",
+            "role": "Ex-violet Maintainer",
+            "tagline": null
+        },
+        {
             "name": "Kunmun",
             "github": "ElectroPerf",
             "telegram": "kunmun36",
@@ -319,6 +311,14 @@
             "XDA": "https://xdaforums.com/m/dqrkn3zz.6877568/",
             "role": "Ex-ginkgo Maintainer",
             "tagline": "Inactivity serves no purpose whatsoever"
+        },
+        {
+            "name": "Alone0316",
+            "github": "Alone0316",
+            "telegram": "Alone0316",
+            "XDA": "https://xdaforums.com/m/alone0316.11913735/",
+            "role": "Ex-mido Maintainer",
+            "tagline": null
         },
         {
             "name": "ryyaap",

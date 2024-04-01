@@ -313,7 +313,7 @@
             "model": "Redmi Note 7 Pro",
             "maintainer_name": "Regulus",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "ginkgo",
