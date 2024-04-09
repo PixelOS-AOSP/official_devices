@@ -163,15 +163,6 @@
             "active": true
         },
         {
-            "codename": "r5x",
-            "codename_alt": "r5x",
-            "vendor": "realme",
-            "model": "realme 5/5i/5s",
-            "maintainer_name": "kardebayan",
-            "frame": null,
-            "active": true
-        },
-        {
             "codename": "salaa",
             "codename_alt": "salaa",
             "vendor": "Realme",
@@ -501,6 +492,15 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "r5x",
+            "codename_alt": "r5x",
+            "vendor": "realme",
+            "model": "realme 5/5i/5s",
+            "maintainer_name": "kardebayan",
             "frame": null,
             "active": true
         },
