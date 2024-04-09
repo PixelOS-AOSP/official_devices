@@ -1,25 +1,26 @@
 {
     "maintainer": [
         {
-            "display_name": "Sugakesshaa",
-            "telegram": "https://t.me/Megalodonzs",
-            "github": "https://github.com/bheatleyyy"
+            "display_name": "Debayan Kar",
+            "telegram": "https://t.me/kardebayan",
+            "github": "https://github.com/kardebayan"
         }
     ],
     "updater": true,
     "beta": false,
-    "version": "thirteen",
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Realme 5 Series",
+    "device_display_name": "realme 5/5i/5s",
     "device_display_codename": "r5x",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/r5x/",
     "last_updated": "01 March 2023",
     "private_download_tag": "r5x_20230228_1238",
-    "active": false,
+    "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-beta-11-06-2022.4456239/"
+    "xda": null
 }
