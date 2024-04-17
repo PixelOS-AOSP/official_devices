@@ -1,3 +1,11 @@
+# 17-Apr-2024
+- Improved battery life and performance
+- Fixed audio delay issues
+- Finetuned statusbar padding
+- Updated blobs to RMX3312_14.0.0.86(EX01)
+- Updated firmware to RMX3312_14.0.0.85(EX01)
+- Updated OPlusCamera from MT2111_14.0.0.500(EX01)
+
 # 28-Feb-2024
 - Updated stock blobs from android-14 (RMX3312_14.0.0.85(EX01) and OxygenOS 14 MT2111_14.0.0.212(EX01)
 
