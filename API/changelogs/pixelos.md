@@ -1,3 +1,8 @@
+# 17-Apr-2024
+- Merged April Security patches
+- Refreshed feature set (check blog [here](https://blog.pixelos.net/blogs/2024-04-16-April-Update))
+- A lot of bugfixes since last release
+
 # 16-Feb-2024
 - Merged February Security patches
 - Added expandable volume dialog
