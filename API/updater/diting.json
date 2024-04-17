@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_diting-14.0-20240317-0416.zip",
-    "datetime": 202403170416,
-    "size": 2178147127,
-    "url": "GITHUB_URL_PLACEHOLDER",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
-    "id": "GITHUB_ID_PLACEHOLDER",
+    "filename": "PixelOS_diting-14.0-20240417-1453.zip",
+    "datetime": 1713365490,
+    "size": 2560683870,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/diting/PixelOS_diting-14.0-20240417-1453.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/diting/PixelOS_diting-14.0-20240417-1453.zip",
+    "filehash": "312d4222fa770ec73df9cab7bebd6e0e",
+    "id": "312d4222fa770ec73df9cab7bebd6e0e",
     "maintainers": [
         {
             "main_maintainer": false,
