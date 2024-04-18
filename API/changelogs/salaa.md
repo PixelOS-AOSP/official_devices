@@ -1,3 +1,7 @@
+# 18-Apr-2024
+- Switched to libperfmgr
+- Switched to AIDL memtrack
+
 # 23-Feb-2024
 - Fixed deep sleep
 
