@@ -1,3 +1,9 @@
+# 18-Apr-2024
+- Use HintManager for HWUI to reduce CPU load.
+- Switch to AIDL IR service.
+- Switch to AIDL MultiHal service.
+- Kernel state at r17b4.
+
 # 18-Feb-2024
 - Move to QTI Health AIDL service.
 
