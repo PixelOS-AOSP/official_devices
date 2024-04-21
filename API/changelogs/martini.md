@@ -1,3 +1,11 @@
+# 21-Apr-2024
+- Improved battery life and performance
+- Finetuned statusbar padding
+- Updated blobs, firmware and OplusCamera to MT2111_14.0.0.600(EX01)
+- Updated Carrierconfig from MT2111_14.0.0.500(EX01)
+- Migrate to AIDL Sensor HAL
+- Improve Dolby Atmos
+
 # 29-Feb-2024
 - Updated blobs from OxygenOS 14 MT2111_14.0.0.212(EX01)
 
