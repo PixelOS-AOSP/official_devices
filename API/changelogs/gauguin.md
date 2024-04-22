@@ -1,3 +1,6 @@
+# 22-Apr-2024
+- Fix A2DP offloading
+
 # 02-Mar-2024
 - Upstream kernel.
 - Handle modem configuration from init.modem.sh.
