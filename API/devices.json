@@ -16,7 +16,7 @@
             "model": "Google Pixel 4",
             "maintainer_name": "Yularzhi",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "coral",
@@ -25,7 +25,7 @@
             "model": "Google Pixel 4 XL",
             "maintainer_name": "Yularzhi",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "panther",

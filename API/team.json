@@ -209,14 +209,6 @@
             "tagline": "Stay calm and be yourself!"
         },
         {
-            "name": "Yularzhi",
-            "github": "Yularzhi",
-            "telegram": "Yul_Nicolai",
-            "XDA": "https://xdaforums.com/m/yulnicolai.11450249/",
-            "role": "coral, flame Maintainer",
-            "tagline": null
-        },
-        {
             "name": "Raghav Tandon",
             "github": "raghavt20",
             "telegram": "raghavt20",
@@ -263,6 +255,14 @@
             "XDA": "https://xdaforums.com/m/jendermine.12801337/",
             "role": "sky Maintainer",
             "tagline": "..."
+        },
+        {
+            "name": "Yularzhi",
+            "github": "Yularzhi",
+            "telegram": "Yul_Nicolai",
+            "XDA": "https://xdaforums.com/m/yulnicolai.11450249/",
+            "role": "Ex-coral, flame Maintainer",
+            "tagline": null
         },
         {
             "name": "Saikiran",
