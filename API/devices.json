@@ -469,6 +469,15 @@
             "active": true
         },
         {
+            "codename": "zeus",
+            "codename_alt": "zeus",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 12 Pro",
+            "maintainer_name": "Thomas Dada",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "diting",
             "codename_alt": "diting",
             "vendor": "Xiaomi",
@@ -519,15 +528,6 @@
             "vendor": "Realme",
             "model": "realme GT Master",
             "maintainer_name": "itsXRP",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "zeus",
-            "codename_alt": "zeus",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi 12 Pro",
-            "maintainer_name": "Thomas Dada",
             "frame": null,
             "active": true
         }
