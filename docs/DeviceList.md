@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 41
+Number Of Devices in Official PixelOS: 39
 
 Number of Brands in Official PixelOS: 9
 
@@ -11,10 +11,8 @@ Officially Supported Devices:
 1. 10or G (G)
 
 **Google**
-1. Google Pixel 4 (flame)
-2. Google Pixel 4 XL (coral)
-3. Google Pixel 7 (panther)
-4. Google Pixel 7 Pro (cheetah)
+1. Google Pixel 7 (panther)
+2. Google Pixel 7 Pro (cheetah)
 
 **Motorola**
 1. Motorola Edge (30 Fusion/S30 Pro) (tundra)
