@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Thomas Dada",
+            "telegram": "https://t.me/thomasdada",
+            "github": "https://github.com/rasenkai"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi 12 Pro",
+    "device_display_codename": "zeus",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

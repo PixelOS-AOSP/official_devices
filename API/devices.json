@@ -521,6 +521,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "zeus",
+            "codename_alt": "zeus",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 12 Pro",
+            "maintainer_name": "Thomas Dada",
+            "frame": null,
+            "active": true
         }
     ]
 }
