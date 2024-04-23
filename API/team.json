@@ -383,6 +383,14 @@
             "XDA": null,
             "role": "Ex-davinci Maintainer",
             "tagline": "Trying to do better everyday."
+        },
+        {
+            "name": "Ahmed Tohamy (Agmad)",
+            "github": "ahmedtohamy1",
+            "telegram": "ahmed_tohamu",
+            "XDA": "https://xdaforums.com/m/ahmed-tohamy.8386267/",
+            "role": "Xiaomi MI 10T (apollo) Maintainer",
+            "tagline": "Pharoh"
         }
     ]
 }

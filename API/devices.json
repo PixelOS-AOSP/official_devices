@@ -530,6 +530,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "apollo",
+            "codename_alt": "apollopro",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi MI 10T",
+            "maintainer_name": "Ahmed Tohamy (Agmad)",
+            "frame": null,
+            "active": true
         }
     ]
 }
