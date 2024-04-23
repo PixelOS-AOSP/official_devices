@@ -1,3 +1,9 @@
+# 23-Apr-2024
+- Improved battery life and performance
+- Updated Carrierconfig from MT2111_14.0.0.500(EX01)
+- Migrate to AIDL Sensor HAL
+- Improve Dolby Atmos
+
 # 02-Mar-2024
 - Fixed portrait mode
 
