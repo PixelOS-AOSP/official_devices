@@ -1,17 +1,17 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "GITHUB_FILENAME_PLACEHOLDER",
-    "datetime": 123456789,
-    "size": 12345678,
-    "url": "GITHUB_URL_PLACEHOLDER",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
-    "id": "GITHUB_ID_PLACEHOLDER",
+    "filename": "PixelOS_zeus-14.0-20240424-1124.zip",
+    "datetime": 1713957800,
+    "size": 2509657794,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240424-1124.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240424-1124.zip",
+    "filehash": "8a6063ff960d108a57880aa31def0920",
+    "id": "8a6063ff960d108a57880aa31def0920",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "Rasenkai",
+            "github_username": "rasenkai",
             "name": "Thomas Dada"
         }
     ],
