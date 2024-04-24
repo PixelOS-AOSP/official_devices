@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "GITHUB_FILENAME_PLACEHOLDER",
-    "datetime": 123456789,
-    "size": 12345678,
-    "url": "GITHUB_URL_PLACEHOLDER",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
-    "id": "GITHUB_ID_PLACEHOLDER",
+    "filename": "PixelOS_apollo-14.0-20240424-1408.zip",
+    "datetime": 1713967618,
+    "size": 2149601391,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240424-1408.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240424-1408.zip",
+    "filehash": "fc21c4500c0391dc5a7c7ef3d2f07fa3",
+    "id": "fc21c4500c0391dc5a7c7ef3d2f07fa3",
     "maintainers": [
         {
             "main_maintainer": false,
