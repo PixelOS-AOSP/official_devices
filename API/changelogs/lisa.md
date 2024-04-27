@@ -1,3 +1,11 @@
+# 27-Apr-2024
+- Dropped support for dolby vision 
+- Updated stock blobs, MIUICamera and firmware to miui_LISAGlobal_OS1.0.3.0.UKOMIXM (modem is from V14.0.2.0.TKOMIXM)
+- Moved to QTI health AIDL service
+- Switch hwcomposer to foreground CPU set
+- Reworked sepolicy rules
+- Minor performance improvements
+
 # 15-Feb-2024
 - Cleaned up sepolicy
 - Misc. changes and fixes
