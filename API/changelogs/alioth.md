@@ -1,3 +1,12 @@
+# 28-Apr-2024
+- Kernel upstream
+- Added TEO cpuidle governor
+- Added SBalance with latest sultan changes
+- Uprev audio hal to 7.0
+- Debloated kernel
+- Updated Display blobs to LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Nuked leica (It's broken, Aperture present)
+
 # 18-Feb-2024
 - Merged latest ACK (4.19.306)
 - Merged latest CLO tag (LA.UM.9.12.r1-18100-SMxx50.QSSI14.0)
