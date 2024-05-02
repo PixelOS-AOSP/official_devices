@@ -1,3 +1,13 @@
+# 02-May-2024
+- Fixed USB configuration menu
+- Updated blobs and firmware to CPH2381_14.0.0.600(EX01)
+- Updated parts of kernel source from RMX3661_14.0.0.300(EX01)
+- Dropped OplusCamera and switched to Aperture (for now)
+- Fixed incorrect battery health and charge cycle
+- Updated Carrierconfig from MT2111_14.0.0.500(EX01)
+- Migrate to AIDL Sensor HAL
+- Improve Dolby Atmos
+
 # 27-Feb-2024
 - Update common blobs from OxygenOS 14
 - Fixed OK Google hotword detection
