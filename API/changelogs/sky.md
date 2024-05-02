@@ -1,3 +1,10 @@
+# 02-May-2024
+- Update blobs from V816.0.5.0.UMWEUXM
+- Add support for NFC devices
+- Switch to source built USB hal
+- Fix Goodix fingerprint
+- Boost big cluster on input
+
 # 16-Feb-2024
 - Tune charging control parameters
 - Switch back to lzo-rle for zram
