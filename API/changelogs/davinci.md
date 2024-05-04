@@ -1,3 +1,11 @@
+# 04-May-2024
+- Update blobs from sweet_k6a OS1.0.3.0.THGMIXM
+- Update from sweet_k6a OS1.0.3.0.THGMIXM
+- Use HintManager for HWUI
+- Drop debugfs stuff
+- Upstreamed Kernel
+- Misc. changes
+
 # 30-Jan-2024
 - Source upstream
 
