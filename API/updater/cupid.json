@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_cupid-14.0-20240424-1647.zip",
-    "datetime": 1713977135,
-    "size": 2368133737,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240424-1647.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240424-1647.zip",
-    "filehash": "f51de3af15ad4cf3734ed7cb70d6d6e8",
-    "id": "f51de3af15ad4cf3734ed7cb70d6d6e8",
+    "filename": "PixelOS_cupid-14.0-20240430-1822.zip",
+    "datetime": 1714499496,
+    "size": 2367380477,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240430-1822.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240430-1822.zip",
+    "filehash": "24b8517751b1a468e57869767ebb1dd3",
+    "id": "24b8517751b1a468e57869767ebb1dd3",
     "maintainers": [
         {
             "main_maintainer": false,
