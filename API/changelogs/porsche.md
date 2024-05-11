@@ -1,3 +1,10 @@
+# 11-May-2024
+- Fixed an issue where realme link app would crash
+- Fixed themed icon for stock camera app
+- Fixed battery capacity in battery information
+- Updated stock blobs to RMX3312_14.0.0.800(EX01)
+- Updated firmware to RMX3312_14.0.0.800(EX01)
+
 # 17-Apr-2024
 - Improved battery life and performance
 - Fixed audio delay issues
