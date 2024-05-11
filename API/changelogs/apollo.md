@@ -1,3 +1,10 @@
+# 11-May-2024
+- Switched to Nexus kernel (you can flash any kernel you want)
+- Updated all Xiaomi parts
+- Added gaming touch sensitivity settings 
+- Added per app RR
+- Misc performance improvements
+
 # 27-Apr-2024
 - Added Dolby Atmos
 - Added leica Miui Camera
