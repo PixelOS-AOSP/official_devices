@@ -36,7 +36,7 @@ GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001551285228"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/pixelos.png"
+banner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/pixelos.JPEG"
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
