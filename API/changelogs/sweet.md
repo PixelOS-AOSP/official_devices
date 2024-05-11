@@ -1,3 +1,15 @@
+# 11-May-2024
+- Update common blobs from sweet_k6a OS1.0.3.0.THGMIXM
+- Updated CarrierConfirm from sweet_k6a OS1.0.3.0.THGMIXM
+- Avoid delay for vblank disable from DRM
+- Minor changes to the Dolby Atmos implementation
+- Drop debugfs stuff from init scripts
+- Use HintManager for HWUI
+- Redo libsdmcore shim
+- Adjust status bar padding
+- Switched kernel
+- Other miscellaneous changes
+
 # 30-Jan-2024
 - Source upstream
 
