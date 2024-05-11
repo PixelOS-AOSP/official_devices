@@ -34,7 +34,7 @@
             "model": "Google Pixel 7",
             "maintainer_name": "Justine",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "cheetah",
@@ -43,7 +43,7 @@
             "model": "Google Pixel 7 Pro",
             "maintainer_name": "Justine",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "yogurt",
