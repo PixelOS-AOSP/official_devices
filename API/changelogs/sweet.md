@@ -6,6 +6,10 @@
 - Drop debugfs stuff from init scripts
 - Use HintManager for HWUI
 - Redo libsdmcore shim
+- Switch to new AIDL IR service
+- Switch to AIDL NXP NFC HAL
+- Copy NFC firmware to the correct location
+- Get rid of libinit
 - Adjust status bar padding
 - Switched kernel
 - Other miscellaneous changes
