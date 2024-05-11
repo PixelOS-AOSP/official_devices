@@ -1,3 +1,15 @@
+# 11-May-2024
+- Brought back Face unlock
+- Brought back in-call vibrations
+- Brought back Monet bootanimation
+- Brought back long press volume key to skip tracks
+- Brought back annoying notifications toggle
+- Brought back missing USB tethering tile
+- Brought back one shot auto brightness
+- Fixed advanced reboot toggle
+- Fixed bluetooth pairing issues on smartwatches and carplay
+- Added missing drawable for quickly open camera gesture
+
 # 17-Apr-2024
 - Merged April Security patches
 - Refreshed feature set (check blog [here](https://blog.pixelos.net/blogs/2024-04-16-April-Update))
