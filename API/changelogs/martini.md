@@ -1,3 +1,6 @@
+# 11-May-2024
+- Fixed an issue where realme link app would crash
+
 # 21-Apr-2024
 - Improved battery life and performance
 - Finetuned statusbar padding
