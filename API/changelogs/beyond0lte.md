@@ -1,3 +1,14 @@
+# 12-May-2024
+- Added proper support for battery info
+- Allow more cached apps in the background
+- Retrofitted dynamic partitions
+- Switch to f2fs with fscrypt v2 for /data
+- Switch to Vulkan UI Renderer
+- Update kernel to Linux 4.14.343 (OpenELA LTS)
+- Update slow/fast charging threshold
+- Use AOSP overlay for volume panel location
+- Use pixel power HAL directly
+
 # 30-Nov-2023
 - Build Lineage Health HAL (charging control)
 - Increase handset volume
