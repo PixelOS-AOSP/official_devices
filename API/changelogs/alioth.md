@@ -1,3 +1,9 @@
+# 12-May-2024
+- Brought back Leica camera
+- Fixed 1440p, 4K and HDR videos
+- Updated blobs from HyperOS OS1.0.2.0.TKHMIXM
+- Source upstream
+
 # 28-Apr-2024
 - Kernel upstream
 - Added TEO cpuidle governor
