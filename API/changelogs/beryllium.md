@@ -1,3 +1,10 @@
+# 12-May-2024
+- Fixed Issues with VP9 decoder
+- Update XiaomiParts to QPR2
+- Switch to usb 1.3 service
+- Update Media codecs
+- Misc Improvements
+
 # 25-Jan-2024
 - Fixed youtube autoplay issue
 - Fixed google recorder mic detection issue
