@@ -448,7 +448,7 @@
             "model": "Xiaomi 11 Lite 4G",
             "maintainer_name": "Vantom and Aryan",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "lisa",
