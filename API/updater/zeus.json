@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_zeus-14.0-20240424-1124.zip",
-    "datetime": 1713957800,
-    "size": 2509657794,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240424-1124.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240424-1124.zip",
-    "filehash": "8a6063ff960d108a57880aa31def0920",
-    "id": "8a6063ff960d108a57880aa31def0920",
+    "filename": "PixelOS_zeus-14.0-20240512-1832.zip",
+    "datetime": 1715537182,
+    "size": 2541204100,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240512-1832.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240512-1832.zip",
+    "filehash": "8baca0eb84cbaef6f8bdd9f464033b19",
+    "id": "8baca0eb84cbaef6f8bdd9f464033b19",
     "maintainers": [
         {
             "main_maintainer": false,
