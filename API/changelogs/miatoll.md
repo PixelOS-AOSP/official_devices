@@ -1,3 +1,9 @@
+# 15-May-2024
+- Removed Spatial Audio
+- Removed Soundtrigger related stuff
+- Switched to OSS audio
+- Adjusted statusbar padding
+
 # 30-Apr-2024
 - Moved to OSS audio
 - Added back dolby
