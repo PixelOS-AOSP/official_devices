@@ -1,3 +1,6 @@
+# 21-May-2024
+- Fixed MotoCamera McF crash
+
 # 19-May-2024
 - Update blobs from T1SJS33.117-30-3-8
 
