@@ -1,3 +1,8 @@
+# 27-May-2024
+- Add HVDCP properties
+- Switched back to VantomKernel (which should fix a few freezes from the last build)
+- Minor changes in the common tree
+
 # 11-May-2024
 - Update common blobs from sweet_k6a OS1.0.3.0.THGMIXM
 - Updated CarrierConfirm from sweet_k6a OS1.0.3.0.THGMIXM
