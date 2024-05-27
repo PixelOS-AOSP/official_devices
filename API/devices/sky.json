@@ -11,7 +11,7 @@
             "github": "https://github.com/jendermine"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": false,
     "version": "fourteen",
     "available_versions": [

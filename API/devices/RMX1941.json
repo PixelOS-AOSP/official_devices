@@ -6,7 +6,7 @@
             "github": "https://github.com/ok-ano0s"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": false,
     "version": "twelve",
     "available_versions": [

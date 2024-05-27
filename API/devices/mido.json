@@ -6,7 +6,7 @@
             "github": "https://github.com/Alone0316"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": true,
     "version": "fourteen",
     "available_versions": [

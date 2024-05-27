@@ -6,7 +6,7 @@
             "github": "https://github.com/Ad1tyaS1ngh"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": false,
     "version": "fourteen",
     "available_versions": [

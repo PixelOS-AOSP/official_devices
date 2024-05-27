@@ -6,7 +6,7 @@
             "github": "https://github.com/Kitsunejasutin"
         }
     ],
-    "updater": true,
+    "updater": false,
     "beta": true,
     "version": "thirteen",
     "available_versions": [
