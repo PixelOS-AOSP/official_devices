@@ -36,7 +36,8 @@ GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001551285228"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/pixelos.png"
+banner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + \
+    android_Version_text + "/pixelos.png"
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
@@ -57,14 +58,15 @@ updater = Updater(BOT_API, use_context=True, workers=1)
 dispatcher = updater.dispatcher
 
 
-def get_Device_banner (device):
+def get_Device_banner(device):
     return banner
-    DeviceBanner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + android_Version_text + "/" + device + ".jpg"
+    DeviceBanner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + \
+        android_Version_text + "/" + device + ".jpg"
     if (requests.get(DeviceBanner).status_code == 200):
         return DeviceBanner
     else:
         return banner
- 
+
 
 # HTML Hyperlink Fomatting
 def html_link(url, text):
@@ -150,7 +152,8 @@ def post_maker(device_info, name):
     release_info = json.loads(requests.get(
         "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" +
         device_info[UniqueID],
-        auth=(GITHUB_API_USER, TOKEN)).content)  # information about the release, taken from Private Releases Repository
+        # information about the release, taken from Private Releases Repository
+        auth=(GITHUB_API_USER, TOKEN)).content)
 
     recovery_file_size = 0
     rom_file_size = 0
@@ -165,7 +168,8 @@ def post_maker(device_info, name):
             recovery_file_size = float(asset["size"]) * 0.00000095367432
             RECOVERY_NAME = asset["name"]
         elif asset["name"].__contains__("PixelOS.part"):
-            rom_file_size = rom_file_size + float(asset["size"]) * 0.00000000093132
+            rom_file_size = rom_file_size + \
+                float(asset["size"]) * 0.00000000093132
         elif asset["name"].endswith(".zip"):
             ROM_NAME = asset["name"]
             rom_file_size = float(asset["size"]) * 0.00000000093132
@@ -176,7 +180,8 @@ def post_maker(device_info, name):
         + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
            "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + WEBSITE_DOWNLOAD + name + "\">Website</a>\n"
+    message = message + "\n\n<b>Download:</b> <a href=\"" + \
+        WEBSITE_DOWNLOAD + name + "\">Website</a>\n"
 
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
@@ -187,10 +192,10 @@ def post_maker(device_info, name):
 
     message = message + "\n"  # Leave a line unconditionally
 
-    if not device_info["updater"]:
-        message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
-    else:
+    if device_info["updater"]:
         open("no_ota.txt", "w+").write("no")
+    # else:
+        # message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
 
     for codename in device_info["device_display_codename"].split("/"):
         message = message + "#" + codename + " "
