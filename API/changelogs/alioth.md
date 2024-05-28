@@ -1,3 +1,9 @@
+# 28-May-2024
+- Update blobs from munch HyperOS OS1.0.1.0.ULMMIXM
+- Switch to common libqti-perfd-client and power-libperfmgr
+- Enabled GAME power mode in power HAL
+- Don't boost top-app on interaction
+
 # 12-May-2024
 - Brought back Leica camera
 - Fixed 1440p, 4K and HDR videos
