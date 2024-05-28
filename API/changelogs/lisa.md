@@ -1,3 +1,10 @@
+# 28-May-2024
+- Fixed pocked mode
+- Fixed IMS issues in latest firmware
+- Finetuned statusbar padding
+- Enabled LTE+ icon globally
+- Update firmware from HyperOS OS1.0.3.0.UKOMIXM
+
 # 27-Apr-2024
 - Dropped support for dolby vision 
 - Updated stock blobs, MIUICamera and firmware to miui_LISAGlobal_OS1.0.3.0.UKOMIXM (modem is from V14.0.2.0.TKOMIXM)
