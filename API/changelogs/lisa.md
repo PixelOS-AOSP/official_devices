@@ -1,5 +1,6 @@
 # 28-May-2024
-- Fixed pocked mode
+- Fixed pocket mode
+- Fixed audio on wired headphones
 - Fixed IMS issues in latest firmware
 - Finetuned statusbar padding
 - Enabled LTE+ icon globally
