@@ -193,8 +193,8 @@ for tag in new_tags:
                 device = file.replace(".json", "")
                 updaterInfo = json.loads(requests.get("https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/" +
                                          android_version_text + "/API/updater/" + device + ".json").content)
-                updaterInfo["github_releases_url"] = "https://github.com/PixelOS-Releases/releases-public/releases/download/" + \
-                    str(datetime.date.today()) + "/" + ROM_ZIP_NAME
+                updaterInfo["github_releases_url"] = "https://sourceforge.net/projects/pixelos-releases/files/" + \
+                    android_version_text + "/" + device + "/" + ROM_ZIP_NAME
                 open(cur_dir + "/releases/" + file,
                      "w+").write(json.dumps(updaterInfo, indent=4), )
 
