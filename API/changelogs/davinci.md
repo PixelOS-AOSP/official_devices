@@ -1,3 +1,7 @@
+# 28-May-2024
+-  Adjusted status bar padding
+- Updated the kernel
+
 # 04-May-2024
 - Update blobs from sweet_k6a OS1.0.3.0.THGMIXM
 - Update from sweet_k6a OS1.0.3.0.THGMIXM
