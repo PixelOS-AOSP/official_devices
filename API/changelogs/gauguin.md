@@ -1,3 +1,6 @@
+# 29-May-2024
+- Fixed video recording
+
 # 12-May-2024
 - Source upstream
 
