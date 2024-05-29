@@ -1,3 +1,9 @@
+# 29-May-2024
+- Updated common and device blobs from MT2111_14.0.0.600(EX01) and CPH2381_14.0.0.601(EX01) respectively
+- Brought back OplusCamera
+- Improved battery life
+- Added GAME mode hint in power HAL
+
 # 02-May-2024
 - Fixed USB configuration menu
 - Updated blobs and firmware to CPH2381_14.0.0.600(EX01)
