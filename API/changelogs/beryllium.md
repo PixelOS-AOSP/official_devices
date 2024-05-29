@@ -1,3 +1,6 @@
+# 29-May-2024
+- Switch to lineage libperfmgr
+
 # 12-May-2024
 - Fixed Issues with VP9 decoder
 - Update XiaomiParts to QPR2
