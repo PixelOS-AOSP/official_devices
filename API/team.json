@@ -399,6 +399,14 @@
             "XDA": "https://xdaforums.com/m/ahmed-tohamy.8386267/",
             "role": "Xiaomi MI 10T (apollo) Maintainer",
             "tagline": "Pharoh"
+        },
+        {
+            "name": "MD Raza",
+            "github": "DelightReza",
+            "telegram": "DelightReza",
+            "XDA": "https://xdaforums.com/m/delightreza.8800321",
+            "role": "Moto G9/Play (guamp) Maintainer",
+            "tagline": "Stay Updated"
         }
     ]
 }

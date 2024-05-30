@@ -539,6 +539,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "guamp",
+            "codename_alt": "guamp",
+            "vendor": "Motorola",
+            "model": "moto g9/play",
+            "maintainer_name": "MD Raza",
+            "frame": null,
+            "active": true
         }
     ]
 }
