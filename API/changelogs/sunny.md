@@ -1,3 +1,6 @@
+# 30-May-2024
+- Switch to prebuilt Camera Provider blobs to fix Aperture logical camera ID checks.
+
 # 29-May-2024
 - Source upstream
 
