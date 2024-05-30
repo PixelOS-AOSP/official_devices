@@ -1,3 +1,12 @@
+# 30-May-2024
+- Switch to the pixel power-libperfmgr
+- Implement and switch to using the double_tap node for DT2W
+- Remove zram writeback leftovers
+- Powerhint improvements
+- Fix an issue where the SIM card settings reset after toggling Airplane mode
+- Recovery is now usable once again (able to flash ZIPs other than the ROM)
+- Other miscellaneous changes
+
 # 27-May-2024
 - Add HVDCP properties
 - Switched back to VantomKernel (which should fix a few freezes from the last build)
