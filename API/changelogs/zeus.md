@@ -1,3 +1,7 @@
+# 30-May-2024
+- Source upstream
+- Kernel update
+
 # 14-May-2024
 - Use HintManager for HWUI
 - Extend audio offload buffer to 256kb
