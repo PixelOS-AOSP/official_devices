@@ -1,3 +1,6 @@
+# 30-May-2024
+- Update blobs to V816.0.4.0.UMWINXM
+
 # 11-May-2024
 - Source upstream
 
