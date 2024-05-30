@@ -514,6 +514,15 @@
             "active": true
         },
         {
+            "codename": "guamp",
+            "codename_alt": "guamp",
+            "vendor": "Motorola",
+            "model": "moto g9/play",
+            "maintainer_name": "MD Raza",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "r5x",
             "codename_alt": "r5x",
             "vendor": "realme",
@@ -537,15 +546,6 @@
             "vendor": "Realme",
             "model": "realme GT Master",
             "maintainer_name": "itsXRP",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "guamp",
-            "codename_alt": "guamp",
-            "vendor": "Motorola",
-            "model": "moto g9/play",
-            "maintainer_name": "MD Raza",
             "frame": null,
             "active": true
         }

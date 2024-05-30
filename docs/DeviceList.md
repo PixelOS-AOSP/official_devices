@@ -12,7 +12,7 @@ Officially Supported Devices:
 
 **Motorola**
 1. Motorola Edge (30 Fusion/S30 Pro) (tundra)
-2. Motorola G9/Play (guamp)
+2. moto g9/play (guamp)
 
 **OnePlus**
 1. OnePlus 9RT 5G (martini)
