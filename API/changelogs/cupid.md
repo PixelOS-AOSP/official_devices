@@ -1,3 +1,10 @@
+# 30-May-2024
+- Updated cupid proprietary blobs to V816.0.8.0.ULCEUXM
+- Random reboots fixed
+- Misc. kernel improvements/upstreams
+- Secure NFC enabled
+- Misc. re-works to vibrator
+
 # 11-May-2024
 - Use HintManager for HWUI
 - Extend audio offload buffer to 256kb
