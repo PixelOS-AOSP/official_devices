@@ -1,3 +1,11 @@
+# 30-May-2024
+- Switch to the pixel power-libperfmgr
+- Implement and switch to using the double_tap node for DT2W
+- Remove zram writeback leftovers
+- Fix an issue where the SIM card settings reset after toggling Airplane mode
+- Recovery is now usable once again (able to flash ZIPs other than the ROM)
+- Other miscellaneous changes
+
 # 28-May-2024
 -  Adjusted status bar padding
 - Updated the kernel
