@@ -1,3 +1,7 @@
+# 31-May-2024
+- Import missing and remove redundant blobs
+- Usage of vendor SKU instead of ODM SKU for handling NFC variants
+
 # 29-May-2024
 - Fixed video recording
 
