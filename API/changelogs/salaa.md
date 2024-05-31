@@ -1,3 +1,6 @@
+# 31-May-2024
+- Switch to lineage libperfmgr
+
 # 18-Apr-2024
 - Switched to libperfmgr
 - Switched to AIDL memtrack
