@@ -1,3 +1,11 @@
+# 01-Jun-2024
+- Implement and switch to using the double_tap node for DT2W
+- Powerhint improvements
+- Remove zram writeback leftovers
+- Ship updated VantomKernel v4.14.345
+- Switch to newer Leica Camera 5.0 by ItzDFPlayer
+- Switch to the pixel power-libperfmgr
+
 # 24-Feb-2024
 - CarrierConfigOverlay: Update from sweet V14.0.9.0.TKFMIXM
 - Decommonize ADSP modules
