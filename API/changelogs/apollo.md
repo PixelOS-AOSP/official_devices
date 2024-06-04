@@ -1,3 +1,14 @@
+# 04-Jun-2024
+- Rebased kernel over los kernel
+- Update battery data apollo's cells (no more ov)
+- Update blobs from Hyperos V1.0.1.0 ULMMIXM munch 
+- Use common lineage libqti-perfd-client and power-libperfmgr
+- Support Uclamp (for n0kernel users)
+- Enable voLTE/voWIFI/ViLTE for all Egyptian networks
+- Thermal sepolicy improvments
+- Import OzoAudio
+- Use QCOM implementation for audio effects
+
 # 11-May-2024
 - Switched to Nexus kernel (you can flash any kernel you want)
 - Updated all Xiaomi parts
