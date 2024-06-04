@@ -1,3 +1,6 @@
+# 04-Jun-2024
+- Fixed realme link app crashing
+
 # 23-Apr-2024
 - Improved battery life and performance
 - Updated Carrierconfig from MT2111_14.0.0.500(EX01)
