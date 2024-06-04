@@ -1,3 +1,12 @@
+# 04-Jun-2024
+- Fix Moto Camera crashes
+- Fix Mic issue in apps like WhatsApp
+- Remove unused sensor configs
+- Switch to AOSP Wi-Fi Display
+- Optimize CPU Configuration flags
+- Update adreno stack to V530.51
+- Optimize kernel
+
 # 21-May-2024
 - Fixed MotoCamera McF crash
 
