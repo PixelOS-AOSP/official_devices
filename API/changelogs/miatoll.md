@@ -1,3 +1,6 @@
+# 05-Jun-2024
+- Switch to lineage libperfmgr
+
 # 15-May-2024
 - Removed Spatial Audio
 - Removed Soundtrigger related stuff
