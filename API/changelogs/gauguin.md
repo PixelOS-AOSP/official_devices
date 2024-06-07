@@ -1,3 +1,8 @@
+# 07-Jun-2024
+- Fixed incoming call number parsing
+- Switch to AIDL IR service
+- Fixed duplicated widecam option in Aperture causing crashes in Global variant
+
 # 31-May-2024
 - Import missing and remove redundant blobs
 - Usage of vendor SKU instead of ODM SKU for handling NFC variants
