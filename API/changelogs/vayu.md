@@ -1,3 +1,8 @@
+# 08-Jun-2024
+- Initial QPR2 Build
+- Switch to lineage libperfmgr
+- Misc fixes and improvements
+
 # 20-Jan-2024
 - Source Upstream
 
