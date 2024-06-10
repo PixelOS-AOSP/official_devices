@@ -446,9 +446,9 @@
             "codename_alt": "courbet/courbetin",
             "vendor": "Xiaomi",
             "model": "Xiaomi 11 Lite 4G",
-            "maintainer_name": "Vantom and Aryan",
+            "maintainer_name": "Vantom",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "lisa",

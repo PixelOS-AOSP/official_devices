@@ -4,11 +4,6 @@
             "display_name": "Vantom",
             "telegram": "https://t.me/Vantom",
             "github": "https://github.com/vantoman"
-        },
-        {
-            "display_name": "Aryan",
-            "telegram": "https://t.me/Aryannn999",
-            "github": "https://github.com/basamaryan"
         }
     ],
     "updater": false,
@@ -25,7 +20,7 @@
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/",
     "last_updated": "30 January 2024",
     "private_download_tag": "courbet_202401291820",
-    "active": false,
+    "active": true,
     "customRecoveryRequired": true,
     "xda": null
 }
