@@ -1,3 +1,10 @@
+# 11-Jun-2024
+- Added support for the fortsense fingerprint driver (used by replacement fingerprint scanners for sweet)
+- Added the LN8000 charging driver
+- Brought back vibration control
+- Fixed an issue where a few modes did not work in MiuiCamera (Like short video)
+- Upstreamed kernel
+
 # 30-May-2024
 - Switch to the pixel power-libperfmgr
 - Implement and switch to using the double_tap node for DT2W
