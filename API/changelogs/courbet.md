@@ -1,3 +1,17 @@
+# 11-Jun-2024
+- Update common blobs from sweet_k6a OS1.0.3.0.THGMIXM
+- Updated CarrierConfig from sweet_k6a OS1.0.3.0.THGMIXM
+- Switch to new AIDL IR service
+- Switch to AIDL NXP NFC HAL
+- Switch to the pixel power-libperfmgr
+- Copy NFC firmware to the correct location
+- Avoid delay for vblank disable from DRM
+- Drop debugfs stuff from init scripts
+- Set debug.sf.auto_latch_unsignaled to 0
+- Disabled frame rate override feature
+- Get rid of libinit
+- Updated VantomKernel
+
 # 30-Jan-2024
 - Source upstream
 
