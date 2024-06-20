@@ -1,3 +1,9 @@
+# 20-Jun-2024
+- Get rid of libinit
+- Improved power consumption and performance
+- Drop Secure NFC support
+- Support for IMS VT
+
 # 07-Jun-2024
 - Fixed incoming call number parsing
 - Switch to AIDL IR service
