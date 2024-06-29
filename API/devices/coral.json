@@ -6,7 +6,7 @@
             "github": "https://github.com/Yularzhi"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
     "version": "thirteen",
     "available_versions": [

@@ -6,7 +6,7 @@
             "github": "https://github.com/saikiran2001"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
     "version": "fourteen",
     "available_versions": [

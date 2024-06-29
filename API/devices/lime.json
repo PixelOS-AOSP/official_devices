@@ -6,7 +6,7 @@
             "github": "https://github.com/rktdnt"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
     "version": "thirteen",
     "available_versions": [

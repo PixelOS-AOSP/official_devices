@@ -6,7 +6,7 @@
             "github": "https://github.com/ahmedtohamy1"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
     "version": "fourteen",
     "available_versions": [

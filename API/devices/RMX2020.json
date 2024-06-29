@@ -6,7 +6,7 @@
             "github": "https://github.com/sarthakroy2002"
         }
     ],
-    "updater": false,
+    "updater": true,
     "beta": false,
     "version": "fourteen",
     "available_versions": [
