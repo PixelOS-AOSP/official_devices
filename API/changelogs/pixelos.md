@@ -1,3 +1,6 @@
+# 28-Jun-2024
+- Merged the June security patch (QPR3)
+
 # 11-May-2024
 - Brought back Face unlock
 - Brought back in-call vibrations
