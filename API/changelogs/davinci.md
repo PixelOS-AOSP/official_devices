@@ -1,3 +1,7 @@
+# 29-Jun-2024
+- Update common blobs from sweet_k6a OS1.0.5.0.THGMIXM
+- Move to common Xiaomi light AIDL
+
 # 30-May-2024
 - Switch to the pixel power-libperfmgr
 - Implement and switch to using the double_tap node for DT2W
