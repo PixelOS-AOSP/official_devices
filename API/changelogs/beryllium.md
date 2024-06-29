@@ -1,3 +1,8 @@
+# 29-Jun-2024
+- Enable DeviceAsWebcam Feature
+- Move to common AIDL light HAL
+- Disable ConfigStore Usage
+
 # 29-May-2024
 - Switch to lineage libperfmgr
 
