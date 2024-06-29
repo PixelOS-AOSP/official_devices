@@ -1,3 +1,8 @@
+# 29-Jun-2024
+- Update common blobs from sweet_k6a OS1.0.5.0.THGMIXM
+- Fixed some random reboots
+- LN8000 improvements
+
 # 11-Jun-2024
 - Added support for the fortsense fingerprint driver (used by replacement fingerprint scanners for sweet)
 - Added the LN8000 charging driver
