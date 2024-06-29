@@ -1,3 +1,6 @@
+# 29-Jun-2024
+- Update common blobs from sweet_k6a OS1.0.5.0.THGMIXM
+
 # 11-Jun-2024
 - Update common blobs from sweet_k6a OS1.0.3.0.THGMIXM
 - Updated CarrierConfig from sweet_k6a OS1.0.3.0.THGMIXM
