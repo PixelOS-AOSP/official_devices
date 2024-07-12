@@ -1,0 +1,12 @@
+- Reboot to bootloader.
+- Connect your phone to the PC.
+- Run the following fastboot commands:
+   -  `fastboot flash boot boot.img`
+   -  `fastboot flash vendor_boot vendor_boot.img`
+   -  `fastboot flash dtbo dtbo.img`
+   -  `fastboot reboot recovery`
+- Select "Factory reset" and confirm.
+- Click "Advanced options" and Reboot to Recovery.
+- Select "Apply update and Apply from ADB".
+- Sideload the PixelOS*.zip using ADB: `adb sideload PixelOS*.zip`
+- Click "No" after completion and Reboot to system.

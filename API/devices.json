@@ -109,6 +109,15 @@
             "active": true
         },
         {
+            "codename": "larry",
+            "codename_alt": "larry",
+            "vendor": "OnePlus",
+            "model": "OnePlus Nord CE 3 Lite/OnePlus Nord N30",
+            "maintainer_name": "Sugakesshaa",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "citrus",
             "codename_alt": "citrus",
             "vendor": "Xiaomi",
