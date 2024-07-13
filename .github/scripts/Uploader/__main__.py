@@ -179,24 +179,32 @@ for tag in new_tags:
                 "GITHUB_RELEASES_PLACEHOLDER", github_download_link)
             open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
-    if OTA:
-        for file in os.listdir(cur_dir + "/releases/"):
-            if file.endswith(".json"):
-                device = file.replace(".json", "")
-                mjson = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
-                                                                                "https://sourceforge.net/projects/pixelos-releases/files/" + android_version_text + "/" + device + "/" + ROM_ZIP_NAME)
-                open(cur_dir + "/releases/" + file, "w+").write(mjson)
-
-    else:
-        for file in os.listdir(cur_dir + "/releases/"):
-            if file.endswith(".json"):
-                device = file.replace(".json", "")
+    for file in os.listdir(cur_dir + "/releases/"):
+        if file.endswith(".json"):
+            device = file.replace(".json", "")
+            mjson = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
+                                                                            "https://sourceforge.net/projects/pixelos-releases/files/" + android_version_text + "/" + device + "/" + ROM_ZIP_NAME)
+            
+            minOTA = 0
+            if OTA:
                 updaterInfo = json.loads(requests.get("https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/" +
-                                         android_version_text + "/API/updater/" + device + ".json").content)
-                updaterInfo["github_releases_url"] = "https://sourceforge.net/projects/pixelos-releases/files/" + \
-                    android_version_text + "/" + device + "/" + ROM_ZIP_NAME
-                open(cur_dir + "/releases/" + file,
-                     "w+").write(json.dumps(updaterInfo, indent=4), )
+                                                android_version_text + "/API/updater/" + device + ".json").content)
+                
+                try:
+                    minOTA = updaterInfo["ota_datetime"] 
+
+                except:
+                    minOTA = updaterInfo["datetime"]
+                
+            else:
+
+                newUpdateInfo = json.loads (open(cur_dir + "/releases/" + file, "r").read())
+                minOTA = newUpdateInfo["datetime"]
+                
+            
+            mjson = mjson.replace("TIMESTAMP_PLACEHOLDER", str(minOTA))
+            open(cur_dir + "/releases/" + file, "w+").write(mjson)
+
 
     os.system("cp " + cur_dir + "/releases/*.json " +
               cur_dir + "/API/updater/")
