@@ -20,7 +20,8 @@ Clean flash involves formatting data which means you will be loosing data stored
 - Go to main menu > Factory reset > Format data/factory reset >  Format data >  Back to Main menu > Reboot to Recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB
 - Flash the ROM through ADB sideload by running `adb sideload <path/to/rom.zip>` in terminal
-- Flash firmware (Version V14.0.8.0.SKGMIXM) through ADB sideload by running `adb sideload <path/to/firmware.zip>` in terminal
+- Download firmware (Version V14.0.9.0.SKGMIXM) from [here](https://drive.google.com/file/d/1y_V2SgRkpRSYnc1IhHqvfu4l5QELqgQ0/view?usp=sharing)
+- Flash firmware through ADB sideload by running `adb sideload <path/to/firmware.zip>` in terminal
 - Reboot and voila!
 
 # Dirty Flash / Update
@@ -29,5 +30,6 @@ There will be no loss of data if everything goes well. Keep backups incase of an
 - Reboot the device to recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB
 - Flash the ROM through ADB sideload by running `adb sideload <path/to/rom.zip>` in terminal
-- Flash firmware (Version V14.0.8.0.SKGMIXM) through ADB sideload by running `adb sideload <path/to/firmware.zip>` in terminal
+- Download firmware from (Version V14.0.9.0.SKGMIXM) [here](https://drive.google.com/file/d/1y_V2SgRkpRSYnc1IhHqvfu4l5QELqgQ0/view?usp=sharing)
+- Flash firmware through ADB sideload by running `adb sideload <path/to/firmware.zip>` in terminal
 - Reboot and voila!
