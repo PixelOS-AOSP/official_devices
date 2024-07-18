@@ -29,5 +29,5 @@ There will be no loss of data if everything goes well. Keep backups incase of an
 - Reboot the device to recovery
 - On your phone [which is in recovery mode], Apply update > Apply from ADB
 - Flash the ROM through ADB sideload by running `adb sideload <path/to/rom.zip>` in terminal
-- Flash firmware (Version V14.0.8.0.SKGMIXM) through ADB sideload by running `adb sideload <path/to/fw.zip>` in terminal
+- Flash firmware (Version V14.0.8.0.SKGMIXM) through ADB sideload by running `adb sideload <path/to/firmware.zip>` in terminal
 - Reboot and voila!
