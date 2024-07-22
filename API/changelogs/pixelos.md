@@ -1,3 +1,19 @@
+# 22-July-2024
+- Merged July security patches
+- Fixed RCS
+- Fixed issues with Magic Eraser in Google Photos
+- Fixed an issue where crash logs wouldn't upload
+- Fixed an issue where face unlock would stop working
+- Fixed an issue where high refresh rate wouldn't work on battery saver
+- Fixed issues with annoying notifications
+- Added a quick setting tile for Autobrightness
+- Added an option to hide developer options status from other apps
+- Added per-app volume control
+- Added back the option for cloning apps
+- Added an option for setting different ringtones for both sims
+- Added configurable 0, 90, 180 and 270 degree rotation
+- Implemented a check for builds which are not updatable
+
 # 28-Jun-2024
 - Merged the June security patch (QPR3)
 
