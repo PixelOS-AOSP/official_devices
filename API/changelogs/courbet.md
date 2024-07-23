@@ -1,3 +1,10 @@
+# 23-Jul-2024
+- Remove software omx codec references
+- Reverted back to Graphics from OS1.0.5.0.THGMIXM (Fixes the crash while trying to edit in Google Photos)
+- Stopped replacing the current recovery with the PixelOS recovery
+- Merge tag v4.14.349-openela and LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
+- LZ4 improvements
+
 # 29-Jun-2024
 - Update common blobs from sweet_k6a OS1.0.5.0.THGMIXM
 
