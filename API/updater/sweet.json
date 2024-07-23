@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_sweet-14.0-20240628-1702.zip",
-    "datetime": 1719594085,
-    "size": 2579656756,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240628-1702.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240628-1702.zip",
-    "filehash": "8a691ee509ab4dff2a350fa814c8e848",
-    "id": "8a691ee509ab4dff2a350fa814c8e848",
+    "filename": "PixelOS_sweet-14.0-20240722-1904.zip",
+    "datetime": 1721674979,
+    "ota_datetime": "1719594085",
+    "size": 2596059963,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240722-1904.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240722-1904.zip",
+    "filehash": "d04883581fccc5e40f51617532beb3e1",
+    "id": "d04883581fccc5e40f51617532beb3e1",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Aryan"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-13-04-2023.4402719/"
