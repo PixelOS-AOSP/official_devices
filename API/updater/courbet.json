@@ -1,26 +1,22 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_courbet-14.0-20240628-1757.zip",
-    "datetime": 1719597338,
-    "size": 2572361676,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240628-1757.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240628-1757.zip",
-    "filehash": "8d0698317fc0451999073409f65ff3f5",
-    "id": "8d0698317fc0451999073409f65ff3f5",
+    "filename": "PixelOS_courbet-14.0-20240722-2026.zip",
+    "datetime": 1721679892,
+    "ota_datetime": "1719597338",
+    "size": 2586985862,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240722-2026.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240722-2026.zip",
+    "filehash": "fc1117137e56b381fdc1db3cdeb83a4b",
+    "id": "fc1117137e56b381fdc1db3cdeb83a4b",
     "maintainers": [
         {
             "main_maintainer": false,
             "github_username": "vantoman",
             "name": "Vantom"
-        },
-        {
-            "main_maintainer": false,
-            "github_username": "basamaryan",
-            "name": "Aryan"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": ""
