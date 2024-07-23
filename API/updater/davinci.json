@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_davinci-14.0-20240628-1740.zip",
-    "datetime": 1719596361,
-    "size": 2439500346,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240628-1740.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240628-1740.zip",
-    "filehash": "d660ed3023e84c517ef2938060a0f747",
-    "id": "d660ed3023e84c517ef2938060a0f747",
+    "filename": "PixelOS_davinci-14.0-20240722-2010.zip",
+    "datetime": 1721678940,
+    "ota_datetime": "1719596361",
+    "size": 2452721409,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240722-2010.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240722-2010.zip",
+    "filehash": "23ba25c9099505ad10a39df64e1e285b",
+    "id": "23ba25c9099505ad10a39df64e1e285b",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Aryan"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": ""
