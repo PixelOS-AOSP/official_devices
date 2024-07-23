@@ -1,3 +1,18 @@
+# 23-Jul-2024
+- Switch to Prebuilt CameraProvider to fix auxiliary camera lenses on Aperture.
+- Adapt Aperture camera overlays for prebuilt CameraProvider.
+- Import vendor.qti.hardware.cacert@1.0.so from MIUI V14.0.8.0 to fix a dlopen error.
+- Drop vendor.qti.hardware.cacert HAL from manifest to fix logspam.
+- Deduplicate and remove non-existent packages.
+- Build missing libraries for A14 QPR3.
+- Inherit media-legacy component from qcom/common to make the move to Codec2.
+- Kill Software OMX Codecs and move to Software Codec2 Codecs.
+- Enable LZ4 Compression for ramdisks to reduce time taken to boot.
+- Update blobs to MIUI V14.0.9.0.SKGMIXM.
+- Move to AIDL ServiceTracker HAL.
+- Move to AIDL QTI Memtrack HAL.
+- Downgrade GPU blobs to V530.54 to potentially fix EIS and regain stability.
+
 # 30-May-2024
 - Switch to prebuilt Camera Provider blobs to fix Aperture logical camera ID checks.
 
