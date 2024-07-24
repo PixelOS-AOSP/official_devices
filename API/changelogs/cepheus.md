@@ -1,3 +1,9 @@
+# 24-Jul-2024
+- Build missing libraries for A14 QPR3
+- Remove software OMX Codecs
+- Merge tag v4.14.349-openela
+- Merge tag LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
+
 # 29-May-2024
 - Source upstream
 
