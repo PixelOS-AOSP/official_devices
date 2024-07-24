@@ -1,3 +1,7 @@
+# 24-Jul-2024
+- Updated status bar paddings
+- Fixed DRM Issues
+
 # 04-Jun-2024
 - Fixed realme link app crashing
 
