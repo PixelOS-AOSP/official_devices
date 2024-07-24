@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_martini-14.0-20240510-1901.zip",
-    "datetime": 1715367566,
-    "size": 2422982247,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240510-1901.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240529-1536.zip",
-    "filehash": "493840b63a440d286ce8c13ac2a26a40",
-    "id": "493840b63a440d286ce8c13ac2a26a40",
+    "filename": "PixelOS_martini-14.0-20240723-1547.zip",
+    "datetime": 1721749571,
+    "ota_datetime": "1715367566",
+    "size": 2691101992,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240723-1547.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240723-1547.zip",
+    "filehash": "102b15a18bffc3c26df40c2472c88eb9",
+    "id": "102b15a18bffc3c26df40c2472c88eb9",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Sugakesshaa"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable-09-12-2023.4644971/"
