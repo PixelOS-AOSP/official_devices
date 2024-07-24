@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_oscar-14.0-20240502-1142.zip",
-    "datetime": 1714650036,
-    "size": 2159474236,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240502-1142.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240528-1845.zip",
-    "filehash": "461ed49a3959b30ff93538a520780d91",
-    "id": "461ed49a3959b30ff93538a520780d91",
+    "filename": "PixelOS_oscar-14.0-20240723-1307.zip",
+    "datetime": 1721739971,
+    "ota_datetime": "1714650036",
+    "size": 2691133791,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240723-1307.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240723-1307.zip",
+    "filehash": "f60da8ef3f071ce1781023195c492f35",
+    "id": "f60da8ef3f071ce1781023195c492f35",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Sugakesshaa"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": ""
