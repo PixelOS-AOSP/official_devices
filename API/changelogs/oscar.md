@@ -1,3 +1,7 @@
+# 24-Jul-2024
+- Fixed systemui and app crashes
+- Rebased kernel on top of OOS 14 source
+
 # 29-May-2024
 - Updated common and device blobs from MT2111_14.0.0.600(EX01) and CPH2381_14.0.0.601(EX01) respectively
 - Brought back OplusCamera
