@@ -1,7 +1,6 @@
 # 25-Jul-2024
-- Rebased trees
-- Rebased kernel
 - Added dolby support
+- Dropped KProfiles
 - Disabled volume leveler
 - Updated CarrierConfig from munch V816.0.2.0.ULMMIXM
 - Updated patched ims from munch
