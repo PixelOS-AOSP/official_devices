@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_alioth-14.0-20240511-2256.zip",
-    "datetime": 1715468112,
-    "size": 2131996846,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240511-2256.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-05-28/PixelOS_alioth-14.0-20240527-1743.zip",
-    "filehash": "8e7844df3581c613062309deb7242e06",
-    "id": "8e7844df3581c613062309deb7242e06",
+    "filename": "PixelOS_alioth-14.0-20240725-1043.zip",
+    "datetime": 1721898987,
+    "ota_datetime": "1715468112",
+    "size": 2337139745,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240725-1043.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240725-1043.zip",
+    "filehash": "84a298ad241784c2e33a2d9c686a4f03",
+    "id": "84a298ad241784c2e33a2d9c686a4f03",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "NotZeetaa"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
