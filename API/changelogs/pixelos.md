@@ -1,3 +1,11 @@
+# 29-July-2024
+- Fixed Play Integrity once again
+- Fixed a SystemUI crash caused by Heads up notifications
+- Fixed an NPE with hiding ADB and developer setting status
+- Fixed an issue where Annoying notifications reset on each reboot
+- Added a toggle to force Carrier Aggregation
+- Enabled the LTE+ icon
+
 # 22-July-2024
 - Merged July security patches
 - Fixed RCS
