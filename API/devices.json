@@ -369,6 +369,15 @@
             "frame": null,
             "active": true
         },
+	{
+            "codename": "d1x",
+            "codename_alt": "d1x",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy Note10 5G",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
         {
             "codename": "d2s",
             "codename_alt": "d2s",
