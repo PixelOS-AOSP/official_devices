@@ -1,3 +1,10 @@
+# 29-Jul-2024
+- LZ4 improvements
+- Merge tag v4.14.349-openela and LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
+- Reverted back to Graphics from OS1.0.5.0.THGMIXM (Fixes the crash while trying to edit in Google Photos)
+- Stopped replacing the current recovery with the PixelOS recovery
+- Switch to AIDL NXP NFC HAL
+
 # 01-Jun-2024
 - Implement and switch to using the double_tap node for DT2W
 - Powerhint improvements
