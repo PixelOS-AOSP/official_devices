@@ -1,3 +1,6 @@
+# 29-Jul-2024
+- Source upstream.
+
 # 23-Jul-2024
 - Switch to Prebuilt CameraProvider to fix auxiliary camera lenses on Aperture.
 - Adapt Aperture camera overlays for prebuilt CameraProvider.
