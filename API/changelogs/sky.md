@@ -1,3 +1,17 @@
+# 30-Jul-2024
+- Switch to Libperf
+- Update blobs to V816.0.5.0.UMWINXM
+- Update display blobs from ingot
+- Enable AOSP bluetooth audio HAL v2
+- Boot time tuning
+- Enable zram block device
+- Ship stock volume tables
+- Cleanup media section and build oss ones
+- Build qcom soundfx effects from source
+- Build FM
+- Use new thermal configs
+- Extend audio offload buffer size to 256kb
+
 # 30-May-2024
 - Update blobs to V816.0.4.0.UMWINXM
 
