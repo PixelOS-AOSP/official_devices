@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_sweet-14.0-20240722-1904.zip",
-    "datetime": 1721674979,
+    "filename": "PixelOS_sweet-14.0-20240730-1721.zip",
+    "datetime": 1722359981,
     "ota_datetime": "1719594085",
-    "size": 2596059963,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240722-1904.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240722-1904.zip",
-    "filehash": "d04883581fccc5e40f51617532beb3e1",
-    "id": "d04883581fccc5e40f51617532beb3e1",
+    "size": 2595405934,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240730-1721.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240730-1721.zip",
+    "filehash": "62875b6c8b0bc574ee1fa1c3770844e9",
+    "id": "62875b6c8b0bc574ee1fa1c3770844e9",
     "maintainers": [
         {
             "main_maintainer": false,
