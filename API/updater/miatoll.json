@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_miatoll-14.0-20240120-1557.zip",
-    "datetime": 1705766171,
-    "size": 2052765607,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240120-1557.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240604-1350.zip",
-    "filehash": "7fdd7575eb247fd9e4567a89da637b7f",
-    "id": "7fdd7575eb247fd9e4567a89da637b7f",
+    "filename": "PixelOS_miatoll-14.0-20240729-1622.zip",
+    "datetime": 1722265795,
+    "ota_datetime": "1705766171",
+    "size": 2272975138,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240729-1622.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240729-1622.zip",
+    "filehash": "e63df32cc19532ee78d108c03b6b8c61",
+    "id": "e63df32cc19532ee78d108c03b6b8c61",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "PaperBoy"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-18-06-2022.4458923/"
