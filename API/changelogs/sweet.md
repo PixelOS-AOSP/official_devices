@@ -1,3 +1,9 @@
+# 30-Jul-2024
+- Fixed issues with video recording and playback
+- Use Material3 switches for Dolby Atmos
+- Dropped the Volume Leveler toggle from Dolby Atmos
+- Disable BackupAgent for MiuiCamera
+
 # 23-Jul-2024
 - Rewrite Dolby in Kotlin
 - Restore all settings for Dolby upon bootup
