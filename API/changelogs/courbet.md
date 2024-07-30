@@ -1,3 +1,6 @@
+# 30-Jul-2024
+- Fixed issues with video recording and playback
+
 # 23-Jul-2024
 - Remove software omx codec references
 - Reverted back to Graphics from OS1.0.5.0.THGMIXM (Fixes the crash while trying to edit in Google Photos)
