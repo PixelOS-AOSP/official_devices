@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_courbet-14.0-20240722-2026.zip",
-    "datetime": 1721679892,
+    "filename": "PixelOS_courbet-14.0-20240730-1824.zip",
+    "datetime": 1722363794,
     "ota_datetime": "1719597338",
-    "size": 2586985862,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240722-2026.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240722-2026.zip",
-    "filehash": "fc1117137e56b381fdc1db3cdeb83a4b",
-    "id": "fc1117137e56b381fdc1db3cdeb83a4b",
+    "size": 2586525973,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240730-1824.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240730-1824.zip",
+    "filehash": "bae90fcd02baa9728b4b84f2b50bcd00",
+    "id": "bae90fcd02baa9728b4b84f2b50bcd00",
     "maintainers": [
         {
             "main_maintainer": false,
