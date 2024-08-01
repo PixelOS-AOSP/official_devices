@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_d1-14.0-20231130-0523.zip",
-    "datetime": 1701321711,
-    "size": 1734872119,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20231130-0523.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-05-12/PixelOS_d1-14.0-20240512-0442.zip",
-    "filehash": "55bd73bd70f542bbd4fff0e1658517ce",
-    "id": "55bd73bd70f542bbd4fff0e1658517ce",
+    "filename": "PixelOS_d1-14.0-20240730-1517.zip",
+    "datetime": 1722352578,
+    "ota_datetime": "1701321711",
+    "size": 2017059781,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20240730-1517.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-08-01/PixelOS_d1-14.0-20240730-1517.zip",
+    "filehash": "87da695757b223b5b700e965c67b0d59",
+    "id": "87da695757b223b5b700e965c67b0d59",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,8 +16,8 @@
             "name": "Fellipe Lima"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-13-0-unofficial-pixelos-aosp-encryption-stable-04-02-2023.4506557/"
+    "forum_url": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506557/"
 }
