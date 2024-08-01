@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beyond1lte-14.0-20231130-0255.zip",
-    "datetime": 1701312806,
-    "size": 1725455016,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20231130-0255.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-05-12/PixelOS_beyond1lte-14.0-20240512-0358.zip",
-    "filehash": "651344d96f974577fab99321039ddb8a",
-    "id": "651344d96f974577fab99321039ddb8a",
+    "filename": "PixelOS_beyond1lte-14.0-20240730-1348.zip",
+    "datetime": 1722347208,
+    "ota_datetime": "1701312806",
+    "size": 2031885752,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20240730-1348.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-08-01/PixelOS_beyond1lte-14.0-20240730-1348.zip",
+    "filehash": "1d69e96233cea4a1f6286d3ce3547dcd",
+    "id": "1d69e96233cea4a1f6286d3ce3547dcd",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,8 +16,8 @@
             "name": "Fellipe Lima"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-13-0-unofficial-pixelos-aosp-encryption-stable-04-02-2023.4506553/"
+    "forum_url": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506553/"
 }
