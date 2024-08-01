@@ -1,3 +1,6 @@
+# 01-Aug-2024
+/release beyond0lte beyond0lte_202407301417
+
 # 12-May-2024
 - Added proper support for battery info
 - Allow more cached apps in the background
