@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_guamp-14.0-20240722-1800.zip",
-    "datetime": 1721671111,
+    "filename": "PixelOS_guamp-14.0-20240731-0919.zip",
+    "datetime": 1722417495,
     "ota_datetime": "1719603813",
-    "size": 1863768960,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240722-1800.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-07-23/PixelOS_guamp-14.0-20240722-1800.zip",
-    "filehash": "427243477442c9e0ba7c48ba82f3678b",
-    "id": "427243477442c9e0ba7c48ba82f3678b",
+    "size": 1849320841,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240731-0919.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-08-01/PixelOS_guamp-14.0-20240731-0919.zip",
+    "filehash": "6b97cadd4668e0e254090505dc4735a9",
+    "id": "6b97cadd4668e0e254090505dc4735a9",
     "maintainers": [
         {
             "main_maintainer": false,
