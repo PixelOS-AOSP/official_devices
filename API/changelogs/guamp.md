@@ -1,3 +1,6 @@
+# 01-Aug-2024
+- EOL update
+
 # 23-Jul-2024
 - Add Dolby Atmos
 
