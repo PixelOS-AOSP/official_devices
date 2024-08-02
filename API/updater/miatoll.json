@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_miatoll-14.0-20240729-1622.zip",
-    "datetime": 1722265795,
+    "filename": "PixelOS_miatoll-14.0-20240802-1409.zip",
+    "datetime": 1722607647,
     "ota_datetime": "1705766171",
-    "size": 2272975138,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240729-1622.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240729-1622.zip",
-    "filehash": "e63df32cc19532ee78d108c03b6b8c61",
-    "id": "e63df32cc19532ee78d108c03b6b8c61",
+    "size": 2272042797,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240802-1409.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240802-1409.zip",
+    "filehash": "a2340d6183f2437e91d897a27490c76e",
+    "id": "a2340d6183f2437e91d897a27490c76e",
     "maintainers": [
         {
             "main_maintainer": false,
