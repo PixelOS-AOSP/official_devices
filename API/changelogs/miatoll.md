@@ -1,3 +1,6 @@
+# 02-Aug-2024
+- Fixed statusbar height in landscape
+
 # 30-Jul-2024
 - Switched to prebuilt audio HAL
 - Fixed Aperture camera video frame rate and aux cam issues
