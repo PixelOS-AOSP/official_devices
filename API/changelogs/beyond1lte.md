@@ -1,5 +1,8 @@
 # 01-Aug-2024
-/release beyond0lte beyond0lte_202407301417
+- Add GPU boosts to powerhint
+- Fix call-related WhatsApp crashes
+- Fix voice chat in games
+- Misc improvements
 
 # 12-May-2024
 - Added proper support for battery info
