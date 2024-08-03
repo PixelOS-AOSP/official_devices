@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beryllium-14.0-20240628-1812.zip",
-    "datetime": 1719598277,
-    "size": 2273532208,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240628-1812.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240628-1812.zip",
-    "filehash": "ee7571f1da8a4dfc14c2c48b392d442b",
-    "id": "ee7571f1da8a4dfc14c2c48b392d442b",
+    "filename": "PixelOS_beryllium-14.0-20240731-0649.zip",
+    "datetime": 1722408397,
+    "ota_datetime": "1719598277",
+    "size": 2289996340,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240731-0649.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240731-0649.zip",
+    "filehash": "416605cb5890e12660f20751648c4825",
+    "id": "416605cb5890e12660f20751648c4825",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -20,7 +21,7 @@
             "name": "Sourav"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"
