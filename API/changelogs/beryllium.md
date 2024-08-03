@@ -1,3 +1,7 @@
+# 03-Aug-2024
+- Remove software omx codec references
+- Fix sideload issue with recovery
+
 # 29-Jun-2024
 - Enable DeviceAsWebcam Feature
 - Move to common AIDL light HAL
