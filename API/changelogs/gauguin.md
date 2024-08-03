@@ -1,3 +1,6 @@
+# 03-Aug-2024
+- Source upstream
+
 # 24-Jul-2024
 - Switch to QCOM performance configurations
 - Switch to memtrack AIDL service
