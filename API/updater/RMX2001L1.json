@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_RMX2001L1-14.0-20240417-1810.zip",
-    "datetime": 1713377312,
-    "size": 1923226653,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240417-1810.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240528-0839.zip",
-    "filehash": "af416ddf13f759f6db5e716ee89bfef0",
-    "id": "af416ddf13f759f6db5e716ee89bfef0",
+    "filename": "PixelOS_RMX2001L1-14.0-20240801-1747.zip",
+    "datetime": 1722534344,
+    "ota_datetime": "1713377312",
+    "size": 2246146060,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240801-1747.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240801-1747.zip",
+    "filehash": "707639cd9670fa2c869a81f42fb3e59e",
+    "id": "707639cd9670fa2c869a81f42fb3e59e",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Debayan Kar"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": ""
