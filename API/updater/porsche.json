@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_porsche-14.0-20240723-0843.zip",
-    "datetime": 1721724147,
+    "filename": "PixelOS_porsche-14.0-20240803-0301.zip",
+    "datetime": 1722653998,
     "ota_datetime": "1719600572",
-    "size": 2859840134,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240723-0843.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240723-0843.zip",
-    "filehash": "c65675c0ed965ce329a273bd17f10353",
-    "id": "c65675c0ed965ce329a273bd17f10353",
+    "size": 2859717554,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240803-0301.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240803-0301.zip",
+    "filehash": "6fda03510c09e02d88a53b1fdff23c7c",
+    "id": "6fda03510c09e02d88a53b1fdff23c7c",
     "maintainers": [
         {
             "main_maintainer": false,
