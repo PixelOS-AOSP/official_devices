@@ -52,7 +52,7 @@ Officially Supported Devices:
 10. Xiaomi 11 Lite 4G (courbet/courbetin)
 11. Xiaomi 11 Lite 5G NE (lisa)
 12. Xiaomi 12 (cupid)
-13. Xiaomi 12 Pro (zeus)
+13. Xiaomi 12 Pro (zeus/dagda)
 14. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
 15. Xiaomi MI 10T (apollopro)
 16. Xiaomi Mi 9 (cepheus)
