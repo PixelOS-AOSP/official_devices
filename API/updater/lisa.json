@@ -1,21 +1,27 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_lisa-14.0-20240427-0853.zip",
-    "datetime": 1714207914,
-    "size": 2156887178,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240427-0853.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240527-2147.zip",
-    "filehash": "7161e32abe71df6f4a3da1d2f9d4aaf1",
-    "id": "7161e32abe71df6f4a3da1d2f9d4aaf1",
+    "filename": "PixelOS_lisa-14.0-20240804-0932.zip",
+    "datetime": 1722763833,
+    "ota_datetime": "1714207914",
+    "size": 2439712063,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240804-0932.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240804-0932.zip",
+    "filehash": "80dad4bbc7b8af7f05d8e0028f01f8ce",
+    "id": "80dad4bbc7b8af7f05d8e0028f01f8ce",
     "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "geek0609",
+            "name": "Ashwin DS"
+        },
         {
             "main_maintainer": false,
             "github_username": "whyredfire",
             "name": "Karan Parashar"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-29-11-2023.4392297/"
