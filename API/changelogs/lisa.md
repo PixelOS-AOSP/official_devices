@@ -1,3 +1,9 @@
+# 05-Aug-2024
+- Rebased on lineage trees
+- Fixed google maps street view
+- Fixed an issue where COD would crash
+- Updated kernel
+
 # 28-May-2024
 - Fixed pocket mode
 - Fixed audio on wired headphones
