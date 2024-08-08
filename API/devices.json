@@ -557,6 +557,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "grus",
+            "codename_alt": "grus",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Mi 9 SE",
+            "maintainer_name": "Tkiliay",
+            "frame": null,
+            "active": true
         }
     ]
 }

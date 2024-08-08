@@ -407,6 +407,14 @@
             "XDA": "https://xdaforums.com/m/delightreza.8800321",
             "role": "Moto G9/Play (guamp) Maintainer",
             "tagline": "Stay Updated"
+        },
+        {
+            "name": "Tkiliay",
+            "github": "Tkiliay",
+            "telegram": "Tkiliay",
+            "XDA": "https://xdaforums.com/m/toyohama.11780271/",
+            "role": "Xiaomi Mi 9 SE (grus) Maintainer",
+            "tagline": "Keep improving"
         }
     ]
 }
