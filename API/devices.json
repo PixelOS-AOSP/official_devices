@@ -514,6 +514,15 @@
             "active": true
         },
         {
+            "codename": "grus",
+            "codename_alt": "grus",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Mi 9 SE",
+            "maintainer_name": "Tkiliay",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "toco",
             "codename_alt": "toco",
             "vendor": "Xiaomi",
@@ -555,15 +564,6 @@
             "vendor": "Realme",
             "model": "realme GT Master",
             "maintainer_name": "itsXRP",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "grus",
-            "codename_alt": "grus",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi Mi 9 SE",
-            "maintainer_name": "Tkiliay",
             "frame": null,
             "active": true
         }

@@ -56,8 +56,8 @@ Officially Supported Devices:
 14. Xiaomi 12T Pro/Redmi K50 Ultra (diting)
 15. Xiaomi MI 10T (apollopro)
 16. Xiaomi Mi 9 (cepheus)
-17. Xiaomi Mi Note 10 Lite (toco)
-18. Xiaomi Mi 9 SE (grus)
+17. Xiaomi Mi 9 SE (grus)
+18. Xiaomi Mi Note 10 Lite (toco)
 
 **realme**
 1. realme 5/5i/5s (r5x)
