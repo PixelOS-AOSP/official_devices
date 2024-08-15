@@ -415,6 +415,14 @@
             "XDA": "https://xdaforums.com/m/toyohama.11780271/",
             "role": "Xiaomi Mi 9 SE (grus) Maintainer",
             "tagline": "Keep improving"
+        },
+        {
+            "name": "InFeRnO",
+            "github": "inferno0230",
+            "telegram": "inferno0230",
+            "XDA": "https://xdaforums.com/m/inferno0230.12118995/",
+            "role": "OnePlus 12R 5G (aston) Maintainer",
+            "tagline": "Ganyu Shrimp"
         }
     ]
 }
