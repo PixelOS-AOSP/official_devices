@@ -82,6 +82,15 @@
             "active": false
         },
         {
+            "codename": "aston",
+            "codename_alt": "aston",
+            "vendor": "OnePlus",
+            "model": "OnePlus 12R 5G",
+            "maintainer_name": "InFeRnO",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "hotdogg",
             "codename_alt": "OnePlus7TProNR",
             "vendor": "OnePlus",
