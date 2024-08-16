@@ -15,9 +15,9 @@ Officially Supported Devices:
 2. moto g9/play (guamp)
 
 **OnePlus**
-1. OnePlus 9RT 5G (martini)
-2. OnePlus Nord CE 2 Lite (oscar)
-3. OnePlus 12R 5G (aston)
+1. OnePlus 12R 5G (aston)
+2. OnePlus 9RT 5G (martini)
+3. OnePlus Nord CE 2 Lite (oscar)
 
 **Realme**
 1. Realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)

@@ -73,15 +73,6 @@
             "active": false
         },
         {
-            "codename": "hotdog",
-            "codename_alt": "OnePlus7TPro",
-            "vendor": "OnePlus",
-            "model": "OnePlus 7T Pro",
-            "maintainer_name": "cyberknight777",
-            "frame": null,
-            "active": false
-        },
-        {
             "codename": "aston",
             "codename_alt": "aston",
             "vendor": "OnePlus",
@@ -89,6 +80,15 @@
             "maintainer_name": "InFeRnO",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "hotdog",
+            "codename_alt": "OnePlus7TPro",
+            "vendor": "OnePlus",
+            "model": "OnePlus 7T Pro",
+            "maintainer_name": "cyberknight777",
+            "frame": null,
+            "active": false
         },
         {
             "codename": "hotdogg",
