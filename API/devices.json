@@ -118,6 +118,15 @@
             "active": true
         },
         {
+            "codename": "miatoll",
+            "codename_alt": "curtana/joyeuse/excalibur/gram",
+            "vendor": "Xiaomi",
+            "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+            "maintainer_name": "Debayan Kar",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "citrus",
             "codename_alt": "citrus",
             "vendor": "Xiaomi",
@@ -330,15 +339,6 @@
             "vendor": "Xiaomi",
             "model": "Redmi Note 9 Pro 5G/Mi 10i 5G/ Mi 10T Lite 5G",
             "maintainer_name": "Hridaya",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "miatoll",
-            "codename_alt": "curtana/joyeuse/excalibur/gram",
-            "vendor": "Xiaomi",
-            "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
-            "maintainer_name": "Debayan Kar",
             "frame": null,
             "active": true
         },
