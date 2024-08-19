@@ -1,3 +1,12 @@
+# 20-Aug-2024
+- Fixed PlayIntegrity *yet again*
+- Improved variable refresh rate implementation
+- New bootanimation from Pixel 9
+- Fixed issues with secure window flags
+- Fixed minimum delay between an app's notification sounds feature
+- Fixed a SystemUI crash
+- Further miscellaneous fixes and optimizations
+
 # 29-July-2024
 - Fixed Play Integrity once again
 - Fixed a SystemUI crash caused by Heads up notifications
