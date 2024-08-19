@@ -337,8 +337,8 @@
             "codename": "miatoll",
             "codename_alt": "curtana/joyeuse/excalibur/gram",
             "vendor": "Xiaomi",
-            "model": "Redmi Note 9S/Pro/Pro Max & Poco M2 Pro",
-            "maintainer_name": "PaperBoy",
+            "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+            "maintainer_name": "Debayan Kar",
             "frame": null,
             "active": true
         },
@@ -556,7 +556,7 @@
             "model": "realme 5/5i/5s",
             "maintainer_name": "kardebayan",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "RMX2001L1",
