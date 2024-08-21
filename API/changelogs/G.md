@@ -1,3 +1,10 @@
+# 21-Aug-2024
+- Initial QPR3 build
+- Switched to AIDL WiFI service
+- Removed Trust HAL
+- Disabled the ussage of configstore
+- Disable WPA2 to WPA3 auto-upgrade
+
 # 29-Jan-2024
 - Dropped CASS Scheduler
 
