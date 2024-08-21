@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "GITHUB_FILENAME_PLACEHOLDER",
-    "datetime": 123456789,
-    "size": 12345678,
-    "url": "GITHUB_URL_PLACEHOLDER",
-    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
-    "id": "GITHUB_ID_PLACEHOLDER",
+    "filename": "PixelOS_aston-14.0-20240821-0628.zip",
+    "datetime": 1724221621,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2995267719,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240821-0628.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240821-0628.zip",
+    "filehash": "37430b892964d90fa305b7e8d6ea56dc",
+    "id": "37430b892964d90fa305b7e8d6ea56dc",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "InFeRnO"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": ""
