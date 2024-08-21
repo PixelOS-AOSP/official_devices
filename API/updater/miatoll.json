@@ -1,19 +1,19 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_miatoll-14.0-20240802-1409.zip",
-    "datetime": 1722607647,
-    "ota_datetime": "1705766171",
-    "size": 2272042797,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240802-1409.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240802-1409.zip",
-    "filehash": "a2340d6183f2437e91d897a27490c76e",
-    "id": "a2340d6183f2437e91d897a27490c76e",
+    "filename": "PixelOS_miatoll-14.0-20240820-1015.zip",
+    "datetime": 1724148867,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2147657560,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240820-1015.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240820-1015.zip",
+    "filehash": "71698cb27cc256986c213afab73c3c9b",
+    "id": "71698cb27cc256986c213afab73c3c9b",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "sajidshahriar72543",
-            "name": "PaperBoy"
+            "github_username": "kardebayan",
+            "name": "Debayan Kar"
         }
     ],
     "donate_url": "https://blog.pixelos.net/docs/donate",
