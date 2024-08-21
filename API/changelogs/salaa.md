@@ -1,3 +1,6 @@
+# 21-Aug-2024
+- Fixed random Bluetooth disconnection
+
 # 31-May-2024
 - Switch to lineage libperfmgr
 
