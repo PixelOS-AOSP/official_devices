@@ -1,3 +1,7 @@
+# 21-Aug-2024
+- Switched to LineageOS tree
+- Switched to AIDL IR Service
+
 # 02-Aug-2024
 - Fixed statusbar height in landscape
 
