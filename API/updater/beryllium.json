@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beryllium-14.0-20240731-0649.zip",
-    "datetime": 1722408397,
-    "ota_datetime": "1719598277",
-    "size": 2289996340,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240731-0649.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240731-0649.zip",
-    "filehash": "416605cb5890e12660f20751648c4825",
-    "id": "416605cb5890e12660f20751648c4825",
+    "filename": "PixelOS_beryllium-14.0-20240820-0859.zip",
+    "datetime": 1724144262,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2159375935,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240820-0859.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240820-0859.zip",
+    "filehash": "fd1ff38902cf0ee4561e7969c726cdea",
+    "id": "fd1ff38902cf0ee4561e7969c726cdea",
     "maintainers": [
         {
             "main_maintainer": false,
