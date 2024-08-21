@@ -1,3 +1,13 @@
+# 21-Aug-2024
+- Source upstream
+- Upstream kernel
+- Added per app refresh rate
+- Apply NLSound 4.0 optimization for dolby
+- New Dolby eq from PA
+- Switch to Uclamp & Pelt
+- Added CASS
+- Reduced latency (Kernel side)
+
 # 25-Jul-2024
 - Added dolby support
 - Dropped KProfiles
