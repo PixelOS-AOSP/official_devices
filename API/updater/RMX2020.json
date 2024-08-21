@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_RMX2020-14.0-20240729-1329.zip",
-    "datetime": 1722259706,
-    "ota_datetime": "1715405690",
-    "size": 2170442860,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240729-1329.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240729-1329.zip",
-    "filehash": "5f9434826eed2dc4ecff6f091e82d30b",
-    "id": "5f9434826eed2dc4ecff6f091e82d30b",
+    "filename": "PixelOS_RMX2020-14.0-20240819-2112.zip",
+    "datetime": 1724101831,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2032285828,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240819-2112.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-08-21/PixelOS_RMX2020-14.0-20240819-2112.zip",
+    "filehash": "4144c60e469ce55f0669b6d6c7300f89",
+    "id": "4144c60e469ce55f0669b6d6c7300f89",
     "maintainers": [
         {
             "main_maintainer": false,
