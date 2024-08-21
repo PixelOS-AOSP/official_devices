@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_sunny-14.0-20240729-0858.zip",
-    "datetime": 1722243399,
-    "ota_datetime": "1717076242",
-    "size": 2344857637,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240729-0858.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240729-0858.zip",
-    "filehash": "77934a17200eb112587adb6161712945",
-    "id": "77934a17200eb112587adb6161712945",
+    "filename": "PixelOS_sunny-14.0-20240820-1906.zip",
+    "datetime": 1724180678,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2212788135,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240820-1906.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240820-1906.zip",
+    "filehash": "c4c9b70e976dd3153903e4ad1ac4397b",
+    "id": "c4c9b70e976dd3153903e4ad1ac4397b",
     "maintainers": [
         {
             "main_maintainer": false,
