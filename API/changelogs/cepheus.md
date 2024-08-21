@@ -1,3 +1,11 @@
+# 21-Aug-2024
+- Fixed OK Google hotword detection
+- Fixed media playback issues
+- Switch to QTI Memtrack AIDL HAL
+- Update Adreno stack to 530.54
+- Improved performance and idle drain consumption
+- Upstream kernel to 4.14.350-openela
+
 # 24-Jul-2024
 - Build missing libraries for A14 QPR3
 - Remove software OMX Codecs
