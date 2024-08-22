@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_apollo-14.0-20240730-0556.zip",
-    "datetime": 1722318920,
-    "ota_datetime": "1715453354",
-    "size": 2397286985,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240730-0556.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240730-0556.zip",
-    "filehash": "b9639de97f356f0a7594326439be3cfa",
-    "id": "b9639de97f356f0a7594326439be3cfa",
+    "filename": "PixelOS_apollo-14.0-20240822-0427.zip",
+    "datetime": 1724300677,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2266494846,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240822-0427.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240822-0427.zip",
+    "filehash": "a8df85b514fdcbebb096486f3cf30f75",
+    "id": "a8df85b514fdcbebb096486f3cf30f75",
     "maintainers": [
         {
             "main_maintainer": false,
