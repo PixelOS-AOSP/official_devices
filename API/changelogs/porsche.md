@@ -1,3 +1,7 @@
+# 22-Aug-2024
+- Updated blobs to MT2111_14.0.0.700(EX01)
+- Removed software OMX codec references
+
 # 04-Aug-2024
 - Source upstream
 
