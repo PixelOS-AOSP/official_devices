@@ -1,3 +1,9 @@
+# 22-Aug-2024
+- Upstream kernel
+- Switch to Uclamp & Pelt
+- Added CASS
+- Reduced latency (Kernel side)
+
 # 30-Jul-2024
 - Source upstream
 
