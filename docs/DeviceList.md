@@ -15,7 +15,7 @@ Officially Supported Devices:
 2. moto g9/play (guamp)
 
 **OnePlus**
-1. OnePlus 12R 5G (aston)
+1. OnePlus 12R/ACE 3 5G (aston)
 2. OnePlus 9RT 5G (martini)
 3. OnePlus Nord CE 2 Lite (oscar)
 
