@@ -547,7 +547,7 @@
             "model": "moto g9/play",
             "maintainer_name": "MD Raza",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "r5x",
