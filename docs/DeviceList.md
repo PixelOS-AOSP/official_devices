@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supprorted officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 39
+Number Of Devices in Official PixelOS: 38
 
 Number of Brands in Official PixelOS: 7
 
@@ -12,7 +12,6 @@ Officially Supported Devices:
 
 **Motorola**
 1. Motorola Edge (30 Fusion/S30 Pro) (tundra)
-2. moto g9/play (guamp)
 
 **OnePlus**
 1. OnePlus 12R/ACE 3 5G (aston)
