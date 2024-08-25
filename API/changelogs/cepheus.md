@@ -1,3 +1,6 @@
+# 25-Aug-2024
+- Switch back to nabu V13.0.3.0.RKXCNXM graphics stack (Fixes Magic Eraser crash and crash while trying to edit on Google Photos)
+
 # 21-Aug-2024
 - Fixed OK Google hotword detection
 - Fixed media playback issues
