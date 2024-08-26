@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_oscar-14.0-20240723-1307.zip",
-    "datetime": 1721739971,
-    "ota_datetime": "1714650036",
-    "size": 2691133791,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240723-1307.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240723-1307.zip",
-    "filehash": "f60da8ef3f071ce1781023195c492f35",
-    "id": "f60da8ef3f071ce1781023195c492f35",
+    "filename": "PixelOS_oscar-14.0-20240826-1213.zip",
+    "datetime": 1724674324,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2566067454,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240826-1213.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240826-1213.zip",
+    "filehash": "95bc0d53179a2f645ab7d3c73048c23d",
+    "id": "95bc0d53179a2f645ab7d3c73048c23d",
     "maintainers": [
         {
             "main_maintainer": false,
