@@ -1,3 +1,7 @@
+# 26-Aug-2024
+- Update blobs and firmware from OxygenOS 14 CPH2381_14.0.0.910(EX01)
+- GatoKernel is back
+
 # 24-Jul-2024
 - Fixed systemui and app crashes
 - Rebased kernel on top of OOS 14 source
