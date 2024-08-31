@@ -1,6 +1,11 @@
 {
     "maintainer": [
         {
+            "display_name": "Sourav",
+            "telegram": "https://t.me/xyz_sourav",
+            "github": "https://github.com/resist15"
+        },
+        {
             "display_name": "clhex",
             "telegram": "https://t.me/itsclhex",
             "github": "https://github.com/clhexftw/"
