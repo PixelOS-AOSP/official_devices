@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_toco-14.0-20240729-0948.zip",
-    "datetime": 1722246404,
-    "ota_datetime": "1708572106",
-    "size": 2513567652,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240729-0948.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240729-0948.zip",
-    "filehash": "07a3a37b7f66acccd35332860e4f262e",
-    "id": "07a3a37b7f66acccd35332860e4f262e",
+    "filename": "PixelOS_toco-14.0-20240825-2053.zip",
+    "datetime": 1724619109,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2374558750,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240825-2053.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240825-2053.zip",
+    "filehash": "e8b4013fb531f9833f2e96a6dfc43e9f",
+    "id": "e8b4013fb531f9833f2e96a6dfc43e9f",
     "maintainers": [
         {
             "main_maintainer": false,
