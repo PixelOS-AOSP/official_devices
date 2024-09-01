@@ -1,3 +1,6 @@
+# 01-Sep-2024
+- Ship updated VantomKernel v4.14.350
+
 # 29-Jul-2024
 - LZ4 improvements
 - Merge tag v4.14.349-openela and LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
