@@ -1,3 +1,11 @@
+# 02-Sep-2024
+- Move to AIDL IR Service
+- Switch to BTaudio AIDL
+- Rework display calibration profiles
+- Move to QTI Memtrack AIDL Hal
+- Migrate to QTI health AIDL hal
+- Downgrade Adreno to V@502
+
 # 08-Jun-2024
 - Initial QPR2 Build
 - Switch to lineage libperfmgr
