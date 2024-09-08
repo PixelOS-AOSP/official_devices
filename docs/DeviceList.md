@@ -40,7 +40,7 @@ Officially Supported Devices:
 1. Sony Xperia 5 II (pdx206)
 
 **Xiaomi**
-1. POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (curtana/joyeuse/excalibur/gram)
+1. POCO X3 NFC (surya/karna)
 2. POCO X3 Pro (vayu/bhima)
 3. Poco F3/Mi 11X/Redmi K40 (alioth/aliothin)
 4. Pocophone F1 (beryllium)
