@@ -124,7 +124,7 @@
             "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
             "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "citrus",
@@ -140,9 +140,9 @@
             "codename_alt": "surya/karna",
             "vendor": "Xiaomi",
             "model": "POCO X3 NFC",
-            "maintainer_name": "Ragy",
+            "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "vayu",

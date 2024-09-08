@@ -1,22 +1,23 @@
 {
     "maintainer": [
         {
-            "display_name": "Ragy",
-            "telegram": "https://t.me/ragy366",
-            "github": "https://github.com/ragy365"
+            "display_name": "Debayan Kar",
+            "telegram": "https://t.me/kardebayan",
+            "github": "https://github.com/kardebayan"
         }
     ],
     "updater": true,
     "beta": false,
-    "version": "thirteen",
+    "version": "fourteen",
     "available_versions": [
         "twelve",
-        "thirteen"
+        "thirteen",
+        "fourteen"
     ],
     "release": "monthly",
     "device_display_name": "POCO X3 NFC",
     "device_display_codename": "surya",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/surya/",
     "last_updated": "07 July 2023",
     "private_download_tag": "surya_20230706_1827",
     "active": false,
