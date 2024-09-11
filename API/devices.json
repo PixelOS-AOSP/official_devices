@@ -167,9 +167,9 @@
             "codename_alt": "marble/marblein",
             "vendor": "Xiaomi",
             "model": "Poco F5/ Redmi Note 12 Turbo",
-            "maintainer_name": "Saikiran",
+            "maintainer_name": "Aditya",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "beryllium",

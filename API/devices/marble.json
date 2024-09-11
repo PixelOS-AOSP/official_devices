@@ -1,9 +1,9 @@
 {
     "maintainer": [
         {
-            "display_name": "Saikiran",
-            "telegram": "https://t.me/saikiran008",
-            "github": "https://github.com/saikiran2001"
+            "display_name": "Aditya",
+            "telegram": "https://t.me/Ad1tyaS1ngh",
+            "github": "https://github.com/Ad1tyaS1ngh"
         }
     ],
     "updater": true,
@@ -18,7 +18,7 @@
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/",
     "last_updated": "28 December 2023",
     "private_download_tag": "marble_202312281455",
-    "active": false,
+    "active": true,
     "customRecoveryRequired": true,
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4648035/"
 }
