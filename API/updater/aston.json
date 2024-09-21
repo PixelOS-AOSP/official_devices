@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_aston-14.0-20240821-0628.zip",
-    "datetime": 1724221621,
+    "filename": "PixelOS_aston-14.0-20240920-0856.zip",
+    "datetime": 1726822501,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2995267719,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240821-0628.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240821-0628.zip",
-    "filehash": "37430b892964d90fa305b7e8d6ea56dc",
-    "id": "37430b892964d90fa305b7e8d6ea56dc",
+    "size": 2973007511,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240920-0856.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240920-0856.zip",
+    "filehash": "7b2d72c908c76e012446732b1b9e20ea",
+    "id": "7b2d72c908c76e012446732b1b9e20ea",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -19,5 +19,5 @@
     "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    "forum_url": "https://xdaforums.com/t/12r-ace3-rom-14-official-pixelos-aosp-21-08-24.4662225"
 }
