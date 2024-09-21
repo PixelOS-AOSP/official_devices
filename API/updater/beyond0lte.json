@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beyond0lte-14.0-20240730-1417.zip",
-    "datetime": 1722348980,
-    "ota_datetime": "1701309797",
-    "size": 2027025904,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20240730-1417.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-08-01/PixelOS_beyond0lte-14.0-20240730-1417.zip",
-    "filehash": "f810ca2d291f0d432404bcbc530e17c6",
-    "id": "f810ca2d291f0d432404bcbc530e17c6",
+    "filename": "PixelOS_beyond0lte-14.0-20240920-1320.zip",
+    "datetime": 1726838353,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 1889516465,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20240920-1320.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-09-21/PixelOS_beyond0lte-14.0-20240920-1320.zip",
+    "filehash": "c9da9f1c62a04d9c6556792a6353b2a7",
+    "id": "c9da9f1c62a04d9c6556792a6353b2a7",
     "maintainers": [
         {
             "main_maintainer": false,
