@@ -1,3 +1,8 @@
+# 21-Sep-2024
+- Fixed auto brightness behaviour
+- Moved to LineageOS Kernel
+- Dropped useless features from XiaomiParts
+
 # 02-Sep-2024
 - Move to AIDL IR Service
 - Switch to BTaudio AIDL
