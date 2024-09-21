@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_vayu-14.0-20240902-0536.zip",
-    "datetime": 1725255315,
+    "filename": "PixelOS_vayu-14.0-20240920-1035.zip",
+    "datetime": 1726828420,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2309376465,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20240902-0536.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20240902-0536.zip",
-    "filehash": "566da2a1d1c2a6dc58c024ed4875dfca",
-    "id": "566da2a1d1c2a6dc58c024ed4875dfca",
+    "size": 2356908546,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20240920-1035.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20240920-1035.zip",
+    "filehash": "39be67eee3aaf6aadf57e87bf4826860",
+    "id": "39be67eee3aaf6aadf57e87bf4826860",
     "maintainers": [
         {
             "main_maintainer": false,
