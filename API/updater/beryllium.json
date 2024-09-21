@@ -1,20 +1,15 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beryllium-14.0-20240820-0859.zip",
-    "datetime": 1724144262,
+    "filename": "PixelOS_beryllium-14.0-20240920-0942.zip",
+    "datetime": 1726825282,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2159375935,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240820-0859.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240820-0859.zip",
-    "filehash": "fd1ff38902cf0ee4561e7969c726cdea",
-    "id": "fd1ff38902cf0ee4561e7969c726cdea",
+    "size": 2151614452,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240920-0942.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240920-0942.zip",
+    "filehash": "9dccb345fe9aa3e942c5339ddc9ccc28",
+    "id": "9dccb345fe9aa3e942c5339ddc9ccc28",
     "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "sajidshahriar72543",
-            "name": "PaperBoy"
-        },
         {
             "main_maintainer": false,
             "github_username": "resist15",
