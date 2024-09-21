@@ -1,3 +1,7 @@
+# 21-Sep-2024
+- Rework statusbar overlay 
+- Update kernel to Linux 4.14.352 (OpenELA LTS)
+
 # 01-Aug-2024
 - Add GPU boosts to powerhint
 - Fix call-related WhatsApp crashes
