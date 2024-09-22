@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_grus-14.0-20240830-1517.zip",
-    "datetime": 1725030935,
+    "filename": "PixelOS_grus-14.0-20240922-0247.zip",
+    "datetime": 1726973137,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2028124981,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/grus/PixelOS_grus-14.0-20240830-1517.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-08-31/PixelOS_grus-14.0-20240830-1517.zip",
-    "filehash": "f8225f1db6e2a733e354864435a50e24",
-    "id": "f8225f1db6e2a733e354864435a50e24",
+    "size": 2021148077,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/grus/PixelOS_grus-14.0-20240922-0247.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-09-22/PixelOS_grus-14.0-20240922-0247.zip",
+    "filehash": "184cdd6fbe238cee2b7a87674a2bcf53",
+    "id": "184cdd6fbe238cee2b7a87674a2bcf53",
     "maintainers": [
         {
             "main_maintainer": false,
