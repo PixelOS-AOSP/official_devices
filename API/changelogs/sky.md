@@ -1,3 +1,7 @@
+# 22-Sep-2024
+- Update blobs to V816.0.6.0.UMWINXM
+- Remove software OMX codec references
+
 # 21-Aug-2024
 - Source Upstream
 
