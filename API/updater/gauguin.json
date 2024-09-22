@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_gauguin-14.0-20240802-1723.zip",
-    "datetime": 1722619297,
-    "ota_datetime": "1715439008",
-    "size": 2476605192,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240802-1723.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240802-1723.zip",
-    "filehash": "48216529f46ce6a290eba6c5f9f7b45f",
-    "id": "48216529f46ce6a290eba6c5f9f7b45f",
+    "filename": "PixelOS_gauguin-14.0-20240922-1550.zip",
+    "datetime": 1727020155,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2324849790,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240922-1550.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240922-1550.zip",
+    "filehash": "43f517539c9d583fdcd703a50be10f29",
+    "id": "43f517539c9d583fdcd703a50be10f29",
     "maintainers": [
         {
             "main_maintainer": false,
