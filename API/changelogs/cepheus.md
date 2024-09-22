@@ -1,3 +1,6 @@
+# 22-Sep-2024
+- Upstream kernel to 4.14.352-openela
+
 # 25-Aug-2024
 - Switch back to nabu V13.0.3.0.RKXCNXM graphics stack (Fixes Magic Eraser crash and crash while trying to edit on Google Photos)
 
