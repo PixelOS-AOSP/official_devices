@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_cepheus-14.0-20240825-1543.zip",
-    "datetime": 1724600501,
+    "filename": "PixelOS_cepheus-14.0-20240921-2309.zip",
+    "datetime": 1726960094,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2375592867,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240825-1543.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240825-1543.zip",
-    "filehash": "a6fbcfa87de01c857ff5e437a9190c34",
-    "id": "a6fbcfa87de01c857ff5e437a9190c34",
+    "size": 2368893783,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240921-2309.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240921-2309.zip",
+    "filehash": "4db73535b45abe7eddaccf5a54c4b750",
+    "id": "4db73535b45abe7eddaccf5a54c4b750",
     "maintainers": [
         {
             "main_maintainer": false,
