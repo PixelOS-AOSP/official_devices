@@ -1,3 +1,6 @@
+# 20-Sept-2024
+- Merged September security patches
+
 # 20-Aug-2024
 - Fixed PlayIntegrity *yet again*
 - Improved variable refresh rate implementation
