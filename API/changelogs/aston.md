@@ -1,3 +1,6 @@
+# 24-Sep-2024
+- Rollback camera related changes
+
 # 21-Sep-2024
 - Updated blobs from CPH2585_831(EX01)
 - Enhanced overall camera quality
