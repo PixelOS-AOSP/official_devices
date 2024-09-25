@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_lunaa-14.0-20240823-1406.zip",
-    "datetime": 1724421909,
+    "filename": "PixelOS_lunaa-14.0-20240920-1800.zip",
+    "datetime": 1726855152,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2664297249,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240823-1406.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240823-1406.zip",
-    "filehash": "6e5e902b003832788f6a23de1e218e33",
-    "id": "6e5e902b003832788f6a23de1e218e33",
+    "size": 2657327712,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240920-1800.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240920-1800.zip",
+    "filehash": "aa848db6954fd33614335aab6e52fa41",
+    "id": "aa848db6954fd33614335aab6e52fa41",
     "maintainers": [
         {
             "main_maintainer": false,
