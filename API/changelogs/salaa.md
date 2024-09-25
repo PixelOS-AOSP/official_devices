@@ -1,3 +1,6 @@
+# 25-Sep-2024
+- Source upstream
+
 # 21-Aug-2024
 - Fixed random Bluetooth disconnection
 
