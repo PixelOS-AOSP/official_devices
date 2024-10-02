@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_davinci-14.0-20240730-1806.zip",
-    "datetime": 1722362703,
-    "ota_datetime": "1719596361",
-    "size": 2452382590,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240730-1806.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240730-1806.zip",
-    "filehash": "c93396e2155d2630114da83cd2858ffa",
-    "id": "c93396e2155d2630114da83cd2858ffa",
+    "filename": "PixelOS_davinci-14.0-20241002-0018.zip",
+    "datetime": 1727828230,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2299475425,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241002-0018.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241002-0018.zip",
+    "filehash": "9e3c323ea3651c4b9f95dae459a408ec",
+    "id": "9e3c323ea3651c4b9f95dae459a408ec",
     "maintainers": [
         {
             "main_maintainer": false,
