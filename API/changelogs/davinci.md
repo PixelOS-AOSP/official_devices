@@ -1,3 +1,11 @@
+# 02-Oct-2024
+- Switch to QTI Memtrack AIDL HAL
+- Enable ELF checks and added missing 32-bit libraries
+- Switch back to the stock IMS apk and build xiaomi-telephony-stub instead
+- Remove software OMX codec references/blobs
+- Add missing 'vendor.' prefix to cnss-daemon
+- Kernel upstream
+
 # 30-Jul-2024
 - Fixed issues with video recording and playback
 
