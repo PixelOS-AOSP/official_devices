@@ -584,6 +584,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "cancunf",
+            "codename_alt": "cancunf",
+            "vendor": "Motorola",
+            "model": "Motorola moto g54 5G",
+            "maintainer_name": "cyberknight777 and Sarthak Roy",
+            "frame": null,
+            "active": true
         }
     ]
 }
