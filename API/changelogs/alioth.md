@@ -1,3 +1,11 @@
+# 03-Oct-2024
+- Fixed 30Hz on some scenarios 
+- Rebased Kernel
+- Switched to QTI Memtrack AIDL HAL
+- Fixed WFD issues
+- Disabled Pocket Mode
+- Enabled force LTE_CA toggle
+
 # 21-Aug-2024
 - Source upstream
 - Upstream kernel
