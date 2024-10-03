@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Raghav Tandon",
+            "telegram": "https://t.me/raghavt20",
+            "github": "https://github.com/raghavt20"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "POCO F6",
+    "device_display_codename": "peridot",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

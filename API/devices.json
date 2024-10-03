@@ -575,6 +575,15 @@
             "maintainer_name": "itsXRP",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "peridot",
+            "codename_alt": "peridot",
+            "vendor": "Xiaomi",
+            "model": "POCO F6",
+            "maintainer_name": "raghavt20",
+            "frame": null,
+            "active": true
         }
     ]
 }

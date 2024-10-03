@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "filename": "GITHUB_FILENAME_PLACEHOLDER",
+    "datetime": 123456789,
+    "size": 12345678,
+    "url": "GITHUB_URL_PLACEHOLDER",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "GITHUB_FILEHASH_PLACEHOLDER",
+    "id": "GITHUB_ID_PLACEHOLDER",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "raghavt20",
+            "name": "Raghav Tandon"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}
