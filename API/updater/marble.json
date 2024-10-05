@@ -1,22 +1,23 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_marble-14.0-20231228-1455.zip",
-    "datetime": 1703775225,
-    "size": 2498902227,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20231228-1455.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20231228-1455.zip",
-    "filehash": "eec2e614aecc4a4f7c2f17accfa495f3",
-    "id": "eec2e614aecc4a4f7c2f17accfa495f3",
+    "filename": "PixelOS_marble-14.0-20241005-0946.zip",
+    "datetime": 1728121521,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2758471080,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip",
+    "filehash": "d70323f6efce399667ccf1b0485617fd",
+    "id": "d70323f6efce399667ccf1b0485617fd",
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "saikiran2001",
-            "name": "Saikiran"
+            "github_username": "Ad1tyaS1ngh",
+            "name": "Aditya"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4648035/"
 }
