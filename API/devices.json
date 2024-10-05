@@ -475,7 +475,7 @@
             "model": "Sony Xperia 5 II",
             "maintainer_name": "Aditya",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "courbet",
