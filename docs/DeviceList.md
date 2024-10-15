@@ -44,7 +44,7 @@ Officially Supported Devices:
 4. Poco F3/Mi 11X/Redmi K40 (alioth/aliothin)
 5. Poco F5/ Redmi Note 12 Turbo (marble/marblein)
 6. Pocophone F1 (beryllium)
-7. Redmi 12 5G / Poco M6 Pro (sky/skyin)
+7. Redmi 12 5G / Poco M6 Pro 5G (sky/skyin)
 8. Redmi K20/Mi 9T (davinci/davinciin)
 9. Redmi Note 10 (sunny/mojito)
 10. Redmi Note 10 Pro/Max (sweet/sweetin)
