@@ -1,20 +1,15 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_lisa-14.0-20240804-0932.zip",
-    "datetime": 1722763833,
-    "ota_datetime": "1714207914",
-    "size": 2439712063,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240804-0932.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240804-0932.zip",
-    "filehash": "80dad4bbc7b8af7f05d8e0028f01f8ce",
-    "id": "80dad4bbc7b8af7f05d8e0028f01f8ce",
+    "filename": "PixelOS_lisa-14.0-20241014-1651.zip",
+    "datetime": 1728924603,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2182820063,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20241014-1651.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20241014-1651.zip",
+    "filehash": "60f5a0164c0d5f9170e13bf27ff3133a",
+    "id": "60f5a0164c0d5f9170e13bf27ff3133a",
     "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "geek0609",
-            "name": "Ashwin DS"
-        },
         {
             "main_maintainer": false,
             "github_username": "whyredfire",
