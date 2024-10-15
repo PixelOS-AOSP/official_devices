@@ -1,3 +1,9 @@
+# 15-Oct-2024
+- Fixed front camera video in MIUICamera
+- Fixed voice over WiFi (VoWiFi)
+- Added support for Network Signal Guru
+- Cleaned up unecessary camera blobs
+
 # 05-Aug-2024
 - Rebased on lineage trees
 - Fixed google maps street view
