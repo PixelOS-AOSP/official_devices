@@ -1,3 +1,11 @@
+# 16-Oct-2024
+- Downgrade GPU blobs to V502.0 to fix Google Photos crashes and Magic Eraser crash.
+- Drop EXT4 entries for dynamic partitions in fstab as it is redundant.
+- Don't stop CNSS on shutdown request to fix power off causing a reboot instead of actually turning off the device.
+- Don't power down SIM on airplane mode.
+- Disable QS media player turbulence effect by default to fix QS lags on media player.
+- Kernel state at r17b11.
+
 # 21-Aug-2024
 - Source upstream.
 
