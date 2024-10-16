@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_sky-14.0-20240922-0137.zip",
-    "datetime": 1726968953,
+    "filename": "PixelOS_sky-14.0-20241015-1937.zip",
+    "datetime": 1729020954,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 1752887998,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240922-0137.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-09-22/PixelOS_sky-14.0-20240922-0137.zip",
-    "filehash": "830dbc618fcd7fb8970d0ff2018a51be",
-    "id": "830dbc618fcd7fb8970d0ff2018a51be",
+    "size": 1746735187,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20241015-1937.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-16/PixelOS_sky-14.0-20241015-1937.zip",
+    "filehash": "4b21341d7e93f89aec93baa2674a6f24",
+    "id": "4b21341d7e93f89aec93baa2674a6f24",
     "maintainers": [
         {
             "main_maintainer": false,
