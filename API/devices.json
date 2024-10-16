@@ -505,8 +505,8 @@
             "active": true
         },
         {
-            "codename": "dagda",
-            "codename_alt": "zeus/dagda",
+            "codename": "zeus",
+            "codename_alt": "zeus",
             "vendor": "Xiaomi",
             "model": "Xiaomi 12 Pro",
             "maintainer_name": "Thomas Dada",
