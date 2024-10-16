@@ -1,3 +1,14 @@
+# 16-Oct-2024
+- Use led vibrator
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Swap to QTI USB init scripts
+- Disable proprietary listen sound model
+- Add hotword enrollment permissions
+- Fix low sound
+- Align display props with stock
+- Fix cpu variant runtime flag
+- Update CarrierConfig from HyperOS V816.0.5.0.UMWINXM
+
 # 22-Sep-2024
 - Update blobs to V816.0.6.0.UMWINXM
 - Remove software OMX codec references
