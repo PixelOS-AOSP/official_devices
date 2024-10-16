@@ -1,4 +1,7 @@
 # 16-Oct-2024
+- Fix receiving sms
+
+# 16-Oct-2024
 - Use led vibrator
 - Migrate to QTI USB Gadget 1.2 HIDL
 - Swap to QTI USB init scripts
