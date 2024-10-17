@@ -1,3 +1,8 @@
+# 17-Oct-2024
+- Reworked decommonized trees
+- Updated kernel 
+- Inbuilt adreno 757 from Meta Q2
+
 # 22-Aug-2024
 - Upstream kernel
 - Switch to Uclamp & Pelt
