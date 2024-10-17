@@ -1,3 +1,6 @@
+# 17-Oct-2024
+- Upstream kernel to 4.14.353-openela
+
 # 22-Sep-2024
 - Upstream kernel to 4.14.352-openela
 
