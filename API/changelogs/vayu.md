@@ -1,3 +1,6 @@
+# 17-Oct-2024
+- Source upstream
+
 # 21-Sep-2024
 - Fixed auto brightness behaviour
 - Moved to LineageOS Kernel
