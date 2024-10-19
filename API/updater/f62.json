@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_f62-14.0-20240920-1451.zip",
-    "datetime": 1726843820,
+    "filename": "PixelOS_f62-14.0-20241019-1855.zip",
+    "datetime": 1729364016,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 1902862083,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20240920-1451.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-09-21/PixelOS_f62-14.0-20240920-1451.zip",
-    "filehash": "04bb903fb1dc8c30c917f72ad88f5106",
-    "id": "04bb903fb1dc8c30c917f72ad88f5106",
+    "size": 1904202356,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20241019-1855.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-19/PixelOS_f62-14.0-20241019-1855.zip",
+    "filehash": "0c575e12ef27d0f377c4f548ea5d862f",
+    "id": "0c575e12ef27d0f377c4f548ea5d862f",
     "maintainers": [
         {
             "main_maintainer": false,
