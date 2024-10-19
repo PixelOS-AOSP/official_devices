@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_aston-14.0-20240923-1450.zip",
-    "datetime": 1727102936,
+    "filename": "PixelOS_aston-14.0-20241018-1605.zip",
+    "datetime": 1729267459,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2973009081,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240923-1450.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240923-1450.zip",
-    "filehash": "d4fa43b65e5b23e1257294abe544b4bd",
-    "id": "d4fa43b65e5b23e1257294abe544b4bd",
+    "size": 2972800695,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20241018-1605.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20241018-1605.zip",
+    "filehash": "9d8985e8684d76b4935c1fdea4b346f8",
+    "id": "9d8985e8684d76b4935c1fdea4b346f8",
     "maintainers": [
         {
             "main_maintainer": false,
