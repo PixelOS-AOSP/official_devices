@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beyondx-14.0-20240920-1431.zip",
-    "datetime": 1726842575,
+    "filename": "PixelOS_beyondx-14.0-20241019-0510.zip",
+    "datetime": 1729314556,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 1901416951,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20240920-1431.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-09-21/PixelOS_beyondx-14.0-20240920-1431.zip",
-    "filehash": "4f3369aa379088207be7b079dbd9464f",
-    "id": "4f3369aa379088207be7b079dbd9464f",
+    "size": 1901156067,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20241019-0510.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-19/PixelOS_beyondx-14.0-20241019-0510.zip",
+    "filehash": "8e1f3c95198f7c9ffd4b4ff679e35cf0",
+    "id": "8e1f3c95198f7c9ffd4b4ff679e35cf0",
     "maintainers": [
         {
             "main_maintainer": false,
