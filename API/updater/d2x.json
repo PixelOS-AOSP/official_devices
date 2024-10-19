@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_d2x-14.0-20240920-1526.zip",
-    "datetime": 1726845891,
+    "filename": "PixelOS_d2x-14.0-20241019-0455.zip",
+    "datetime": 1729313661,
     "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 1914523412,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20240920-1526.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-09-21/PixelOS_d2x-14.0-20240920-1526.zip",
-    "filehash": "aba2a3480a814e1db37f53171c03797f",
-    "id": "aba2a3480a814e1db37f53171c03797f",
+    "size": 1914385020,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20241019-0455.zip",
+    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-19/PixelOS_d2x-14.0-20241019-0455.zip",
+    "filehash": "e6af58ce5c36588e53975df6830d647a",
+    "id": "e6af58ce5c36588e53975df6830d647a",
     "maintainers": [
         {
             "main_maintainer": false,
