@@ -1,3 +1,6 @@
+# 19-Oct-2024
+- Update kernel to Linux 4.14.353 (OpenELA LTS)
+
 # 21-Sep-2024
 - Update kernel to Linux 4.14.352 (OpenELA LTS)
 
