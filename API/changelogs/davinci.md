@@ -1,3 +1,8 @@
+# 20-Oct-2024
+- Disabled turbulence noise after clicking the play button on the quick settings media player (should fix a few frame drops while swiping down in the quick settings after using the media player)
+- Fixed a rare issue where plugging in some wired headphones would cause the phone to soft reboot
+- Upstreamed kernel
+
 # 02-Oct-2024
 - Switch to QTI Memtrack AIDL HAL
 - Enable ELF checks and added missing 32-bit libraries
