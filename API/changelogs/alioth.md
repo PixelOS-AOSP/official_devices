@@ -1,3 +1,11 @@
+# 26-Oct-2024
+- Lineage kernel
+- Dropped Dolby
+- Added clear speaker
+- Improved haptics and vibe patterns 
+- Optimized native executables for Cortex-A76 CPU
+- Added touch profiles for gaming and benchmarking
+
 # 03-Oct-2024
 - Fixed 30Hz on some scenarios 
 - Rebased Kernel
