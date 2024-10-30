@@ -1,3 +1,8 @@
+# 30-Oct-2024
+- Disabled turbulence noise after clicking the play button on the quick settings media player (should fix a few frame drops while swiping down in the quick settings after using the media player)
+- Move to Xiaomi IR AIDL
+- Ship updated VantomKernel v4.14.353
+
 # 01-Sep-2024
 - Ship updated VantomKernel v4.14.350
 
