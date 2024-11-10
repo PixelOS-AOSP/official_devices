@@ -1,6 +1,6 @@
 # Prerequisites:
-- Must be on or above OxygenOS(12R)/ColorOS(ACE3) 14.0.0.810
-- If you are already on or above V14.0.0.810, flash the same update again so that both slots have same firmware in them.
+- Device must be running OxygenOS(12R)/ColorOS(ACE3) version 14.0.0.810 or higher, but below OxygenOS 15.
+- Flash the current build again using local install to ensure both slots have the same firmware.
 
 # Clean flash:
 - Reboot to bootloader
