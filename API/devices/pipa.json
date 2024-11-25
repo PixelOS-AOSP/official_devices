@@ -1,0 +1,25 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Sugakesshaa",
+            "telegram": "https://t.me/Megalodonzs",
+            "github": "https://github.com/bheatleyyy"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "thirteen",
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Pad 6",
+    "device_display_codename": "pipa",
+    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pipa/",
+    "last_updated": "",
+    "private_download_tag": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
