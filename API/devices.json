@@ -127,15 +127,6 @@
             "active": true
         },
         {
-            "codename": "pipa",
-            "codename_alt": "pipa",
-            "vendor": "Xiaomi",
-            "model": "Xiaomi Pad 6",
-            "maintainer_name": "Sugakesshaa",
-            "frame": null,
-            "active": true
-        },
-        {
             "codename": "peridot",
             "codename_alt": "peridot",
             "vendor": "Xiaomi",
@@ -564,6 +555,15 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "pipa",
+            "codename_alt": "pipa",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Pad 6",
+            "maintainer_name": "Sugakesshaa",
             "frame": null,
             "active": true
         },
