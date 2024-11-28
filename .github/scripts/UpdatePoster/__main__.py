@@ -31,13 +31,16 @@ from telegram.ext import *
 BOT_API = os.environ.get("BOT_API")  # Telegram Bot API Token
 # GitHub PAT (for accessing private repos and APIs)
 TOKEN = os.environ.get("TOKEN")
-android_Version_text = "fourteen"
+android_Version_text = "fifteen"
 GITHUB_API_USER = "geek0609"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001551285228"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + \
-    android_Version_text + "/pixelos.png"
+banner = (
+    "https://raw.githubusercontent.com/PixelOS-Releases/banners/"
+    + android_Version_text
+    + "/pixelos.png"
+)
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"
@@ -60,9 +63,14 @@ dispatcher = updater.dispatcher
 
 def get_Device_banner(device):
     return banner
-    DeviceBanner = "https://raw.githubusercontent.com/PixelOS-Releases/banners/" + \
-        android_Version_text + "/" + device + ".jpg"
-    if (requests.get(DeviceBanner).status_code == 200):
+    DeviceBanner = (
+        "https://raw.githubusercontent.com/PixelOS-Releases/banners/"
+        + android_Version_text
+        + "/"
+        + device
+        + ".jpg"
+    )
+    if requests.get(DeviceBanner).status_code == 200:
         return DeviceBanner
     else:
         return banner
@@ -70,7 +78,7 @@ def get_Device_banner(device):
 
 # HTML Hyperlink Fomatting
 def html_link(url, text):
-    return "<a href=\"" + url + "\">" + text + "</a>"
+    return '<a href="' + url + '">' + text + "</a>"
 
 
 # HTML Bold Fomatting
@@ -84,22 +92,22 @@ def html_code(text):
 
 
 def send_message(message: str):
-    bot.send_message(chat_id=CHAT_ID, tex=message,
-                     disable_web_page_preview=True)
+    bot.send_message(chat_id=CHAT_ID, tex=message, disable_web_page_preview=True)
 
 
 def send_photo(message: str, picture):
-    bot.send_photo(chat_id=CHAT_ID, caption=message,
-                   photo=picture, parse_mode="html")
+    bot.send_photo(chat_id=CHAT_ID, caption=message, photo=picture, parse_mode="html")
 
 
 # returns list of new tags
 def get_updated_tags():
     tags = []
     for file in os.listdir(json_dir):
-        if file != "README.MD" and json.loads(open(json_dir + file, "r").read())[UniqueID] != "":
-            tags.append(json.loads(
-                open(json_dir + file, "r").read())[UniqueID])
+        if (
+            file != "README.MD"
+            and json.loads(open(json_dir + file, "r").read())[UniqueID] != ""
+        ):
+            tags.append(json.loads(open(json_dir + file, "r").read())[UniqueID])
     return tags
 
 
@@ -124,9 +132,14 @@ def get_updated_device():
 
 # To make the post
 def post_maker(device_info, name):
-    message = "<b>PixelOS for " + device_info["device_display_name"] + " (" + \
-              device_info["device_display_codename"] + \
-        ")\n\nVersion:</b> " + device_info["version"]
+    message = (
+        "<b>PixelOS for "
+        + device_info["device_display_name"]
+        + " ("
+        + device_info["device_display_codename"]
+        + ")\n\nVersion:</b> "
+        + device_info["version"]
+    )
 
     if device_info["beta"]:
         message = message + " (beta)\n"
@@ -143,17 +156,25 @@ def post_maker(device_info, name):
         elif loop != len(device_info["maintainer"]):
             message = message + ", "
 
-        message = message + "<a href=\"" + \
-            maintainer["telegram"] + "\">" + \
-            maintainer["display_name"] + "</a>"
+        message = (
+            message
+            + '<a href="'
+            + maintainer["telegram"]
+            + '">'
+            + maintainer["display_name"]
+            + "</a>"
+        )
 
         loop -= 1
 
-    release_info = json.loads(requests.get(
-        "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/" +
-        device_info[UniqueID],
-        # information about the release, taken from Private Releases Repository
-        auth=(GITHUB_API_USER, TOKEN)).content)
+    release_info = json.loads(
+        requests.get(
+            "https://api.github.com/repos/PixelOS-Releases/releases/releases/tags/"
+            + device_info[UniqueID],
+            # information about the release, taken from Private Releases Repository
+            auth=(GITHUB_API_USER, TOKEN),
+        ).content
+    )
 
     recovery_file_size = 0
     rom_file_size = 0
@@ -168,34 +189,60 @@ def post_maker(device_info, name):
             recovery_file_size = float(asset["size"]) * 0.00000095367432
             RECOVERY_NAME = asset["name"]
         elif asset["name"].__contains__("PixelOS.part"):
-            rom_file_size = rom_file_size + \
-                float(asset["size"]) * 0.00000000093132
+            rom_file_size = rom_file_size + float(asset["size"]) * 0.00000000093132
         elif asset["name"].endswith(".zip"):
             ROM_NAME = asset["name"]
             rom_file_size = float(asset["size"]) * 0.00000000093132
             upload_date = asset["created_at"]
 
-    message = message + "\n<b>Upload Date:</b> " + \
-        upload_date[0:10].split("-")[-1] + "-" \
-        + ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov",
-           "Dec"][int(upload_date[0:10].split("-")[-2]) - 1] + "-" + upload_date[0:10].split("-")[-3]
+    message = (
+        message
+        + "\n<b>Upload Date:</b> "
+        + upload_date[0:10].split("-")[-1]
+        + "-"
+        + [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sept",
+            "Oct",
+            "Nov",
+            "Dec",
+        ][int(upload_date[0:10].split("-")[-2]) - 1]
+        + "-"
+        + upload_date[0:10].split("-")[-3]
+    )
 
-    message = message + "\n\n<b>Download:</b> <a href=\"" + \
-        WEBSITE_DOWNLOAD + name + "\">Website</a>\n"
+    message = (
+        message
+        + '\n\n<b>Download:</b> <a href="'
+        + WEBSITE_DOWNLOAD
+        + name
+        + '">Website</a>\n'
+    )
 
     # Download Sizes
     message = message + "<b>Size:</b> " + str(rom_file_size)[0:4] + "G (ROM)\n"
 
     if device_info["xda"] != None and device_info["xda"] != "":
-        message = message + "<b><a href=\"" + \
-            device_info["xda"] + "\">XDA Thread</a></b> (FAQ)\n"
+        message = (
+            message
+            + '<b><a href="'
+            + device_info["xda"]
+            + '">XDA Thread</a></b> (FAQ)\n'
+        )
 
     message = message + "\n"  # Leave a line unconditionally
 
     if device_info["updater"]:
         open("no_ota.txt", "w+").write("no")
     # else:
-        # message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
+    # message = message + "<b>⚠️Clean flash mandatory</b>\n\n"
 
     for codename in device_info["device_display_codename"].split("/"):
         message = message + "#" + codename + " "
@@ -224,8 +271,7 @@ for device in get_updated_device():
     banner = get_Device_banner(device)
     current_device_info = json.loads(open(json_dir + device + ".json").read())
     # print(post_maker(current_device_info))
-    send_photo(post_maker(current_device_info, device),
-               requests.get(banner).content)
+    send_photo(post_maker(current_device_info, device), requests.get(banner).content)
     time.sleep(timeout)
 
 if len(get_updated_device()) != 0:

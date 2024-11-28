@@ -28,13 +28,14 @@ from firebase_admin import db
 
 SF_PASS = os.environ.get("SF_PASS")
 
-android_version_text = "fourteen"
+android_version_text = "fifteen"
 
 cred = credentials.Certificate(
-    "priv/pixelos-telegram-bot-firebase-adminsdk-crrnu-4e65db1b73.json")
-firebase_admin.initialize_app(cred, {
-    "databaseURL": "https://pixelos-telegram-bot-default-rtdb.firebaseio.com/"
-})
+    "priv/pixelos-telegram-bot-firebase-adminsdk-crrnu-4e65db1b73.json"
+)
+firebase_admin.initialize_app(
+    cred, {"databaseURL": "https://pixelos-telegram-bot-default-rtdb.firebaseio.com/"}
+)
 
 
 try:
@@ -64,7 +65,7 @@ def Santize_list(mList):
 
 
 def Release_viewQueue():
-    ref = db.reference('/release/queue')
+    ref = db.reference("/release/queue")
     refget = ref.get()
     if refget != None:
         mlist = Santize_list(refget)
@@ -84,8 +85,7 @@ for tag in new_tags:
     BIG_ROM_FILE = os.path.exists(cur_dir + "/releases/ROM_TOO_BIG.txt")
     if BIG_ROM_FILE:
         print("Big Zip")
-        BIG_FILE_INFO = open(
-            cur_dir + "/releases/ROM_TOO_BIG.txt", "r").readlines()[0]
+        BIG_FILE_INFO = open(cur_dir + "/releases/ROM_TOO_BIG.txt", "r").readlines()[0]
         print(BIG_FILE_INFO)
         ROM_HASH = BIG_FILE_INFO.split(" ")[0]
         ROM_NAME = BIG_FILE_INFO.split("/")[-1].replace("\n", "")
@@ -95,7 +95,7 @@ for tag in new_tags:
         os.system("cat PixelOS.part?? > " + ROM_NAME)
 
         try:
-            with open(ROM_NAME, 'rb') as file_to_check:
+            with open(ROM_NAME, "rb") as file_to_check:
                 data = file_to_check.read()
                 hash_returned = hashlib.sha256(data).hexdigest()
 
@@ -106,23 +106,22 @@ for tag in new_tags:
         except Exception as e:
             print(e)
 
-    CONTAINS_UPDATEPACKAGE = os.path.exists(
-        cur_dir + "/releases/big_updatepackage.txt")
+    CONTAINS_UPDATEPACKAGE = os.path.exists(cur_dir + "/releases/big_updatepackage.txt")
 
     if CONTAINS_UPDATEPACKAGE:
         print("UpdatePackage found")
         UPDATEPACKAGE_INFO = open(
-            cur_dir + "/releases/big_updatepackage.txt", "r").readlines()[0]
+            cur_dir + "/releases/big_updatepackage.txt", "r"
+        ).readlines()[0]
         print(UPDATEPACKAGE_INFO)
         UPDATEPACKAGE_HASH = UPDATEPACKAGE_INFO.split(" ")[0]
-        UPDATEPACKAGE_NAME = UPDATEPACKAGE_INFO.split(
-            "/")[-1].replace("\n", "")
+        UPDATEPACKAGE_NAME = UPDATEPACKAGE_INFO.split("/")[-1].replace("\n", "")
         print(UPDATEPACKAGE_HASH, UPDATEPACKAGE_NAME)
         print("Combining bigger files to one ")
         os.system("cat PixelOS-updatepackage.part?? > " + UPDATEPACKAGE_NAME)
 
         try:
-            with open(UPDATEPACKAGE_NAME, 'rb') as file_to_check:
+            with open(UPDATEPACKAGE_NAME, "rb") as file_to_check:
                 data = file_to_check.read()
                 hash_returned = hashlib.sha256(data).hexdigest()
 
@@ -143,19 +142,42 @@ for tag in new_tags:
     os.system("mkdir " + cur_dir + "/images_to_upload")
     for file in os.listdir(cur_dir + "/releases"):
         if file.endswith(".img"):
-            os.system("mv " + cur_dir + "/releases/" + file + " " + cur_dir + "/images_to_upload/" + file.replace(".img", "") + "-" +
-                      tag.split("_")[0] + "-" + str(datetime.date.today()).replace("-", "") + ".img")
+            os.system(
+                "mv "
+                + cur_dir
+                + "/releases/"
+                + file
+                + " "
+                + cur_dir
+                + "/images_to_upload/"
+                + file.replace(".img", "")
+                + "-"
+                + tag.split("_")[0]
+                + "-"
+                + str(datetime.date.today()).replace("-", "")
+                + ".img"
+            )
 
     print("Downloaded")
     os.chdir(cur_dir + "/releases-public")
     os.system("gh release create " + str(datetime.date.today()))
     if not BIG_ROM_FILE:
         print("<2GB; uploading to GH releases")
-        os.system("gh release upload " + str(datetime.date.today()) +
-                  " " + cur_dir + "/releases/PixelOS_*.zip")
+        os.system(
+            "gh release upload "
+            + str(datetime.date.today())
+            + " "
+            + cur_dir
+            + "/releases/PixelOS_*.zip"
+        )
     print("Uploading images to GH releases")
-    os.system("gh release upload " + str(datetime.date.today()) +
-              " " + cur_dir + "/images_to_upload/*.img")
+    os.system(
+        "gh release upload "
+        + str(datetime.date.today())
+        + " "
+        + cur_dir
+        + "/images_to_upload/*.img"
+    )
 
     ROM_ZIP_NAME = "none"
 
@@ -168,46 +190,83 @@ for tag in new_tags:
             device = file.replace(".json", "")
             if not BIG_ROM_FILE:
                 print("<2GB; using github releases for public link")
-                github_download_link = "https://github.com/PixelOS-Releases/releases-public/releases/download/" + \
-                    str(datetime.date.today()) + "/" + ROM_ZIP_NAME
+                github_download_link = (
+                    "https://github.com/PixelOS-Releases/releases-public/releases/download/"
+                    + str(datetime.date.today())
+                    + "/"
+                    + ROM_ZIP_NAME
+                )
             else:
                 # GH releases will not work over 2GB, so just use SF
                 print(">2GB, falling back to sourceforge for public link")
-                github_download_link = "https://sourceforge.net/projects/pixelos-releases/files/" + \
-                    android_version_text + "/" + device + "/" + ROM_ZIP_NAME
-            mjson = open(cur_dir + "/releases/" + file, "r").read().replace(
-                "GITHUB_RELEASES_PLACEHOLDER", github_download_link)
+                github_download_link = (
+                    "https://sourceforge.net/projects/pixelos-releases/files/"
+                    + android_version_text
+                    + "/"
+                    + device
+                    + "/"
+                    + ROM_ZIP_NAME
+                )
+            mjson = (
+                open(cur_dir + "/releases/" + file, "r")
+                .read()
+                .replace("GITHUB_RELEASES_PLACEHOLDER", github_download_link)
+            )
             open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
     if OTA:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
-                mjson = open(cur_dir + "/releases/" + file, "r").read().replace("URL_PLACEHOLDER",
-                                                                                "https://sourceforge.net/projects/pixelos-releases/files/" + android_version_text + "/" + device + "/" + ROM_ZIP_NAME)
+                mjson = (
+                    open(cur_dir + "/releases/" + file, "r")
+                    .read()
+                    .replace(
+                        "URL_PLACEHOLDER",
+                        "https://sourceforge.net/projects/pixelos-releases/files/"
+                        + android_version_text
+                        + "/"
+                        + device
+                        + "/"
+                        + ROM_ZIP_NAME,
+                    )
+                )
                 open(cur_dir + "/releases/" + file, "w+").write(mjson)
 
     else:
         for file in os.listdir(cur_dir + "/releases/"):
             if file.endswith(".json"):
                 device = file.replace(".json", "")
-                updaterInfo = json.loads(requests.get("https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/" +
-                                         android_version_text + "/API/updater/" + device + ".json").content)
-                updaterInfo["github_releases_url"] = "https://sourceforge.net/projects/pixelos-releases/files/" + \
-                    android_version_text + "/" + device + "/" + ROM_ZIP_NAME
-                open(cur_dir + "/releases/" + file,
-                     "w+").write(json.dumps(updaterInfo, indent=4), )
+                updaterInfo = json.loads(
+                    requests.get(
+                        "https://raw.githubusercontent.com/PixelOS-AOSP/official_devices/"
+                        + android_version_text
+                        + "/API/updater/"
+                        + device
+                        + ".json"
+                    ).content
+                )
+                updaterInfo["github_releases_url"] = (
+                    "https://sourceforge.net/projects/pixelos-releases/files/"
+                    + android_version_text
+                    + "/"
+                    + device
+                    + "/"
+                    + ROM_ZIP_NAME
+                )
+                open(cur_dir + "/releases/" + file, "w+").write(
+                    json.dumps(updaterInfo, indent=4),
+                )
 
-    os.system("cp " + cur_dir + "/releases/*.json " +
-              cur_dir + "/API/updater/")
+    os.system("cp " + cur_dir + "/releases/*.json " + cur_dir + "/API/updater/")
 
     push_commands = [
-        "git config --global user.name \"PixelOS-Bot\"",
-        "git config --global user.email \"pixelos.pixelish@gmail.com\"",
+        'git config --global user.name "PixelOS-Bot"',
+        'git config --global user.email "pixelos.pixelish@gmail.com"',
         "git fetch",
         "git pull",
         "git add .",
-        "git commit -m \"official_devices: update tags [no ci]\"",
+        'git commit -m "official_devices: update tags [no ci]"',
         "git push origin " + android_version_text + "",
     ]
 
@@ -221,19 +280,55 @@ for tag in new_tags:
     try:
         for file in os.listdir(cur_dir + "/images_to_upload"):
             if file.endswith(".img"):
-                os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                          "/images_to_upload/" + file + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/" + android_version_text + "/" + device + "/recovery")
+                os.system(
+                    "sshpass -p "
+                    + SF_PASS
+                    + ' scp -o "StrictHostKeyChecking no" '
+                    + cur_dir
+                    + "/images_to_upload/"
+                    + file
+                    + " pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/"
+                    + android_version_text
+                    + "/"
+                    + device
+                    + "/recovery"
+                )
 
-        os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                  "/releases/PixelOS_*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/" + android_version_text + "/" + device + "")
+        os.system(
+            "sshpass -p "
+            + SF_PASS
+            + ' scp -o "StrictHostKeyChecking no" '
+            + cur_dir
+            + "/releases/PixelOS_*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/"
+            + android_version_text
+            + "/"
+            + device
+            + ""
+        )
         if CONTAINS_UPDATEPACKAGE:
-            os.system("sshpass -p " + SF_PASS + " scp -o \"StrictHostKeyChecking no\" " + cur_dir +
-                      "/releases/aosp_*-img-*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/" + android_version_text + "/" + device + "")
+            os.system(
+                "sshpass -p "
+                + SF_PASS
+                + ' scp -o "StrictHostKeyChecking no" '
+                + cur_dir
+                + "/releases/aosp_*-img-*.zip pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/"
+                + android_version_text
+                + "/"
+                + device
+                + ""
+            )
     except:
         print("Something went wrong")
     finally:
-        os.system("rm -rf " + cur_dir + "/releases/*.img " +
-                  cur_dir + "/releases/*.zip " + cur_dir + "/images_to_upload")
+        os.system(
+            "rm -rf "
+            + cur_dir
+            + "/releases/*.img "
+            + cur_dir
+            + "/releases/*.zip "
+            + cur_dir
+            + "/images_to_upload"
+        )
     print("Uploaded")
 
     # Remove tag from queue
@@ -242,7 +337,7 @@ for tag in new_tags:
     if current_queue != None:
         if mtag in current_queue:
             current_queue.remove(mtag)
-            ref = db.reference('/release/queue')
+            ref = db.reference("/release/queue")
             ref.set(current_queue)
     else:
         print("No Release Queue")
