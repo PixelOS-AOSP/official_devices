@@ -1,0 +1,82 @@
+run-name: ${{ inputs.device_codename }} ${{ inputs.version_number }} update
+
+on:
+  workflow_dispatch:
+    inputs:
+      device_codename:
+        type: string
+        required: true
+
+      version_string:
+        type: string
+        default: fifteen
+
+      version_number:
+        type: number
+        default: 15
+
+      tag:
+        type: string
+        required: true
+
+env:
+  codename: ${{ inputs.device_codename }}
+  version_string: ${{ inputs.version_string }}
+  version_number: ${{ inputs.version_number }}
+  tag: ${{ inputs.tag }}
+
+jobs:
+  Upload-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout official devices
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKEN }}
+          ref: ${{ inputs.version_string }}
+          fetch-depth: 1
+
+      - name: Checkout releases
+        uses: actions/checkout@v4
+        with:
+          repository: PixelOS-CI/releases-ci
+          token: ${{ secrets.TOKEN }}
+          fetch-depth: 1
+          path: releases
+
+      - name: Download release
+        env:
+          GH_TOKEN: ${{ secrets.TOKEN }}
+        run: source .github/scripts/make_release.sh && download_release
+
+      - name: Upload release
+        env:
+          ssh_pass: ${{ secrets.SSH_PASS }}
+        run: |
+          sudo apt install sshpass
+          source .github/scripts/make_release.sh && upload_release
+
+      - name: Setup python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Update assets
+        run: python .github/scripts/update_assets.py
+
+      - name: Commit to repo
+        run: |
+          git config user.name "PixelOS-Bot"
+          git config user.email "pixelos.pixelish@gmail.com"
+          git add API
+          git commit -m '[${{ inputs.device_codename }}] Automatic update'
+          git pull --rebase
+          git push
+
+      - name: Make channel post
+        env:
+          bot_api: ${{ secrets.BOT_API }}
+          chat_id: ${{ secrets.CHAT_ID }}
+        run: |
+          python -m pip install --upgrade pip requests > /dev/null
+          python .github/scripts/post_release.py
