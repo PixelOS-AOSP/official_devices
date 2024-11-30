@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Thomas Dada",
-            "telegram": "https://t.me/thomasdada",
-            "github": "https://github.com/rasenkai"
+            "telegram": "thomasdada",
+            "github": "rasenkai"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Xiaomi 12 Pro",
-    "device_display_codename": "zeus",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/",
-    "last_updated": "30 May 2024",
-    "private_download_tag": "zeus_202405281551",
+    "model": "Xiaomi 12 Pro",
+    "codename": "zeus",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "30 May 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240512-1832.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4658145/"
 }

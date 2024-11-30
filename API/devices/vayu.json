@@ -2,30 +2,22 @@
     "maintainer": [
         {
             "display_name": "Sourav",
-            "telegram": "https://t.me/xyz_sourav",
-            "github": "https://github.com/resist15"
+            "telegram": "xyz_sourav",
+            "github": "resist15"
         },
         {
             "display_name": "clhex",
-            "telegram": "https://t.me/itsclhex",
-            "github": "https://github.com/clhexftw/"
+            "telegram": "itsclhex",
+            "github": ""
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "POCO X3 Pro",
-    "device_display_codename": "vayu/bhima",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/",
-    "last_updated": "17 October 2024",
-    "private_download_tag": "vayu_202410161601",
+    "model": "POCO X3 Pro",
+    "codename": "vayu/bhima",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "17 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20241016-1601.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4467493/"
 }

@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "Karan Parashar",
-            "telegram": "https://t.me/whyredfire",
-            "github": "https://github.com/whyredfire"
+            "telegram": "whyredfire",
+            "github": "whyredfire"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Xiaomi 11 Lite 5G NE",
-    "device_display_codename": "lisa",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/",
-    "last_updated": "15 October 2024",
-    "private_download_tag": "lisa_202410141651",
+    "model": "Xiaomi 11 Lite 5G NE",
+    "codename": "lisa",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "15 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20241014-1651.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-29-11-2023.4392297/"
 }

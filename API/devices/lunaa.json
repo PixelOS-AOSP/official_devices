@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Muhammad Nauman",
-            "telegram": "https://t.me/itsXRP",
-            "github": "https://github.com/itsXRP"
+            "telegram": "itsXRP",
+            "github": "itsXRP"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "realme GT Master",
-    "device_display_codename": "lunaa",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/",
-    "last_updated": "25 September 2024",
-    "private_download_tag": "lunaa_202409201800",
+    "model": "realme GT Master",
+    "codename": "lunaa",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "25 September 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240920-1800.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/",
     "xda": null
 }

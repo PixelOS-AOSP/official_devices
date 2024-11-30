@@ -2,30 +2,22 @@
     "maintainer": [
         {
             "display_name": "cyberknight777",
-            "telegram": "https://t.me/cyberknight777",
-            "github": "https://github.com/cyberknight777"
+            "telegram": "cyberknight777",
+            "github": "cyberknight777"
         },
         {
             "display_name": "Sarthak Roy",
-            "telegram": "https://t.me/sarthakroy2002",
-            "github": "https://github.com/sarthakroy2002"
+            "telegram": "sarthakroy2002",
+            "github": "sarthakroy2002"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi Note 10",
-    "device_display_codename": "sunny/mojito",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/",
-    "last_updated": "16 October 2024",
-    "private_download_tag": "sunny_202410160753",
+    "model": "Redmi Note 10",
+    "codename": "sunny/mojito",
     "active": true,
-    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-19-11-2023.4642038/",
-    "customRecoveryRequired": true
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "16 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20241016-0753.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/",
+    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-19-11-2023.4642038/"
 }

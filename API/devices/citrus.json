@@ -2,22 +2,17 @@
     "maintainer": [
         {
             "display_name": "ryyaap",
-            "telegram": "https://t.me/rktdnt",
-            "github": "https://github.com/rktdnt"
+            "telegram": "rktdnt",
+            "github": "rktdnt"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "thirteen",
-    "available_versions": [
-        "thirteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "POCO M3",
-    "device_display_codename": "citrus",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/",
-    "last_updated": "30 July 2023",
-    "private_download_tag": "citrus_202307290546",
+    "model": "POCO M3",
+    "codename": "citrus",
     "active": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "last_updated": "30 July 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/PixelOS_citrus-13.0-20230729-0546.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/",
     "xda": "https://xdaforums.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
 }

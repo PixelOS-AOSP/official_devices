@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Rahul",
-            "telegram": "https://t.me/rahul_k06",
-            "github": "https://github.com/rk134"
+            "telegram": "rahul_k06",
+            "github": "rk134"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Xiaomi 12",
-    "device_display_codename": "cupid",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/",
-    "last_updated": "30 May 2024",
-    "private_download_tag": "cupid_202405290715",
+    "model": "Xiaomi 12",
+    "codename": "cupid",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "30 May 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240511-1313.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/",
     "xda": null
 }

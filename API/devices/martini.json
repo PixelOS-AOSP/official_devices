@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Sugakesshaa",
-            "telegram": "https://t.me/Megalodonzs",
-            "github": "https://github.com/bheatleyyy"
+            "telegram": "Megalodonzs",
+            "github": "bheatleyyy"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen",
-        "thirteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "OnePlus 9RT 5G",
-    "device_display_codename": "martini",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/",
-    "last_updated": "27 September 2024",
-    "private_download_tag": "martini_202409251724",
+    "model": "OnePlus 9RT 5G",
+    "codename": "martini",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "27 September 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240925-1724.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable-09-12-2023.4644971/"
 }

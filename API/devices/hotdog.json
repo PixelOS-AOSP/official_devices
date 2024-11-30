@@ -2,22 +2,17 @@
     "maintainer": [
         {
             "display_name": "cyberknight777",
-            "telegram": "https://t.me/cyberknight777",
-            "github": "https://github.com/cyberknight777"
+            "telegram": "cyberknight777",
+            "github": "cyberknight777"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "twelve",
-    "available_versions": [
-        "twelve"
-    ],
-    "release": "monthly",
-    "device_display_name": "OnePlus 7T Pro",
-    "device_display_codename": "hotdog",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/",
-    "last_updated": "17 August 2022",
-    "private_download_tag": "hotdog_20220817_1451",
+    "model": "OnePlus 7T Pro",
+    "codename": "hotdog",
     "active": false,
+    "version": "twelve",
+    "release": "monthly",
+    "last_updated": "17 August 2022",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/PixelOS_hotdog-12.1-20220817-1214.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/",
     "xda": "https://xdaforums.com/t/rom-12-1-oneplus-7t-pro-official-pixelos-aosp-stable-29-07-2022.4474059/"
 }

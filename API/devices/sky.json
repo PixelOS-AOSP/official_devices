@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "jendermine",
-            "telegram": "https://t.me/jendermine",
-            "github": "https://github.com/jendermine"
+            "telegram": "jendermine",
+            "github": "jendermine"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi 12 5G/Poco M6 Pro 5G",
-    "device_display_codename": "sky",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/",
-    "last_updated": "16 October 2024",
-    "private_download_tag": "sky_202410161947",
+    "model": "Redmi 12 5G/Poco M6 Pro 5G",
+    "codename": "sky",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "16 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20241016-1947.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/",
     "xda": null
 }

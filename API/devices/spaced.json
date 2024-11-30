@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "HELLINFIX",
-            "telegram": "https://t.me/HELLINFIX",
-            "github": "https://github.com/HELLINFIX"
+            "telegram": "HELLINFIX",
+            "github": "HELLINFIX"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "thirteen",
-    "available_versions": [
-        "thirteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Realme 8i/Realme Narzo 50",
-    "device_display_codename": "spaced,RMX3151,RMX3286",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/spaced/",
-    "last_updated": "03  May 2023",
-    "private_download_tag": "spaced_20230503_0605",
+    "model": "Realme 8i/Realme Narzo 50",
+    "codename": "spaced,RMX3151,RMX3286",
     "active": false,
-    "xda": null,
-    "customRecoveryRequired": true
+    "version": "thirteen",
+    "release": "monthly",
+    "last_updated": "03  May 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/spaced/PixelOS_spaced-13.0-20230503-0523.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/spaced/",
+    "xda": null
 }

@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Di Raizel",
-            "telegram": "https://t.me/acex88",
-            "github": "https://github.com/acex69"
+            "telegram": "acex88",
+            "github": "acex69"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "thirteen",
-    "available_versions": [
-        "thirteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi 9",
-    "device_display_codename": "lancelot",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lancelot/",
-    "last_updated": "08 July 2023",
-    "private_download_tag": "lancelot_20230707_1608",
+    "model": "Redmi 9",
+    "codename": "lancelot",
     "active": false,
-    "xda": null,
-    "customRecoveryRequired": true
+    "version": "thirteen",
+    "release": "monthly",
+    "last_updated": "08 July 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lancelot/PixelOS_lancelot-13.0-20230707-1250.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lancelot/",
+    "xda": null
 }

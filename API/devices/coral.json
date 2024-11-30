@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Yularzhi",
-            "telegram": "https://t.me/Yul_Nicolai",
-            "github": "https://github.com/Yularzhi"
+            "telegram": "Yul_Nicolai",
+            "github": "Yularzhi"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "thirteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Google Pixel 4 XL",
-    "device_display_codename": "coral",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/",
-    "last_updated": "03 October 2023",
-    "private_download_tag": "coral_202310031028",
+    "model": "Google Pixel 4 XL",
+    "codename": "coral",
     "active": false,
-    "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-05-07-2023.4576535/",
-    "customRecoveryRequired": true
+    "version": "thirteen",
+    "release": "monthly",
+    "last_updated": "03 October 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20231003-1028.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/",
+    "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-05-07-2023.4576535/"
 }

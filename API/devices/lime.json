@@ -2,22 +2,17 @@
     "maintainer": [
         {
             "display_name": "ryyaap",
-            "telegram": "https://t.me/rktdnt",
-            "github": "https://github.com/rktdnt"
+            "telegram": "rktdnt",
+            "github": "rktdnt"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "thirteen",
-    "available_versions": [
-        "thirteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi 9T / 9 Power / 9T NFC",
-    "device_display_codename": "lime",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/",
-    "last_updated": "30 July 2023",
-    "private_download_tag": "lime_202307290407",
+    "model": "Redmi 9T / 9 Power / 9T NFC",
+    "codename": "lime",
     "active": false,
+    "version": "thirteen",
+    "release": "monthly",
+    "last_updated": "30 July 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/PixelOS_lime-13.0-20230729-0407.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/",
     "xda": "https://xdaforums.com/t/rom-android-12-1-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-pixelos-official.4426729/"
 }

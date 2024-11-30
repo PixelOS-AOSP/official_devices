@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Debayan Kar",
-            "telegram": "https://t.me/kardebayan",
-            "github": "https://github.com/kardebayan"
+            "telegram": "kardebayan",
+            "github": "kardebayan"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "realme 6/6i(Indian)/6s/Narzo",
-    "device_display_codename": "RMX2001L1",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/",
-    "last_updated": "19 October 2024",
-    "private_download_tag": "RMX2001L1_202410151433",
+    "model": "realme 6/6i(Indian)/6s/Narzo",
+    "codename": "RMX2001L1",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "19 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20241015-1433.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/",
     "xda": null
 }

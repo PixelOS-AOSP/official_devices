@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Kitsunejasutin",
-            "telegram": "https://t.me/tokatsu",
-            "github": "https://github.com/Kitsunejasutin"
+            "telegram": "tokatsu",
+            "github": "Kitsunejasutin"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "thirteen",
-    "available_versions": [
-        "thirteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Google Pixel 7",
-    "device_display_codename": "panther",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/",
-    "last_updated": "03 October 2023",
-    "private_download_tag": "panther_202310030230",
+    "model": "Google Pixel 7",
+    "codename": "panther",
     "active": false,
-    "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/",
-    "customRecoveryRequired": true
+    "version": "thirteen",
+    "release": "monthly",
+    "last_updated": "03 October 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20231003-0230.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/",
+    "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/"
 }

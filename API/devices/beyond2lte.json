@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Fellipe Lima",
-            "telegram": "https://t.me/Jubscleisson",
-            "github": "https://github.com/Jubscleisson"
+            "telegram": "Jubscleisson",
+            "github": "Jubscleisson"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Samsung Galaxy S10+",
-    "device_display_codename": "beyond2lte",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/",
-    "last_updated": "19 October 2024",
-    "private_download_tag": "beyond2lte_202410190441",
+    "model": "Samsung Galaxy S10+",
+    "codename": "beyond2lte",
     "active": true,
-    "xda": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506553/",
-    "customRecoveryRequired": true
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "19 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/PixelOS_beyond2lte-14.0-20241019-0441.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/",
+    "xda": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506553/"
 }

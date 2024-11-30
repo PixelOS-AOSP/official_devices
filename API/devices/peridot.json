@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Raghav Tandon",
-            "telegram": "https://t.me/raghavt20",
-            "github": "https://github.com/raghavt20"
+            "telegram": "raghavt20",
+            "github": "raghavt20"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "POCO F6",
-    "device_display_codename": "peridot",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/",
-    "last_updated": "27 October 2024",
-    "private_download_tag": "peridot_202410271000",
+    "model": "POCO F6",
+    "codename": "peridot",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "27 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/PixelOS_peridot-14.0-20241027-1000.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/",
     "xda": null
 }

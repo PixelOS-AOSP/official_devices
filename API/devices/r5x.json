@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "Debayan Kar",
-            "telegram": "https://t.me/kardebayan",
-            "github": "https://github.com/kardebayan"
+            "telegram": "kardebayan",
+            "github": "kardebayan"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "realme 5/5i/5s",
-    "device_display_codename": "r5x",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/r5x/",
-    "last_updated": "01 March 2023",
-    "private_download_tag": "r5x_20230228_1238",
+    "model": "realme 5/5i/5s",
+    "codename": "r5x",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "01 March 2023",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20230228-1202.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/r5x/",
     "xda": null
 }

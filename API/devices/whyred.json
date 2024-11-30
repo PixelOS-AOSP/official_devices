@@ -2,22 +2,17 @@
     "maintainer": [
         {
             "display_name": "PaperBoy",
-            "telegram": "https://t.me/paperboy22",
-            "github": "https://github.com/sajidshahriar72543"
+            "telegram": "paperboy22",
+            "github": "sajidshahriar72543"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "twelve",
-    "available_versions": [
-        "twelve"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi Note 5 Pro/AI",
-    "device_display_codename": "whyred",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/",
-    "last_updated": "12 August 2022",
-    "private_download_tag": "whyred_20220812_1810",
+    "model": "Redmi Note 5 Pro/AI",
+    "codename": "whyred",
     "active": false,
+    "version": "twelve",
+    "release": "monthly",
+    "last_updated": "12 August 2022",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/PixelOS_whyred-12.1-20220812-1527.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/",
     "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp.4479273/"
 }

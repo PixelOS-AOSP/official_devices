@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Mia Ryujin",
-            "telegram": "https://t.me/AISeraphine3_3",
-            "github": "https://github.com/Seraphine3"
+            "telegram": "AISeraphine3_3",
+            "github": "Seraphine3"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "twelve",
-    "available_versions": [
-        "twelve"
-    ],
-    "release": "monthly",
-    "device_display_name": "Samsung Galaxy S9",
-    "device_display_codename": "starlte",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/",
-    "last_updated": "14 August 2022",
-    "private_download_tag": "starlte_20220814_1026",
+    "model": "Samsung Galaxy S9",
+    "codename": "starlte",
     "active": false,
-    "customRecoveryRequired": false,
+    "version": "twelve",
+    "release": "monthly",
+    "last_updated": "14 August 2022",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220814-0746.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/",
     "xda": "https://xdaforums.com/t/rom-12l-oss-official-pixel-os-for-samsung-galaxy-s9-s9.4438215/#post-87043351/"
 }

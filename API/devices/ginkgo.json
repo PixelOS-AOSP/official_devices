@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "Karan Parashar",
-            "telegram": "https://t.me/whyredfire",
-            "github": "https://github.com/whyredfire"
+            "telegram": "whyredfire",
+            "github": "whyredfire"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi Note 8/8T",
-    "device_display_codename": "ginkgo/willow",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/",
-    "last_updated": "30 May 2024",
-    "private_download_tag": "ginkgo_202405280217",
+    "model": "Redmi Note 8/8T",
+    "codename": "ginkgo/willow",
     "active": false,
-    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-unified.4237791/",
-    "customRecoveryRequired": false
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "30 May 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240511-0453.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/",
+    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-unified.4237791/"
 }

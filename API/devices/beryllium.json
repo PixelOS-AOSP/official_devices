@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Sourav",
-            "telegram": "https://t.me/xyz_sourav",
-            "github": "https://github.com/resist15"
+            "telegram": "xyz_sourav",
+            "github": "resist15"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Pocophone F1",
-    "device_display_codename": "beryllium",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/",
-    "last_updated": "16 October 2024",
-    "private_download_tag": "beryllium_202410141953",
+    "model": "Pocophone F1",
+    "codename": "beryllium",
     "active": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "16 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20241014-1953.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/",
     "xda": "https://xdaforums.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"
 }

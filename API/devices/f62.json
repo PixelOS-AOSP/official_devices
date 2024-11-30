@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Fellipe Lima",
-            "telegram": "https://t.me/Jubscleisson",
-            "github": "https://github.com/Jubscleisson"
+            "telegram": "Jubscleisson",
+            "github": "Jubscleisson"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Samsung Galaxy F62/M62",
-    "device_display_codename": "f62/m62",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/",
-    "last_updated": "19 October 2024",
-    "private_download_tag": "f62_202410191855",
+    "model": "Samsung Galaxy F62/M62",
+    "codename": "f62/m62",
     "active": true,
-    "xda": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2023.4611581/",
-    "customRecoveryRequired": true
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "19 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20241019-1855.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/",
+    "xda": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2023.4611581/"
 }

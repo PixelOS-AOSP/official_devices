@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "MD Raza",
-            "telegram": "https://t.me/DelightReza",
-            "github": "https://github.com/DelightReza"
+            "telegram": "DelightReza",
+            "github": "DelightReza"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Moto G9/Play",
-    "device_display_codename": "guamp",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/",
-    "last_updated": "01 August 2024",
-    "private_download_tag": "guamp_202407310919",
+    "model": "Moto G9/Play",
+    "codename": "guamp",
     "active": false,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "01 August 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240731-0919.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-for-moto-g9-play-guamp-aosp-stable.4673807"
 }

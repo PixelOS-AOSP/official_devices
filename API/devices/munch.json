@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "masarou",
-            "telegram": "https://t.me/masarou92",
-            "github": "https://github.com/itsurboimasarou"
+            "telegram": "masarou92",
+            "github": "itsurboimasarou"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi K40S/POCO F4",
-    "device_display_codename": "munch",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/",
-    "private_download_tag": "munch_202401250104",
-    "last_updated": "25 January 2024",
+    "model": "Redmi K40S/POCO F4",
+    "codename": "munch",
     "active": false,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "25 January 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20240125-0104.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/",
     "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-16-10-2022.4508623"
 }

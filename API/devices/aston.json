@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "InFeRnO",
-            "telegram": "https://t.me/inferno0230",
-            "github": "https://github.com/inferno0230"
+            "telegram": "inferno0230",
+            "github": "inferno0230"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "OnePlus 12R/ACE 3 5G",
-    "device_display_codename": "aston",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/",
-    "last_updated": "19 October 2024",
-    "private_download_tag": "aston_202410181605",
+    "model": "OnePlus 12R/ACE 3 5G",
+    "codename": "aston",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "19 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20241018-1605.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/",
     "xda": "https://xdaforums.com/t/12r-ace3-rom-14-official-pixelos-aosp-21-08-24.4662225"
 }

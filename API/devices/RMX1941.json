@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Anoosragh",
-            "telegram": "https://t.me/cArN4gE_is_DeD",
-            "github": "https://github.com/ok-ano0s"
+            "telegram": "cArN4gE_is_DeD",
+            "github": "ok-ano0s"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "twelve",
-    "available_versions": [
-        "twelve"
-    ],
-    "release": "monthly",
-    "device_display_name": "Realme C2",
-    "device_display_codename": "RMX1941",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/",
-    "last_updated": "13 March 2022",
-    "private_download_tag": "RMX1941_20220313_1513",
+    "model": "Realme C2",
+    "codename": "RMX1941",
     "active": false,
-    "xda": null,
-    "customRecoveryRequired": true
+    "version": "twelve",
+    "release": "monthly",
+    "last_updated": "13 March 2022",
+    "download_link": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-03-13/PixelOS_RMX1941-12.0-20220313-0654.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/",
+    "xda": null
 }

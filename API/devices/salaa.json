@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Debayan Kar",
-            "telegram": "https://t.me/kardebayan",
-            "github": "https://github.com/kardebayan"
+            "telegram": "kardebayan",
+            "github": "kardebayan"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
-    "device_display_codename": "salaa",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/",
-    "last_updated": "19 October 2024",
-    "private_download_tag": "salaa_202410151512",
+    "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+    "codename": "salaa",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "19 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20241015-1512.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/",
     "xda": null
 }

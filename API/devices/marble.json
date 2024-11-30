@@ -2,23 +2,17 @@
     "maintainer": [
         {
             "display_name": "Aditya",
-            "telegram": "https://t.me/Ad1tyaS1ngh",
-            "github": "https://github.com/Ad1tyaS1ngh"
+            "telegram": "Ad1tyaS1ngh",
+            "github": "Ad1tyaS1ngh"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Poco F5/Redmi Note 12 Turbo",
-    "device_display_codename": "marble",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/",
-    "last_updated": "05 October 2024",
-    "private_download_tag": "marble_202410050946",
+    "model": "Poco F5/Redmi Note 12 Turbo",
+    "codename": "marble",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "05 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4648035/"
 }

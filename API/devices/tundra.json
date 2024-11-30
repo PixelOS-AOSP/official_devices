@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Raghav Tandon",
-            "telegram": "https://t.me/raghavt20",
-            "github": "https://github.com/raghavt20"
+            "telegram": "raghavt20",
+            "github": "raghavt20"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Motorola Edge (30 Fusion/S30 Pro)",
-    "device_display_codename": "tundra",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/",
-    "last_updated": "04 June 2024",
-    "private_download_tag": "tundra_202406041525",
+    "model": "Motorola Edge (30 Fusion/S30 Pro)",
+    "codename": "tundra",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "04 June 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/",
     "xda": null
 }

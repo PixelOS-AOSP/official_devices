@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "NotZeetaa",
-            "telegram": "https://t.me/NotZeetaa",
-            "github": "https://github.com/NotZeetaa"
+            "telegram": "NotZeetaa",
+            "github": "NotZeetaa"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Poco F3/Mi 11X/Redmi K40",
-    "device_display_codename": "alioth",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/",
-    "last_updated": "26 October 2024",
-    "private_download_tag": "alioth_202410260915",
+    "model": "Poco F3/Mi 11X/Redmi K40",
+    "codename": "alioth",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "26 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20241026-0915.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/",
     "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
 }

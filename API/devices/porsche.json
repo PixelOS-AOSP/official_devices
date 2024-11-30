@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Karan Parashar",
-            "telegram": "https://t.me/whyredfire",
-            "github": "https://github.com/whyredfire"
+            "telegram": "whyredfire",
+            "github": "whyredfire"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Realme GT 2",
-    "device_display_codename": "porsche",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/",
-    "last_updated": "25 September 2024",
-    "private_download_tag": "porsche_202409251558",
+    "model": "Realme GT 2",
+    "codename": "porsche",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "25 September 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240925-1558.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4650893/"
 }

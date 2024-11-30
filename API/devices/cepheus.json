@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "balgxmr",
-            "telegram": "https://t.me/balgxmr",
-            "github": "https://github.com/balgxmr"
+            "telegram": "balgxmr",
+            "github": "balgxmr"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Xiaomi Mi 9",
-    "device_display_codename": "cepheus",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/",
-    "last_updated": "17 October 2024",
-    "private_download_tag": "cepheus_202410161517",
+    "model": "Xiaomi Mi 9",
+    "codename": "cepheus",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "17 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20241016-1517.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/",
     "xda": "https://xdaforums.com/t/rom-12-1-official-cepheus-pixelos-20-07-2022.4458805/"
 }

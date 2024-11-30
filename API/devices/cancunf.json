@@ -2,28 +2,22 @@
     "maintainer": [
         {
             "display_name": "cyberknight777",
-            "telegram": "https://t.me/cyberknight777",
-            "github": "https://github.com/cyberknight777"
+            "telegram": "cyberknight777",
+            "github": "cyberknight777"
         },
         {
             "display_name": "Sarthak Roy",
-            "telegram": "https://t.me/sarthakroy2002",
-            "github": "https://github.com/sarthakroy2002"
+            "telegram": "sarthakroy2002",
+            "github": "sarthakroy2002"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Motorola moto g54 5G",
-    "device_display_codename": "cancunf",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cancunf/",
-    "last_updated": "16 October 2024",
-    "private_download_tag": "cancunf_202410160640",
+    "model": "Motorola moto g54 5G",
+    "codename": "cancunf",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "16 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cancunf/PixelOS_cancunf-14.0-20241016-0640.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cancunf/",
     "xda": null
 }

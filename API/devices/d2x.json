@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Fellipe Lima",
-            "telegram": "https://t.me/Jubscleisson",
-            "github": "https://github.com/Jubscleisson"
+            "telegram": "Jubscleisson",
+            "github": "Jubscleisson"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Samsung Galaxy Note10+ 5G",
-    "device_display_codename": "d2x",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/",
-    "last_updated": "19 October 2024",
-    "private_download_tag": "d2x_202410190455",
+    "model": "Samsung Galaxy Note10+ 5G",
+    "codename": "d2x",
     "active": true,
-    "xda": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506557/",
-    "customRecoveryRequired": true
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "19 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20241019-0455.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/",
+    "xda": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506557/"
 }

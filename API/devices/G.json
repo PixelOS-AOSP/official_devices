@@ -2,24 +2,17 @@
     "maintainer": [
         {
             "display_name": "Debayan Kar",
-            "telegram": "https://t.me/kardebayan",
-            "github": "https://github.com/kardebayan"
+            "telegram": "kardebayan",
+            "github": "kardebayan"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "10.or G",
-    "device_display_codename": "G",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/",
-    "last_updated": "21 August 2024",
-    "private_download_tag": "G_202408200152",
+    "model": "10.or G",
+    "codename": "G",
     "active": true,
-    "xda": null,
-    "customRecoveryRequired": true
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "21 August 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20240820-0152.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/",
+    "xda": null
 }

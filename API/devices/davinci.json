@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "Aryan",
-            "telegram": "https://t.me/Aryannn999",
-            "github": "https://github.com/basamaryan"
+            "telegram": "Aryannn999",
+            "github": "basamaryan"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi K20/Mi 9T",
-    "device_display_codename": "davinci/davinciin",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/",
-    "last_updated": "20 October 2024",
-    "private_download_tag": "davinci_202410202056",
+    "model": "Redmi K20/Mi 9T",
+    "codename": "davinci/davinciin",
     "active": true,
-    "xda": null,
-    "customRecoveryRequired": true
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "20 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241020-2056.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/",
+    "xda": null
 }

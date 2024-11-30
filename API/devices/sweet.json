@@ -2,25 +2,17 @@
     "maintainer": [
         {
             "display_name": "Aryan",
-            "telegram": "https://t.me/Aryannn999",
-            "github": "https://github.com/basamaryan"
+            "telegram": "Aryannn999",
+            "github": "basamaryan"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "twelve",
-        "thirteen",
-        "fourteen"
-    ],
-    "release": "monthly",
-    "device_display_name": "Redmi Note 10 Pro/Max",
-    "device_display_codename": "sweet/sweetin",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/",
-    "last_updated": "26 October 2024",
-    "private_download_tag": "sweet_202410260519",
+    "model": "Redmi Note 10 Pro/Max",
+    "codename": "sweet/sweetin",
     "active": true,
-    "customRecoveryRequired": true,
+    "version": "fourteen",
+    "release": "monthly",
+    "last_updated": "26 October 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20241026-0519.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/",
     "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-13-04-2023.4402719/"
 }
