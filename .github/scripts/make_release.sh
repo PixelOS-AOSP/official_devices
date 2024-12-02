@@ -32,9 +32,12 @@ function upload_release() {
 
     filename=$(basename PixelOS*.zip)
 
+    mkdir -p $codename/recovery # create a new temp dir with name as codename
+    mv $filename $codename/     # move the rom file to the temp dir
+
     # Upload ROM
     sshpass -p $ssh_pass scp -o "StrictHostKeyChecking no" $filename \
-        "pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/$version_string/$codename/$filename"
+        "pixelos@frs.sourceforge.net:/home/frs/project/pixelos-releases/$version_string/"
 
     # Upload recovery images
     if [ "$(ls *.img 2>/dev/null | wc -l)" -gt 1 ]; then
