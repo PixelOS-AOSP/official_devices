@@ -9,10 +9,10 @@
     "model": "Pocophone F1",
     "codename": "beryllium",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "16 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20241014-1953.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/",
+    "last_updated": "03 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/beryllium/PixelOS_beryllium-15.0-20241203-1030.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/beryllium/",
     "xda": "https://xdaforums.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"
 }
