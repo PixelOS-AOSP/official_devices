@@ -9,10 +9,10 @@
     "model": "Xiaomi Pad 6",
     "codename": "pipa",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "",
-    "download_link": "GITHUB_URL_PLACEHOLDER",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pipa/",
+    "last_updated": "03 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/PixelOS_pipa-15.0-20241202-2238.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/",
     "xda": null
 }
