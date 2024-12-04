@@ -9,10 +9,10 @@
     "model": "OnePlus Nord CE 2 Lite",
     "codename": "oscar",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "26 August 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240826-1213.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/",
+    "last_updated": "04 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20241203-1715.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/",
     "xda": null
 }
