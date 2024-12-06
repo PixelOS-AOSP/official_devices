@@ -9,10 +9,10 @@
     "model": "realme GT Master",
     "codename": "lunaa",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "25 September 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240920-1800.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/",
+    "last_updated": "06 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lunaa/PixelOS_lunaa-15.0-20241206-0622.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lunaa/",
     "xda": null
 }
