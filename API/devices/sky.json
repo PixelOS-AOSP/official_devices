@@ -9,10 +9,10 @@
     "model": "Redmi 12 5G/Poco M6 Pro 5G",
     "codename": "sky",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "16 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20241016-1947.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/",
+    "last_updated": "07 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20241206-1728.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/",
     "xda": null
 }

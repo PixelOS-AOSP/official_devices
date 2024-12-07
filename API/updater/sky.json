@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_sky-14.0-20241016-1947.zip",
-    "datetime": 1729107995,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 1746952908,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20241016-1947.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-16/PixelOS_sky-14.0-20241016-1947.zip",
-    "filehash": "b07c7d6afb335b7d538cb99184965fde",
-    "id": "b07c7d6afb335b7d538cb99184965fde",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "jendermine",
-            "name": "jendermine"
+            "datetime": "1733506022",
+            "filename": "PixelOS_sky-15.0-20241206-1728.zip",
+            "id": "9c08a1f53e6ac3a5957073aceb70ae67330e14b46c12936f02642238d0ea2860",
+            "size": 1748142942,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20241206-1728.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }
