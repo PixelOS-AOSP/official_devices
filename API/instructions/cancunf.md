@@ -4,7 +4,7 @@
 - You MUST format data with given PixelOS recovery.
 - YOU MUST CLEAN FLASH if you are coming from any other ROM or stock.
 - Formatting with PixelOS Recovery (yes, I mean PixelOS Recovery ONLY) is MUST during clean flash.
-- Required Firmware: Android 14 U1TD34M.94-12-7 or newer.
+- Required Firmware: Android 14 U1TD34M.94-12-7 or newer. Do not flash on Android 15 firmware.
 - Any slot must not be empty, meaning if you have ever used blankflash or flashed stock ROM using RSA or got a new phone, then make sure you got any ota, otherwise don't flash!
 
 # Clean Flash (coming from a different ROM)
@@ -12,6 +12,7 @@
 - Boot to bootloader.
 - Run `fastboot reboot fastboot`
 - Run `fastboot flash vendor_boot vendor_boot.img`
+- Run `fastboot reboot bootloader`
 - Run `fastboot reboot recovery`
 - Format data with the recovery.
 - Click apply for update.
