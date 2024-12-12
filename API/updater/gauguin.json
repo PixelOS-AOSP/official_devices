@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_gauguin-14.0-20241017-1357.zip",
-    "datetime": 1729173345,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2320328519,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20241017-1357.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20241017-1357.zip",
-    "filehash": "13a2dcbe11d1f604ebd61b43a0ca7bf6",
-    "id": "13a2dcbe11d1f604ebd61b43a0ca7bf6",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "kawaaii",
-            "name": "Hridaya"
+            "datetime": "1734010717",
+            "filename": "PixelOS_gauguin-15.0-20241212-1340.zip",
+            "id": "9c12bcd0d41401152eddb876032ac9a548bf3ad65f9ed93543d96332d007a911",
+            "size": 2350713059,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20241212-1340.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-12-06-2022.4456563/"
+    ]
 }

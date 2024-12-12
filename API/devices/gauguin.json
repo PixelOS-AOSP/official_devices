@@ -9,10 +9,10 @@
     "model": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G",
     "codename": "gauguin",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "17 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20241017-1357.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/",
+    "last_updated": "12 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20241212-1340.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/",
     "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-12-06-2022.4456563/"
 }
