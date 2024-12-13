@@ -1,22 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_zeus-14.0-20240512-1832.zip",
-    "datetime": 1715537182,
-    "size": 2541204100,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240512-1832.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240528-1551.zip",
-    "filehash": "8baca0eb84cbaef6f8bdd9f464033b19",
-    "id": "8baca0eb84cbaef6f8bdd9f464033b19",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "rasenkai",
-            "name": "Thomas Dada"
+            "datetime": "1734071222",
+            "filename": "PixelOS_zeus-15.0-20241213-0628.zip",
+            "id": "2971bc78ef3993152b4237262490bfe0741c751787f5e52d6da17dc7141487d6",
+            "size": 2594188670,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/zeus/PixelOS_zeus-15.0-20241213-0628.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }

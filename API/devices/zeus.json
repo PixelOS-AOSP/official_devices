@@ -9,10 +9,10 @@
     "model": "Xiaomi 12 Pro",
     "codename": "zeus",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "30 May 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240512-1832.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/",
+    "last_updated": "13 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/zeus/PixelOS_zeus-15.0-20241213-0628.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/zeus/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4658145/"
 }
