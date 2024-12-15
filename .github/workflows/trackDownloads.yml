@@ -6,37 +6,37 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'
-  
+    - cron: "0 9 * * *"
+
 jobs:
   clone:
     runs-on: ubuntu-latest
-  
+
     steps:
-    - name: checkout
-      uses: actions/checkout@v3
-    
-    - name: Get Date
-      id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-    
-    - name: Setup Python
-      uses: actions/setup-python@v2.3.3
+      - name: checkout
+        uses: actions/checkout@v3
 
-    - name: Install Dependencies
-      run : |
-        python -m pip install --upgrade pip
-        pip install requests
+      - name: Get Date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-    - name: Update Data
-      run : python3 .github/scripts/downloadTracker
-    
-    - name: Commit to repo
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_user_name: PixelOS-Bot 
-        commit_user_email: pixelos.pixelish@gmail.com
-        commit_author: PixelOS-Bot <pixelos.pixelish@gmail.com> 
+      - name: Setup Python
+        uses: actions/setup-python@v2.3.3
 
-        commit_message: Update downloads counts (${{ steps.date.outputs.date }})
-        file_pattern: 'API/downloads/*.json'
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update Data
+        run: python3 .github/scripts/download_tracker.py
+
+      - name: Commit to repo
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_user_name: PixelOS-Bot
+          commit_user_email: pixelos.pixelish@gmail.com
+          commit_author: PixelOS-Bot <pixelos.pixelish@gmail.com>
+
+          commit_message: Update downloads counts (${{ steps.date.outputs.date }})
+          file_pattern: "API/downloads/*.json"
