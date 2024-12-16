@@ -1,9 +1,21 @@
-# 16-Oct-2024
-- Initial Official Build
-- Switch to EROFS for dynamic partitions.
-- Debloat all redundant blobs.
-- Dolby: Add intelligent equalizer setting.
-- Use foreground UClamp cpusets for our composer/gralloc to improve runtime performance.
-- Boost cpufreq on EXPENSIVE_RENDERING for rendering performance improvement.
-- Silence hwcomposer logspam.
-
+# 16-Dec-2024
+- Switch to Pixel Thermal Service to improve thermal management.
+- Fixed an issue where SD card doesn't mount in third-party apps.
+- Fixed an issue where Dolby doesn't get initialized.
+- Update blobs to U1TD34.94-12-9-10.
+- Disable ZRAM Writeback to improve UFS lifespan.
+- Add RegulatoryOverlay for all SKUs.
+- Switch to Stock IMS VT stack.
+- Match Stock Secure element SKU setup.
+- Enable WideColorGamut support.
+- Alleviate audio distortion by a tad bit. (Decrease call volume for issue to be permanently resolved)
+- Silence TRS logspam.
+- Set 1 second timeout to interaction boosts to prevent permanent boost triggers.
+- Build AOSP FMRadio.
+- Offload WM shell to another thread to improve performance.
+- Update GPU blobs from V1TD35H.58 (A15 beta) to fix vulkan rendering.
+- Switch to OSS kernel modules.
+- Switch to OSS DTB.
+- Remove Moto MM modifications and use ZRAM.
+- Drop FocalTech TS support as cancunf does not use this TS panel.
+- Update blobs to U1TDS34.94-12-9-10-1.

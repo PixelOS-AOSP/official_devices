@@ -14,10 +14,10 @@
     "model": "Motorola moto g54 5G",
     "codename": "cancunf",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "16 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cancunf/PixelOS_cancunf-14.0-20241016-0640.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cancunf/",
+    "last_updated": "16 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cancunf/PixelOS_cancunf-15.0-20241215-2113.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cancunf/",
     "xda": null
 }
