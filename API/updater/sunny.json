@@ -1,28 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_sunny-14.0-20241016-0753.zip",
-    "datetime": 1729065125,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2203368620,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20241016-0753.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20241016-0753.zip",
-    "filehash": "e1a2f86d76efea3f86501cf7164c938d",
-    "id": "e1a2f86d76efea3f86501cf7164c938d",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "cyberknight777",
-            "name": "cyberknight777"
-        },
-        {
-            "main_maintainer": false,
-            "github_username": "sarthakroy2002",
-            "name": "Sarthak Roy"
+            "datetime": "1734342471",
+            "filename": "PixelOS_sunny-15.0-20241216-0949.zip",
+            "id": "188643f566eee7c8dbfc960bdc6b26387971a6cb8e31f067792d3ba183b376a2",
+            "size": 2227897759,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20241216-0949.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-19-11-2023.4642038/"
+    ]
 }

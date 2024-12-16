@@ -14,10 +14,10 @@
     "model": "Redmi Note 10",
     "codename": "sunny/mojito",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "16 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20241016-0753.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/",
+    "last_updated": "16 December 2024",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20241216-0949.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-19-11-2023.4642038/"
 }
