@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_RMX2020-14.0-20241015-1318.zip",
-    "datetime": 1728998214,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2016636195,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20241015-1318.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-16/PixelOS_RMX2020-14.0-20241015-1318.zip",
-    "filehash": "21f9278e5eeeea8c370d2dabab0d31db",
-    "id": "21f9278e5eeeea8c370d2dabab0d31db",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "sarthakroy2002",
-            "name": "Sarthak Roy"
+            "datetime": "1734338181",
+            "filename": "PixelOS_RMX2020-15.0-20241216-0837.zip",
+            "id": "67d0a8d0810e55ede353ccb28d8372123eed5ab921c80c19a13761afc414f55b",
+            "size": 2003880448,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20241216-0837.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4642903/"
+    ]
 }
