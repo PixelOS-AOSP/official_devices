@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_cepheus-14.0-20241016-1517.zip",
-    "datetime": 1729091745,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2369356869,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20241016-1517.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20241016-1517.zip",
-    "filehash": "6ae41fcc4b159d339069c08541d0f1f2",
-    "id": "6ae41fcc4b159d339069c08541d0f1f2",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "balgxmr",
-            "name": "balgxmr"
+            "datetime": "1737160375",
+            "filename": "PixelOS_cepheus-15.0-20250118-0034.zip",
+            "id": "535002b30aa8694b58c4ea8a115f6567095dc54aa128d61eece81eca9b13cffa",
+            "size": 2392178469,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/PixelOS_cepheus-15.0-20250118-0034.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-12-1-official-cepheus-pixelos-20-07-2022.4458805/"
+    ]
 }

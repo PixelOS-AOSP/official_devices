@@ -9,10 +9,10 @@
     "model": "Xiaomi Mi 9",
     "codename": "cepheus",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "17 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20241016-1517.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/",
+    "last_updated": "18 January 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/PixelOS_cepheus-15.0-20250118-0034.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/",
     "xda": "https://xdaforums.com/t/rom-12-1-official-cepheus-pixelos-20-07-2022.4458805/"
 }
