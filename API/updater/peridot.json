@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_peridot-14.0-20241027-1000.zip",
-    "datetime": 1730023143,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 3100641362,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/PixelOS_peridot-14.0-20241027-1000.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/PixelOS_peridot-14.0-20241027-1000.zip",
-    "filehash": "4637ab53d1838288cd81cbe2b048f547",
-    "id": "4637ab53d1838288cd81cbe2b048f547",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "raghavt20",
-            "name": "Raghav Tandon"
+            "datetime": "1737137472",
+            "filename": "PixelOS_peridot-15.0-20250117-1812.zip",
+            "id": "3a7a6d3da129fa66ef617c229ce24d2d34e7bb4c051416c204199da8fc56b1a5",
+            "size": 3129924843,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/peridot/PixelOS_peridot-15.0-20250117-1812.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }
