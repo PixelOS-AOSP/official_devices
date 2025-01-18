@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_davinci-14.0-20241020-2056.zip",
-    "datetime": 1729457701,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2300378279,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241020-2056.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241020-2056.zip",
-    "filehash": "6641e30a42738ef8bf1bf80e4b776520",
-    "id": "6641e30a42738ef8bf1bf80e4b776520",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "basamaryan",
-            "name": "Aryan"
+            "datetime": "1737159390",
+            "filename": "PixelOS_davinci-15.0-20250118-0018.zip",
+            "id": "bcbc56db3f5c463495670f7669c9d92fd09842196385133a5bd00a973efc0437",
+            "size": 2354361661,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/davinci/PixelOS_davinci-15.0-20250118-0018.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }

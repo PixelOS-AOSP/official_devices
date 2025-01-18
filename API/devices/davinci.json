@@ -9,10 +9,10 @@
     "model": "Redmi K20/Mi 9T",
     "codename": "davinci/davinciin",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "20 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241020-2056.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/",
+    "last_updated": "18 January 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/davinci/PixelOS_davinci-15.0-20250118-0018.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/davinci/",
     "xda": null
 }
