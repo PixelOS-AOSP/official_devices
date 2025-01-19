@@ -9,10 +9,10 @@
     "model": "OnePlus 12R/ACE 3 5G",
     "codename": "aston",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "19 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20241018-1605.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/",
+    "last_updated": "19 January 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250119-0821.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/",
     "xda": "https://xdaforums.com/t/12r-ace3-rom-14-official-pixelos-aosp-21-08-24.4662225"
 }
