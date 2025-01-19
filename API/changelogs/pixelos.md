@@ -1,7 +1,5 @@
-# 03-Dec-2024
-- Initial PixelOS 15 beta release
-
 # 17-Jan-2025
+
 - Stable release
 - Ambient display
 - Long press power button for torch
@@ -16,3 +14,7 @@
 - Scrambled PIN layout
 - Allow accessing power menu on secured lockscreen
 - Touch to unlock anytime
+
+# 03-Dec-2024
+
+- Initial PixelOS 15 beta release
