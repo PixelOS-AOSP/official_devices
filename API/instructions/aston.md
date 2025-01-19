@@ -1,11 +1,13 @@
 # Prerequisites:
-- Device must be running OxygenOS(12R)/ColorOS(ACE3) version 14.0.0.810 or higher, but below OxygenOS 15.
-- Flash the current build again using local install to ensure both slots have the same firmware.
+- Device must be running OxygenOS(12R)/ColorOS(ACE3) version 15.0.0.200 or higher,
+- Flash the current build again using local install to ensure both slots have the same firmware. (Failing to do so will get you bricked)
+- If you are on PixelOS 14 with OOS/COS14. Move back to stock and upgrade to OOS15/COS15.
 
 # Clean flash:
 - Reboot to bootloader
-- Flash boot, vendor_boot, dtbo and recovery images
+- Flash boot, init_boot, vendor_boot, dtbo and recovery images
    -  `fastboot flash boot boot.img`
+   -  `fastboot flash init_boot init_boot.img`
    -  `fastboot flash vendor_boot vendor_boot.img`
    -  `fastboot flash dtbo dtbo.img`
    -  `fastboot flash recovery recovery.img`
@@ -27,3 +29,10 @@
 - Sideload the rom zip
 - Format data
 - Reboot
+
+# If after sideloading rom, device boots to bootloader:
+- Do clean flash steps again
+- When it asks for Yes/No promt for installing additional packages, select Yes
+- After device reboots recovery, sideload again.
+- This time when it asks for Yes/No promt for installing additional packages, select No
+- Format and Reboot
