@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_porsche-14.0-20240925-1558.zip",
-    "datetime": 1727279779,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2755947888,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240925-1558.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240925-1558.zip",
-    "filehash": "85681f840bfac21c1018984f6a9890ff",
-    "id": "85681f840bfac21c1018984f6a9890ff",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "whyredfire",
-            "name": "Karan Parashar"
+            "datetime": "1737222324",
+            "filename": "PixelOS_porsche-15.0-20250118-1747.zip",
+            "id": "575e1ee7fad620001324db1609101e0fe15bee01240ea6cda17a2d10e193e3e3",
+            "size": 2559448784,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/porsche/PixelOS_porsche-15.0-20250118-1747.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4650893/"
+    ]
 }
