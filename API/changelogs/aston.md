@@ -1,3 +1,6 @@
+# 21-Jan-2025
+- Updated vendor blobs from CPH2585_15.0.0.500(EX01)
+
 # 19-Jan-2025
 - Initial A15 release
 - January Security Patch
