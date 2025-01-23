@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1733246034",
-            "filename": "PixelOS_oscar-15.0-20241203-1715.zip",
-            "id": "b5e916ffd0e769d219b04259f691b5ae270f064127e5f2539f3ad8df00e062c6",
-            "size": 2584121886,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20241203-1715.zip",
+            "datetime": "1737612827",
+            "filename": "PixelOS_oscar-15.0-20250123-0615.zip",
+            "id": "a0afce1b7c418f41a545b6f3e62d5626efcd0099babc2a9ca84dafb1ed2ef80c",
+            "size": 2371358005,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20250123-0615.zip",
             "version": "15"
         }
     ]
