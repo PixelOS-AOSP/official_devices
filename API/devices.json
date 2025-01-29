@@ -547,7 +547,7 @@
             "model": "Xiaomi Mi 9 SE",
             "maintainer_name": "Tkiliay",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "toco",

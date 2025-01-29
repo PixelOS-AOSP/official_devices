@@ -8,7 +8,7 @@
     ],
     "model": "Xiaomi Mi 9 SE",
     "codename": "grus",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "19 October 2024",
