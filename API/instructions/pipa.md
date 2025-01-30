@@ -1,7 +1,6 @@
 # Keep in mind...
 - DO NOT USE any other recovery than PixelOS recovery which is included
-- Make sure to be on MIUI 14 before flashing. Flash MIUI 14 fastboot ROM if you're on HyperOS
-- MIUI 14 Global firmware required (Download [here](https://xmfirmwareupdater.com/firmware/pipa/stable/V14.0.13.0.TMZMIXM))
+- MIUI 14 Global firmware required (Download [here](https://xmfirmwareupdater.com/firmware/pipa/stable/OS1.0.15.0.UMZMIXM))
 - YOU MUST CLEAN FLASH IF:
     - You are coming from any other ROM or MIUI
 
@@ -30,3 +29,6 @@ There will be no loss of data if everything goes well. Keep backups incase of an
 - Click "Yes" after completion to reboot to recovery again.
 - Flash the Firmware zip through ADB sideload  by running `adb sideload <path/to/firmware.zip>` in terminal
 - Reboot and voila!
+
+# Keep in mind
+ Just in case if you experience black screen and unable to boot to recovery or system, reboot to bootloader and flash MIUI 14 Global Fastboot ROM to recover and you can proceed to flash PixelOS.
