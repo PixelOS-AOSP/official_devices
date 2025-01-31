@@ -1,6 +1,6 @@
 # Keep in mind...
 - DO NOT USE any other recovery than PixelOS recovery which is included
-- MIUI 14 Global firmware required (Download [here](https://xmfirmwareupdater.com/firmware/pipa/stable/OS1.0.15.0.UMZMIXM))
+- HyperOS Global firmware required (Download [here](https://xmfirmwareupdater.com/firmware/pipa/stable/OS1.0.15.0.UMZMIXM))
 - YOU MUST CLEAN FLASH IF:
     - You are coming from any other ROM or MIUI
 
