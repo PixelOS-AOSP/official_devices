@@ -9,10 +9,10 @@
     "model": "Poco F3/Mi 11X/Redmi K40",
     "codename": "alioth",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "26 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20241026-0915.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/",
+    "last_updated": "31 January 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250130-2345.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/",
     "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
 }

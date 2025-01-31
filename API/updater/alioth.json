@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_alioth-14.0-20241026-0915.zip",
-    "datetime": 1729934034,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2233172243,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20241026-0915.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20241026-0915.zip",
-    "filehash": "c42a7d76487affc70f36aaab40a767c3",
-    "id": "c42a7d76487affc70f36aaab40a767c3",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "NotZeetaa",
-            "name": "NotZeetaa"
+            "datetime": "1738280651",
+            "filename": "PixelOS_alioth-15.0-20250130-2345.zip",
+            "id": "2700ea60cf6c2bf39ee8a2c2df3b9d13c140f3969c09118762f833f76a2beb0b",
+            "size": 2143106235,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250130-2345.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
+    ]
 }
