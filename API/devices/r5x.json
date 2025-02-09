@@ -8,7 +8,7 @@
     ],
     "model": "realme 5/5i/5s",
     "codename": "r5x",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "01 March 2023",
