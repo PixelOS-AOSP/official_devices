@@ -1,22 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_cupid-14.0-20240511-1313.zip",
-    "datetime": 1715433109,
-    "size": 2395060799,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240511-1313.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240529-0715.zip",
-    "filehash": "1a1f41534ee274a02fc41c417daa5cf1",
-    "id": "1a1f41534ee274a02fc41c417daa5cf1",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "rk134",
-            "name": "Rahul"
+            "datetime": "1739642005",
+            "filename": "PixelOS_cupid-15.0-20250215-1754.zip",
+            "id": "6d85e9894e3be1ceaf2d11e92326ece6703ed3777a7fd871d0bb52c8e089575d",
+            "size": 2374921924,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/PixelOS_cupid-15.0-20250215-1754.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }

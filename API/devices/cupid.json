@@ -9,10 +9,10 @@
     "model": "Xiaomi 12",
     "codename": "cupid",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "30 May 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240511-1313.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/",
+    "last_updated": "16 February 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/PixelOS_cupid-15.0-20250215-1754.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/",
     "xda": null
 }
