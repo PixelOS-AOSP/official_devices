@@ -1,3 +1,6 @@
+# 17-Feb-2025
+- Implement adjustable strength flashlight support.
+
 # 17-Jan-2025
 - Fixed an issue where VOIP routing is misconfigured.
 
