@@ -8,7 +8,7 @@
     ],
     "model": "POCO X3 NFC",
     "codename": "surya",
-    "active": false,
+    "active": true,
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "18 February 2025",
