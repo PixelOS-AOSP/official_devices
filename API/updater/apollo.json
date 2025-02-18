@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_apollo-14.0-20241016-2005.zip",
-    "datetime": 1729109023,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2279844080,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20241016-2005.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20241016-2005.zip",
-    "filehash": "caa81a878d68b2b838d3de81f249c86d",
-    "id": "caa81a878d68b2b838d3de81f249c86d",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "ahmedtohamy1",
-            "name": "Ahmed Tohamy (Agmad)"
+            "datetime": "1739863592",
+            "filename": "PixelOS_apollo-15.0-20250218-0728.zip",
+            "id": "10c14a844cfd9f6673650855ca4a910a4db3270f1fd4f0d1416828a01de425ff",
+            "size": 2346092229,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/apollo/PixelOS_apollo-15.0-20250218-0728.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }

@@ -9,10 +9,10 @@
     "model": "Xiaomi MI 10T",
     "codename": "apollo",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "17 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20241016-2005.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/",
+    "last_updated": "18 February 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/apollo/PixelOS_apollo-15.0-20250218-0728.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/apollo/",
     "xda": null
 }
