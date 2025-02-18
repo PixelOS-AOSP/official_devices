@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_RMX2001L1-14.0-20241015-1433.zip",
-    "datetime": 1729002748,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2107783889,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20241015-1433.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-19/PixelOS_RMX2001L1-14.0-20241015-1433.zip",
-    "filehash": "ba3cfa3af45a26ca90e64caab1142028",
-    "id": "ba3cfa3af45a26ca90e64caab1142028",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "kardebayan",
-            "name": "Debayan Kar"
+            "datetime": "1739809714",
+            "filename": "PixelOS_RMX2001L1-15.0-20250217-1630.zip",
+            "id": "c1555b6191bdedba12795f081e6501d73736f9401dd8145e6228b7d1f9ea7b18",
+            "size": 2166762659,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/PixelOS_RMX2001L1-15.0-20250217-1630.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }

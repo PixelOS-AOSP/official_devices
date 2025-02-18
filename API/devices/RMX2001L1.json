@@ -9,10 +9,10 @@
     "model": "realme 6/6i(Indian)/6s/Narzo",
     "codename": "RMX2001L1",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "19 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20241015-1433.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/",
+    "last_updated": "18 February 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/PixelOS_RMX2001L1-15.0-20250217-1630.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/",
     "xda": null
 }
