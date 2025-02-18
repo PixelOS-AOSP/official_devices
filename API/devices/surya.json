@@ -9,10 +9,10 @@
     "model": "POCO X3 NFC",
     "codename": "surya",
     "active": false,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "07 July 2023",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230706-1536.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/surya/",
+    "last_updated": "18 February 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/surya/PixelOS_surya-15.0-20250217-2016.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/surya/",
     "xda": "https://xdaforums.com/t/rom-12-1-pixelos-surya-karna-stable-16-07-2022.4467219/"
 }

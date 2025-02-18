@@ -1,22 +1,12 @@
 {
-    "error": false,
-    "version": "thirteen",
-    "filename": "PixelOS_surya-13.0-20230706-1536.zip",
-    "datetime": 1688657709,
-    "size": 1855277935,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230706-1536.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-07-07/PixelOS_surya-13.0-20230706-1536.zip",
-    "filehash": "9d256e19546c3fadf5b47fe687cd0c1f",
-    "id": "9d256e19546c3fadf5b47fe687cd0c1f",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "ragy365",
-            "name": "Ragy"
+            "datetime": "1739823309",
+            "filename": "PixelOS_surya-15.0-20250217-2016.zip",
+            "id": "e8fdcb29b044c0c18df56fa9d6d240b9ed59912f82d902ab557e462c24914f37",
+            "size": 2148360131,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/surya/PixelOS_surya-15.0-20250217-2016.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-12-1-pixelos-surya-karna-stable-16-07-2022.4467219/"
+    ]
 }
