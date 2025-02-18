@@ -1,4 +1,3 @@
-\- Cleanup unused media codecs and profiles  
-\- Implement torch light control  
+\- Fixed an issue where in-call voice breaks when notification arrives  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

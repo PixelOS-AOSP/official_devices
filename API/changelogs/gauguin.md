@@ -1,3 +1,6 @@
+# 18-Feb-2025
+- Fixed an issue where in-call voice breaks when notification arrives
+
 # 16-Feb-2025
 - Cleanup unused media codecs and profiles
 - Implement torch light control
