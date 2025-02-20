@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_salaa-14.0-20241015-1512.zip",
-    "datetime": 1729005032,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2077701862,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20241015-1512.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-19/PixelOS_salaa-14.0-20241015-1512.zip",
-    "filehash": "d3e883fa428bb60fcadebda8c815fc6d",
-    "id": "d3e883fa428bb60fcadebda8c815fc6d",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "kardebayan",
-            "name": "Debayan Kar"
+            "datetime": "1739990976",
+            "filename": "PixelOS_salaa-15.0-20250219-1851.zip",
+            "id": "53fdafbe0a3a61514f0112e00784aeba27f0df10c70249743dcd1e522004c35f",
+            "size": 2112437107,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/PixelOS_salaa-15.0-20250219-1851.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
+    ]
 }

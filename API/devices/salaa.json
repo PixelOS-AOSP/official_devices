@@ -9,10 +9,10 @@
     "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
     "codename": "salaa",
     "active": true,
-    "version": "fourteen",
+    "version": "fifteen",
     "release": "monthly",
-    "last_updated": "19 October 2024",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20241015-1512.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/",
+    "last_updated": "20 February 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/PixelOS_salaa-15.0-20250219-1851.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/",
     "xda": null
 }
