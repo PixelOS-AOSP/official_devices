@@ -8,7 +8,7 @@
     ],
     "model": "Xiaomi 11 Lite 4G",
     "codename": "courbet",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "30 July 2024",

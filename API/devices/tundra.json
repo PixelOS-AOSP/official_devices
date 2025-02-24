@@ -8,7 +8,7 @@
     ],
     "model": "Motorola Edge (30 Fusion/S30 Pro)",
     "codename": "tundra",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "04 June 2024",

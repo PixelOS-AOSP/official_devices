@@ -7,7 +7,7 @@
             "model": "10or G",
             "maintainer_name": "kardebayan",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "flame",
@@ -61,7 +61,7 @@
             "model": "Motorola Edge (30 Fusion/S30 Pro)",
             "maintainer_name": "raghavt20",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "dubai",
@@ -115,7 +115,7 @@
             "model": "OnePlus 9RT 5G",
             "maintainer_name": "Sugakesshaa",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "oscar",
@@ -169,7 +169,7 @@
             "model": "POCO X3 Pro",
             "maintainer_name": "Clhex",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "alioth",
@@ -187,7 +187,7 @@
             "model": "Poco F5/ Redmi Note 12 Turbo",
             "maintainer_name": "Aditya",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "beryllium",
@@ -367,7 +367,7 @@
             "model": "Samsung Galaxy F62/M62",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "crownlte",
@@ -385,7 +385,7 @@
             "model": "Samsung Galaxy Note10",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "d1x",
@@ -394,7 +394,7 @@
             "model": "Samsung Galaxy Note10 5G",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "d2s",
@@ -403,7 +403,7 @@
             "model": "Samsung Galaxy Note10+",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "d2x",
@@ -412,7 +412,7 @@
             "model": "Samsung Galaxy Note10+ 5G",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "beyond1lte",
@@ -421,7 +421,7 @@
             "model": "Samsung Galaxy S10",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "beyondx",
@@ -430,7 +430,7 @@
             "model": "Samsung Galaxy S10 5G",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "beyond2lte",
@@ -439,7 +439,7 @@
             "model": "Samsung Galaxy S10+",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "beyond0lte",
@@ -448,7 +448,7 @@
             "model": "Samsung Galaxy S10e",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "starlte",
@@ -484,7 +484,7 @@
             "model": "Xiaomi 11 Lite 4G",
             "maintainer_name": "Vantom",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "lisa",
@@ -520,7 +520,7 @@
             "model": "Xiaomi 12T Pro/Redmi K50 Ultra",
             "maintainer_name": "Sugakesshaa",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "apollo",
@@ -556,7 +556,7 @@
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "pipa",

@@ -8,7 +8,7 @@
     ],
     "model": "10.or G",
     "codename": "G",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "21 August 2024",

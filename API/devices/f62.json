@@ -8,7 +8,7 @@
     ],
     "model": "Samsung Galaxy F62/M62",
     "codename": "f62/m62",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "19 October 2024",

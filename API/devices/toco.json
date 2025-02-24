@@ -8,7 +8,7 @@
     ],
     "model": "Xiaomi Mi Note 10 Lite",
     "codename": "toco",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "30 October 2024",

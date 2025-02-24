@@ -8,7 +8,7 @@
     ],
     "model": "OnePlus 9RT 5G",
     "codename": "martini",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "27 September 2024",

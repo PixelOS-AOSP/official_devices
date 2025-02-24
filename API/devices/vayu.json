@@ -8,7 +8,7 @@
     ],
     "model": "POCO X3 Pro",
     "codename": "vayu/bhima",
-    "active": true,
+    "active": false,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "17 October 2024",
