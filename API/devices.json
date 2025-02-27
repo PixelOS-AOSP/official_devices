@@ -131,7 +131,7 @@
             "codename_alt": "peridot",
             "vendor": "Xiaomi",
             "model": "POCO F6",
-            "maintainer_name": "raghavt20 and Ahmed Tohamy (Agmad)",
+            "maintainer_name": "raghavt20 and Ahmed Tohamy",
             "frame": null,
             "active": true
         },
@@ -527,7 +527,7 @@
             "codename_alt": "apollopro",
             "vendor": "Xiaomi",
             "model": "Xiaomi MI 10T",
-            "maintainer_name": "Ahmed Tohamy (Agmad)",
+            "maintainer_name": "Ahmed Tohamy",
             "frame": null,
             "active": true
         },
