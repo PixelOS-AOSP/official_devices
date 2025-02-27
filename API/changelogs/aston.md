@@ -1,3 +1,6 @@
+# 27-Feb-2025
+- Updated vendor blobs from CPH2585_15.0.0.600
+
 # 16-Feb-2025
 - Upstream kernel to 5.15.176
 - Added flashlight brightness control
