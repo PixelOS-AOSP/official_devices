@@ -91,6 +91,15 @@
             "active": true
         },
         {
+            "codename": "benz",
+            "codename_alt": "benz",
+            "vendor": "OnePlus",
+            "model": "OnePlus Nord CE 4",
+            "maintainer_name": "InFeRnO",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "hotdog",
             "codename_alt": "OnePlus7TPro",
             "vendor": "OnePlus",
