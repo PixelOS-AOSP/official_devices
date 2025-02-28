@@ -1,0 +1,18 @@
+{
+    "maintainer": [
+        {
+            "display_name": "InFeRnO",
+            "telegram": "inferno0230",
+            "github": "inferno0230"
+        }
+    ],
+    "model": "OnePlus Nord CE 4",
+    "codename": "benz",
+    "active": true,
+    "version": "fifteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/",
+    "xda": "https://xdaforums.com/t/4695160/"
+}
