@@ -565,7 +565,7 @@
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "tundra",
