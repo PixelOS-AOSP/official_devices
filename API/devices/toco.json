@@ -10,7 +10,7 @@
     "vendor": "Xiaomi",
     "codename": "toco",
     "codename_alt": "toco",
-    "active": false,
+    "active": true,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "30 October 2024",
