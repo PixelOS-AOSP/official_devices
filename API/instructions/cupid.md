@@ -1,6 +1,6 @@
 # Keep in mind...
 - DO NOT try to change the included kernel!
-- Ensure you are on HyperOS firmware (V1.0.3.0.ULCEUXM+).
+- Ensure you are on HyperOS firmware [HyperOS 2.0.1.0.VLCMIXM+ (EU/GL/etc works just fine.)].
 - Follow the appropriate section depending on which recovery you use.
 - YOU MUST CLEAN FLASH IF:
     - You are coming from any other ROM or MIUI.
