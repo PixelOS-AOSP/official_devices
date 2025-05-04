@@ -1,5 +1,5 @@
 # Prerequisites:
-- Device must be running OxygenOS version 15.0.0.400 or higher,
+- Device must be running OxygenOS version 15.0.0.600 or higher,
 - Flash the current build again using local install to ensure both slots have the same firmware. (Failing to do so will get you bricked)
 
 # Clean flash:
@@ -31,7 +31,7 @@
 
 # If after sideloading rom, device boots to bootloader:
 - Do clean flash steps again
-- When it asks for Yes/No promt for installing additional packages, select Yes
+- When it asks for Yes/No prompt for installing additional packages, select Yes
 - After device reboots recovery, sideload again.
-- This time when it asks for Yes/No promt for installing additional packages, select No
+- This time when it asks for Yes/No prompt for installing additional packages, select No
 - Format and Reboot

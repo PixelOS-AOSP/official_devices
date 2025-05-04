@@ -1,5 +1,5 @@
 # Prerequisites:
-- Device must be running OxygenOS(12R)/ColorOS(ACE3) version 15.0.0.600 or higher,
+- Device must be running OxygenOS version 15.0.0.800 or higher,
 - Flash the current build again using local install to ensure both slots have the same firmware. (Failing to do so will get you bricked)
 
 # Clean flash:
