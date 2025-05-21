@@ -10,7 +10,7 @@
     "vendor": "Xiaomi",
     "codename": "cupid",
     "codename_alt": "cupid",
-    "active": true,
+    "active": false,
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "04 May 2025",
