@@ -205,7 +205,7 @@
             "model": "Xiaomi 12",
             "maintainer_name": "Rahul",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "d1",
