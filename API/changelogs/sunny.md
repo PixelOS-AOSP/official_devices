@@ -1,3 +1,6 @@
+# 25-May-2025
+- Update libnotifyaudiohal from ruby V816.0.5.0.UMOMIXM to resolve an issue where the proximity sensor wasn't working.
+
 # 17-May-2025
 - Switch to common hardware/xiaomi VINTF fragments.
 - Switch to common AIDL lineage fingerprint HAL.
