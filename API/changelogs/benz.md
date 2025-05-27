@@ -1,3 +1,7 @@
+# 27-May-2025
+- Resync properties from CPH2613_15.0.0.801(EX01)
+- Fix screen recorder crash in 120hz
+
 # 25-May-2025
 - Upstream kernel
 - Update kernel-modules changes from CPH2585_15.0.0.801(EX01)
