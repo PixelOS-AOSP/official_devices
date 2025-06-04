@@ -1,5 +1,3 @@
-\- Switched to Lineage Kernel  
-\- Decreased app launch time  
-\- Dropped Dolby  
+\- Source upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

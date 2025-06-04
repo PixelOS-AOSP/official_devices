@@ -1,3 +1,6 @@
+# 04-Jun-2025
+- Source upstream
+
 # 25-Apr-2025
 - Switched to Lineage Kernel
 - Decreased app launch time
