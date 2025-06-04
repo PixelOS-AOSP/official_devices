@@ -466,7 +466,7 @@
             "model": "POCO F6",
             "maintainer_name": "Raghav Tandon",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "pipa",
