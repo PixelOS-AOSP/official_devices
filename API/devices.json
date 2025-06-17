@@ -464,9 +464,9 @@
             "codename_alt": "peridot",
             "vendor": "Xiaomi",
             "model": "POCO F6",
-            "maintainer_name": "Raghav Tandon",
+            "maintainer_name": "Ahmed Tohamy",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "pipa",
