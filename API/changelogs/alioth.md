@@ -1,3 +1,11 @@
+# 24-Jun-2025
+- Fix the misalignment of thermal profiles
+- Optimize display cutout
+- Add High Touch Polling Rate support
+- Upgrade zstd algorithm
+- Upgrade lz4 algorithm to 1.10
+- Resolve rild denials
+
 # 04-Jun-2025
 - Source upstream
 
