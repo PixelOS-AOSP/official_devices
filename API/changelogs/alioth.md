@@ -1,3 +1,6 @@
+# 25-Jun-2025
+- Fix BLE device pairing
+
 # 24-Jun-2025
 - Fix the misalignment of thermal profiles
 - Optimize display cutout
