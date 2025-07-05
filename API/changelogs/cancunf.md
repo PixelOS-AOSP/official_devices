@@ -1,3 +1,10 @@
+# 05-Jul-2025
+- Silence HWUI logspam.
+- Fixed an issue where Google Lens crashed in Moto Camera.
+- Implement dynamic sensors HAL for peripherals that support head-tracking.
+- Fixed an issue where DriveDroid stopped working.
+- Add symlinks for UFS preloader boot regions to support A/B OTA updates.
+
 # 16-May-2025
 - Enable SecureNFC support for relevant variants.
 - Remove debugfs references in init scripts.
