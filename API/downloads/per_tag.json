@@ -1690,13 +1690,13 @@
     "2024-10-17": [],
     "2024-10-19": [
         {
-            "beyond0lte": 511
+            "beyond0lte": 513
         },
         {
-            "beyond1lte": 603
+            "beyond1lte": 604
         },
         {
-            "beyond2lte": 595
+            "beyond2lte": 596
         },
         {
             "beyondx": 329
