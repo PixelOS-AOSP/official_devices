@@ -133,7 +133,7 @@
             "model": "OnePlus Pad 2",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "cancunf",
