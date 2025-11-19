@@ -463,10 +463,10 @@
             "codename": "peridot",
             "codename_alt": "peridot",
             "vendor": "Xiaomi",
-            "model": "POCO F6",
-            "maintainer_name": "Ahmed Tohamy",
+            "model": "Redmi Turbo 3 / POCO F6",
+            "maintainer_name": "Adarsh Grewal",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "pipa",
@@ -627,6 +627,24 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi 12 Pro",
             "maintainer_name": "Thomas Dada",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "garnet",
+            "codename_alt": "garnet",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 13 Pro 5G / POCO X6 5G",
+            "maintainer_name": "Adarsh Grewal",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "onyx",
+            "codename_alt": "onyx",
+            "vendor": "Xiaomi",
+            "model": "Redmi Turbo 4 Pro / POCO F7",
+            "maintainer_name": "Adarsh Grewal",
             "frame": null,
             "active": true
         }

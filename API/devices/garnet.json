@@ -6,10 +6,10 @@
             "github": "AdarshGrewal"
         }
     ],
-    "model": "Redmi Turbo 3 / POCO F6",
+    "model": "Redmi Note 13 Pro 5G / POCO X6 5G",
     "vendor": "Xiaomi",
-    "codename": "peridot",
-    "codename_alt": "peridot",
+    "codename": "garnet",
+    "codename_alt": "garnet",
     "active": true,
     "version": "sixteen",
     "release": "monthly",

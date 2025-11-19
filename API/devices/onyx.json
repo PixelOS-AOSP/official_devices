@@ -6,10 +6,10 @@
             "github": "AdarshGrewal"
         }
     ],
-    "model": "Redmi Turbo 3 / POCO F6",
+    "model": "Redmi Turbo 4 Pro / POCO F7",
     "vendor": "Xiaomi",
-    "codename": "peridot",
-    "codename_alt": "peridot",
+    "codename": "onyx",
+    "codename_alt": "onyx",
     "active": true,
     "version": "sixteen",
     "release": "monthly",
