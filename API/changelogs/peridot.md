@@ -1,3 +1,6 @@
+# 21-Nov-2025
+- Initial PixelOS 16 release
+
 # 18-Jan-2025
 - Initial A15 release
 - January Security Patch
