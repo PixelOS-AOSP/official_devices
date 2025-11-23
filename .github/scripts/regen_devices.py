@@ -1,7 +1,6 @@
 import json
 import os
 
-
 device_list = []
 
 for device in os.listdir("API/devices"):

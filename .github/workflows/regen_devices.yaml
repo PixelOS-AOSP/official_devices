@@ -4,17 +4,17 @@ on: push
 
 jobs:
   clone:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Regen devices json
         run: python3 .github/scripts/regen_devices.py
 
       - name: Commit to repo
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_user_name: PixelOS-Bot
           commit_user_email: auto-bot@pixelos.net

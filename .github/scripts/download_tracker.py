@@ -1,8 +1,11 @@
-import requests
-import re
-import os
+import asyncio
 import json
+import os
+import re
 from datetime import date
+from typing import Optional
+
+import httpx
 
 ORG = "pixelos-releases"
 REPO_NAME = "releases-public"
@@ -21,12 +24,15 @@ def add_dictionary_values(dict1: dict, dict2: dict) -> dict:
     return new_dict
 
 
-def fetch_new_downloads() -> dict:
+async def fetch_new_downloads() -> dict:
     # empty new json
     new_json = {}
 
     # get the API repsonse
-    all_releases = requests.get(API_ENDPOINT).json()
+    async with httpx.AsyncClient() as client:
+        r = await client.get(API_ENDPOINT)
+        r.raise_for_status()
+        all_releases = r.json()
 
     # filter through all filenames
     for tags in all_releases:
@@ -35,7 +41,7 @@ def fetch_new_downloads() -> dict:
             file_name = asset["name"]
 
             # match the filename to a given regex, group 0 here is devicename
-            rom_name = re.match("^PixelOS_(.+?)-.+?\.zip$", file_name)
+            rom_name = re.match(r"^PixelOS_(.+?)-.+?\.zip$", file_name)
 
             # if regex matches, get the device name, associate it with its download count
             if rom_name:
@@ -55,24 +61,29 @@ def merge_download_count(data: dict):
     return final
 
 
-def sf_download_count(path: str = None):
+async def sf_download_count(path: Optional[str] = None) -> Optional[int]:
     SF_URL = f"https://sourceforge.net/projects/{ORG}/files/"
     if path is not None:
         SF_URL += path.strip("/")
     SF_URL += f"/stats/json?start_date=2022-01-15&end_date={date.today().strftime('%Y-%m-%d')}"
-    resp = requests.get(SF_URL)
-    if resp.ok:
-        return resp.json()["total"]
+    async with httpx.AsyncClient() as client:
+        r = await client.get(SF_URL)
+        if r.status_code == 200:
+            return r.json()["total"]
     # return NONE on error, many devices non-existent on sf
 
 
-def sf_per_device_count(device_list: list[str]) -> dict:
+async def sf_per_device_count(device_list: list[str]) -> dict:
     _sf_json = {}
     android_versions = ["sixteen", "fifteen", "fourteen", "thirteen", "twelve"]
     for android in android_versions:
         _android_tmp = {}
-        for device in device_list:
-            count = sf_download_count(f"{android}/{device}")
+
+        counts_coro = [
+            sf_download_count(f"{android}/{device}") for device in device_list
+        ]
+        counts = await asyncio.gather(*counts_coro)
+        for device, count in zip(device_list, counts):
             if count is not None:
                 _android_tmp[device] = count
 
@@ -89,13 +100,13 @@ def gh_per_device_count(gh_data: dict) -> dict:
     return _gh_json
 
 
-if __name__ == "__main__":
+async def main():
     # load the old json as python dict
     with open(f"{DIR_PATH}/per_tag.json", "r") as fp:
         old_json = json.load(fp)
 
     # fetch new data from github
-    new_json = fetch_new_downloads()
+    new_json = await fetch_new_downloads()
 
     # update the old json with new values
     latest_json = {**old_json, **new_json}
@@ -106,7 +117,7 @@ if __name__ == "__main__":
 
     with open(f"{DIR_PATH}/total.json", "w") as fp:
         ghdc = merge_download_count(latest_json)
-        sfdc = sf_download_count()
+        sfdc = await sf_download_count()
         data = {"github": ghdc, "sourceforge": sfdc, "total": (ghdc + sfdc)}
         json.dump(data, fp, indent=4)
 
@@ -118,6 +129,10 @@ if __name__ == "__main__":
             for i in os.listdir("API/devices")
             if i.endswith(".json")
         ]
-        _sf_per_device = sf_per_device_count(device_list)
+        _sf_per_device = await sf_per_device_count(device_list)
         _gh_per_device = gh_per_device_count(latest_json)
         json.dump(add_dictionary_values(_sf_per_device, _gh_per_device), fp, indent=4)
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
