@@ -5,7 +5,7 @@ import re
 from datetime import date
 from typing import Optional
 
-import httpx
+from httpx import AsyncClient
 
 ORG = "pixelos-releases"
 REPO_NAME = "releases-public"
@@ -24,15 +24,14 @@ def add_dictionary_values(dict1: dict, dict2: dict) -> dict:
     return new_dict
 
 
-async def fetch_new_downloads() -> dict:
+async def fetch_new_downloads(client: AsyncClient) -> dict:
     # empty new json
     new_json = {}
 
     # get the API repsonse
-    async with httpx.AsyncClient() as client:
-        r = await client.get(API_ENDPOINT)
-        r.raise_for_status()
-        all_releases = r.json()
+    r = await client.get(API_ENDPOINT)
+    r.raise_for_status()
+    all_releases = r.json()
 
     # filter through all filenames
     for tags in all_releases:
@@ -61,26 +60,27 @@ def merge_download_count(data: dict):
     return final
 
 
-async def sf_download_count(path: Optional[str] = None) -> Optional[int]:
+async def sf_download_count(
+    client: AsyncClient, path: Optional[str] = None
+) -> Optional[int]:
     SF_URL = f"https://sourceforge.net/projects/{ORG}/files/"
     if path is not None:
         SF_URL += path.strip("/")
     SF_URL += f"/stats/json?start_date=2022-01-15&end_date={date.today().strftime('%Y-%m-%d')}"
-    async with httpx.AsyncClient() as client:
-        r = await client.get(SF_URL)
-        if r.status_code == 200:
-            return r.json()["total"]
+    r = await client.get(SF_URL)
+    if r.status_code == 200:
+        return r.json()["total"]
     # return NONE on error, many devices non-existent on sf
 
 
-async def sf_per_device_count(device_list: list[str]) -> dict:
+async def sf_per_device_count(client: AsyncClient, device_list: list[str]) -> dict:
     _sf_json = {}
     android_versions = ["sixteen", "fifteen", "fourteen", "thirteen", "twelve"]
     for android in android_versions:
         _android_tmp = {}
 
         counts_coro = [
-            sf_download_count(f"{android}/{device}") for device in device_list
+            sf_download_count(client, f"{android}/{device}") for device in device_list
         ]
         counts = await asyncio.gather(*counts_coro)
         for device, count in zip(device_list, counts):
@@ -101,37 +101,40 @@ def gh_per_device_count(gh_data: dict) -> dict:
 
 
 async def main():
-    # load the old json as python dict
-    with open(f"{DIR_PATH}/per_tag.json", "r") as fp:
-        old_json = json.load(fp)
+    async with AsyncClient(timeout=10) as client:
+        # load the old json as python dict
+        with open(f"{DIR_PATH}/per_tag.json", "r") as fp:
+            old_json = json.load(fp)
 
-    # fetch new data from github
-    new_json = await fetch_new_downloads()
+        # fetch new data from github
+        new_json = await fetch_new_downloads(client)
 
-    # update the old json with new values
-    latest_json = {**old_json, **new_json}
+        # update the old json with new values
+        latest_json = {**old_json, **new_json}
 
-    # dump the updated json
-    with open(f"{DIR_PATH}/per_tag.json", "w") as fp:
-        json.dump(latest_json, fp, indent=4)
+        # dump the updated json
+        with open(f"{DIR_PATH}/per_tag.json", "w") as fp:
+            json.dump(latest_json, fp, indent=4)
 
-    with open(f"{DIR_PATH}/total.json", "w") as fp:
-        ghdc = merge_download_count(latest_json)
-        sfdc = await sf_download_count()
-        data = {"github": ghdc, "sourceforge": sfdc, "total": (ghdc + sfdc)}
-        json.dump(data, fp, indent=4)
+        with open(f"{DIR_PATH}/total.json", "w") as fp:
+            ghdc = merge_download_count(latest_json)
+            sfdc = await sf_download_count(client)
+            data = {"github": ghdc, "sourceforge": sfdc, "total": (ghdc + sfdc)}
+            json.dump(data, fp, indent=4)
 
-    # per device, github and sf combined
-    with open(f"{DIR_PATH}/per_device.json", "w") as fp:
-        # get device names from API folder
-        device_list = [
-            i.replace(".json", "")
-            for i in os.listdir("API/devices")
-            if i.endswith(".json")
-        ]
-        _sf_per_device = await sf_per_device_count(device_list)
-        _gh_per_device = gh_per_device_count(latest_json)
-        json.dump(add_dictionary_values(_sf_per_device, _gh_per_device), fp, indent=4)
+        # per device, github and sf combined
+        with open(f"{DIR_PATH}/per_device.json", "w") as fp:
+            # get device names from API folder
+            device_list = [
+                i.replace(".json", "")
+                for i in os.listdir("API/devices")
+                if i.endswith(".json")
+            ]
+            _sf_per_device = await sf_per_device_count(client, device_list)
+            _gh_per_device = gh_per_device_count(latest_json)
+            json.dump(
+                add_dictionary_values(_sf_per_device, _gh_per_device), fp, indent=4
+            )
 
 
 if __name__ == "__main__":
