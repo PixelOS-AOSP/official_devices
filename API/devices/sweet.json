@@ -16,10 +16,10 @@
     "codename": "sweet",
     "codename_alt": "sweet/sweetin",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "17 May 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sweet/PixelOS_sweet-15.0-20250517-1357.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sweet/",
+    "last_updated": "01 December 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.0-20251130-2328.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/",
     "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-13-04-2023.4402719/"
 }
