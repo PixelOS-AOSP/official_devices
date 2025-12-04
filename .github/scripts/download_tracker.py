@@ -101,7 +101,7 @@ def gh_per_device_count(gh_data: dict) -> dict:
 
 
 async def main():
-    async with AsyncClient(timeout=10) as client:
+    async with AsyncClient(timeout=30) as client:
         # load the old json as python dict
         with open(f"{DIR_PATH}/per_tag.json", "r") as fp:
             old_json = json.load(fp)

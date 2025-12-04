@@ -6,7 +6,7 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 3 * * 0"
 
 jobs:
   clone:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Get Date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Install Dependencies
         run: pip install httpx
@@ -29,9 +29,7 @@ jobs:
       - name: Commit to repo
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_user_name: PixelOS-Bot
-          commit_user_email: auto-bot@pixelos.net
-          commit_author: PixelOS-Bot <auto-bot@pixelos.net>
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
           commit_message: Update downloads counts (${{ steps.date.outputs.date }})
           file_pattern: "API/downloads/*.json"

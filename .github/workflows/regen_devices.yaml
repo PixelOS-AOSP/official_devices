@@ -1,6 +1,11 @@
 name: Update devices json
 
-on: push
+on:
+  push:
+    paths:
+      - .github/workflows/regen_devices.yaml
+      - API/devices/*
+  workflow_dispatch:
 
 jobs:
   clone:
@@ -16,8 +21,6 @@ jobs:
       - name: Commit to repo
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_user_name: PixelOS-Bot
-          commit_user_email: auto-bot@pixelos.net
-          commit_author: PixelOS-Bot <auto-bot@pixelos.net>
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           commit_message: "[CI] Regen devices.json"
           file_pattern: "API/devices.json"
