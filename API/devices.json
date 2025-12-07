@@ -61,7 +61,7 @@
             "model": "OnePlus 12R/ACE 3 5G",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "benz",
@@ -70,7 +70,7 @@
             "model": "OnePlus Nord CE 4",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "beryllium",
@@ -133,7 +133,7 @@
             "model": "OnePlus Pad 2",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "cancunf",
