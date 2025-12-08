@@ -10,7 +10,7 @@
     "vendor": "OnePlus",
     "codename": "aston",
     "codename_alt": "aston",
-    "active": true,
+    "active": false,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "23 November 2025",
