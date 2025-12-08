@@ -10,7 +10,7 @@
     "vendor": "OnePlus",
     "codename": "caihong",
     "codename_alt": "caihong",
-    "active": true,
+    "active": false,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "22 November 2025",
