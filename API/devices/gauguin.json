@@ -11,10 +11,10 @@
     "codename": "gauguin",
     "codename_alt": "gauguin",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "16 May 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250510-0741.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/",
+    "last_updated": "13 December 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.1-20251213-1617.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/",
     "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-12-06-2022.4456563/"
 }

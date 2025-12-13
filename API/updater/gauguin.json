@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1746862767",
-            "filename": "PixelOS_gauguin-15.0-20250510-0741.zip",
-            "id": "4bc914c358f7032f49235261472ff0eabe7671a8702424989a7820ce093f64aa",
-            "size": 2419912592,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250510-0741.zip",
-            "version": "15"
+            "datetime": "1765642560",
+            "filename": "PixelOS_gauguin-16.1-20251213-1617.zip",
+            "id": "0fbe16aa4bdc0433944b7f01970c651a83edd4eabf0613347df84563e469907f",
+            "size": 2619389900,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.1-20251213-1617.zip",
+            "version": 16
         }
     ]
 }
