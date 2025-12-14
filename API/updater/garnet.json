@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1763662616",
-            "filename": "PixelOS_garnet-16.0-20251120-1819.zip",
-            "id": "d6b454e942bdc7ff2b5cd2b9b364778273ca5fb99053e20db52d68e2026e9869",
-            "size": 2617097248,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.0-20251120-1819.zip",
-            "version": "16"
+            "datetime": "1765696493",
+            "filename": "PixelOS_garnet-16.1-20251214-0716.zip",
+            "id": "067a6a76c14536e07c3df8ce5072dffd402c22e6303ab9e2363f8dbce26204b8",
+            "size": 2684851902,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.1-20251214-0716.zip",
+            "version": 16
         }
     ]
 }
