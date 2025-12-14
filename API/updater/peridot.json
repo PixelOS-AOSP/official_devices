@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1763715540",
-            "filename": "PixelOS_peridot-16.0-20251121-0901.zip",
-            "id": "0235ed33f5a4691039c787325a13d1d51d43ef6998877682bfd03ae78e10d686",
-            "size": 3235082428,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.0-20251121-0901.zip",
-            "version": "16"
+            "datetime": "1765702817",
+            "filename": "PixelOS_peridot-16.1-20251214-0901.zip",
+            "id": "842eb1a53b1919c74f9462f28a2d295a73d4e50974c233fd66a96aace30f25f2",
+            "size": 3301984933,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.1-20251214-0901.zip",
+            "version": 16
         }
     ]
 }
