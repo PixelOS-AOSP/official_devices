@@ -385,7 +385,7 @@
             "model": "Xiaomi 11 Lite 5G NE",
             "maintainer_name": "Karan Parashar",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "lunaa",
