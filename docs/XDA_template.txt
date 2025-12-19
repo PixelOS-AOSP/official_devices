@@ -1,7 +1,7 @@
-[ROM][14][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE/BETA]
+[ROM][16.1][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE/BETA]
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-releases/banners/fourteen/pixelos.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-CI/blog_assets/main/banner.png[/IMG]
 PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
@@ -24,11 +24,10 @@ PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. W
 
 [B][U]Downloads[/U][/B]
 Download [URL='https://pixelos.net/download/*']Download[/URL]
-Firmware [URL]https://xiaomifirmwareupdater.com/firmware/*/[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 <!-- Optionally Linkink a custom recovery here, preferably TWRP or OrangeFox Recovery -->
 Recovery [URL]*[/URL]
-PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/fourteen/*/recovery/[/URL]
+PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/sixteen/*/recovery/[/URL]
 
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
@@ -58,13 +57,13 @@ Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
 If you've noticed anything that isn't translated in a language you speak, please consider helping out with the translations.
 [URL unfurl="true"]https://translate.pixelos.net[/URL]
 
-We depend on donations to keep our infrastructure running, show your support by donating! 
+We depend on donations to keep our infrastructure running, show your support by donating!
 [B][URL unfurl="true"]https://blog.pixelos.net/docs/donate[/URL][/B]
 
 [B][U]Source Code[/U][/B]
 PixelOS http://github.com/PixelOS-AOSP
 Device Tree and Vendor Tree https://github.com/PixelOS-Devices
-Kernel Tree https://github.com/PixelOS-Devices/kernel_xiaomi_*
+Kernel Tree https://github.com/PixelOS-Devices/kernel_*
 
-[B]ROM OS Version:[/B] Android 14.
-[B]ROM Kernel:[/B] Linux 5.4.x
+[B]ROM OS Version:[/B] Android 16.
+[B]ROM Kernel:[/B] Linux 5.x.x
