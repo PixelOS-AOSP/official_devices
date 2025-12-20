@@ -1,38 +1,27 @@
-# 25-May-2025
-- Update libnotifyaudiohal from ruby V816.0.5.0.UMOMIXM to resolve an issue where the proximity sensor wasn't working.
+# 20-Dec-2025
+- Move back to QTI PerfD HIDL stack as the AIDL stack causes an abundance of logspams.
+- DisplayFeatures: Specify export behavior for BroadcastReceiver.
+- DisplayFeatures: Implement CABC mode to be utilized on devices that support it.
+- DisplayFeatures: Remove preferences of toggles that are unsupported.
+- DisplayFeatures: Reword summary of DisplayFeatures.
+- DisplayFeatures: Check if tiles are started first to unregister.
+- DisplayFeatures: Only restore preferences if they are available.
+- DisplayFeatures: Completely hide unavailable QS tiles.
+- DisplayFeatures: Store CABC value in SharedPreferences and restore at boot.
+- DisplayFeatures: Don't restore HBM at boot as it is a bad practice.
+- DisplayFeatures: Add French and Spanish translations.
+- DisplayFeatures: Protect FpsService broadcast.
+- DisplayFeatures: Protect AFMScheduleService broadcast.
+- DisplayFeatures: Minor improvements.
+- Update horizontal keyboard placement props to better match our device.
+- Disable data roaming by default.
+- Drop qcom/common entirely and switch back to stock GPU stack.
+- Enable blurs.
+- Fine tune status bar paddings.
+- Refine display cutout.
+- Disable high performance blur transitions.
+- Drop debug.sf.disable_client_composition_cache as it causes visible jank.
+- Reduce blur radius in systemui and launcher.
+- Opt out of speaker_layout_channel_mask field to fix an issue where there is no incoming call ring tone on bluetooth/headset.
+- Kernel state at r17b15.
 
-# 17-May-2025
-- Switch to common hardware/xiaomi VINTF fragments.
-- Switch to common AIDL lineage fingerprint HAL.
-- Drop unused lights HAL.
-- Switch to common device compatibility matrix from QCOM.
-- Resolve warnings in the GPS HAL.
-- Convert GPS HAL to blueprint.
-- Migrate mountpoint creation to blueprint.
-- Shim widevine libs with libcrypto_shim.
-- Switch to python extract-utils.
-- Enable and resolve ELF checks.
-- Clean up system IMS stack.
-- Drop prebuilt com.fingerprints.extension@1.0 as we are building the reversed implementation from hardware/xiaomi.
-- Drop media component and switch back to stock media blobs.
-- Clean up media stack.
-- Drop OMX completely and switch to Codec2.
-- Drop all BUILD_BROKEN flags.
-- Fixed an issue where in-call voice breaks when notification arrives.
-- Upgrade audio HAL to v7.0.
-- Drop first_stage_ramdisk GSI keys as it is redundant.
-- Enable Userfaultfd GC to improve memory management. (should improve the experience on 4GB RAM variants)
-- Upgrade tetheroffload HAL to 1.1.
-- Switch back to prebuilt camera provider to retain camera and flash capabilities on devices where one or more lenses are broken.
-- Kernel state at r17b13.
-
-# 17-Feb-2025
-- Implement adjustable strength flashlight support.
-
-# 17-Jan-2025
-- Fixed an issue where VOIP routing is misconfigured.
-
-# 16-Dec-2024
-- Properly disable turbulence effect to fix QS lags on media player.
-- Switch to AIDL Fingerprint HAL to fix fingerprint icon indicator position.
-- Kernel state at r17b12.
