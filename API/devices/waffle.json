@@ -7,12 +7,14 @@
         }
     ],
     "model": "OnePlus 12",
+    "vendor": "OnePlus",
     "codename": "waffle",
+    "codename_alt": "waffle",
     "active": true,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "",
     "download_link": "",
     "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/waffle/",
-    "xda": null
+    "xda": ""
 }
