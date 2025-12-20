@@ -622,6 +622,15 @@
             "active": false
         },
         {
+            "codename": "waffle",
+            "codename_alt": "waffle",
+            "vendor": "OnePlus",
+            "model": "OnePlus 12",
+            "maintainer_name": "Chandu",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "whyred",
             "codename_alt": "whyred",
             "vendor": "Xiaomi",
