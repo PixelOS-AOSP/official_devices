@@ -191,6 +191,14 @@
             "XDA": "https://xdaforums.com/m/zohaibkhan143.6228226/",
             "role": "sweet Maintainer",
             "tagline": "I'm the one who knocks"
+        },
+        {
+            "name": "Chandu",
+            "github": "chandu078",
+            "telegram": null,
+            "XDA": "https://xdaforums.com/m/chandu-dyavanapelli.9830048/",
+            "role": "waffle Maintainer",
+            "tagline": null
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Chandu",
+            "telegram": null,
+            "github": "chandu078"
+        }
+    ],
+    "model": "OnePlus 12",
+    "codename": "waffle",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/waffle/",
+    "xda": null
+}
