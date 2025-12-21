@@ -5,7 +5,6 @@
 - You MUST format data with given PixelOS recovery
 - YOU MUST CLEAN FLASH IF:
     - You are coming from any other ROM or MIUI
-    - You are coming from previous Android Version
 
 - If you face issues like poor RAM management or storage issues, you have not followed the instructions and/or have changed kernel/recovery. STRICTLY follow the instructions provided again before reporting any issues.
 - Formatting with PixelOS Recovery (yes, I mean PixelOS Recovery ONLY) is MUST during clean flash
