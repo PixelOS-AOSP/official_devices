@@ -11,10 +11,10 @@
     "codename": "alioth",
     "codename_alt": "alioth/aliothin",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "25 June 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250625-0247.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/",
+    "last_updated": "23 December 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.1-20251222-1437.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/",
     "xda": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-17-11-2022.4497443/"
 }
