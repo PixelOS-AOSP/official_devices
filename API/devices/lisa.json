@@ -10,7 +10,7 @@
     "vendor": "Xiaomi",
     "codename": "lisa",
     "codename_alt": "lisa",
-    "active": false,
+    "active": true,
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "18 May 2025",
