@@ -11,10 +11,10 @@
     "codename": "lisa",
     "codename_alt": "lisa",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "18 May 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lisa/PixelOS_lisa-15.0-20250516-1908.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lisa/",
+    "last_updated": "25 December 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/lisa/PixelOS_lisa-16.1-20251225-0737.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/lisa/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-29-11-2023.4392297/"
 }
