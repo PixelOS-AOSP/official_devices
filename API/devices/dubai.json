@@ -1,16 +1,16 @@
 {
     "maintainer": [
         {
-            "display_name": "Vantom",
-            "telegram": "Vantom",
-            "github": "vantoman"
+            "display_name": "Ashwin DS",
+            "telegram": "dsashwin",
+            "github": "geek0609"
         }
     ],
     "model": "Motorola Edge 30",
     "vendor": "Motorola",
     "codename": "dubai",
     "codename_alt": "dubai",
-    "active": false,
+    "active": true,
     "version": "thirteen",
     "release": "monthly",
     "last_updated": "08 May 2023",
