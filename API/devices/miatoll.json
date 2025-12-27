@@ -6,11 +6,11 @@
             "github": "kardebayan"
         }
     ],
-    "model": "POCO M2 Pro / Redmi Note (9S/Pro/Pro Max/10 Lite)",
+    "model": "POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite)",
     "vendor": "Xiaomi",
     "codename": "miatoll",
     "codename_alt": "curtana/joyeuse/excalibur/gram",
-    "active": false,
+    "active": true,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "21 August 2024",
