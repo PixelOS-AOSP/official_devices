@@ -418,10 +418,10 @@
             "codename": "miatoll",
             "codename_alt": "curtana/joyeuse/excalibur/gram",
             "vendor": "Xiaomi",
-            "model": "POCO M2 Pro / Redmi Note (9S/Pro/Pro Max/10 Lite)",
+            "model": "POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite)",
             "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "mido",
@@ -440,6 +440,15 @@
             "maintainer_name": "masarou",
             "frame": null,
             "active": false
+        },
+        {
+            "codename": "nemo",
+            "codename_alt": "RMX2001/RMX2002/RMX2003",
+            "vendor": "Realme",
+            "model": "realme 6/6i(Indian)/6s/Narzo",
+            "maintainer_name": "Debayan Kar",
+            "frame": null,
+            "active": true
         },
         {
             "codename": "onyx",
