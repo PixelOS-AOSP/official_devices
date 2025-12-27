@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Debayan Kar",
+            "telegram": "kardebayan",
+            "github": "kardebayan"
+        }
+    ],
+    "model": "realme 6/6i(Indian)/6s/Narzo",
+    "vendor": "Realme",
+    "codename": "nemo",
+    "codename_alt": "RMX2001/RMX2002/RMX2003",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/nemo/",
+    "xda": null
+}
