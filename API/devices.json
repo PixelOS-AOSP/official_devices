@@ -266,9 +266,9 @@
             "codename_alt": "dubai",
             "vendor": "Motorola",
             "model": "Motorola Edge 30",
-            "maintainer_name": "Vantom",
+            "maintainer_name": "Ashwin DS",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "f62",
