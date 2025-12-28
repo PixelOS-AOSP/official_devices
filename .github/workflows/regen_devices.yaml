@@ -1,4 +1,4 @@
-name: Update devices json
+name: Update devices json and device list
 
 on:
   push:
@@ -15,12 +15,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Regen devices json
+      - name: Regen devices json and device list
         run: python3 .github/scripts/regen_devices.py
 
       - name: Commit to repo
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          commit_message: "[CI] Regen devices.json"
-          file_pattern: "API/devices.json"
+          commit_message: "[CI] Regen devices.json and DeviceList.md"
+          file_pattern: "API/devices.json docs/DeviceList.md"
