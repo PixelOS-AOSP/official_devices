@@ -11,10 +11,10 @@
     "codename": "surya",
     "codename_alt": "surya/karna",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "07 April 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/surya/PixelOS_surya-15.0-20250402-0314.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/surya/",
+    "last_updated": "31 December 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/surya/PixelOS_surya-16.1-20251231-0548.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/surya/",
     "xda": "https://xdaforums.com/t/rom-12-1-pixelos-surya-karna-stable-16-07-2022.4467219/"
 }
