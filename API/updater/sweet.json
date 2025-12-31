@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1764545132",
-            "filename": "PixelOS_sweet-16.0-20251130-2328.zip",
-            "id": "19ec82794c7704b68528cd3d3e41a24a8e847bcc957a9f8ade9841f5ee8e3156",
-            "size": 2697893760,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.0-20251130-2328.zip",
-            "version": "16"
+            "datetime": "1767195714",
+            "filename": "PixelOS_sweet-16.1-20251231-1543.zip",
+            "id": "97674bf76aefb496301b84985d0da0e3e447388fd573abe347f39ebd7ca6a625",
+            "size": 2790621461,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.1-20251231-1543.zip",
+            "version": 16
         }
     ]
 }

@@ -1,3 +1,12 @@
+# 31-Dec-2025
+- Updated device menus to Material Expressive design
+- Enabled Always-on Display wallpapers
+- Made UI blurs configurable via Developer Options
+- Fixed silent ringtones on headsets
+- Optimized system performance and transitions
+- Enabled USB and skin temperature warnings
+- Cleaned up system logs and non-existent properties
+
 # 01-Dec-2025
 - Initial Android 16 build
 
