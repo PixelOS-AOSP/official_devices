@@ -10,7 +10,7 @@
     "vendor": "Realme",
     "codename": "RMX2001L1",
     "codename_alt": "nemo",
-    "active": true,
+    "active": false,
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "14 April 2025",
