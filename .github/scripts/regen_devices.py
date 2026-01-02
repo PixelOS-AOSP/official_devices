@@ -7,6 +7,20 @@ for device in os.listdir("API/devices"):
     with open(f"API/devices/{device}", "r") as f:
         device_data = json.load(f)
 
+    codename = device_data["codename"]
+    updater_path = f"API/updater/{codename}.json"
+    last_updated = None
+    version = None
+    if os.path.exists(updater_path):
+        with open(updater_path, "r") as f:
+            updater_data = json.load(f)
+            if len(updater_data.get("response", [])) > 0:
+                try:
+                    last_updated = int(updater_data["response"][0].get("datetime"))
+                    version = int (updater_data["response"][0].get("version"))
+                except:
+                    pass
+
     device_entry = {
         "codename": device_data["codename"],
         "codename_alt": device_data["codename_alt"],
@@ -17,6 +31,8 @@ for device in os.listdir("API/devices"):
         ),
         "frame": None,
         "active": device_data["active"],
+        "last_updated": last_updated,
+        "version": version,
     }
 
     device_list.append(device_entry)
