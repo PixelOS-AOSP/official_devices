@@ -1,3 +1,8 @@
+# 02-Jan-2026
+- Implement bypass charging support 
+- Fixed an issue where Roboto was used instead of Google Sans
+- Disable Dolby volume leveler by default
+
 # 31-Dec-2025
 - Updated device menus to Material Expressive design
 - Enabled Always-on Display wallpapers
