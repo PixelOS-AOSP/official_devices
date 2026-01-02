@@ -25,7 +25,7 @@
             "model": "realme 6/6i(Indian)/6s/Narzo",
             "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "RMX2020",
