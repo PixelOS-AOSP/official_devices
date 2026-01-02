@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1767160004",
-            "filename": "PixelOS_surya-16.1-20251231-0548.zip",
-            "id": "9271db00a32c482be66061c104bd7f0172f5eab8a3f4064328f821bd5cbe04f4",
-            "size": 2423241339,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/surya/PixelOS_surya-16.1-20251231-0548.zip",
+            "datetime": "1767324400",
+            "filename": "PixelOS_surya-16.1-20260102-0328.zip",
+            "id": "7dd80c151ca0ac18611b9f1ff9ffec719e4195c36bbee33288be2ce3f156cf54",
+            "size": 2423924503,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/surya/PixelOS_surya-16.1-20260102-0328.zip",
             "version": 16
         }
     ]
