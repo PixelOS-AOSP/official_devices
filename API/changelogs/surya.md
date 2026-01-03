@@ -1,3 +1,6 @@
+# 03-Jan-2026
+- Fixed NFC for INT_PA variants
+
 # 02-Jan-2026
 - Added Bypass Charging to allow direct power delivery from the charger.
 - Fixed an issue preventing NFC from functioning properly.
