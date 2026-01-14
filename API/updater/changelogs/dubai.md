@@ -1,3 +1,3 @@
-\- Initial Android 16 Build  
+\- Source upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
