@@ -1,3 +1,6 @@
+# 15-Jan-2026
+- Platform upstream
+
 # 02-Jan-2026
 - Implement bypass charging support 
 - Fixed an issue where Roboto was used instead of Google Sans
