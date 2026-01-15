@@ -1,3 +1,6 @@
+# 15-Jan-2026
+- Disable blurs by default.
+
 # 20-Dec-2025
 - Move back to QTI PerfD HIDL stack as the AIDL stack causes an abundance of logspams.
 - DisplayFeatures: Specify export behavior for BroadcastReceiver.
