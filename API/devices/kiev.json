@@ -11,10 +11,10 @@
     "codename": "kiev",
     "codename_alt": "kiev",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "18 May 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/kiev/PixelOS_kiev-15.0-20250518-1521.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/kiev/",
+    "last_updated": "15 January 2026",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/PixelOS_kiev-16.1-20260115-0708.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/",
     "xda": null
 }
