@@ -1,16 +1,16 @@
 {
     "maintainer": [
         {
-            "display_name": "Sugakesshaa",
-            "telegram": "Megalodonzs",
-            "github": "bheatleyyy"
+            "display_name": "Aryan",
+            "telegram": "aryannn999",
+            "github": "basamaryan"
         }
     ],
     "model": "OnePlus 9RT 5G",
     "vendor": "OnePlus",
     "codename": "martini",
     "codename_alt": "martini",
-    "active": false,
+    "active": true,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "27 September 2024",

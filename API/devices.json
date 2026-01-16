@@ -500,9 +500,9 @@
             "codename_alt": "martini",
             "vendor": "OnePlus",
             "model": "OnePlus 9RT 5G",
-            "maintainer_name": "Sugakesshaa",
+            "maintainer_name": "Aryan",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": null,
             "version": null
         },
