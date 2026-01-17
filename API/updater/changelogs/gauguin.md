@@ -1,3 +1,3 @@
-\- Initial Android 16 QPR1 release  
+\- Source upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
