@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_martini-14.0-20240925-1724.zip",
-    "datetime": 1727284950,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2560303873,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240925-1724.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240925-1724.zip",
-    "filehash": "c3276328d831a88fdcc8b4b4496a1fa4",
-    "id": "c3276328d831a88fdcc8b4b4496a1fa4",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "bheatleyyy",
-            "name": "Sugakesshaa"
+            "datetime": "1768536510",
+            "filename": "PixelOS_martini-16.1-20260116-0410.zip",
+            "id": "5913d187968f08889aec998ba768222396ac53949eac39a8a255eedac6d321fe",
+            "size": 2714553024,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/martini/PixelOS_martini-16.1-20260116-0410.zip",
+            "version": 16
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable-09-12-2023.4644971/"
+    ]
 }
