@@ -11,10 +11,10 @@
     "codename": "RMX2020",
     "codename_alt": "RMX2020",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "18 May 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20250517-0503.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/",
+    "last_updated": "25 January 2026",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/RMX2020/PixelOS_RMX2020-16.1-20260125-0929.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/RMX2020/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4642903/"
 }
