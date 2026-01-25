@@ -1,3 +1,9 @@
+# 25-Jan-2026
+- Build possible display components from source
+- Move keyguard text above udfps icon
+- Update from OS2.0.208.0.VNPMIXM
+- Allow games to use 120fps
+
 # 14-Dec-2025
 - Initial PixelOS 16 QPR1 release
 
