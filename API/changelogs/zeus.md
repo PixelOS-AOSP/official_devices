@@ -1,10 +1,3 @@
-# 24-Apr-2025
-- Source upstream
-- Kernel upstream
+# 26-Jan-2026
+- Initial PixelOS 16 QPR1 Build
 
-# 26-Feb-2025
-- Fixed MIUICamera
-- Updated Blobs from diting V816.0.10.0.ULFMIXM
-
-# 13-Dec-2024
-- Initial Android 15 release
