@@ -10,7 +10,7 @@
     "vendor": "Xiaomi",
     "codename": "cepheus",
     "codename_alt": "cepheus",
-    "active": true,
+    "active": false,
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "18 January 2025",
