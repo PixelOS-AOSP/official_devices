@@ -1,3 +1,6 @@
+# 26-Jan-2026
+- Fix Adaptive RR going to 30hz
+
 # 25-Jan-2026
 - Drop spatial audio 
 - Disable usage of 30hz
