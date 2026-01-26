@@ -62,7 +62,7 @@
             "model": "Xiaomi MI 10T",
             "maintainer_name": "Ahmed Tohamy",
             "frame": null,
-            "active": true,
+            "active": false,
             "last_updated": 1739863592,
             "version": 15
         },
@@ -183,7 +183,7 @@
             "model": "Xiaomi Mi 9",
             "maintainer_name": "balgxmr",
             "frame": null,
-            "active": true,
+            "active": false,
             "last_updated": 1737160375,
             "version": 15
         },
@@ -645,7 +645,7 @@
             "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
             "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": true,
+            "active": false,
             "last_updated": 1744064182,
             "version": 15
         },
@@ -656,7 +656,7 @@
             "model": "Redmi 12 5G/Poco M6 Pro 5G",
             "maintainer_name": "jendermine",
             "frame": null,
-            "active": true,
+            "active": false,
             "last_updated": 1747538421,
             "version": 15
         },
