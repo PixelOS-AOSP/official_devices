@@ -1,3 +1,6 @@
+# 31-Jan-2026
+- Fix an issue where audio from earpiece was distorted in VOIP calls
+
 # 14-Jan-2026
 - Source upstream
 
