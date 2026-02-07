@@ -1,12 +1,50 @@
 {
     "response": [
         {
-            "datetime": "1769460015",
-            "filename": "PixelOS_onyx-16.1-20260126-2041.zip",
-            "id": "06b5c836a3a5c8a1a24fb8d8cc6c3ff549d3c06d6d6c3e44e657790962f0b4cb",
-            "size": 4194009277,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20260126-2041.zip",
-            "version": 16
+            "datetime": "1770410971",
+            "filename": "PixelOS_onyx-16.1-20260206-2050.zip",
+            "id": "b6f01f304511e87acf9a0876f49613bc68abcf786ff1e7f34d3e3bcf4d5f5718",
+            "size": 4181472178,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20260206-2050.zip",
+            "version": 16,
+            "stream": true,
+            "stream_url": "https://download.pixelos.net/onyx/PixelOS_onyx-16.1-20260206-2050.zip",
+            "payload": [
+                {
+                    "offset": 4532,
+                    "FILE_HASH": "soNvnHret89saiIO9wrPi/3TWy0E7GTViF7+33m1i+w=",
+                    "FILE_SIZE": "4181464245",
+                    "METADATA_HASH": "f5uKy82vlbNkvTDsULuBYbzQIBajXMnL5Xn3SFo/VX4=",
+                    "METADATA_SIZE": "215221"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "init_boot-onyx_20260206_2050.img",
+                    "SHA256": "c21572316ba901157a6dac6f0a813b24507e35bd70a34efe02f152a8e67a312a",
+                    "size": 8388608
+                },
+                {
+                    "name": "recovery-onyx_20260206_2050.img",
+                    "SHA256": "2da7676c131e31b1616273d21b59abb1e9b7ab555a3ed74294038732dd7e67d9",
+                    "size": 104857600
+                },
+                {
+                    "name": "dtbo-onyx_20260206_2050.img",
+                    "SHA256": "77b74addf85fef8c33a45d7614f3bc1c4afa98ca6995bf606b9c53de82f1718f",
+                    "size": 25165824
+                },
+                {
+                    "name": "boot-onyx_20260206_2050.img",
+                    "SHA256": "3233d611b955d5b3258c2600b9f653807043507a9cce21f0c7433477b387484c",
+                    "size": 100663296
+                },
+                {
+                    "name": "vendor_boot-onyx_20260206_2050.img",
+                    "SHA256": "29ae5387a3fa6d9c667e4aac957a8abed5f0c486639f43029d45faa742965038",
+                    "size": 100663296
+                }
+            ]
         }
     ]
 }
