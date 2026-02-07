@@ -1,3 +1,10 @@
+# 07-Feb-2026
+- Removed Dolby stack
+- Drop  unused blobs and fw
+- Switch to libperfmgr
+- Fixed OTA ( will work from this build)
+- Switch to AOSP NXP keymint HAL
+
 # 25-Jan-2026
 - Build possible display components from source
 - Move keyguard text above udfps icon
