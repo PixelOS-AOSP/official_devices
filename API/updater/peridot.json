@@ -8,7 +8,7 @@
             "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.1-20260206-1753.zip",
             "version": 16,
             "stream": true,
-            "stream_url": "https://download.pixelos.net/peridot/PixelOS_peridot-16.1-20260206-1753.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/peridot/PixelOS_peridot-16.1-20260206-1753.zip",
             "payload": [
                 {
                     "offset": 4694,
