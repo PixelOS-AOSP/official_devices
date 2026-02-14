@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/regen_devices.yaml
-      - API/devices/*
+      - API/*
   workflow_dispatch:
 
 jobs:
@@ -24,3 +24,10 @@ jobs:
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           commit_message: "[CI] Regen devices.json and DeviceList.md"
           file_pattern: "API/devices.json docs/DeviceList.md"
+
+      - name: Revalidate website
+        run: |
+          curl -sSf -X POST https://pixelos.net/api/revalidate \
+            -H "Authorization: Bearer ${{ secrets.REVALIDATION_SECRET }}" \
+            -H "Content-Type: application/json" \
+            -d '{"target": "all"}'
