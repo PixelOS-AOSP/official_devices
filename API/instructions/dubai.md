@@ -4,7 +4,7 @@
 - Make sure the device has an unlocked bootload. If not, follow steps [here](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
 - Clean flash when coming from a different Custom ROM or Stock
 - Make sure to have installed all the required drivers from [here](https://en-us.support.motorola.com/app/usb-drivers) and platform tools from [here](https://developer.android.com/tools/releases/platform-tools). It is advised to add platform tools to the PATH environment variable, follow instructions [here](https://github.com/alexal1/Insomniac/wiki/Adding-platform-tools-to-the-PATH-environment-variable)
-- Avoid using ANY other recovery than PixelOS recovery
+- Do NOT attempt to change recovery or kernel from what is included.
 
 
 # Clean Flash
