@@ -28,21 +28,15 @@ fastboot flash boot path/to/boot.img
     - by running the command `fastboot reboot recovery`
     
     You Should be greeted with PixelOS Recovery
-5. In some cases, the inactive slot can be unpopulated or contain much older firmware than the active slot. To be safe:
-    - Download the copy-partitions-20220613-signed.zip file from [here](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
-    - On the device, select `Apply update`, then `Apply from ADB` to begin sideload
-    - Sideload the package using the command `adb -d sideload copy-partitions-20220613-signed.zip`
-    
-    Thanks to erfanoabdi and filipepferraz for creating this script.
-6. Now reboot to recovery by tapping `Advanced`, then `Reboot to recovery`.
-7. Now tap Factory Reset, then Format data / factory reset (THIS WILL WIPE YOUR DATA)
-8. Return to the main menu and select `Apply update`, then `Apply from ADB` to begin sideload.
-9. Sideload the `PixelOS_dubai.zip` file by running the command `adb -d sideload /path/to/zip`. After the package is installed, recovery will inform you that reboot to recovery is required to install add-ons. Select “No”.
+5. Now reboot to recovery by tapping `Advanced`, then `Reboot to recovery`.
+6. Now tap Factory Reset, then Format data / factory reset (THIS WILL WIPE YOUR DATA)
+7. Return to the main menu and select `Apply update`, then `Apply from ADB` to begin sideload.
+8. Sideload the `PixelOS_dubai.zip` file by running the command `adb -d sideload /path/to/zip`. After the package is installed, recovery will inform you that reboot to recovery is required to install add-ons. Select “No”.
 
 
     Normally, adb reports Total xfer: 1.00x, but in some cases, even if the process succeeds, the output may stop at 47% and show adb: failed to read command: Success. In other instances, it might display adb: failed to read command: No error or adb: failed to read command: Undefined error: 0 which is also fine
 
-10. Go the main menu, select `Reboot system now` and voila!
+9. Go the main menu, select `Reboot system now` and voila!
 
     The first boot usually takes no longer than 15 minutes, depending on the device. If it takes longer, you may have missed a step, otherwise feel free to get assistance.
 
@@ -66,4 +60,5 @@ There will be no loss of data if everything goes well. Keep backups incase of an
 5. Go the main menu, select `Reboot system now` and voila!
 
     The first boot usually takes no longer than 15 minutes, depending on the device. If it takes longer, you may have missed a step, otherwise feel free to get assistance.
+
 
