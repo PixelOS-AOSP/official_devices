@@ -640,12 +640,12 @@
         },
         {
             "codename": "salaa",
-            "codename_alt": "salaa",
+            "codename_alt": "RMX2151/RMX2151L1/RMX2153L1/RMX2155L1/RMX2156L1/RMX2161L1/RMX2163L1",
             "vendor": "Realme",
             "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
             "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1744064182,
             "version": 15
         },
