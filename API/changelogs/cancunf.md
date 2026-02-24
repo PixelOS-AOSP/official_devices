@@ -1,83 +1,32 @@
-# 05-Jul-2025
-- Silence HWUI logspam.
-- Fixed an issue where Google Lens crashed in Moto Camera.
-- Implement dynamic sensors HAL for peripherals that support head-tracking.
-- Fixed an issue where DriveDroid stopped working.
-- Add symlinks for UFS preloader boot regions to support A/B OTA updates.
+# 24-Feb-2026
+- Update blobs to V1TD35M.83-20-5.
+- Switch to AIDL imgtuner service.
+- Add dav1d software video decoder.
+- Update IMS patches to V1TD35M.83-20-5.
+- Update blobs to V1TDS35M.83-20-5-3.
+- Add permissions for com.android.nfc_extras and com.nxp.mifare.
+- Switch to using phase offsets as durations for SurfaceFlinger to reduce jitter and improve vsync.
+- Drop vsync event props as they are not to be utilized with phase durations.
+- Unsignal buffer latching with AutoSingleLayer to reduce app jank while being unaffected by display freezes.
+- Enable GL comp backpressure to avoid jank due to HWC queue stuffing.
+- Update CarrierConfigOverlay to V1TDS35M.83-20-5-3.
+- Reduce max resolution for HEIF images to prevent HW overload issue.
+- Move kernel modules to a new DLKM vendor_ramdisk fragment to improve modularity.
+- Drop mtk_perf_common module as we don't need it.
+- Drop AEE and ATF modules as they are debugging modules.
+- Enable ELF checks for libimsma.
+- Drop BesLoudness as we don't need it.
+- Add permissions for com.mediatek.ims.config.xml.
+- Address more SEPolicy for wakeup nodes.
+- Patch mtkfusionrild to load libutils-v32 to fix RIL.
+- Switch to LZ4 compression for EROFS images to improve decompression speed substantially.
+- Add WifiResOverlay for G64Y (XT2431-2).
+- Ship full firmware within the ROM zip.
+- Label SEPolicy for persist.moto.vt.timegap.
+- Update VT system blobs from rothko A16 to fix VT.
+- Update AVB rollback index from V1TDS35M.83-20-5-3.
+- Install apex for clearkey service.
+- Switch to regular AIDL Wi-Fi HAL over the lazy HAL as we don't need to defer initialization of Wi-Fi.
+- Move to reference fastboot AIDL service.
+- Cleanup Lights AIDL HAL.
 
-# 16-May-2025
-- Enable SecureNFC support for relevant variants.
-- Remove debugfs references in init scripts.
-- Optimize native executables for Cortex-A76 CPU.
-- Don't latch unsignaled buffers to reduce jank frames.
-- Tune UCLAMP_MIN range and RT task defaults.
-- Disable OMX as it is deprecated.
-- Disable MTK SecureElement service for non-NFC devices.
-- Update blobs to U1TDS34.94-12-9-10-2.
-- Update AVB rollback index to U1TDS34.94-12-9-10-2.
-- Don't avb chain boot partition as BL expects boot props to be in vbmeta.
-- Move to OSS libfmjni.
-- Pin modified scripts to remove FTS support.
-- Drop dolby to alleviate audio distortion.
-- Add support for IPSEC_TUNNEL_MIGRATION.
-- Allow PinnerService to pin launcher and webview to improve interactivity.
-- Drop redundant cancunn/devonn WMT configurations.
-- Add support for Android 14 January SPL firmware. (U1TDS34.94-12-9-10-2)
-- Ship gpueb.img from U1TDS34.94-12-9-10-2 to retain backwards compatibility with older firmware.
-- Improve audio quality by reducing distortion.
-- Fix NFC for SKU n. (XT2343-1, Samsung NFC)
-- Kernel state at r1b3.
-- Remove unused oem services as we don't ship the debugging blobs that are required by them.
-- Remove runtime ro.carrier setting as it is set at build time.
-- Remove init.mmi.chipset.rc as there is no need for a separate rc file for a simple insmod.
-- Drop batt_health completely as it is unused on AOSP.
-- Move init.cancunf.sku.rc to vendor/etc/init to follow the hierarchy of cpu/soc/device-specific init configurations.
-- Override AIDL NXP eSE vintf for non-NXP devices to silence eSE logspam on non-NFC devices.
-- Switch to AOSP's default UI renderengine.
-- Fix random Wi-Fi disconnections in 2.4GHz networks by increasing the maximum bandwidth to 40MHz.
-- Drop ATCI service as it is useless.
-- Enable hide cutout emulations for full screen within games.
-
-# 19-Jan-2025
-- Add complete support for moto g64 and moto g64y. 
-- FeLiCa Payment support added for Japanese units.
-- Fine Tune LMK and VM parameters.
-- Set proper dalvik heap properties for 4/8/12gb RAM units.
-- Update to proper CPUFreq Nodes on powerhint.
-- Drop redundant panel modules and firmware.
-- Implement VolumeSyncronizer for reducing the audio distortion at high volume.
-- Switch to custom 2.1 sensors MultiHal.
-- Skip loading Motorola's double/single tap sensors to prevent event keys from being blocked.
-- Implement PoweHAL Double Tap To Wake on NVT and ILITEK.
-- Implement Lineage Touch HAL.
-- Implement TapGestures from YAAP OP7 for single tap gestures on NVT and ILITEK.
-- Set show ambient as the default single tap gesture to match stock behavior.
-- Switch to schedutil as the cpufreq governor at boot and configure rate limits.
-- Drop fpsgo modifications from powerhint.
-- Drop MediaTek scheduler modules.
-- Include recovery ramdisk in vendor_boot to follow AOSP specifications.
-- Switch to DragonHeart kernel.
-- Kernel state at r1b2.
-- Implement support for WPA3-SAE enumeration.
-
-# 16-Dec-2024
-- Switch to Pixel Thermal Service to improve thermal management.
-- Fixed an issue where SD card doesn't mount in third-party apps.
-- Fixed an issue where Dolby doesn't get initialized.
-- Update blobs to U1TD34.94-12-9-10.
-- Disable ZRAM Writeback to improve UFS lifespan.
-- Add RegulatoryOverlay for all SKUs.
-- Switch to Stock IMS VT stack.
-- Match Stock Secure element SKU setup.
-- Enable WideColorGamut support.
-- Alleviate audio distortion by a tad bit. (Decrease call volume for issue to be permanently resolved)
-- Silence TRS logspam.
-- Set 1 second timeout to interaction boosts to prevent permanent boost triggers.
-- Build AOSP FMRadio.
-- Offload WM shell to another thread to improve performance.
-- Update GPU blobs from V1TD35H.58 (A15 beta) to fix vulkan rendering.
-- Switch to OSS kernel modules.
-- Switch to OSS DTB.
-- Remove Moto MM modifications and use ZRAM.
-- Drop FocalTech TS support as cancunf does not use this TS panel.
-- Update blobs to U1TDS34.94-12-9-10-1.
