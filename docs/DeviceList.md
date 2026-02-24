@@ -21,7 +21,8 @@ Officially Supported Devices:
 1. Realme C3/Realme Narzo 10A (RMX2020)
 2. Realme GT 2 (porsche)
 3. realme 6/6i(Indian)/6s/Narzo (RMX2001/RMX2002/RMX2003)
-4. realme GT Master (lunaa)
+4. realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)
+5. realme GT Master (lunaa)
 
 **Xiaomi**
 1. POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite) (curtana/joyeuse/excalibur/gram)
