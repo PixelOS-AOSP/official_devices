@@ -1,12 +1,31 @@
 {
     "response": [
         {
-            "datetime": "1768395709",
-            "filename": "PixelOS_miatoll-16.1-20260114-1303.zip",
-            "id": "91b4138636af7e382b620abb6a402da3fefeee313956c761e9d94e6b616dbe30",
-            "size": 2420907594,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/miatoll/PixelOS_miatoll-16.1-20260114-1303.zip",
-            "version": 16
+            "datetime": "1771891338",
+            "filename": "PixelOS_miatoll-16.2-20260224-0004.zip",
+            "id": "ccba2252b232895bef2a26af29dacaa3632eebb57c4b5b263903b59dbcfc5a8e",
+            "size": 2622827394,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/miatoll/PixelOS_miatoll-16.2-20260224-0004.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/miatoll/PixelOS_miatoll-16.2-20260224-0004.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-miatoll_20260224_0004.img",
+                    "SHA256": "be9bf870518d0bd9f2ee1fb179ba78d320096babba1e67c4a723a90d9efc8d38",
+                    "size": 134217728
+                },
+                {
+                    "name": "dtbo-miatoll_20260224_0004.img",
+                    "SHA256": "6244dffabdd185655bc95a032a639bce6956de7ff1b6adba8b8acdfc036350ed",
+                    "size": 8388608
+                },
+                {
+                    "name": "boot-miatoll_20260224_0004.img",
+                    "SHA256": "b2240e92feca16376a22b69dff47b1ba89201623647d32ca17c7610864d1511d",
+                    "size": 134217728
+                }
+            ]
         }
     ]
 }

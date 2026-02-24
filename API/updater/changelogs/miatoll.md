@@ -1,13 +1,16 @@
-\- Enabled Userfaultfd (UFFD) Garbage Collection for improved memory management  
-\- Reduced system-wide blur radius for better performance  
-\- Moved USB MTP/PTP functionality to the USB FunctionFS (F_FS) driver  
-\- Migrated to the QTI USB Gadget AIDL HAL  
-\- Switched default USB tethering protocol to NCM  
-\- Enabled support for using the device as a high-quality webcam  
-\- Removed unnecessary virtual framebuffer to save system resources  
-\- Removed forced DCI-P3 color gamut on adaptive color mode  
-\- Disabled the Quick Settings media player turbulence effect by default  
-\- Hardware revision will be shown in Settings now  
-\- Optimized kernel and removed various debugging overheads  
+\- Shipped OnePlus Dolby  
+\- Fixed USB tethering  
+\- Updated Keymaster blobs from sweet_k6a  
+\- Updated WFD system blobs from dada OS3.0.5.0.WOCMIXM  
+\- Disabled FRP  
+\- Patched libdpps.so to depend on libtinyxml2-v34.so  
+\- Switched to QTI Thermal AIDL HAL  
+\- Updated thermal configs  
+\- Shipped Leica Camera  
+\- Fixed touchscreen in PixelOS recovery  
+\- Re-worked over audio configs  
+\- Upreved audio HAL to V7  
+\- Synced kernel with the latest LineageOS sm8150 changes.  
+\- Fixed slow charging issue for some users  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
