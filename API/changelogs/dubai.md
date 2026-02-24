@@ -1,3 +1,7 @@
+# 24-Feb-2026
+- include Doby Atmos
+- finetune automatic brightness values
+
 # 31-Jan-2026
 - Fix an issue where audio from earpiece was distorted in VOIP calls
 
