@@ -1,3 +1,7 @@
+# 24-Feb-2026
+- Updated GPS HAL to 4.3
+- Updated media configs from FairPhone4 (LineageOS)
+
 # 17-Jan-2026
 - Source upstream
 

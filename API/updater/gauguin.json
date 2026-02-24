@@ -1,12 +1,21 @@
 {
     "response": [
         {
-            "datetime": "1768649729",
-            "filename": "PixelOS_gauguin-16.1-20260117-1137.zip",
-            "id": "82f966d912705db2fbf29e18633ad5e2ffe3c6c118624314c5f4163567986d66",
-            "size": 2631742695,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.1-20260117-1137.zip",
-            "version": 16
+            "datetime": "1771901466",
+            "filename": "PixelOS_gauguin-16.2-20260224-0253.zip",
+            "id": "0df8e3003b73fcbb4af2ec61d298e68b1d826defc0e9065e63f2b0c29d985d2c",
+            "size": 2654159190,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.2-20260224-0253.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/gauguin/PixelOS_gauguin-16.2-20260224-0253.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-gauguin_20260224_0253.img",
+                    "SHA256": "5c7092777a9e70888367915d9d35a999470c2e06eacbff648ed1d96980025fca",
+                    "size": 134217728
+                }
+            ]
         }
     ]
 }
