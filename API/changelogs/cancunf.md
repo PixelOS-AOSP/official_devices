@@ -29,4 +29,201 @@
 - Switch to regular AIDL Wi-Fi HAL over the lazy HAL as we don't need to defer initialization of Wi-Fi.
 - Move to reference fastboot AIDL service.
 - Cleanup Lights AIDL HAL.
-
+- Build DisplayFeatures - A package that exposes toggles and QS tiles for HBM and CABC(page is located in display).
+- Update blobs and firmware to V1TDS35M.83-20-5-5.
+- Update AVB rollback index from V1TTDS35M.83-20-5-5.
+- Implement felicaDisabler() in MotoActions to disable FeliCa on non-Japan devices.
+- Grant required permissions for felicaDisabler().
+- Ship a prebuilt vendor_ramdisk fragment for dlkm to reduce build time.
+- Add Spanish and French Translations for DisplayFeatures.
+- Use OSS lib_driver_cmd_mt66xx to fix some crashes.
+- Bring back WPA3-SAE hotspot support.
+- Use new material switch in MotoActions to match with Settings.
+- Ship MediaTek GbaService implementation.
+- Enable RTT options found on MtkTeleService.
+- Set 4GB ZRAM for all RAM variants to provide an equally conservative experience.
+- Drop deprecated max_comp_streams attribute for ZRAM.
+- Set ramdisk type for DLKM vendor_ramdisk fragment.
+- Stop reserving space twice for journaling as we already do it in fstab.
+- Define rounded_corner_radius overlay to make biometric prompt be rounded.
+- Set biometric_dialog_corner_size to 155px to make the biometric prompt be even more rounded.
+- Rewrite Lights AIDL HAL to Rust.
+- Implement adjustable strength flashlight support.
+- Set SurfaceFlinger min uclamp to 30% to reduce janks.
+- Mark ACTION_UP events in TouchKeyHandler of MotoActions as handled to prevent a conflict with platform side actions.
+- Be efficient and accurate with wakelocks in TouchKeyHandler of MotoActions.
+- Switch to AIDL OSS Bluetooth service.
+- Decrease reserve_root value to 32768 to match Pixel behavior.
+- Set readahead_size_kb=128 to system, vendor, product, system_ext and data to avoid memory pressure.
+- Remove noflush_merge option from userdata as our UFS storage is not cheap.
+- Use HintManager for HWUI for better CPU scheduling.
+- Drop MTK RPS module.
+- Remove unused MTK audio codecs as AOSP's software codecs are objectively superior.
+- Disable Skia tracing by default to reduce jank.
+- Disable sf EGL image tracking as it is a surfaceflinger debugging feature.
+- Downscale task snapshots to 70% to save memory without a noticeable loss in quality.
+- Update blobs and firmware to V1TDS35M.83-20-5-6.
+- Update AVB rollback index from V1TDS35M.83-20-5-6.
+- Import Regulatory Info for XT2343-3.
+- Remove redundant usbotg actions from init.
+- Drop init.modem.rc as we have disabled RPS.
+- Remove leftover debugging connectivity services.
+- Stop changing dirty_writeback_centisecs with MediaTek's values.
+- Stop mmstat tracing.
+- Remove redundant engineering firmware dependencies.
+- Remove MediaTek gauge and power actions from init.
+- Stop waiting for hwserivcemanager.ready to be true as it is a relic from a prehistoric era.
+- Stop writing to race_marker just for knowing fstab mounting stage as bootprof handles that.
+- Stop starting inexistent services.
+- Stop setting permissions for inexistent files and folders.
+- Stop creating unused folders on /data/vendor.
+- Drop perfmgr and dramboost writes.
+- Drop /sdcard symlink.
+- Update Wi-Fi HAL interfaces combination to match MediaTek BSP behaviour.
+- Remove Disable VRR toggle as it is redundant for us.
+- End INTERACTION hint on EXPENSIVE_RENDERING to improve fluidity.
+- Drop redundant props as they are unused on AOSP.
+- Drop phase durations as offsets as it is broken on Android 16 QPR1 on S GRF devices.
+- Drop framerate multi threshold as VSync takes care of framerate voting.
+- Raise the frequency of sampling regions in SurfaceFlinger to attain precise 120Hz for frame fluidity.
+- Allocate 6 buffers for SurfaceFlinger to use in FrameBufferSurface to prevent GC overhead.
+- Update blobs to V1TDS35M.83-20-5-7.
+- Convert MotoActions for M3E support.
+- Apply Expressive theme on MotoActions.
+- Enable blurs.
+- Switch to shared libs to MediaTek framework jars.
+- Update IMS patches for Android 16 QPR1.
+- Patch some blobs to depend on older libtinyxml2.
+- Bring back phase offsets from stock to improve the graphics rendering pipeline.
+- Remove references to TelephonyMetrics in IMS for Android 16 QPR2.
+- Update blobs to V1TDS35M.83-20-5-8.
+- Convert TapGestures for M3E support.
+- Remove setIconSpaceReserved on TapGestures.
+- Pin gsm0710muxd from bogota W1V036M.85.
+- Drop non-MT6855 VPUD blob.
+- Drop vpud binary as we utilize v3avpud.
+- Drop fpc_tee_test binary as it is utilized on factory firmware.
+- Drop non-MT6631 FM firmware.
+- Drop useless mali firmware.
+- Reduce QS blur radius to 23dp.
+- Reduce launcher blur radius to 15dp.
+- Tune up powerhint for blur.
+- Improve status bar padding for Android 16 QPR1.
+- Move IMS jars back to system_ext as we are on a modern device.
+- Switch to stub mediatek-common framework to drop unneeded IMS dependencies.
+- Allow games to use 120fps.
+- Build MediaTek WiFi lib to drop dependency on prebuilt libwifi-hal.so.
+- Update VT from bogota W1V036M.85.
+- Update blobs to V1TDS35M.83-20-5-9.
+- Stop setting iosched to bfq at init.
+- Drop mmi_relay as it is useless for us.
+- Tweak Media/Call volume steps.
+- Reorder Model Number activity in proper category on MotoActions.
+- Set group key for display settings IA on MotoActions.
+- Set group key for battery settings IA on MotoActions.
+- Set group key for display settings IA on DisplayFeatures.
+- Import system NPU libs from V1TDS35M.83-20-5-9.
+- Opt-out of advanced refresh rate page.
+- Drop MediaTek's task_profiles configuration.
+- Kernel:
+  - Initial base over android12-5.10. (commit SHA: 070f0e34d716, kver: 5.10.240)
+  - Compiled with LLVM 12.0.5.
+  - Merge MMI-V1TDS35H.83-20-5-5 into the kernel.
+  - Backport Full LLVM support from android13-5.10.
+  - Generate a full defconfig and utilize it.
+  - Enable LLVM's Shadow Call Stack.
+  - Simplify kernel version.
+  - Enable BBRv1, Westwood+ and BIC congestion algorithms.
+  - Fix CFI violations in mtk_pinconf_set() and mtk_pinconf_get().
+  - Import backlight drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import gpu drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import fingerprint drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import touchscreen drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import connectivity drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import sx937x and utag from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import mmi_{info,relay} drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import NFC drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import power drivers from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import sm5109c driver from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Import sensors_class driver from MMI-V1TDS35H.83-20-5-5 and build them inline.
+  - Drop met_drv_v3 and Moto USB drivers.
+  - Build mt6855.dtb and utilize it.
+  - Switch to linear brightness scaling in backlight drivers.
+  - Force firmware to enable single & double tap gestures in NVT-TS.
+  - Implement single and double tap detection in NVT-TS.
+  - Enable all supported gestures by default in NVT-TS.
+  - Set single tap to report BTN_TRIGGER_HAPPY3 in NVT-TS.
+  - Enable ILI_SET_TOUCH_STATE to report touch states to firmware in ILITEK_TDDI.
+  - Implement single and double tap detection in ILITEK_TDDI.
+  - Enable all supported gestures by default in ILITEK_TDDI.
+  - Set single tap to report BTN_TRIGGER_HAPPY3 in ILITEK_TDDI.
+  - Drop focaltech_0flash_mmi_v2 driver as we don't use it at all.
+  - Disable MediaTek scheduler changes.
+  - Set schedutil as the default cpufreq governor.
+  - Implement up/down frequency transition rate limits in the schedutil cpufreq governor.
+  - Set performance as the default cpufreq governor to improve boot performance.
+  - Add NL80211_WPA_VERSION_3 enumeration to wlan driver to fix WPA3-SAE on A15 QPR1+ (modules).
+  - Backport Sony HID drivers from mainline.
+  - Implement UVC (DeviceAsWebcam) support in USB drivers.
+  - Switch to host cpio and tar binaries as utilising prebuilt binaries shipped by MTK BSP is redundant.
+  - Fix random Wi-Fi disconnection issues in connectivity drivers.
+  - Disable more MTK Scheduler drivers.
+  - Load NVT-TS firmware earlier.
+  - kramel: Implement _depmod() to generate AOSP-compatible vendor_ramdisk fragment and vendor_dlkm modules.
+  - kramel: Standardize and clean-up most of the code.
+  - Implement fs_config and file_contexts generation in _depmod().
+  - Set CONFIG_NR_CPUS to 8 as we are on a 8-core CPU device.
+  - Disable AEE and Hang Detect Monitor as they are useless debugging drivers.
+  - Stop building MediaTek DCM drivers for other platforms.
+  - Drop DVFSRC Helper for MET.
+  - Disable MediaTek's ATF Logger.
+  - Drop met_drv_v3 modules from vendor_dlkm list.
+  - Fix building with AEE disabled.
+  - Import LZ4 v1.10.0 from upstream.
+  - Import arm64 V8 ASM lz4 decompression algorithm.
+  - Update assembly instructions of lz4armv8 from Huawei kernel drop.
+  - Use ARM64 v8 ASM to accelrate lz4 decompression in crypto, IncFS and EROFS.
+  - Update drivers from MMI-V1TDC35H.44-20-15.
+  - Backport support to make $(LLVM) more flexible.
+  - Build Image.gz and mediatek/mt6855.dtb targets by default.
+  - Implement high brightness mode (HBM) support.
+  - Implement content aware brightness control (CABC) support.
+  - kramel: Copy LZ4-compressed CPIO archive to prebuilt kernel tree.
+  - Disable redundant flashlight drivers.
+  - Copy max torch duty to userspace.
+  - Implement a FLASH_IOC_GET_CURRENT_TORCH_DUTY ioctl.
+  - kramel: Allow updating modules.load.recovery in platform(default) vendor_ramdisk fragment.
+  - Disable MTK RPS (Receive-Packet Steering) because we don't need MTK's network load balancer as the scheduler can handle the load balancing on its own.
+  - Disable MTK RPS in gen4m.
+  - Let scheduler handle cpu boosting in gen4m.
+  - Disable CPU boosting from wlan by default.
+  - Disable unneeded debug cruft such as KASAN, KFENCE, CFI, SCS, UBSAN, PAGE_EXTENSION, PAGE_OWNER, PAGE_PINNER, DEBUG_MEMORY_INIT as GKIs are tested against these debuggers as such we do not need to keep them enabled on production builds.
+  - Enable TTL/HL fixation as some carriers offer lower data exclusively for tethering so allow bypassing it.
+  - Reduce an abundance of logspam treewide.
+  - Disable connectivity wakelocks.
+  - Queue delayed work on power efficient workqueues for connectivity.
+  - Disable all build-time spams.
+  - Disable IKHEADERS as it increases the kernel Image size by approximately 4MB.
+  - Silence warnings generated by DTC.
+  - Don't allow userspace to write to /dev/kmsg to silence userspace logging in dmesg.
+  - Use the stock GKI config for /proc/config.gz to pass VINTF checks.
+  - Disable MET tracing support in gen4m.
+  - Bump 2.4GHz hotspot bandwidth to 40MHz for improved stability and throughput.
+  - Drop NL80211_WPA_VERSION_3 enumeration on wlan driver.
+  - Call wlanRemove() after wlanOnAtReset() fails.
+  - Add WPA3 support in security types on wlan driver.
+  - Support WAPI-SMS4 block cipher when WAPI is supported.
+  - Implement fixes for Wi-Fi roaming and miscellanous issues from bogota (Moto G56).
+  - Enable Wi-Fi channel 144 for Japan.
+  - Implement CVE fixes for GPU from bogota (Moto G56).
+  - Implement memory leak fixes for GPU from bogota (Moto G56).
+  - Implement CLOSE_RANGE_CLOEXEC flag on close_range() from android13-5.10 to fix an issue where hotspot and tethering doesn't work on Android 16 QPR2.
+  - Implement epoll_pwait2() syscall from android13-5.15 to fix a massive logspam on Android 16 QPR2.
+  - Backport fuse-bpf from android13-5.15 to reduce overhead with FUSE lookups.
+  - Backport TEO (Timer-Events Oriented) cpuidle governor from mainline. (as of 6.19.0-rc8)
+  - Prioritize TEO over other cpuidle governors.
+  - Implement Samsung Generic I/O Scheduler from Galaxy Z Flip 4.
+  - Switch to SSG by default.
+  - Disable kyber and bfq I/O schedulers.
+  - Forbid init from changing I/O schedulers.
+  - Drop mmi_relay.
