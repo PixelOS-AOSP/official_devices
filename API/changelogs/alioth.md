@@ -1,3 +1,12 @@
+# 24-Feb-2026
+- Fix I2C write failures in certain scenarios
+- Fix WFD crash
+- Fix performance issues with Samsung UFS
+- Patch some blobs to depend on libtinyxml2-v34
+- Move parts to the system category
+- Reduce touch response latency under high load
+- Define OEM fast charge sysfs node
+
 # 18-Jan-2026
 - Fixes the issue of not receiving ringtones when using headphones.
 - Upstream LZ4 to 1.10

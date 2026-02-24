@@ -1,12 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1768744709",
-            "filename": "PixelOS_alioth-16.1-20260118-1400.zip",
-            "id": "f5b933af7a00769078a7fffe78f50a2b487e6cff7990006ab746f45a6695c6a8",
-            "size": 2349362128,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.1-20260118-1400.zip",
-            "version": 16
+            "datetime": "1771944361",
+            "filename": "PixelOS_alioth-16.2-20260224-1447.zip",
+            "id": "87679edf4ec981e7fe392ea0e5557c51a3bdaadfa81aff2c409b3c1635271a0a",
+            "size": 2368587927,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.2-20260224-1447.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260224-1447.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4088,
+                    "FILE_HASH": "H3eAuS55IUS9GzbtP57A+jVo86tHQkB/2aSfdmhehmA=",
+                    "FILE_SIZE": "2368580438",
+                    "METADATA_HASH": "Aej1FN4RVqaB7vcihXe3T9odcgTzfLftBZmrh+C9dDc=",
+                    "METADATA_SIZE": "145212"
+                }
+            ]
         }
     ]
 }
