@@ -1,12 +1,35 @@
 {
     "response": [
         {
-            "datetime": "1769596185",
-            "filename": "PixelOS_sunny-16.1-20260128-1031.zip",
-            "id": "29b3130ff190094d21ddb67026311e36503eff7768d791cd468fddad358883dc",
-            "size": 2514242322,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.1-20260128-1031.zip",
-            "version": 16
+            "datetime": "1771905215",
+            "filename": "PixelOS_sunny-16.2-20260224-0355.zip",
+            "id": "9684bb1e6b12f4e78320f99c12c22d28978f83f42b7a013841a8333752d200b5",
+            "size": 2541687957,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.2-20260224-0355.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260224-0355.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 3994,
+                    "FILE_HASH": "JkPv5rx6G//hZPhXRn3J9VBRwKY0MgAM2gIyFWnC7oI=",
+                    "FILE_SIZE": "2541680562",
+                    "METADATA_HASH": "eucpvbYtPD32HPsazBSrjndF6LOZSIEeogzQAmSOmQY=",
+                    "METADATA_SIZE": "100170"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "boot-sunny_20260224_0355.img",
+                    "SHA256": "f8a6c4217c8d33e628f07fd73d18e1fd9b5a34b1f820910efeb0f4ffd4601315",
+                    "size": 134217728
+                },
+                {
+                    "name": "vendor_boot-sunny_20260224_0355.img",
+                    "SHA256": "061ba094954ed669621f6b86bc648407ed2d4b5d3a204c945077f094c8889a69",
+                    "size": 100663296
+                }
+            ]
         }
     ]
 }

@@ -1,3 +1,8 @@
+# 24-Feb-2026
+- Patch some blobs to depend on libtinyxml-v34.so.
+- Set group key for display settings IA on DisplayFeatures.
+- Set group key for battery settings IA on KProfiles.
+
 # 28-Jan-2026
 - Drop legacy platform hacks for BPF.
 - Override kernel BPF version to 5.4.299.
