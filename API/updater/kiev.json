@@ -1,12 +1,40 @@
 {
     "response": [
         {
-            "datetime": "1768460786",
-            "filename": "PixelOS_kiev-16.1-20260115-0708.zip",
-            "id": "6e413c445b3555a314a8dfcd615955b4549b77842b83b1e496b2281d1eda85c5",
-            "size": 2114961159,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/PixelOS_kiev-16.1-20260115-0708.zip",
-            "version": 16
+            "datetime": "1772054130",
+            "filename": "PixelOS_kiev-16.2-20260225-2117.zip",
+            "id": "32df224edbb8a883de1f3545f54ab71d0988a7c74191f1bb7eaa75cbe2b7c734",
+            "size": 2126165004,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/PixelOS_kiev-16.2-20260225-2117.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/kiev/PixelOS_kiev-16.2-20260225-2117.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4203,
+                    "FILE_HASH": "+o/nYJ+EhrCKOEHyPYoJoQ7URLDHeMEWlcGS5GT2WOQ=",
+                    "FILE_SIZE": "2126157400",
+                    "METADATA_HASH": "xN2SXF53Jcy4Uh2N4skuaVThdWVuZzUVE0u+1M60ukY=",
+                    "METADATA_SIZE": "140060"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "recovery-kiev_20260225_2117.img",
+                    "SHA256": "6325a0dfcc359a822f539d59aabc0ebe48ae4c5554b632cdda95c7e614d212f9",
+                    "size": 104857600
+                },
+                {
+                    "name": "dtbo-kiev_20260225_2117.img",
+                    "SHA256": "3f00ab017261a3405f6a1251a9d58f5a82defb1a4c3e4df164d42c831162fdb4",
+                    "size": 8388608
+                },
+                {
+                    "name": "boot-kiev_20260225_2117.img",
+                    "SHA256": "15983d87003226cadf56b08b770f6ffda4188164bd66bc3144bf5805e21a5a8e",
+                    "size": 100663296
+                }
+            ]
         }
     ]
 }
