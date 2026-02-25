@@ -26,8 +26,14 @@ jobs:
           file_pattern: "API/devices.json docs/DeviceList.md"
 
       - name: Revalidate website
+        env:
+          TOKEN: ${{ secrets.REVALIDATION_SECRET }}
+          BYPASS_TOKEN: ${{ secrets.CF_BYPASS_TOKEN }}
         run: |
-          curl -sSf -X POST https://pixelos.net/api/revalidate \
-            -H "Authorization: Bearer ${{ secrets.REVALIDATION_SECRET }}" \
+          curl -X POST https://www.pixelos.net/api/revalidate \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "cf-bypass: $BYPASS_TOKEN" \
             -H "Content-Type: application/json" \
+            -H "User-Agent: GitHub-Actions" \
             -d '{"target": "all"}'
+  
