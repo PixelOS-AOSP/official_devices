@@ -1,12 +1,31 @@
 {
     "response": [
         {
-            "datetime": "1764548315",
-            "filename": "PixelOS_davinci-16.0-20251201-0021.zip",
-            "id": "4def49bd3ac5551ff499d76387057493f8792136639f0b79d8179c48bdc53cf5",
-            "size": 2548734592,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/davinci/PixelOS_davinci-16.0-20251201-0021.zip",
-            "version": "16"
+            "datetime": "1772048781",
+            "filename": "PixelOS_davinci-16.2-20260225-1948.zip",
+            "id": "f2ed93a43376fd57cffbc43b3cbee49f9088a0e07d815530e73fdd9a9b9db542",
+            "size": 2674832816,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/davinci/PixelOS_davinci-16.2-20260225-1948.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/davinci/PixelOS_davinci-16.2-20260225-1948.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-davinci_20260225_1948.img",
+                    "SHA256": "06f9525a101e564c16a4c77de076481abc57383876cb1bed1820cf8dbe85dc29",
+                    "size": 67108864
+                },
+                {
+                    "name": "dtbo-davinci_20260225_1948.img",
+                    "SHA256": "0e736c17fe7df0cb12134735ae83bce9705fc4353a6abb07f7d32367f075b880",
+                    "size": 33554432
+                },
+                {
+                    "name": "boot-davinci_20260225_1948.img",
+                    "SHA256": "99c584f168bf0dbc8497101e439886ef186667b7d935dfe96d4ae8cfad325457",
+                    "size": 134217728
+                }
+            ]
         }
     ]
 }
