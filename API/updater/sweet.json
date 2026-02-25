@@ -1,12 +1,31 @@
 {
     "response": [
         {
-            "datetime": "1768426721",
-            "filename": "PixelOS_sweet-16.1-20260114-2140.zip",
-            "id": "c78ee6989311b77ff0c350a19dca7c033843ce5fdc03a05521404da329fa1815",
-            "size": 2797049333,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.1-20260114-2140.zip",
-            "version": 16
+            "datetime": "1772046584",
+            "filename": "PixelOS_sweet-16.2-20260225-1911.zip",
+            "id": "86330af2b8dfdebc1e24a854ccf4cde01b24833dbdc58f26a109dffb6a9b5631",
+            "size": 2823736620,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.2-20260225-1911.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260225-1911.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-sweet_20260225_1911.img",
+                    "SHA256": "128b20da10d78750521a76109d56c0074dd5d76de88eddc4606fd199d58f7749",
+                    "size": 134217728
+                },
+                {
+                    "name": "dtbo-sweet_20260225_1911.img",
+                    "SHA256": "2f0060c625141591844ace57217d4140647f6e7994479b99e16997f5ea9f87e4",
+                    "size": 33554432
+                },
+                {
+                    "name": "boot-sweet_20260225_1911.img",
+                    "SHA256": "bc34503c40dc4c0ccbb61e29ed674cf17d12b09e0a54daff683a95bff2053c9d",
+                    "size": 134217728
+                }
+            ]
         }
     ]
 }
