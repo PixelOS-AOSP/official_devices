@@ -1,12 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1764243853",
-            "filename": "PixelOS_oscar-16.0-20251127-1148.zip",
-            "id": "e6bb4ff50265d2d8060cc59c27c7eb505ff6e3bbfb0ff69cd34f169e46a7c25a",
-            "size": 2547578568,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/oscar/PixelOS_oscar-16.0-20251127-1148.zip",
-            "version": "16"
+            "datetime": "1772185298",
+            "filename": "PixelOS_oscar-16.2-20260227-0943.zip",
+            "id": "b6bf896f687bbe5122fbd6e5d2f168d4264892c5635e73436650c34ca5bcca14",
+            "size": 2584187403,
+            "url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260227-0943.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260227-0943.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4430,
+                    "FILE_HASH": "YhFju490nSRf6FLcxLwnl+q83T/W7qOLDQ1REYiY9ws=",
+                    "FILE_SIZE": "2584179572",
+                    "METADATA_HASH": "t+O3ZIeaFJd3+PqZdaurVspsYt0PhVstRpuMUh5aflU=",
+                    "METADATA_SIZE": "196727"
+                }
+            ]
         }
     ]
 }
