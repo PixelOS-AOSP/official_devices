@@ -1,4 +1,4 @@
-[ROM][16.1][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE/BETA]
+[ROM][16.2][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][QPR2]
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
 [CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-CI/blog_assets/main/banner.png[/IMG]
@@ -25,8 +25,6 @@ PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. W
 [B][U]Downloads[/U][/B]
 Download [URL='https://pixelos.net/download/*']Download[/URL]
 Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
-<!-- Optionally Linkink a custom recovery here, preferably TWRP or OrangeFox Recovery -->
-Recovery [URL]*[/URL]
 PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/sixteen/*/recovery/[/URL]
 
 [B][U]Notes[/U][/B]
@@ -65,5 +63,5 @@ PixelOS http://github.com/PixelOS-AOSP
 Device Tree and Vendor Tree https://github.com/PixelOS-Devices
 Kernel Tree https://github.com/PixelOS-Devices/kernel_*
 
-[B]ROM OS Version:[/B] Android 16.
+[B]ROM OS Version:[/B] Android 16.2
 [B]ROM Kernel:[/B] Linux 5.x.x
