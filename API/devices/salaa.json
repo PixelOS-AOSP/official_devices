@@ -11,10 +11,10 @@
     "codename": "salaa",
     "codename_alt": "RMX2151/RMX2151L1/RMX2153L1/RMX2155L1/RMX2156L1/RMX2161L1/RMX2163L1",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "14 April 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/PixelOS_salaa-15.0-20250407-2218.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/",
+    "last_updated": "27 February 2026",
+    "download_link": "https://download.pixelos.net/sixteen/salaa/PixelOS_salaa-16.2-20260226-1432.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/salaa/",
     "xda": null
 }

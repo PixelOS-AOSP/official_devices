@@ -1,12 +1,26 @@
 {
     "response": [
         {
-            "datetime": "1744064182",
-            "filename": "PixelOS_salaa-15.0-20250407-2218.zip",
-            "id": "bd44807bd0306b895a2d9e1aec04b549a59ded416a10b3b7877d2c6fe7d74841",
-            "size": 2154715444,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/PixelOS_salaa-15.0-20250407-2218.zip",
-            "version": "15"
+            "datetime": "1772116231",
+            "filename": "PixelOS_salaa-16.2-20260226-1432.zip",
+            "id": "d10fe0b240e4da7b12ad9dcab22b448a690ecfabff38cfec6226839ae0e5ba86",
+            "size": 2432231478,
+            "url": "https://download.pixelos.net/sixteen/salaa/PixelOS_salaa-16.2-20260226-1432.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/salaa/PixelOS_salaa-16.2-20260226-1432.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-salaa_20260226_1432.img",
+                    "SHA256": "940c5855de92f4cce6a03c489e8106dd808a36dd253baaaf8b386023edff7518",
+                    "size": 102760448
+                },
+                {
+                    "name": "boot-salaa_20260226_1432.img",
+                    "SHA256": "67b5a786c6127e706666e50d0a8b42c8ffd6472edf8a8bcbe0d9566aeca2e1b5",
+                    "size": 33554432
+                }
+            ]
         }
     ]
 }
