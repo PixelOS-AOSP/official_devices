@@ -1,7 +1,7 @@
 [ROM][16.2][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][QPR2]
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
-[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-CI/blog_assets/main/banner.png[/IMG]
+[CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-CI/blog_assets/main/banner.webp[/IMG]
 PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. We aim to provide an experience similar to Google Pixel phones with numerous performance enhancements and a small amount of useful additional features.
 
 [CODE]/* Your warranty is now void.
@@ -24,30 +24,28 @@ PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. W
 
 [B][U]Downloads[/U][/B]
 Download [URL='https://pixelos.net/download/*']Download[/URL]
-Magisk (optional) [URL]https://github.com/topjohnwu/Magisk/releases[/URL]
 PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/sixteen/*/recovery/[/URL]
 
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
 • (?) Firmware is included
 • (?) Included MIUI/ANX Camera
-• (?) QuicksilveR v2 Kernel Included
 
 <!-- Instructions may vary for different devices -->
 [B][U]Flashing Instructions[/U]
 Clean flash (coming from a different ROM):[/B]
 • Download ROM
-• Download Magisk (optionally)
 • Reboot to recovery
 • Sideload the latest firmware `adb sideload firmware.zip`
-• Sideload ROM zip `adb sideload PixelOS_14.0*.zip`
+• Sideload ROM zip `adb sideload PixelOS_16.0*.zip`
 • Format data
 • Reboot and voila!
-• To get root access, reboot to recovery after the ROM setup and sideload Magisk.
 
 [B]Updating to a newer build (dirty flash):[/B]
-• Sideload ROM zip and optionally Magisk
+• Sideload ROM zip
 • Reboot and voila!
+
+To root your device using Magisk, follow the instructions [URL='https://topjohnwu.github.io/Magisk/install.html*']here[/URL].
 
 Read our blog [URL]https://blog.pixelos.net[/URL]
 Join our Telegram Group [URL]https://t.me/PixelOSChat[/URL]
