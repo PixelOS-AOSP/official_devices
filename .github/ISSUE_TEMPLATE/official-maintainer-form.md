@@ -2,7 +2,7 @@
 name: Official maintainer form
 about: Apply to become an Official maintainer for PixelOS
 title: New maintainer 
-assignees: [whyredfire, hridaya2004, bheatleyyy, basamaryan, cyberknight777]
+assignees: [whyredfire, hridaya2004, bheatleyyy, basamaryan, cyberknight777, geek0609]
 ---
 
 <!--
