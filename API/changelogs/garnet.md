@@ -1,3 +1,10 @@
+# 01-Mar-2026
+- Redo powerhint
+- Added toggle for eSIM
+- Corrected eSIM perms
+- Fixed BLE devices pairing
+- Kernel upstream
+
 # 25-Jan-2026
 - Move keyguard text above udfps icon
 - Allow games to use 120fps

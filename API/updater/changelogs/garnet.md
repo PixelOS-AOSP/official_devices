@@ -1,6 +1,7 @@
-\- Move keyguard text above udfps icon  
-\- Allow games to use 120fps  
-\- Update from OS2.0.206.0.VNRMIXM  
+\- Redo powerhint  
+\- Added toggle for eSIM  
+\- Corrected eSIM perms  
+\- Fixed BLE devices pairing  
 \- Kernel upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
