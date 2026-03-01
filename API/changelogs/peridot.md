@@ -1,3 +1,6 @@
+# 01-Mar-2026
+- Source upstream
+
 # 07-Feb-2026
 - Removed Dolby stack
 - Drop  unused blobs and fw

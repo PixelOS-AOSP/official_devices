@@ -1,47 +1,47 @@
 {
     "response": [
         {
-            "datetime": "1770400320",
-            "filename": "PixelOS_peridot-16.1-20260206-1753.zip",
-            "id": "f66ab86a7412419d6c2404f98037601e579dedc4958f2178d12cebd3b7e9610b",
-            "size": 3438504467,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.1-20260206-1753.zip",
+            "datetime": "1772372733",
+            "filename": "PixelOS_peridot-16.2-20260301-1347.zip",
+            "id": "ba3edd9a25ba6ce2f9ef2a3dd95d873bacde89ec2e7a16d33a1fc13ec438bd09",
+            "size": 3453329387,
+            "url": "https://download.pixelos.net/sixteen/peridot/PixelOS_peridot-16.2-20260301-1347.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/peridot/PixelOS_peridot-16.2-20260301-1347.zip",
             "version": 16,
             "stream": true,
-            "stream_url": "https://download.pixelos.net/sixteen/peridot/PixelOS_peridot-16.1-20260206-1753.zip",
             "payload": [
                 {
-                    "offset": 4694,
-                    "FILE_HASH": "YUrNYj8NoR+3f9l7XHgYSYm1FaDFkTqmFtl2G+iO4nI=",
-                    "FILE_SIZE": "3438496372",
-                    "METADATA_HASH": "0OWQ/zUHu577B519/2O10VLAFnqqcE4ulxLRUR7+dfw=",
-                    "METADATA_SIZE": "218791"
+                    "offset": 4737,
+                    "FILE_HASH": "6CV15dY9tchNOS6ATReEQ9jF4TwINep7rPdkW7E+Dco=",
+                    "FILE_SIZE": "3453321249",
+                    "METADATA_HASH": "LGP3QOSGsl0qOA4Z2+0m7Lano51YdQdmtcENHSTdR2Q=",
+                    "METADATA_SIZE": "220141"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "init_boot-peridot_20260206_1753.img",
-                    "SHA256": "c43bdbf42203c1d36e3f40a1500ab1ad4422c026810fb7e0224e32f0d3196352",
+                    "name": "init_boot-peridot_20260301_1347.img",
+                    "SHA256": "e079d7cbbaf4bee356d3c26653b833b832dc14c22b2ead1fef86c132ff60ca04",
                     "size": 8388608
                 },
                 {
-                    "name": "recovery-peridot_20260206_1753.img",
-                    "SHA256": "9c39225126dbee97642810333e92e01ee4eab7e7d8d484bb3b0141f886942d5c",
+                    "name": "recovery-peridot_20260301_1347.img",
+                    "SHA256": "9e1f0cbcaac50046b51025f032d579f9d34b195fff9df1bd6f966c7b17afd036",
                     "size": 104857600
                 },
                 {
-                    "name": "dtbo-peridot_20260206_1753.img",
-                    "SHA256": "faa2a8763e6eea304c5249b213018a2f9bbc4f18598c00a0021519845fce5f95",
+                    "name": "dtbo-peridot_20260301_1347.img",
+                    "SHA256": "4b918dd8c596d87d14b5eedb9041be04f31fc6a0b252deae32136fa78870e526",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-peridot_20260206_1753.img",
-                    "SHA256": "8f5bbad13b46b6a50694ad71379a745ab94ab85716dafb0ccfe92fe76f43193f",
+                    "name": "boot-peridot_20260301_1347.img",
+                    "SHA256": "7927815bc172381030038cf18de86f1cc10146e06bd99f2c81afd7557b83da35",
                     "size": 100663296
                 },
                 {
-                    "name": "vendor_boot-peridot_20260206_1753.img",
-                    "SHA256": "9f6b827a34e896cb54b3c1d55fdde4ce44e264356829fefca5943201e641ce33",
+                    "name": "vendor_boot-peridot_20260301_1347.img",
+                    "SHA256": "0644556df341d6fc766fac83e517fdf65cf9edeef3cfad5bbb67b9d993cb94db",
                     "size": 100663296
                 }
             ]
