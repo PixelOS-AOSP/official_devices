@@ -1,47 +1,47 @@
 {
     "response": [
         {
-            "datetime": "1770410971",
-            "filename": "PixelOS_onyx-16.1-20260206-2050.zip",
-            "id": "b6f01f304511e87acf9a0876f49613bc68abcf786ff1e7f34d3e3bcf4d5f5718",
-            "size": 4181472178,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20260206-2050.zip",
+            "datetime": "1772441521",
+            "filename": "PixelOS_onyx-16.2-20260302-0853.zip",
+            "id": "ba74ae037cef46b31a7730be4664734945734a324fe427b63ff093634c6bc5b3",
+            "size": 4195291113,
+            "url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.2-20260302-0853.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.2-20260302-0853.zip",
             "version": 16,
             "stream": true,
-            "stream_url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.1-20260206-2050.zip",
             "payload": [
                 {
-                    "offset": 4532,
-                    "FILE_HASH": "soNvnHret89saiIO9wrPi/3TWy0E7GTViF7+33m1i+w=",
-                    "FILE_SIZE": "4181464245",
-                    "METADATA_HASH": "f5uKy82vlbNkvTDsULuBYbzQIBajXMnL5Xn3SFo/VX4=",
-                    "METADATA_SIZE": "215221"
+                    "offset": 4575,
+                    "FILE_HASH": "lCiB9tauKAGim17T8NL9pu/W7jD/r+wqOKQSTvuzeXo=",
+                    "FILE_SIZE": "4195283137",
+                    "METADATA_HASH": "QFwuzBm3B+bz+G+uM7q493ElERroMB++fdAwk4fHVEs=",
+                    "METADATA_SIZE": "216514"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "init_boot-onyx_20260206_2050.img",
-                    "SHA256": "c21572316ba901157a6dac6f0a813b24507e35bd70a34efe02f152a8e67a312a",
+                    "name": "init_boot-onyx_20260302_0853.img",
+                    "SHA256": "80e8d561565083726fd3a7fdb11ba5be336a9c20e7203c724a87f4b7e86c56fa",
                     "size": 8388608
                 },
                 {
-                    "name": "recovery-onyx_20260206_2050.img",
-                    "SHA256": "2da7676c131e31b1616273d21b59abb1e9b7ab555a3ed74294038732dd7e67d9",
+                    "name": "recovery-onyx_20260302_0853.img",
+                    "SHA256": "4871add531539f22705d51dcb60b0841cd5fab4f07926e826263fd734447ac12",
                     "size": 104857600
                 },
                 {
-                    "name": "dtbo-onyx_20260206_2050.img",
-                    "SHA256": "77b74addf85fef8c33a45d7614f3bc1c4afa98ca6995bf606b9c53de82f1718f",
+                    "name": "dtbo-onyx_20260302_0853.img",
+                    "SHA256": "7f267d980ddadc6eb78ee321161ac8e2b6aead001e47ecd836df5981bed532e0",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-onyx_20260206_2050.img",
-                    "SHA256": "3233d611b955d5b3258c2600b9f653807043507a9cce21f0c7433477b387484c",
+                    "name": "boot-onyx_20260302_0853.img",
+                    "SHA256": "f3109dd7d6dbc07577bcd7f659c318dd5cac5e4578a488667f4a7db24094a256",
                     "size": 100663296
                 },
                 {
-                    "name": "vendor_boot-onyx_20260206_2050.img",
-                    "SHA256": "29ae5387a3fa6d9c667e4aac957a8abed5f0c486639f43029d45faa742965038",
+                    "name": "vendor_boot-onyx_20260302_0853.img",
+                    "SHA256": "b16b2f1ea6281c4c8bc1ac27df66717d78d651708f530bc5cd3c576a0fffa3f6",
                     "size": 100663296
                 }
             ]
