@@ -1,4 +1,3 @@
-\- include Doby Atmos  
-\- finetune automatic brightness values  
+\- platform upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

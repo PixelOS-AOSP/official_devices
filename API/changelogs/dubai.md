@@ -1,3 +1,6 @@
+# 09-Mar-2026
+- platform upstream
+
 # 24-Feb-2026
 - include Doby Atmos
 - finetune automatic brightness values
