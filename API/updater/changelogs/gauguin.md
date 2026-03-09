@@ -1,4 +1,3 @@
-\- Updated GPS HAL to 4.3  
-\- Updated media configs from FairPhone4 (LineageOS)  
+\- platform upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
