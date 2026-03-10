@@ -1,3 +1,6 @@
+# 10-Mar-2026
+- Source upstream.
+
 # 24-Feb-2026
 - Patch some blobs to depend on libtinyxml-v34.so.
 - Set group key for display settings IA on DisplayFeatures.
