@@ -1,12 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1767073559",
-            "filename": "PixelOS_waffle-16.1-20251230-0547.zip",
-            "id": "9f1b76dc9aa8bf73a6da88b2470dd2a5f5cafa00dbb6a7f81335eb416350e834",
-            "size": 3674777621,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/waffle/PixelOS_waffle-16.1-20251230-0547.zip",
-            "version": 16
+            "datetime": "1773269666",
+            "filename": "PixelOS_waffle-16.2-20260311-2255.zip",
+            "id": "e222101b641c8379c703412c21a1197980ab8335d1cf037c0ec02c00a3812802",
+            "size": 3685824746,
+            "url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260311-2255.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260311-2255.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4909,
+                    "FILE_HASH": "9CMPsaQigNFkHdFaITt5IZ7Yy0dIDkinjOI+/NrYZOw=",
+                    "FILE_SIZE": "3685816436",
+                    "METADATA_HASH": "SHBI/+y6R3WCs6OEYi3nIAjq7YYbeUV8lHO1+himzys=",
+                    "METADATA_SIZE": "210434"
+                }
+            ]
         }
     ]
 }
