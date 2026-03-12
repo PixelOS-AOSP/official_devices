@@ -25,6 +25,9 @@ jobs:
           commit_message: "[CI] Regen devices.json and DeviceList.md"
           file_pattern: "API/devices.json docs/DeviceList.md"
 
+      - name: Wait for cache
+        run: sleep 10
+
       - name: Revalidate website
         env:
           TOKEN: ${{ secrets.REVALIDATION_SECRET }}
