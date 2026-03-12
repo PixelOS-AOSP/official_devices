@@ -1,12 +1,45 @@
 {
     "response": [
         {
-            "datetime": "1769355786",
-            "filename": "PixelOS_zeus-16.1-20260125-1545.zip",
-            "id": "104c776233183e6735f1cda72da34e6700eb445ddf3c7138621b75ed89e6d71f",
-            "size": 2878226670,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/zeus/PixelOS_zeus-16.1-20260125-1545.zip",
-            "version": 16
+            "datetime": "1773320649",
+            "filename": "PixelOS_zeus-16.2-20260312-1306.zip",
+            "id": "2055531ec55ff321c7a204d71889df1885a09b41c7a44fd6619cf6ee6864e520",
+            "size": 2895332419,
+            "url": "https://download.pixelos.net/sixteen/zeus/PixelOS_zeus-16.2-20260312-1306.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/zeus/PixelOS_zeus-16.2-20260312-1306.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4399,
+                    "FILE_HASH": "j+fPNKjoya/pZItcFBzU/Xeu5BY1jvZRjaf6oj1iEsE=",
+                    "FILE_SIZE": "2895324619",
+                    "METADATA_HASH": "7BLoOml4DrpauSMbZV0sgoVRBcQvgy6t8Xy4O7FUJO0=",
+                    "METADATA_SIZE": "201278"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "recovery-zeus_20260312_1306.img",
+                    "SHA256": "49810ce046a33a2dd4f17ca5921963605b8ab4233f5d6804f6705b5a38a89483",
+                    "size": 104857600
+                },
+                {
+                    "name": "dtbo-zeus_20260312_1306.img",
+                    "SHA256": "b6bafdf0cc8134e0e71063574916c879e0895121867209186b8333603ce6a366",
+                    "size": 25165824
+                },
+                {
+                    "name": "boot-zeus_20260312_1306.img",
+                    "SHA256": "dd32ce8bf5f559b67337029ca8658cc0f1e3c45e3b628c8f8fd3d41cfb11fa97",
+                    "size": 201326592
+                },
+                {
+                    "name": "vendor_boot-zeus_20260312_1306.img",
+                    "SHA256": "e0c39274da2126349eaec88143847b0cb2ceec5c5d545172308cfdf9bea995a2",
+                    "size": 100663296
+                }
+            ]
         }
     ]
 }
