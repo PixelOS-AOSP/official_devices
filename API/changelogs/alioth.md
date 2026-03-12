@@ -1,3 +1,6 @@
+# 12-Mar-2026
+- Source upstream
+
 # 24-Feb-2026
 - Fix I2C write failures in certain scenarios
 - Fix WFD crash

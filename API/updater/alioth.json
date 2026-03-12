@@ -1,21 +1,38 @@
 {
     "response": [
         {
-            "datetime": "1771944361",
-            "filename": "PixelOS_alioth-16.2-20260224-1447.zip",
-            "id": "87679edf4ec981e7fe392ea0e5557c51a3bdaadfa81aff2c409b3c1635271a0a",
-            "size": 2368587927,
-            "url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260224-1447.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260224-1447.zip",
+            "datetime": "1773291524",
+            "filename": "PixelOS_alioth-16.2-20260312-0500.zip",
+            "id": "0012b36d97f3a40548b37d89222d30a90a1068f3526139aac82cddc0e309a47c",
+            "size": 2369205836,
+            "url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260312-0500.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260312-0500.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
                     "offset": 4088,
-                    "FILE_HASH": "H3eAuS55IUS9GzbtP57A+jVo86tHQkB/2aSfdmhehmA=",
-                    "FILE_SIZE": "2368580438",
-                    "METADATA_HASH": "Aej1FN4RVqaB7vcihXe3T9odcgTzfLftBZmrh+C9dDc=",
+                    "FILE_HASH": "J0qHPQPpz8eu7hDzJcLBRBuwuH11OXgh3CRW+cQsKPo=",
+                    "FILE_SIZE": "2369198347",
+                    "METADATA_HASH": "Zmpbvo41PyWZSg/jHIHbF6jaTCnlc6G6botbcw62cbs=",
                     "METADATA_SIZE": "145212"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "dtbo-alioth_20260312_0500.img",
+                    "SHA256": "6c35b6d44d1c66597185b50dca5b3f336f1cebcca18641f78898d9ee9ed4d3c4",
+                    "size": 33554432
+                },
+                {
+                    "name": "boot-alioth_20260312_0500.img",
+                    "SHA256": "3a23c0e7c5f89a96d6b8d3012095f990e9bf634051a87ddad425175dcf603d72",
+                    "size": 201326592
+                },
+                {
+                    "name": "vendor_boot-alioth_20260312_0500.img",
+                    "SHA256": "0f8a7f5d303eae59fcd41bdc2ebfc51889b472ed5bb3d4bec5b8c49819dfc5a0",
+                    "size": 100663296
                 }
             ]
         }
