@@ -1,3 +1,9 @@
+# 13-Mar-2026
+- More powerhint ricing
+- Drop xiaomi micharge service
+- Update blobs and fw from OS3.0.6.0.WOLMIXM
+- Switch thermal config to mgame (Should fast charge now)
+
 # 12-Mar-2026
 - Platform upstream (hotfix)
 
