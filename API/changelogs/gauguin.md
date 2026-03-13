@@ -1,3 +1,6 @@
+# 13-Mar-2026
+- Fixed the blur radius for Pixel Launcher
+
 # 12-Mar-2026
 - Platform upstream (hotfix)
 
