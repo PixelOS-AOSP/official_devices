@@ -1,3 +1,8 @@
+# 14-Mar-2026
+- Improved memory management and performance for 4GB ram users
+- Improved status bar padding
+- Fixed time getting reset after reboot while not connected to internet
+
 # 24-Feb-2026
 - Shipped OnePlus Dolby
 - Fixed USB tethering
