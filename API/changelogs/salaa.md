@@ -1,3 +1,10 @@
+# 15-Mar-2026
+- Fixed USB detection in PC
+- Reworked over USB init based on GS201
+- Added MediaTek Gadget HAL
+- Imported missing sensor blobs
+- Updated build fingerprint from RMX2156 F.19
+
 # 27-Feb-2026
 - Backported 5.10 BPF on kernel
 - Dropped MediaTek pkm service
