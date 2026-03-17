@@ -1,12 +1,31 @@
 {
     "response": [
         {
-            "datetime": "1747604584",
-            "filename": "PixelOS_toco-15.0-20250518-2144.zip",
-            "id": "ecc7f40207f1332a6362cefc247719233cd309e0bc39ab9aa3be94f2efed5e84",
-            "size": 2583158827,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/toco/PixelOS_toco-15.0-20250518-2144.zip",
-            "version": "15"
+            "datetime": "1773734386",
+            "filename": "PixelOS_toco-16.2-20260317-0801.zip",
+            "id": "9e003154944843c7181bcfaae6d0463fb22c539bbee91c05b53bbb5d4ae5d8ac",
+            "size": 2870223465,
+            "url": "https://download.pixelos.net/sixteen/toco/PixelOS_toco-16.2-20260317-0801.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/toco/PixelOS_toco-16.2-20260317-0801.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-toco_20260317_0801.img",
+                    "SHA256": "0d6052a2e4993bb6c83cacba9e5920269d0632a0280af0d257f77e9bf623558e",
+                    "size": 134217728
+                },
+                {
+                    "name": "dtbo-toco_20260317_0801.img",
+                    "SHA256": "80f364e74564ef4da1bc423fc9f8fea5428d94c516928f99cd93f71a26335ff4",
+                    "size": 33554432
+                },
+                {
+                    "name": "boot-toco_20260317_0801.img",
+                    "SHA256": "0526d367b3e6ae50e8c5bc0a831def7870d8f607486e31846c3b65030e04c110",
+                    "size": 134217728
+                }
+            ]
         }
     ]
 }
