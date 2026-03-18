@@ -1,12 +1,40 @@
 {
     "response": [
         {
-            "datetime": "1741453544",
-            "filename": "PixelOS_pipa-15.0-20250308-1707.zip",
-            "id": "9ff35642cc3eaa46e0f2d47701de727f748e4339183a26c661ba59fce1afec42",
-            "size": 1902260902,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/PixelOS_pipa-15.0-20250308-1707.zip",
-            "version": "15"
+            "datetime": "1773777218",
+            "filename": "PixelOS_pipa-16.2-20260317-1955.zip",
+            "id": "871dd95a087ac90778189907441bd973d421bd5ab248d5470e3d5ba5c62a2f33",
+            "size": 2170369072,
+            "url": "https://download.pixelos.net/sixteen/pipa/PixelOS_pipa-16.2-20260317-1955.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/pipa/PixelOS_pipa-16.2-20260317-1955.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 3980,
+                    "FILE_HASH": "Y2Fv9xDQBfKushzTLif+1OrY2ybVOxzRE0wmLo4SlJQ=",
+                    "FILE_SIZE": "2170361691",
+                    "METADATA_HASH": "thk4dJj9/xH7il1FOfPYJYpwyd3xYMKzqzgQ++94V2c=",
+                    "METADATA_SIZE": "134135"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "dtbo-pipa_20260317_1955.img",
+                    "SHA256": "ebd9a8ca0b21e54cc1c531a4721ca3c542bf1c830d412dada5573f21aed41afe",
+                    "size": 33554432
+                },
+                {
+                    "name": "boot-pipa_20260317_1955.img",
+                    "SHA256": "0faa3de4cb0cb7abbb50c45fab73e049fff854467246336accf4bddde09d8437",
+                    "size": 201326592
+                },
+                {
+                    "name": "vendor_boot-pipa_20260317_1955.img",
+                    "SHA256": "4c19cd77a24f29dd87b092997dd7842e60b49c955cf1a720be5b46cc89d1a193",
+                    "size": 100663296
+                }
+            ]
         }
     ]
 }

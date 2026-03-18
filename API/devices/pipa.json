@@ -11,10 +11,10 @@
     "codename": "pipa",
     "codename_alt": "pipa",
     "active": true,
-    "version": "fifteen",
+    "version": "sixteen",
     "release": "monthly",
-    "last_updated": "08 March 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/PixelOS_pipa-15.0-20250308-1707.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/",
+    "last_updated": "18 March 2026",
+    "download_link": "https://download.pixelos.net/sixteen/pipa/PixelOS_pipa-16.2-20260317-1955.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/pipa/",
     "xda": null
 }
