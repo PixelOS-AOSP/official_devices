@@ -1,6 +1,7 @@
-\- More powerhint ricing  
-\- Drop xiaomi micharge service  
-\- Update blobs and fw from OS3.0.6.0.WOLMIXM  
-\- Switch thermal config to mgame (Should fast charge now)  
+\- Fixed FP in apps with more than two fingerprints registered  
+\- Added Toggle for HTSR  
+\- Bumped default TSR  
+\- Switched to MIUI color profiles  
+\- Fixed Charging limit control  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

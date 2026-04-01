@@ -1,3 +1,10 @@
+# 01-Apr-2026
+- Fixed FP in apps with more than two fingerprints registered
+- Added Toggle for HTSR
+- Bumped default TSR
+- Switched to MIUI color profiles
+- Fixed Charging limit control
+
 # 13-Mar-2026
 - More powerhint ricing
 - Drop xiaomi micharge service
