@@ -1,3 +1,7 @@
+# 08-Apr-2026
+- Switch to libperfmg power 
+- Other misc. changes and fixes
+
 # 12-Mar-2026
 - Platform upstream (hotfix)
 
