@@ -1,0 +1,19 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Debayan Kar",
+            "telegram": "kardebayan",
+            "github": "kardebayan"
+        }
+    ],
+    "model": "ASUS ZenFone Max Pro M2",
+    "codename": "X01BD",
+    "codename_alt": "",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/X01BD/",
+    "xda": null
+}

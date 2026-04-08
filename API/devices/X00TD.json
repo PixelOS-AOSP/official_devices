@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Debayan Kar",
+            "telegram": "kardebayan",
+            "github": "kardebayan"
+        },
+        {
+            "display_name": "Sarthak Roy",
+            "telegram": "sarthakroy2002",
+            "github": "sarthakroy2002"
+        }
+    ],
+    "model": "ASUS ZenFone Max Pro M1",
+    "codename": "X00TD",
+    "codename_alt": "",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/X00TD/",
+    "xda": null
+}
