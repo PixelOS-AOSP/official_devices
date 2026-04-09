@@ -1,3 +1,6 @@
+# 09-Apr-2026
+- Platform upstream
+
 # 14-Mar-2026
 - Improved memory management and performance for 4GB ram users
 - Switched to common bugreport service definition
