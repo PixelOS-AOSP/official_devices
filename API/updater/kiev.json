@@ -1,37 +1,37 @@
 {
     "response": [
         {
-            "datetime": "1773264644",
-            "filename": "PixelOS_kiev-16.2-20260311-2132.zip",
-            "id": "4f605564dd0e4f235a44ea24c3ce399e92a4cfb215937601df5f3d18ada748ed",
-            "size": 2125965697,
-            "url": "https://download.pixelos.net/sixteen/kiev/PixelOS_kiev-16.2-20260311-2132.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/kiev/PixelOS_kiev-16.2-20260311-2132.zip",
+            "datetime": "1775658066",
+            "filename": "PixelOS_kiev-16.2-20260408-1423.zip",
+            "id": "7dabc8a2fabfb9f6d1627f938e2cdfc93726995e849c39a663ad2f15d13f0a00",
+            "size": 2125946306,
+            "url": "https://download.pixelos.net/sixteen/kiev/PixelOS_kiev-16.2-20260408-1423.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/kiev/PixelOS_kiev-16.2-20260408-1423.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
                     "offset": 4203,
-                    "FILE_HASH": "Yx9gELtDXoGRA1sUvcADDU9P/J1yBLw+i4Kq4bXDK8w=",
-                    "FILE_SIZE": "2125958093",
-                    "METADATA_HASH": "h1DVuImD/gR08MH+vsepICrw8Caq/zCyImWi4x+gN6k=",
-                    "METADATA_SIZE": "140063"
+                    "FILE_HASH": "rcZ5Dbi+aRxB4AMaAnYfYbu7vFh4/QPXz1+ZlgAshYI=",
+                    "FILE_SIZE": "2125938702",
+                    "METADATA_HASH": "E83UGdjt/wyjPUM5dXZueEhWpYjA0G01zu7F/aIf4tg=",
+                    "METADATA_SIZE": "140060"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "recovery-kiev_20260311_2132.img",
-                    "SHA256": "c3d3a9f213d34947bf519d99b7d5ae3acb2cc85471243ffe6c8288c04ecc50f9",
+                    "name": "recovery-kiev_20260408_1423.img",
+                    "SHA256": "3ad9c853dc0018c33bdea2aabb950bacfcb8916c62472c5a51d2b45bbe1a0796",
                     "size": 104857600
                 },
                 {
-                    "name": "dtbo-kiev_20260311_2132.img",
+                    "name": "dtbo-kiev_20260408_1423.img",
                     "SHA256": "3f00ab017261a3405f6a1251a9d58f5a82defb1a4c3e4df164d42c831162fdb4",
                     "size": 8388608
                 },
                 {
-                    "name": "boot-kiev_20260311_2132.img",
-                    "SHA256": "f1371097abf596ca5c3d48e27774ce5c27531b28b1e17fdaa7f3fc78fafd10ae",
+                    "name": "boot-kiev_20260408_1423.img",
+                    "SHA256": "625d3620cd59f3ac1b2082519a619f746b8c2e96187128924fc9588a07ac3921",
                     "size": 100663296
                 }
             ]
