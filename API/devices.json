@@ -45,6 +45,28 @@
             "version": 16
         },
         {
+            "codename": "X00TD",
+            "codename_alt": "",
+            "vendor": "Asus",
+            "model": "ASUS ZenFone Max Pro M1",
+            "maintainer_name": "Debayan Kar && Sarthak Roy",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": null
+        },
+        {
+            "codename": "X01BD",
+            "codename_alt": "",
+            "vendor": "Asus",
+            "model": "ASUS ZenFone Max Pro M2",
+            "maintainer_name": "Debayan Kar",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": null
+        },
+        {
             "codename": "alioth",
             "codename_alt": "alioth/aliothin",
             "vendor": "Xiaomi",

@@ -1,11 +1,15 @@
 # Device List
 Here is the list of all the devices actively supported officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](https://PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 25
+Number Of Devices in Official PixelOS: 27
 
-Number of Brands in Official PixelOS: 4
+Number of Brands in Official PixelOS: 5
 
 Officially Supported Devices:
+
+**Asus**
+1. ASUS ZenFone Max Pro M1 ()
+2. ASUS ZenFone Max Pro M2 ()
 
 **Motorola**
 1. Motorola Edge 30 (dubai)
