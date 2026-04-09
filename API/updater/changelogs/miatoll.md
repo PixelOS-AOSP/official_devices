@@ -1,5 +1,6 @@
-\- Improved memory management and performance for 4GB ram users  
-\- Improved status bar padding  
-\- Fixed time getting reset after reboot while not connected to internet  
+\- Implement torch light control  
+\- Switched to AIDL Camera HAL  
+\- Reworked on the goodix fingerprint driver for faster speed  
+\- Synced kernel with the latest LineageOS sm8150 changes  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

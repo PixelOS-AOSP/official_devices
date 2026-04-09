@@ -1,3 +1,9 @@
+# 09-Apr-2026
+- Implement torch light control
+- Switched to AIDL Camera HAL
+- Reworked on the goodix fingerprint driver for faster speed
+- Synced kernel with the latest LineageOS sm8150 changes
+
 # 14-Mar-2026
 - Improved memory management and performance for 4GB ram users
 - Improved status bar padding
