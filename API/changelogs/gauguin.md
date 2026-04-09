@@ -1,3 +1,8 @@
+# 09-Apr-2026
+- Added back flashlight control
+- Fixed incremental updates
+- Kernel upstream from LineageOS/qcom_sm8250
+
 # 13-Mar-2026
 - Fixed the blur radius for Pixel Launcher
 
