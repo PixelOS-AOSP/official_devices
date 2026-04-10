@@ -1,12 +1,40 @@
 {
     "response": [
         {
-            "datetime": "1768531967",
-            "filename": "PixelOS_porsche-16.1-20260116-0254.zip",
-            "id": "f69f4243a3d472dbd7e63672e9b9f49805918f21378d00c84e6dd5508c27a92f",
-            "size": 2943694533,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/porsche/PixelOS_porsche-16.1-20260116-0254.zip",
-            "version": 16
+            "datetime": "1775811964",
+            "filename": "PixelOS_porsche-16.2-20260410-0907.zip",
+            "id": "f675bf699771f9eb02a19340937cd31c8debff32e1af4ec381dfcc3791a0cb67",
+            "size": 2969514158,
+            "url": "https://download.pixelos.net/sixteen/porsche/PixelOS_porsche-16.2-20260410-0907.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/porsche/PixelOS_porsche-16.2-20260410-0907.zip",
+            "version": 16,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4366,
+                    "FILE_HASH": "0OWHLCtQhNakgyhrW9cmFeUHFM554D49rOFROMnaQX4=",
+                    "FILE_SIZE": "2969506391",
+                    "METADATA_HASH": "5JxkXEydY+yhw39EfabHGqPkqX3UrCibvbVdZgLl4sQ=",
+                    "METADATA_SIZE": "179996"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "dtbo-porsche_20260410_0907.img",
+                    "SHA256": "642be63320c52ec18a51e40979cf5aca39016514521d9ec7f714fa68a5039cef",
+                    "size": 25165824
+                },
+                {
+                    "name": "boot-porsche_20260410_0907.img",
+                    "SHA256": "475ac2199303f4b1948bada735f876f8e891c27515efd95e3ac9572acc993355",
+                    "size": 201326592
+                },
+                {
+                    "name": "vendor_boot-porsche_20260410_0907.img",
+                    "SHA256": "5c3537e2eb5e2e02b970d63e50f19ffadcac9aa155beaf9a4f1785d2af24fc64",
+                    "size": 201326592
+                }
+            ]
         }
     ]
 }
