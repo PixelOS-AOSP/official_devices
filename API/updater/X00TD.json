@@ -1,0 +1,26 @@
+{
+    "response": [
+        {
+            "datetime": "1775838470",
+            "filename": "PixelOS_X00TD-16.2-20260410-1629.zip",
+            "id": "c70e9b0301ab75e6a0ef95c78c6081f5e49a5381e5abf2daf619d37d3a7528fa",
+            "size": 2145544115,
+            "url": "https://download.pixelos.net/sixteen/X00TD/PixelOS_X00TD-16.2-20260410-1629.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/X00TD/PixelOS_X00TD-16.2-20260410-1629.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-X00TD_20260410_1629.img",
+                    "SHA256": "88d678d35824fa35d95738ff2df05964207b20d02380e9388758c61118fded1d",
+                    "size": 41275392
+                },
+                {
+                    "name": "boot-X00TD_20260410_1629.img",
+                    "SHA256": "a814a43c81a2ebdee98cba01f79d4c4a9b65bc9a5cc1f01336843f658f53b56b",
+                    "size": 27578368
+                }
+            ]
+        }
+    ]
+}
