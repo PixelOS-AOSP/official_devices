@@ -1,3 +1,7 @@
+# 10-Apr-2026
+- Switch back to OSS AIDL camera provider.
+- Skip failed camera ids from initialization.
+
 # 12-Mar-2026
 - Platform upstream (hotfix)
 
