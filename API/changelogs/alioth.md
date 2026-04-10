@@ -1,3 +1,8 @@
+# 10-Apr-2026
+- Upstream kernel zstd version
+- zram: remove additional locking
+- Merge the latest changes from LineageOS/qcom_sm8250
+
 # 12-Mar-2026
 - Source upstream
 
