@@ -1,21 +1,58 @@
 {
     "response": [
         {
-            "datetime": "1773269666",
-            "filename": "PixelOS_waffle-16.2-20260311-2255.zip",
-            "id": "e222101b641c8379c703412c21a1197980ab8335d1cf037c0ec02c00a3812802",
-            "size": 3685824746,
-            "url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260311-2255.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260311-2255.zip",
+            "datetime": "1775914522",
+            "filename": "PixelOS_waffle-16.2-20260411-1336.zip",
+            "id": "8936f105628a7de63c39b5d5e531db3b98f9d6446ddcdec68b0508a7c94a7141",
+            "size": 3686849656,
+            "url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260411-1336.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260411-1336.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
-                    "offset": 4909,
-                    "FILE_HASH": "9CMPsaQigNFkHdFaITt5IZ7Yy0dIDkinjOI+/NrYZOw=",
-                    "FILE_SIZE": "3685816436",
-                    "METADATA_HASH": "SHBI/+y6R3WCs6OEYi3nIAjq7YYbeUV8lHO1+himzys=",
-                    "METADATA_SIZE": "210434"
+                    "offset": 4941,
+                    "FILE_HASH": "UZijPTlHc5LqjaXOPmRoLPfRQLkiLXDGFY+PwXzV0VY=",
+                    "FILE_SIZE": "3686841314",
+                    "METADATA_HASH": "ujufZN8js/GdUZGbbdL2Lvk5khhrP9/+DvM4vy3paic=",
+                    "METADATA_SIZE": "210440"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "init_boot-waffle_20260411_1336.img",
+                    "SHA256": "b586bb724864da473656e85ba2219e359c4fe05a0b8cfd874ef4a0aec63501af",
+                    "size": 8388608
+                },
+                {
+                    "name": "recovery-waffle_20260411_1336.img",
+                    "SHA256": "d8eceac7210ade9ff47ca1fd070ef3e23cd3d82d2ce3eb87ac3ab9d96899e880",
+                    "size": 104857600
+                },
+                {
+                    "name": "super_empty-waffle_20260411_1336.img",
+                    "SHA256": "8b7edad224569e9cca48df7bf0c491e8e45727671d18e9a71a57d195fd3b0831",
+                    "size": 5288
+                },
+                {
+                    "name": "vbmeta-waffle_20260411_1336.img",
+                    "SHA256": "c21817ecf1ddd476f626cabdf6b3eb75651f6219480b432620f269c2a11fd178",
+                    "size": 12288
+                },
+                {
+                    "name": "dtbo-waffle_20260411_1336.img",
+                    "SHA256": "32210870126b9e85664e92b2ed36d6c67cd694ab4ba63f332adc53ad756abb00",
+                    "size": 25165824
+                },
+                {
+                    "name": "boot-waffle_20260411_1336.img",
+                    "SHA256": "2bc03fbb29d110f18454aa9490f342271335dfe64338e8c188d5e547181ff0bb",
+                    "size": 201326592
+                },
+                {
+                    "name": "vendor_boot-waffle_20260411_1336.img",
+                    "SHA256": "58f582dff575249c4ec6f84354ba6c874a8d5871aa9cd56d7fe136753c9353d8",
+                    "size": 201326592
                 }
             ]
         }
