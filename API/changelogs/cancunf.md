@@ -1,3 +1,7 @@
+# 11-Apr-2026
+- Fixed an issue where USB stops working post boot.
+- Kernel state at r3a3.
+
 # 08-Apr-2026
 - Update VT vendor stack from bogota W1V036M.85.
 - Release mGestureWakeLock on processEvent() to fix an issue where TapGesture wakelock was never released.
