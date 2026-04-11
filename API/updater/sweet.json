@@ -1,28 +1,28 @@
 {
     "response": [
         {
-            "datetime": "1773273187",
-            "filename": "PixelOS_sweet-16.2-20260311-2355.zip",
-            "id": "2e05fe06ce5e93be2bf457223983f68c18c6eea5b72e5fb5f4f5db831c6018ba",
-            "size": 2824037645,
-            "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260311-2355.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260311-2355.zip",
+            "datetime": "1775901376",
+            "filename": "PixelOS_sweet-16.2-20260411-0958.zip",
+            "id": "9aa76aa45628e3cdd096c154603a78a18e4369b08956162f99ee6b77e2759021",
+            "size": 2824226070,
+            "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260411-0958.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260411-0958.zip",
             "version": 16,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-sweet_20260311_2355.img",
-                    "SHA256": "94d4de3f90e2f17c1a127575781bea2fcde276f37e37b86478d69d8d3cc4663d",
+                    "name": "recovery-sweet_20260411_0958.img",
+                    "SHA256": "cc498210bd7ebe9125fb82f9adc2a00330049d42294477b76ba9bbfdb673d3c0",
                     "size": 134217728
                 },
                 {
-                    "name": "dtbo-sweet_20260311_2355.img",
-                    "SHA256": "d4f25807381112d8265a9c0c8abfc209204c2765e096e30cddffcfb43a1dd3cf",
+                    "name": "dtbo-sweet_20260411_0958.img",
+                    "SHA256": "bf2cb26a918d9f1869bf883b48181aeb9b7080ee3bbbfecca7f5e35c076366a4",
                     "size": 33554432
                 },
                 {
-                    "name": "boot-sweet_20260311_2355.img",
-                    "SHA256": "9465701cf44824cf7747ea694f6724996d7791a5f2a2f840d3797c4dc2570406",
+                    "name": "boot-sweet_20260411_0958.img",
+                    "SHA256": "1900700039bd54977a986f6e53fb5c16f8be230638fa0aaec8536daece6f6bf9",
                     "size": 134217728
                 }
             ]
