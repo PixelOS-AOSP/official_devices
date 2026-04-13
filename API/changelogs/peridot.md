@@ -1,3 +1,6 @@
+# 13-Apr-2026
+- Platform upstream
+
 # 21-Mar-2026
 - Updated blobs and fw from OS3.0.4.0.WNPMIXM
 - More libperf stuff
