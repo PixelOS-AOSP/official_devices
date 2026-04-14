@@ -38,7 +38,7 @@
             "codename_alt": "RMX2020",
             "vendor": "Realme",
             "model": "Realme C3/Realme Narzo 10A",
-            "maintainer_name": "Sarthak Roy",
+            "maintainer_name": "Sarthak Roy && Koushik Dey",
             "frame": null,
             "active": true,
             "last_updated": 1772127867,
@@ -756,7 +756,7 @@
             "maintainer_name": "Dennis Murimi",
             "frame": null,
             "active": true,
-            "last_updated": 1773734386,
+            "last_updated": 1775921253,
             "version": 16
         },
         {
