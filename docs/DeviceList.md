@@ -1,9 +1,9 @@
 # Device List
 Here is the list of all the devices actively supported officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](https://PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 27
+Number Of Devices in Official PixelOS: 28
 
-Number of Brands in Official PixelOS: 5
+Number of Brands in Official PixelOS: 6
 
 Officially Supported Devices:
 
@@ -27,6 +27,9 @@ Officially Supported Devices:
 3. Realme GT 2 (porsche)
 4. realme 6/6i(Indian)/6s/Narzo (RMX2001/RMX2002/RMX2003)
 5. realme GT Master (lunaa)
+
+**Sony**
+1. Sony Xperia 1 IV (pdx223)
 
 **Xiaomi**
 1. POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite) (curtana/joyeuse/excalibur/gram)
