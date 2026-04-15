@@ -1,3 +1,7 @@
+# 15-Apr-2026
+- Fix permissions on charger and touchpanel nodes
+- Switch to new memtrack implementation
+
 # 15-Mar-2026
 - Fixed USB detection in PC
 - Reworked over USB init based on GS201
