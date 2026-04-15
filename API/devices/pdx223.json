@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Tuan Anh",
+            "telegram": "log1cs",
+            "github": "log1cs"
+        }
+    ],
+    "model": "Sony Xperia 1 IV",
+    "vendor": "Sony",
+    "codename": "pdx223",
+    "codename_alt": "pdx223",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/pdx223/",
+    "xda": "https://xdaforums.com/t/pdx223-unofficial-pixelos-for-the-sony-xperia-1-iv.4777616"
+}

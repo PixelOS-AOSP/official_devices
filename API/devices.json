@@ -617,6 +617,17 @@
             "version": null
         },
         {
+            "codename": "pdx223",
+            "codename_alt": "pdx223",
+            "vendor": "Sony",
+            "model": "Xperia 1 IV",
+            "maintainer_name": "Tuan Anh",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": 16
+        },
+        {
             "codename": "peridot",
             "codename_alt": "peridot",
             "vendor": "Xiaomi",
