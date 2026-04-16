@@ -1,3 +1,6 @@
+# 16-Apr-2026
+- Platform upstream
+
 # 01-Apr-2026
 - Fixed FP in apps with more than two fingerprints registered
 - Added Toggle for HTSR
