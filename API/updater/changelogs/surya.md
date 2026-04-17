@@ -1,6 +1,10 @@
-\- Implemented GPU boost when EXPENSIVE_RENDERING hints are parsed  
-\- Reduced system-wide blur radius for better performance  
-\- Enabled support for using the device as a webcam  
-\- Added per-app thermal profile control  
+\- Rebased kernel over LineageOS sm8150  
+\- Switched to AIDL Camera HAL  
+\- Switch to common Xiaomi AIDL multihal  
+\- Enabled doze pickup  
+\- Shipped Leica Camera  
+\- Shipped OnePlus Dolby  
+\- Uprev vendor.ims.factory to 1.1  
+\- Reduced blur radius for Pixel Launcher  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

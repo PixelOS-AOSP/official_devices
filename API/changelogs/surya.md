@@ -1,3 +1,13 @@
+# 17-Apr-2026
+- Rebased kernel over LineageOS sm8150
+- Switched to AIDL Camera HAL
+- Switch to common Xiaomi AIDL multihal
+- Enabled doze pickup
+- Shipped Leica Camera
+- Shipped OnePlus Dolby
+- Uprev vendor.ims.factory to 1.1
+- Reduced blur radius for Pixel Launcher
+
 # 17-Jan-2026
 - Implemented GPU boost when EXPENSIVE_RENDERING hints are parsed
 - Reduced system-wide blur radius for better performance

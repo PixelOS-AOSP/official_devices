@@ -1,12 +1,26 @@
 {
     "response": [
         {
-            "datetime": "1768581612",
-            "filename": "PixelOS_surya-16.1-20260116-1642.zip",
-            "id": "a3cf829c9b2a30da6b1f5a03c66d63f3f0da2dcdd56728be90da3ee1cf957e80",
-            "size": 2428910296,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/surya/PixelOS_surya-16.1-20260116-1642.zip",
-            "version": 16
+            "datetime": "1776407993",
+            "filename": "PixelOS_surya-16.2-20260417-0641.zip",
+            "id": "72fa541200b6ab8e6f63e1546ec5c3a391eb2ee75e4aa96934032d3f88dd6afd",
+            "size": 2625895337,
+            "url": "https://download.pixelos.net/sixteen/surya/PixelOS_surya-16.2-20260417-0641.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/surya/PixelOS_surya-16.2-20260417-0641.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-surya_20260417_0641.img",
+                    "SHA256": "f44096b14cfe0efae000b17057339ff389ff345acb03b13ae4e6d52ec634ffa0",
+                    "size": 134217728
+                },
+                {
+                    "name": "boot-surya_20260417_0641.img",
+                    "SHA256": "ac633adb9f9d90537f648de4b46a28f54b151c3a7fac05f7f8a474d0c9a6558b",
+                    "size": 134217728
+                }
+            ]
         }
     ]
 }
