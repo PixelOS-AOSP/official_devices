@@ -99,10 +99,10 @@ If you have run the command correctly, your device's screen will confirm that yo
 
 ### Download the relevant files
 
-Now that you have unlocked the bootloader, download the following files from the ROM posts:
+Now that you have unlocked the bootloader, download the following files:
 
-- ROM zip.
-- Initial install zip.
+- PixleOS zip from PixelOS Website.
+- [Initial install zip (Click Me) ](https://sourceforge.net/projects/pixelos-releases/files/sixteen/cancunf/recovery/).
 
 e.g: PixelOS_cancunf-16.0-20251111-0513.zip and PixelOS\_16\_cancunf\_initial\_install.zip
 
@@ -126,7 +126,16 @@ An example output would be as such:
 ZY22HZLCR2	fastbootd
 ```
 
-Remember, it has to say fastbootd, not fastboot. If it says fastboot, re-read the instructions again.
+Some operating systems may report FastbootD Mode as fastboot as well so to properly confirm if you are in FastbootD Mode, you may run ```fastboot getvar is-userspace```.
+
+An example output would be as such:
+
+```
+is-userspace: yes
+Finished. Total time: 0.001s
+```
+
+If it says no, re-read the instructions again.
 
 The reason why you need to be in fastbootd and not bootloader (fastboot) is because you cannot flash images in bootloader due to Motorola implementing a sort of timestamp check within the bootloader which then results in an error like such:
 
@@ -154,7 +163,7 @@ Once it has flashed without any errors, you may proceed by running ```fastboot r
 
 Then you can choose the **Wipe data / Factory reset** option on your device to format the /data partition.
 
-### Flash ROMs
+### Flashing PixelOS
 
 Finally, choose the **Apply update from ADB / Apply update -> Apply update from ADB / Install update -> ADB Sideload** option on your device and then type ```adb sideload ``` in the Terminal and then drag-and-drop the ROM zip into the terminal and run it.
 
@@ -174,9 +183,9 @@ To update to a newer build, you start by downloading the ROM zip and then you ha
 
 To flash via the built-in Updater:
 
-On ROMs that are in an Official status, they typically provide OTA updates. So, you can just go to the Updater and click Flash.
+You can either just go to the Updater, check for a new update and click Flash.
 
-On ROMs that are not in an Official status but provide an Updater that has a **Local Update** option, you can download the ROM zip in your phone and click **Local Update** then choose the downloaded file to start the update process.
+Or using the **Local Update** option: you can download the ROM zip in your phone and click **Local Update** then choose the downloaded file to start the update process.
 
 Once you have done either one of those things, you can reboot to boot into your newly updated ROM :)
 
