@@ -1,36 +1,36 @@
 {
     "response": [
         {
-            "datetime": "1775624785",
-            "filename": "PixelOS_dubai-16.2-20260408-0508.zip",
-            "id": "7ea0d19784c853639fad9e6b80e0f0e80b98a4765182b4b437a0e2816612c010",
-            "size": 2417492992,
-            "url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260408-0508.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260408-0508.zip",
+            "datetime": "1778407706",
+            "filename": "PixelOS_dubai-16.2-20260510-1010.zip",
+            "id": "234187ce8376c043d6e6016fc727c51232e3ee9946254daf04ebaa79fb5f203f",
+            "size": 2422827098,
+            "url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260510-1010.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260510-1010.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
                     "offset": 4057,
-                    "FILE_HASH": "uMNhyAlj64mwlCUPDr6u4eYC5jzxIpHXX+g8oqSjKSk=",
-                    "FILE_SIZE": "2417485534",
-                    "METADATA_HASH": "nhZ5Q4HM+88Jd8seXwc8PJIIjAZA6tfR5lrqqsp4kok=",
-                    "METADATA_SIZE": "170560"
+                    "FILE_HASH": "b3GZStc+ranWxCguiU6K8tFUU1mcxfU8x3SxpS2QLRE=",
+                    "FILE_SIZE": "2422819640",
+                    "METADATA_HASH": "M4y5c0WWQEWH3UlyIrMzTG2a3AbkBOUEX6A1fGpxbFM=",
+                    "METADATA_SIZE": "170730"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "dtbo-dubai_20260408_0508.img",
+                    "name": "dtbo-dubai_20260510_1010.img",
                     "SHA256": "923cef3b0d0ffd53c10bb1038a60693fc7d1cf63e84d1548762f5330dd36d71b",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-dubai_20260408_0508.img",
-                    "SHA256": "5bc7513277114f5ec64889a95b5be42794d9b0613b71bcd85bedb8d80e44094c",
+                    "name": "boot-dubai_20260510_1010.img",
+                    "SHA256": "5da4a4dbb5dd17663a1fae6e26a2e0415f30532f3b1dec1cc8a08a7a403086c5",
                     "size": 100663296
                 },
                 {
-                    "name": "vendor_boot-dubai_20260408_0508.img",
+                    "name": "vendor_boot-dubai_20260510_1010.img",
                     "SHA256": "a759bb3c783968b97863533fc1c6d8e6c00f5681c92db12ec74a81c29b2cdc42",
                     "size": 100663296
                 }
