@@ -1,4 +1,3 @@
-\- Introduced torch strength control  
-\- Enabled LTE+ icon  
+\- Platform upstream  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

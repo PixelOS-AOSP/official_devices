@@ -1,3 +1,6 @@
+# 10-May-2026
+- Platform upstream
+
 # 11-Apr-2026
 - Introduced torch strength control
 - Enabled LTE+ icon
