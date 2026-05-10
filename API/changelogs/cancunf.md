@@ -1,3 +1,12 @@
+# 10-May-2026
+- Enable DeviceAsWebcam support on cancunf.
+- Import UVC resolution from stock and reduce streaming_maxpacket.
+- Remove references to Google C2 codecs.
+- Use current strength level when enabling torch with ChopChop gesture.
+- Convert TorchAction class to a singleton so as to not instantiate on every gesture trigger.
+- Cleanup redundant and duplicated SEPolicy rules.
+- Kernel state at r3b1.
+
 # 11-Apr-2026
 - Fixed an issue where USB stops working post boot.
 - Kernel state at r3a3.
