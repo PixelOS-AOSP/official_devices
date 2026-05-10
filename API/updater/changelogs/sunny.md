@@ -1,4 +1,4 @@
-\- Switch back to OSS AIDL camera provider.  
-\- Skip failed camera ids from initialization.  
+\- Patch com.vidhance.node.eis.so with libui-v34.  
+\- Enable camera override format from reserved for high framerate video.  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

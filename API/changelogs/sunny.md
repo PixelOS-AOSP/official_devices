@@ -1,3 +1,7 @@
+# 10-May-2026
+- Patch com.vidhance.node.eis.so with libui-v34.
+- Enable camera override format from reserved for high framerate video.
+
 # 10-Apr-2026
 - Switch back to OSS AIDL camera provider.
 - Skip failed camera ids from initialization.
