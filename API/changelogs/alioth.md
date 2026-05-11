@@ -1,3 +1,10 @@
+# 11-May-2026
+- Increase swappiness to 100
+- Clean up init scripts
+- Backport locking changes from k5.4 to improve performance
+- Implement kmem_cache pooling for filesystem and driver modules to accelerate memory allocation
+- Merge the latest changes from Lineage/qcom_8250
+
 # 10-Apr-2026
 - Upstream kernel zstd version
 - zram: remove additional locking
