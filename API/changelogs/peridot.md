@@ -1,3 +1,8 @@
+# 11-May-2026
+- Update sf duration to 12.3ms
+- Fixed OTG and battery% detection in recovery
+- Updated blobs and fw form Update from OS3.0.6.0.WNPMIXM
+
 # 16-Apr-2026
 - Behold the mending of the BLE devices, that they may pair in peace
 - The auto brightness hath been grafted unto the AOD, as the sun riseth on the morning. ☀️
