@@ -1,3 +1,7 @@
+# 11-May-2026
+- Fixed DT2W gesture
+- Fixed incorrect battery status in recovery
+
 # 11-Apr-2026
 - Disable aptX voice to fix call audio routing issues
 - Enable USB webcam (UVC) support
