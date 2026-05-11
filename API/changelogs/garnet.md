@@ -1,3 +1,11 @@
+# 11-May-2026
+- Update sf duration to 12.3ms
+- Reduce blur radius
+- Fixed OTG and battery% detection in recovery
+- Fixed FOD issues on 41_02_OC panel
+- Fixed Display going black for 41_02_OC panel on low brigtness
+- Fixed the device powering off again after a shutdown
+
 # 16-Apr-2026
 - Platform upstream
 
