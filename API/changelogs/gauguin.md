@@ -1,3 +1,6 @@
+# 11-May-2026
+- Platform upstream
+
 # 09-Apr-2026
 - Added back flashlight control
 - Fixed incremental updates
