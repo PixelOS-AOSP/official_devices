@@ -1,10 +1,5 @@
-\- Rebased kernel over LineageOS sm8150  
-\- Switched to AIDL Camera HAL  
-\- Switch to common Xiaomi AIDL multihal  
-\- Enabled doze pickup  
-\- Shipped Leica Camera  
-\- Shipped OnePlus Dolby  
-\- Uprev vendor.ims.factory to 1.1  
-\- Reduced blur radius for Pixel Launcher  
+\- Synced kernel with latest lineage sm8150 changes  
+\- Backported 5.10 BPF on kernel  
+\- Implemented torch light control  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
