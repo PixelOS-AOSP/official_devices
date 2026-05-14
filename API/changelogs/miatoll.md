@@ -1,3 +1,7 @@
+# 14-May-2026
+- Synced kernel with latest lineage sm8150 changes
+- Backported 5.10 BPF on kernel
+
 # 09-Apr-2026
 - Implement torch light control
 - Switched to AIDL Camera HAL
