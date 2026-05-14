@@ -1,24 +1,24 @@
 {
     "response": [
         {
-            "datetime": "1775831052",
-            "filename": "PixelOS_X01BD-16.2-20260410-1426.zip",
-            "id": "9a551cb398ebe64e677f17df2a14acd0ac5c6fd682f35316dbb58639fcca5ae5",
-            "size": 2146907224,
-            "url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260410-1426.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260410-1426.zip",
+            "datetime": "1778701548",
+            "filename": "PixelOS_X01BD-16.2-20260513-1947.zip",
+            "id": "ef36b0560ce0ceb3fd4938000a2572b8f38ad4dead37523f2a49863837606e5d",
+            "size": 2138984820,
+            "url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260513-1947.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260513-1947.zip",
             "version": 16,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-X01BD_20260410_1426.img",
-                    "SHA256": "4256cb778330f5a19ff7062d5587178edea463c3f88d667512cf1fd8a782faa3",
-                    "size": 41259008
+                    "name": "recovery-X01BD_20260513_1947.img",
+                    "SHA256": "f8701816fc0b52a018eb02a8097c627cc50bd994d57a92351463fe2f1e79089a",
+                    "size": 36741120
                 },
                 {
-                    "name": "boot-X01BD_20260410_1426.img",
-                    "SHA256": "71b4965408183f91423162e1aa1dfa2f6c790e7406b43590af024a6dff69e09c",
-                    "size": 27561984
+                    "name": "boot-X01BD_20260513_1947.img",
+                    "SHA256": "40db19cbaa57dfccc0dae4c6548976694b93628a42b9bfe59a4f3e3aa6bfe65c",
+                    "size": 23044096
                 }
             ]
         }
