@@ -1,16 +1,16 @@
 {
     "maintainer": [
         {
-            "display_name": "Karan Parashar",
-            "telegram": "whyredfire",
-            "github": "whyredfire"
+            "display_name": "Zohaib",
+            "telegram": "lemezohaib",
+            "github": "lemezohaib"
         }
     ],
     "model": "Redmi Note 8/8T",
     "vendor": "Xiaomi",
     "codename": "ginkgo",
     "codename_alt": "ginkgo/willow",
-    "active": false,
+    "active": true,
     "version": "fourteen",
     "release": "monthly",
     "last_updated": "30 May 2024",
