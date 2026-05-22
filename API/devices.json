@@ -403,7 +403,7 @@
             "model": "Redmi Note 8/8T",
             "maintainer_name": "Zohaib",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": null,
             "version": null
         },
