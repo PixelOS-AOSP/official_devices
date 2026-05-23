@@ -1,22 +1,31 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_ginkgo-14.0-20240511-0453.zip",
-    "datetime": 1715403113,
-    "size": 1880213742,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240511-0453.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240528-0217.zip",
-    "filehash": "7b5f0d14ad07c430ddac943c9f875965",
-    "id": "7b5f0d14ad07c430ddac943c9f875965",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "whyredfire",
-            "name": "Karan Parashar"
+            "datetime": "1779543036",
+            "filename": "PixelOS_ginkgo-16.2-20260523-1332.zip",
+            "id": "10b909886cb4fb39176ff2300a5fa6021f71fb7dc5efc3a62469381969c7935a",
+            "size": 2304621520,
+            "url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260523-1332.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260523-1332.zip",
+            "version": 16,
+            "stream": false,
+            "additional_images": [
+                {
+                    "name": "recovery-ginkgo_20260523_1332.img",
+                    "SHA256": "2318d2186540967dd6877be9e62444202af8ae9cfcdbeb02ffea12ad16a8018b",
+                    "size": 67108864
+                },
+                {
+                    "name": "dtbo-ginkgo_20260523_1332.img",
+                    "SHA256": "204fbc2ae49ec1f517da99138ca225a762091f6d5708738146d49582c8f298ea",
+                    "size": 8388608
+                },
+                {
+                    "name": "boot-ginkgo_20260523_1332.img",
+                    "SHA256": "83d9e4a3e206df773b16016782aa02777373e5277d436cd6c8d8dd3a4ad25225",
+                    "size": 67108864
+                }
+            ]
         }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-unified.4237791/"
+    ]
 }
