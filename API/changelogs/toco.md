@@ -1,3 +1,6 @@
+# 24-May-2026
+- Implement torch light control
+
 # 14-Apr-2026
 - Enabled LTE+ icon
 
