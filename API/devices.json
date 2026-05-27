@@ -628,6 +628,17 @@
             "version": 16
         },
         {
+            "codename": "pdx224",
+            "codename_alt": "pdx224",
+            "vendor": "Sony",
+            "model": "Sony Xperia 5 IV",
+            "maintainer_name": "Tuan Anh",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": 16
+        },
+        {
             "codename": "peridot",
             "codename_alt": "peridot",
             "vendor": "Xiaomi",

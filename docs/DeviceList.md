@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supported officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](https://PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 29
+Number Of Devices in Official PixelOS: 30
 
 Number of Brands in Official PixelOS: 6
 
@@ -30,6 +30,7 @@ Officially Supported Devices:
 
 **Sony**
 1. Sony Xperia 1 IV (pdx223)
+2. Sony Xperia 5 IV (pdx224)
 
 **Xiaomi**
 1. POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite) (curtana/joyeuse/excalibur/gram)

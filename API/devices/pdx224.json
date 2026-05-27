@@ -1,0 +1,19 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Tuan Anh",
+            "telegram": "log1cs",
+            "github": "log1cs"
+        }
+    ],
+    "model": "Sony Xperia 5 IV",
+    "codename": "pdx224",
+    "codename_alt": "pdx224",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/pdx224/",
+    "xda": "https://xdaforums.com/t/pdx224-pixelos-for-the-sony-xperia-5-iv.4789984/"
+}
