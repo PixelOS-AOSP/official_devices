@@ -1,3 +1,7 @@
+# 01-Jun-2026
+- Set FCM level to 7
+- Switched DT2W implementation
+
 # 09-Apr-2026
 - Platform upstream
 
