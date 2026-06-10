@@ -1,28 +1,28 @@
 {
     "response": [
         {
-            "datetime": "1779543036",
-            "filename": "PixelOS_ginkgo-16.2-20260523-1332.zip",
-            "id": "10b909886cb4fb39176ff2300a5fa6021f71fb7dc5efc3a62469381969c7935a",
-            "size": 2304621520,
-            "url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260523-1332.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260523-1332.zip",
+            "datetime": "1780994195",
+            "filename": "PixelOS_ginkgo-16.2-20260609-0838.zip",
+            "id": "3f29b61bbe2aa8ca2924c73e11f517c74024aedc30863d3981f11d20b156afe4",
+            "size": 2304193667,
+            "url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip",
             "version": 16,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-ginkgo_20260523_1332.img",
-                    "SHA256": "2318d2186540967dd6877be9e62444202af8ae9cfcdbeb02ffea12ad16a8018b",
+                    "name": "recovery-ginkgo_20260609_0838.img",
+                    "SHA256": "7875056755236133a72ca2ec59560bd3c67509bf96a18a5d1c245b97a3f13311",
                     "size": 67108864
                 },
                 {
-                    "name": "dtbo-ginkgo_20260523_1332.img",
+                    "name": "dtbo-ginkgo_20260609_0838.img",
                     "SHA256": "204fbc2ae49ec1f517da99138ca225a762091f6d5708738146d49582c8f298ea",
                     "size": 8388608
                 },
                 {
-                    "name": "boot-ginkgo_20260523_1332.img",
-                    "SHA256": "83d9e4a3e206df773b16016782aa02777373e5277d436cd6c8d8dd3a4ad25225",
+                    "name": "boot-ginkgo_20260609_0838.img",
+                    "SHA256": "acf06d2689f75d1ec9a5d1584b3ca968cf4742531f3d38ba3643bcc8b6cd9691",
                     "size": 67108864
                 }
             ]
