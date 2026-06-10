@@ -1,28 +1,28 @@
 {
     "response": [
         {
-            "datetime": "1778430206",
-            "filename": "PixelOS_sweet-16.2-20260510-1626.zip",
-            "id": "a341fe9ef4466c878e9de0a46c5270efffb76b38f111be3625c8ddf9655feb66",
-            "size": 2830365606,
-            "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260510-1626.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260510-1626.zip",
+            "datetime": "1781069438",
+            "filename": "PixelOS_sweet-16.2-20260610-0532.zip",
+            "id": "a0efaf0d8d8a3bfc96c69df3ff56ce0b7d2a491a04ea592162591883e53bcdda",
+            "size": 2829497355,
+            "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip",
             "version": 16,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-sweet_20260510_1626.img",
-                    "SHA256": "81fbc19eaaeda3255b0d768dd4dc1c1a5fef3bdd70e51e259c3134cb43f66df0",
+                    "name": "recovery-sweet_20260610_0532.img",
+                    "SHA256": "23b73dc098b001aab87d7c7bebac0daad75f0bfaed4b41b69a9cefec681cc48e",
                     "size": 134217728
                 },
                 {
-                    "name": "dtbo-sweet_20260510_1626.img",
+                    "name": "dtbo-sweet_20260610_0532.img",
                     "SHA256": "bf2cb26a918d9f1869bf883b48181aeb9b7080ee3bbbfecca7f5e35c076366a4",
                     "size": 33554432
                 },
                 {
-                    "name": "boot-sweet_20260510_1626.img",
-                    "SHA256": "5e6190637bd77338303939ac0297644bc19ec32c5c5b8b4976c59b7f7b1cef14",
+                    "name": "boot-sweet_20260610_0532.img",
+                    "SHA256": "cf5a815591d638a28ac8b671c0cad8aa8ff40c8db6a44a22fd97b09a5e855421",
                     "size": 134217728
                 }
             ]
