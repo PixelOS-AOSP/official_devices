@@ -1,3 +1,8 @@
+# 10-Jun-2026
+- Implement torch light control
+- Disable NSA on Jio
+- Remove forced DCI-P3 on adaptive color mode
+
 # 11-May-2026
 - Increase swappiness to 100
 - Clean up init scripts
