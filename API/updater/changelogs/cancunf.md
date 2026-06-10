@@ -1,9 +1,19 @@
-\- Enable DeviceAsWebcam support on cancunf.  
-\- Import UVC resolution from stock and reduce streaming_maxpacket.  
-\- Remove references to Google C2 codecs.  
-\- Use current strength level when enabling torch with ChopChop gesture.  
-\- Convert TorchAction class to a singleton so as to not instantiate on every gesture trigger.  
-\- Cleanup redundant and duplicated SEPolicy rules.  
-\- Kernel state at r3b1.  
+\- Drop remnants of FPC1020.  
+\- Drop remnants of egisfp.  
+\- Rewrite fingerprint init script.  
+\- Drop fingerprint ident binaries.  
+\- Rewrite insmod script.  
+\- Update blobs and firmware to V1TDS35H.83-20-5-11.  
+\- Cleanup MTK connectivity modules load init triggers.  
+\- Set ro.vendor.soc.* from init instead of props.  
+\- Cleanup duplicate sensor permissions.  
+\- Remove unused touchrec folder.  
+\- Remove Moto Modem RFS logs script.  
+\- Drop Moto wireless accessories permissions.  
+\- Drop Moto shutdown logging script.  
+\- Drop Moto kpgather/kpreadwrite binaries.  
+\- Drop Moto pstore_annotate script.  
+\- Drop Moto bootperf.rc.  
+\- Kernel state at r3b3.  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
