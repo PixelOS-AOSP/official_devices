@@ -1,32 +1,32 @@
 {
     "response": [
         {
-            "datetime": "1778423158",
-            "filename": "PixelOS_sunny-16.2-20260510-1427.zip",
-            "id": "cf5c1da823740884ed93c69c1600cb2fd6f6a3092290acee5a2500b76a7972ac",
-            "size": 2545863348,
-            "url": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260510-1427.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260510-1427.zip",
+            "datetime": "1781013997",
+            "filename": "PixelOS_sunny-16.2-20260609-1408.zip",
+            "id": "1ba4a837bf8ca5839bfc8c4ae697fabdae8d3ece071fcd1f455c6845333d3668",
+            "size": 2546070851,
+            "url": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260609-1408.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260609-1408.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
                     "offset": 3994,
-                    "FILE_HASH": "+ajqykGM8GBCRYTBdjaJSFLAQNX0oJomEDEk8RwiASo=",
-                    "FILE_SIZE": "2545855953",
-                    "METADATA_HASH": "b6+geUTdKlAMQh+gLmDuSevPRHZ5lf1B6MfAX79KdsI=",
-                    "METADATA_SIZE": "100223"
+                    "FILE_HASH": "PBUdOIdRGBEBV4k3hvwR44M8TXdkDm4AMP3qmqiFSGk=",
+                    "FILE_SIZE": "2546063456",
+                    "METADATA_HASH": "NOMXX4MGCIUr4zXm5KEwa+fDnB/CIM1SdfbHUKcVezI=",
+                    "METADATA_SIZE": "100170"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "boot-sunny_20260510_1427.img",
-                    "SHA256": "395840a6083fa710eba10a6bf9c59c9cf35f7f795d136edb65a7813eb57de86d",
+                    "name": "boot-sunny_20260609_1408.img",
+                    "SHA256": "af1c4a6a17d88fc2ec159ddf5487416d6d6bb96b7539503ab86cf198e17fb741",
                     "size": 134217728
                 },
                 {
-                    "name": "vendor_boot-sunny_20260510_1427.img",
-                    "SHA256": "618e17765dc2e4dd2ceda05d4a317c76a218f92a81ac5e32b85fd4ba113a249f",
+                    "name": "vendor_boot-sunny_20260609_1408.img",
+                    "SHA256": "a52c75eea22e82b4f5cfc7f03ae5f80886052ef92d45c9b1655c549433e24e2a",
                     "size": 100663296
                 }
             ]

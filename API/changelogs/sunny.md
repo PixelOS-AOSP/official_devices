@@ -1,3 +1,6 @@
+# 10-Jun-2026
+- Platform upstream.
+
 # 10-May-2026
 - Patch com.vidhance.node.eis.so with libui-v34.
 - Enable camera override format from reserved for high framerate video.
