@@ -1,3 +1,7 @@
+# 10-Jun-2026
+- Introduced torch strength control
+- Fixed UDFPS enroll UI
+
 # 10-May-2026
 - Platform upstream
 
