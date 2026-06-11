@@ -1,3 +1,7 @@
+# 11-Jun-2026
+- Fixed chipmunk voice in voice calls.
+- Updated kernel with upstream(LineageOS/qcom_sm8250).
+
 # 11-May-2026
 - Platform upstream
 
