@@ -1,4 +1,3 @@
-\- Set FCM level to 7  
-\- Switched DT2W implementation  
+\- Platform upstream.  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
