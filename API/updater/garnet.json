@@ -1,42 +1,42 @@
 {
     "response": [
         {
-            "datetime": "1778478986",
-            "filename": "PixelOS_garnet-16.2-20260511-0558.zip",
-            "id": "f3d728617f78d876380d6241ccbfd020d2954bbea52b03da518ff8ef22609b76",
-            "size": 2723872691,
-            "url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260511-0558.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260511-0558.zip",
+            "datetime": "1781280569",
+            "filename": "PixelOS_garnet-16.2-20260612-1611.zip",
+            "id": "e6af3df737b248b5fdc53291aa6f0c999a7b19334b33d0d3b0af1c201679bc6f",
+            "size": 2709663695,
+            "url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260612-1611.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260612-1611.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
-                    "offset": 4351,
-                    "FILE_HASH": "BY4xRqx8vALqGN6vMLZHPm1WFoiiEv1oIL3iAdAWgwo=",
-                    "FILE_SIZE": "2723864939",
-                    "METADATA_HASH": "jyMHTcQj6bU77y72ywRIIy3++6BGrMKwlIfS/Gj/QYo=",
-                    "METADATA_SIZE": "164927"
+                    "offset": 4365,
+                    "FILE_HASH": "yUCAsxp+v7ir3OYl3AgriXb5SXbr2WTO26khx9d4AWM=",
+                    "FILE_SIZE": "2709655929",
+                    "METADATA_HASH": "fsp46MoJ4djy5pOJwEDKaleptD45BHuMcdpb0EpFuqQ=",
+                    "METADATA_SIZE": "164646"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "recovery-garnet_20260511_0558.img",
-                    "SHA256": "b791faf44565040fdbc5e72591a0e1a4f54cb8b1b44ac0193c34d9f60d72512d",
+                    "name": "recovery-garnet_20260612_1611.img",
+                    "SHA256": "de548d3cb431eb95d592de922da03ee28c7a8a02d6843a137d7f2fb2cc6c071c",
                     "size": 104857600
                 },
                 {
-                    "name": "dtbo-garnet_20260511_0558.img",
-                    "SHA256": "5e0b61001999d05ac2be9eef90f9554a2b915e237c839e4c18eef8b33712d184",
+                    "name": "dtbo-garnet_20260612_1611.img",
+                    "SHA256": "19ef3416fd134bafce49588e00fef4b512929df5624756c4d2c50762af7f793b",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-garnet_20260511_0558.img",
-                    "SHA256": "41030bd42cda81c21e46aed3aa291cde07523e6d039e9dc12f51d07fb12f9498",
+                    "name": "boot-garnet_20260612_1611.img",
+                    "SHA256": "8aeaa3019d2035c7ba51f1d67b12b0dbf8913ff2208f02e29c8f486f99ec5e8b",
                     "size": 201326592
                 },
                 {
-                    "name": "vendor_boot-garnet_20260511_0558.img",
-                    "SHA256": "4ef506163241b9c45ddb6caa9039e500c612168dd0e624a9d6fdeaff30c0dd7c",
+                    "name": "vendor_boot-garnet_20260612_1611.img",
+                    "SHA256": "1784a10934829919e006df18b129b12c3584e238f422828e6b3223ce37187266",
                     "size": 100663296
                 }
             ]
