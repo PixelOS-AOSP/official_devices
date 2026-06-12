@@ -1,3 +1,8 @@
+# 12-Jun-2026
+- Added Miui Camera
+- Kernel Upstream
+- Platform Upstream
+
 # 11-May-2026
 - Update sf duration to 12.3ms
 - Fixed OTG and battery% detection in recovery
