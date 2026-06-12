@@ -1,3 +1,6 @@
+# 12-Jun-2026
+- Platform upstream
+
 # 24-May-2026
 - Implement torch light control
 
