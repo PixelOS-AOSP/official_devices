@@ -1,3 +1,9 @@
+# 13-Jun-2026
+- Fixed Camera for some CN units
+- Fixed FP for some CN units
+- Added Miui Camera
+- Platform Upstream
+
 # 14-May-2026
 - Reset default touch sampling rate to 120
 - Automatically increase touch sampling rate in games
