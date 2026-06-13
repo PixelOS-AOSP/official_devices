@@ -1,4 +1,3 @@
-\- Fixed chipmunk voice in voice calls.  
-\- Updated kernel with upstream(LineageOS/qcom_sm8250).  
+\- Fixed media/storage issues.  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
