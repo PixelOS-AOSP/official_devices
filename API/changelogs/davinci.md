@@ -1,3 +1,6 @@
+# 16-Jun-2026
+- Switched back to stock max torch brightness
+
 # 10-Jun-2026
 - Introduced torch strength control
 - Fixed UDFPS enroll UI
