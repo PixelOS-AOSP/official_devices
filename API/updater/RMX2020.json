@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1778466137",
-            "filename": "PixelOS_RMX2020-16.2-20260511-0224.zip",
-            "id": "9261a2a4cfadaa18f2ecca3c3e7f23acc55de07d3cec5fb068d90dbb61a6da7b",
-            "size": 2300839187,
-            "url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260511-0224.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260511-0224.zip",
+            "datetime": "1781814660",
+            "filename": "PixelOS_RMX2020-16.2-20260618-2032.zip",
+            "id": "bc05e24bbed4a3c8d3f6abb55e7d33ff6f4c2be94edd5ea2895cc32bf479758e",
+            "size": 2290025668,
+            "url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260618-2032.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260618-2032.zip",
             "version": 16,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-RMX2020_20260511_0224.img",
-                    "SHA256": "5e16e28d04316efae24eea7c5298c25d544ecfaa76050ee728ffab907fc7a9b0",
+                    "name": "recovery-RMX2020_20260618_2032.img",
+                    "SHA256": "f80fca0a4a2fc34c127904ac76489320016b2d7fbe64b9bd1d4a93bd562aaec9",
                     "size": 67108864
                 },
                 {
-                    "name": "boot-RMX2020_20260511_0224.img",
-                    "SHA256": "d30ac5cdfc3465e173276aa3b0154c2f86b24788f91edfb9e0d9399dbbd2fd5f",
+                    "name": "boot-RMX2020_20260618_2032.img",
+                    "SHA256": "a2918ef092c4e254a685d01357067512133cdc75e58770fae4e014349165d9ef",
                     "size": 33554432
                 }
             ]
