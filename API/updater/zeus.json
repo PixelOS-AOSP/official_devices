@@ -1,42 +1,42 @@
 {
     "response": [
         {
-            "datetime": "1778462114",
-            "filename": "PixelOS_zeus-16.2-20260511-0117.zip",
-            "id": "8e5e1e0cde26a286974e4eb30bbbc009b1e9655c0422526213514c5bdd27f416",
-            "size": 2898320181,
-            "url": "https://download.pixelos.net/sixteen/zeus/PixelOS_zeus-16.2-20260511-0117.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/zeus/PixelOS_zeus-16.2-20260511-0117.zip",
+            "datetime": "1781876740",
+            "filename": "PixelOS_zeus-16.2-20260619-1347.zip",
+            "id": "102aa87509042cc87541f3f48f0e82210ec796d5b8a9b37d3255c8805c9ca707",
+            "size": 2897751143,
+            "url": "https://download.pixelos.net/sixteen/zeus/PixelOS_zeus-16.2-20260619-1347.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/zeus/PixelOS_zeus-16.2-20260619-1347.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
                     "offset": 4369,
-                    "FILE_HASH": "Am9BmdjDofuUiFmsd/V0uQh8QetjVSCFR9X7KEa5K9c=",
-                    "FILE_SIZE": "2898312411",
-                    "METADATA_HASH": "IUgewEqvt+QCncx8UpHpKznpP3ngR5enuZYoKvKHVWQ=",
-                    "METADATA_SIZE": "200986"
+                    "FILE_HASH": "MGmYWecO0pLpU2RYfZ7in+I22JOUNEbnIB5UFDsUJlg=",
+                    "FILE_SIZE": "2897743373",
+                    "METADATA_HASH": "yFEJaP2UzUdmBwjVhPPWZ4AibNGgUg+/DtMYKkRBpVY=",
+                    "METADATA_SIZE": "200985"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "recovery-zeus_20260511_0117.img",
-                    "SHA256": "d7d4f2ac4c947be631a51b8e5456dce2a2a4b8c69a0d58ed556119fb28ce0a0e",
+                    "name": "recovery-zeus_20260619_1347.img",
+                    "SHA256": "10321930276cb566d9da46b31f1d646689f6ef3b82f64578db9af5d2a20ff734",
                     "size": 104857600
                 },
                 {
-                    "name": "dtbo-zeus_20260511_0117.img",
-                    "SHA256": "c9df3f1370f37c3ea05cc528e55d3520d1ce07d4f595b264f03f7b03a6d018ff",
+                    "name": "dtbo-zeus_20260619_1347.img",
+                    "SHA256": "8d1baae9a8a3f333c445a820e6e62fe471df7e8fa5fb4d985e4214cf2127d8b5",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-zeus_20260511_0117.img",
-                    "SHA256": "172d0b68d04a46cc36f5ba1dc8f7d0133b874fb86546288afa3863058e42a5b0",
+                    "name": "boot-zeus_20260619_1347.img",
+                    "SHA256": "683b5cbe77a37a80e0085ccede2c348e4effd24fe184a9efa207032a4f5ccad9",
                     "size": 201326592
                 },
                 {
-                    "name": "vendor_boot-zeus_20260511_0117.img",
-                    "SHA256": "352ee124564dc624e2f188488f4781bdfaf771348a222c14771dfffdeaa0a6e3",
+                    "name": "vendor_boot-zeus_20260619_1347.img",
+                    "SHA256": "72e236c2d11de34ee7c3c2de867a3e5da087d448d208c7728f555db4fe968018",
                     "size": 100663296
                 }
             ]
