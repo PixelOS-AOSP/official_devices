@@ -1,3 +1,6 @@
+# 20-Jun-2026
+- Synced kernel with lineageos sdm660
+
 # 14-May-2026
 - Enabled incremental FS
 - Enabled exFAT
