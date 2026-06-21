@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1778690088",
-            "filename": "PixelOS_surya-16.2-20260513-1636.zip",
-            "id": "3f48928678f6bdccead51f4db4be419a9da3e20941163c32b5985e24d0da2334",
-            "size": 2631192780,
-            "url": "https://download.pixelos.net/sixteen/surya/PixelOS_surya-16.2-20260513-1636.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/surya/PixelOS_surya-16.2-20260513-1636.zip",
+            "datetime": "1781952202",
+            "filename": "PixelOS_surya-16.2-20260620-1045.zip",
+            "id": "63c0fb6b6e1f53cedefe2bf70d0718404775bcac92424b98cb76061026f4daf8",
+            "size": 2630714739,
+            "url": "https://download.pixelos.net/sixteen/surya/PixelOS_surya-16.2-20260620-1045.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/surya/PixelOS_surya-16.2-20260620-1045.zip",
             "version": 16,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-surya_20260513_1636.img",
-                    "SHA256": "9a237a7bd46cd9f4cbba517e9459266b3605ff1011ded19b5e9ff1614e0c055e",
+                    "name": "recovery-surya_20260620_1045.img",
+                    "SHA256": "73022dbe34c8368f9c9b3aeb6c47d83c08545b6a7b9d428fc1b41f582bc3c98d",
                     "size": 134217728
                 },
                 {
-                    "name": "boot-surya_20260513_1636.img",
-                    "SHA256": "baa504c8616d3bdacb76b4731e0f8c51617aa60de4fe46c0568f961705044340",
+                    "name": "boot-surya_20260620_1045.img",
+                    "SHA256": "82783bcd551bd17a57535d6dac1b5cc5b57a29ac32621f1098d79cbbf30d98ab",
                     "size": 134217728
                 }
             ]

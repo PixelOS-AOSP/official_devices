@@ -1,3 +1,6 @@
+# 21-Jun-2026
+- Synced kernel with latest lineage sm8150 changes
+
 # 13-May-2026
 - Synced kernel with latest lineage sm8150 changes
 - Backported 5.10 BPF on kernel
