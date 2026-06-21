@@ -535,7 +535,7 @@
             "model": "POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite)",
             "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": true,
+            "active": false,
             "last_updated": 1778693048,
             "version": 16
         },

@@ -10,7 +10,7 @@
     "vendor": "Xiaomi",
     "codename": "miatoll",
     "codename_alt": "curtana/joyeuse/excalibur/gram",
-    "active": true,
+    "active": false,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "14 May 2026",
