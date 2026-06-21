@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supported officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](https://PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 30
+Number Of Devices in Official PixelOS: 29
 
 Number of Brands in Official PixelOS: 6
 
@@ -33,20 +33,19 @@ Officially Supported Devices:
 2. Sony Xperia 5 IV (pdx224)
 
 **Xiaomi**
-1. POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite) (curtana/joyeuse/excalibur/gram)
-2. POCO X3 NFC (surya/karna)
-3. Poco F3/Mi 11X/Redmi K40 (alioth/aliothin)
-4. Redmi K20/Mi 9T (davinci/davinciin)
-5. Redmi Note 10 (sunny/mojito)
-6. Redmi Note 10 Pro/Max (sweet/sweetin)
-7. Redmi Note 13 Pro 5G / POCO X6 5G (garnet)
-8. Redmi Note 8/8T (ginkgo/willow)
-9. Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G (gauguin)
-10. Redmi Turbo 3 / POCO F6 (peridot)
-11. Redmi Turbo 4 Pro / POCO F7 (onyx)
-12. Xiaomi 11 Lite 5G NE (lisa)
-13. Xiaomi 12 Pro (zeus)
-14. Xiaomi Mi Note 10 Lite (toco)
-15. Xiaomi Pad 6 (pipa)
+1. POCO X3 NFC (surya/karna)
+2. Poco F3/Mi 11X/Redmi K40 (alioth/aliothin)
+3. Redmi K20/Mi 9T (davinci/davinciin)
+4. Redmi Note 10 (sunny/mojito)
+5. Redmi Note 10 Pro/Max (sweet/sweetin)
+6. Redmi Note 13 Pro 5G / POCO X6 5G (garnet)
+7. Redmi Note 8/8T (ginkgo/willow)
+8. Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G (gauguin)
+9. Redmi Turbo 3 / POCO F6 (peridot)
+10. Redmi Turbo 4 Pro / POCO F7 (onyx)
+11. Xiaomi 11 Lite 5G NE (lisa)
+12. Xiaomi 12 Pro (zeus)
+13. Xiaomi Mi Note 10 Lite (toco)
+14. Xiaomi Pad 6 (pipa)
 
 We hope you enjoyed the project! Your donations help us maintain our infrastructure and continue our work. Please consider showing your support by donating! [Click Me](https://blog.pixelos.net/docs/donate/)
