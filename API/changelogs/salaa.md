@@ -1,3 +1,6 @@
+# 26-Jun-2026
+- Platform upstream.
+
 # 15-Apr-2026
 - Fix permissions on charger and touchpanel nodes
 - Switch to new memtrack implementation
