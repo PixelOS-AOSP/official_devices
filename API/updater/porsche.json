@@ -1,37 +1,37 @@
 {
     "response": [
         {
-            "datetime": "1775811964",
-            "filename": "PixelOS_porsche-16.2-20260410-0907.zip",
-            "id": "f675bf699771f9eb02a19340937cd31c8debff32e1af4ec381dfcc3791a0cb67",
-            "size": 2969514158,
-            "url": "https://download.pixelos.net/sixteen/porsche/PixelOS_porsche-16.2-20260410-0907.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/porsche/PixelOS_porsche-16.2-20260410-0907.zip",
+            "datetime": "1782548642",
+            "filename": "PixelOS_porsche-16.2-20260627-0826.zip",
+            "id": "981f73070ad3654e3137515e39109543ae4d3fb24f0825af68cc37896a886b79",
+            "size": 2974250503,
+            "url": "https://download.pixelos.net/sixteen/porsche/PixelOS_porsche-16.2-20260627-0826.zip",
+            "stream_url": "https://download.pixelos.net/sixteen/porsche/PixelOS_porsche-16.2-20260627-0826.zip",
             "version": 16,
             "stream": true,
             "payload": [
                 {
                     "offset": 4366,
-                    "FILE_HASH": "0OWHLCtQhNakgyhrW9cmFeUHFM554D49rOFROMnaQX4=",
-                    "FILE_SIZE": "2969506391",
-                    "METADATA_HASH": "5JxkXEydY+yhw39EfabHGqPkqX3UrCibvbVdZgLl4sQ=",
-                    "METADATA_SIZE": "179996"
+                    "FILE_HASH": "L3paqyVRLq0XAQXlEIGOJPF2P0aPpt7YYm4i2pXwEK8=",
+                    "FILE_SIZE": "2974242736",
+                    "METADATA_HASH": "i0XaZeoENorp9fc5mEhZv5wS248orRELj6dZx9/eHUA=",
+                    "METADATA_SIZE": "180053"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "dtbo-porsche_20260410_0907.img",
-                    "SHA256": "642be63320c52ec18a51e40979cf5aca39016514521d9ec7f714fa68a5039cef",
+                    "name": "dtbo-porsche_20260627_0826.img",
+                    "SHA256": "73d6ff3e035a4c104475ce2b274416da98ab2ab03eb14d5a8495bdbb64aedc2f",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-porsche_20260410_0907.img",
-                    "SHA256": "475ac2199303f4b1948bada735f876f8e891c27515efd95e3ac9572acc993355",
+                    "name": "boot-porsche_20260627_0826.img",
+                    "SHA256": "aff6ad4319eb84dd4eeaf835d169cf3b93fef1c8d4139ebb48d5d20bfe950f3c",
                     "size": 201326592
                 },
                 {
-                    "name": "vendor_boot-porsche_20260410_0907.img",
-                    "SHA256": "5c3537e2eb5e2e02b970d63e50f19ffadcac9aa155beaf9a4f1785d2af24fc64",
+                    "name": "vendor_boot-porsche_20260627_0826.img",
+                    "SHA256": "3ae6a95e2a740389eec5ce3f2fa40a47bcc597b31717301e24f18665e2df306b",
                     "size": 201326592
                 }
             ]
