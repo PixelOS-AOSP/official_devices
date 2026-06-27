@@ -1,3 +1,6 @@
+# 27-Jun-2026
+- Updated kernel
+
 # 11-Jun-2026
 - Platform upstream.
 
