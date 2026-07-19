@@ -10,7 +10,7 @@
     "vendor": "Xiaomi",
     "codename": "gauguin",
     "codename_alt": "gauguin",
-    "active": true,
+    "active": false,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "13 June 2026",
