@@ -392,7 +392,7 @@
             "model": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G",
             "maintainer_name": "Hridaya",
             "frame": null,
-            "active": true,
+            "active": false,
             "last_updated": 1781351062,
             "version": 16
         },
