@@ -390,9 +390,9 @@
             "codename_alt": "gauguin",
             "vendor": "Xiaomi",
             "model": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G",
-            "maintainer_name": "Hridaya",
+            "maintainer_name": "Penguin766 && Hridaya",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1781351062,
             "version": 16
         },
