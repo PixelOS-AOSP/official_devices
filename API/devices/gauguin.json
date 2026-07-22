@@ -4,13 +4,18 @@
             "display_name": "Hridaya",
             "telegram": "Hridaya01",
             "github": "hridaya2004"
+        },
+        {
+            "display_name": "Penguin766",
+            "telegram": "penguin766",
+            "github": "Penguin766"
         }
     ],
     "model": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G",
     "vendor": "Xiaomi",
     "codename": "gauguin",
     "codename_alt": "gauguin",
-    "active": false,
+    "active": true,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "13 June 2026",
