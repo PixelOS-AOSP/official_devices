@@ -11,10 +11,10 @@
     "codename": "garnet",
     "codename_alt": "garnet",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "12 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260612-1611.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/",
+    "last_updated": "20 August 2026",
+    "download_link": "https://download.pixelos.net/seventeen/garnet/PixelOS_garnet-17.0-20260820-1346.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/garnet/",
     "xda": null
 }
