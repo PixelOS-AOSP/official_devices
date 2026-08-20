@@ -1,22 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_bitra-14.0-20240131-2054.zip",
-    "datetime": 1706734369,
-    "size": 2721143886,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/bitra/PixelOS_bitra-14.0-20240131-2054.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/bitra/PixelOS_bitra-14.0-20240131-2054.zip",
-    "filehash": "f864be44ca4b19ef0eb06adcd565af08",
-    "id": "f864be44ca4b19ef0eb06adcd565af08",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "Ad1tyaS1ngh",
-            "name": "Aditya"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
-}
+[
+    {
+        "datetime": 1706734369,
+        "files": [
+            {
+                "filename": "PixelOS_bitra-14.0-20240131-2054.zip",
+                "os_sdk_level": 34,
+                "sha256": "f864be44ca4b19ef0eb06adcd565af08",
+                "size": 2721143886,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/bitra/PixelOS_bitra-14.0-20240131-2054.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

@@ -1,45 +1,38 @@
-{
-    "response": [
-        {
-            "datetime": "1782556150",
-            "filename": "PixelOS_martini-16.2-20260627-1031.zip",
-            "id": "162b7eab8fb56d560ea23a665a349cadef7f40c766abb53afa4f0d0ce1fbb608",
-            "size": 2740262924,
-            "url": "https://download.pixelos.net/sixteen/martini/PixelOS_martini-16.2-20260627-1031.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/martini/PixelOS_martini-16.2-20260627-1031.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4444,
-                    "FILE_HASH": "4GZ9NilhfZvRM4A4W1x3dcXeQMnz1p+KApSkwtHL7Nk=",
-                    "FILE_SIZE": "2740255079",
-                    "METADATA_HASH": "ZYLSat4rckMiQLomtC0r0qjfXFlG0mRMwtu+wKtImtg=",
-                    "METADATA_SIZE": "171862"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "vbmeta-martini_20260627_1031.img",
-                    "SHA256": "15ebe7eb5d28c5e90fa48978f0bb86a6a2c3bae11c74b7485c6b5052a31663d3",
-                    "size": 8192
-                },
-                {
-                    "name": "dtbo-martini_20260627_1031.img",
-                    "SHA256": "6d776be852c6934eb564c9f4640570e1802609a96cc02e3eac672bdb7155bce0",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-martini_20260627_1031.img",
-                    "SHA256": "69b3e8ef14934ca2fc9198e43f7ec54f2ce5ba8c503094e867e3a97e56072193",
-                    "size": 201326592
-                },
-                {
-                    "name": "vendor_boot-martini_20260627_1031.img",
-                    "SHA256": "ccc821027c38b633e93270049ad70c410e9e591c0b02b1d2cb9a1c2ff820df6c",
-                    "size": 201326592
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1782556150,
+        "files": [
+            {
+                "filename": "PixelOS_martini-16.2-20260627-1031.zip",
+                "os_sdk_level": 36,
+                "sha256": "162b7eab8fb56d560ea23a665a349cadef7f40c766abb53afa4f0d0ce1fbb608",
+                "size": 2740262924,
+                "url": "https://download.pixelos.net/sixteen/martini/PixelOS_martini-16.2-20260627-1031.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "vbmeta-martini_20260627_1031.img",
+                "SHA256": "15ebe7eb5d28c5e90fa48978f0bb86a6a2c3bae11c74b7485c6b5052a31663d3",
+                "size": 8192
+            },
+            {
+                "name": "dtbo-martini_20260627_1031.img",
+                "SHA256": "6d776be852c6934eb564c9f4640570e1802609a96cc02e3eac672bdb7155bce0",
+                "size": 25165824
+            },
+            {
+                "name": "boot-martini_20260627_1031.img",
+                "SHA256": "69b3e8ef14934ca2fc9198e43f7ec54f2ce5ba8c503094e867e3a97e56072193",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-martini_20260627_1031.img",
+                "SHA256": "ccc821027c38b633e93270049ad70c410e9e591c0b02b1d2cb9a1c2ff820df6c",
+                "size": 201326592
+            }
+        ]
+    }
+]

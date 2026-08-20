@@ -1,40 +1,33 @@
-{
-    "response": [
-        {
-            "datetime": "1781100871",
-            "filename": "PixelOS_alioth-16.2-20260610-1416.zip",
-            "id": "61a3c5c189ad1461651f2a84cb7161bf6954629bb3f5c8c4ec0931d5ede05d97",
-            "size": 2373229005,
-            "url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260610-1416.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260610-1416.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4088,
-                    "FILE_HASH": "EoNZPXVT8pnE8J5gxqIHe+CXna49U44Q9QfWA+Mrk44=",
-                    "FILE_SIZE": "2373221516",
-                    "METADATA_HASH": "br5njQBiuj7/NL9zPA5vEuHPZtrztIBCXUWEB6gG7ew=",
-                    "METADATA_SIZE": "145340"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "dtbo-alioth_20260610_1416.img",
-                    "SHA256": "6c35b6d44d1c66597185b50dca5b3f336f1cebcca18641f78898d9ee9ed4d3c4",
-                    "size": 33554432
-                },
-                {
-                    "name": "boot-alioth_20260610_1416.img",
-                    "SHA256": "c1ec5660b4ead555b4e8e42d5544b32fb8a1007be9a442257ec5f5d18ad7e241",
-                    "size": 201326592
-                },
-                {
-                    "name": "vendor_boot-alioth_20260610_1416.img",
-                    "SHA256": "120a990dcf89c7774039ae2d9553dbf5f3df376979dc1a0fab6eb8a731bf278a",
-                    "size": 100663296
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781100871,
+        "files": [
+            {
+                "filename": "PixelOS_alioth-16.2-20260610-1416.zip",
+                "os_sdk_level": 36,
+                "sha256": "61a3c5c189ad1461651f2a84cb7161bf6954629bb3f5c8c4ec0931d5ede05d97",
+                "size": 2373229005,
+                "url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260610-1416.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "dtbo-alioth_20260610_1416.img",
+                "SHA256": "6c35b6d44d1c66597185b50dca5b3f336f1cebcca18641f78898d9ee9ed4d3c4",
+                "size": 33554432
+            },
+            {
+                "name": "boot-alioth_20260610_1416.img",
+                "SHA256": "c1ec5660b4ead555b4e8e42d5544b32fb8a1007be9a442257ec5f5d18ad7e241",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-alioth_20260610_1416.img",
+                "SHA256": "120a990dcf89c7774039ae2d9553dbf5f3df376979dc1a0fab6eb8a731bf278a",
+                "size": 100663296
+            }
+        ]
+    }
+]

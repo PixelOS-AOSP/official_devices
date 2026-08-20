@@ -1,50 +1,43 @@
-{
-    "response": [
-        {
-            "datetime": "1781340111",
-            "filename": "PixelOS_onyx-16.2-20260613-0843.zip",
-            "id": "2aac176e4cfb44b2aa2db04fc4b4f5fecb0ce11db451703f2e728b5d04352a13",
-            "size": 4310807392,
-            "url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.2-20260613-0843.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.2-20260613-0843.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4595,
-                    "FILE_HASH": "LF+CXsl5LNqFc3f4eDD91dUhy466Agi8AipPvTZSh5k=",
-                    "FILE_SIZE": "4310799276",
-                    "METADATA_HASH": "zDXrBUHayeCVtsUkrEJHsj8XutXvdpevW8eEIV/H8To=",
-                    "METADATA_SIZE": "222443"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "init_boot-onyx_20260613_0843.img",
-                    "SHA256": "917c1392f1f4ea6551d377b1dbf8e22057025112fae0213b685d6c936df6e32d",
-                    "size": 8388608
-                },
-                {
-                    "name": "recovery-onyx_20260613_0843.img",
-                    "SHA256": "ee79821dc6390d2a07cb2d24e83212c614ab5669112d317366bad53518473fcd",
-                    "size": 104857600
-                },
-                {
-                    "name": "dtbo-onyx_20260613_0843.img",
-                    "SHA256": "99171fb11deae69e0654e52a6a84c14bc1ef236b0d389fe80b91f4fb099b9dc0",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-onyx_20260613_0843.img",
-                    "SHA256": "b7216cdd3dddf0c87c82307594e6eeeaada23619956c672d5750020be7f4b38b",
-                    "size": 100663296
-                },
-                {
-                    "name": "vendor_boot-onyx_20260613_0843.img",
-                    "SHA256": "7288e38cf82c87a06620738ecaf8e147bb59b5c20dc7ef27042f03464e0acd8b",
-                    "size": 100663296
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781340111,
+        "files": [
+            {
+                "filename": "PixelOS_onyx-16.2-20260613-0843.zip",
+                "os_sdk_level": 36,
+                "sha256": "2aac176e4cfb44b2aa2db04fc4b4f5fecb0ce11db451703f2e728b5d04352a13",
+                "size": 4310807392,
+                "url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.2-20260613-0843.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "init_boot-onyx_20260613_0843.img",
+                "SHA256": "917c1392f1f4ea6551d377b1dbf8e22057025112fae0213b685d6c936df6e32d",
+                "size": 8388608
+            },
+            {
+                "name": "recovery-onyx_20260613_0843.img",
+                "SHA256": "ee79821dc6390d2a07cb2d24e83212c614ab5669112d317366bad53518473fcd",
+                "size": 104857600
+            },
+            {
+                "name": "dtbo-onyx_20260613_0843.img",
+                "SHA256": "99171fb11deae69e0654e52a6a84c14bc1ef236b0d389fe80b91f4fb099b9dc0",
+                "size": 25165824
+            },
+            {
+                "name": "boot-onyx_20260613_0843.img",
+                "SHA256": "b7216cdd3dddf0c87c82307594e6eeeaada23619956c672d5750020be7f4b38b",
+                "size": 100663296
+            },
+            {
+                "name": "vendor_boot-onyx_20260613_0843.img",
+                "SHA256": "7288e38cf82c87a06620738ecaf8e147bb59b5c20dc7ef27042f03464e0acd8b",
+                "size": 100663296
+            }
+        ]
+    }
+]

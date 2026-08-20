@@ -1,22 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_munch-14.0-20240125-0104.zip",
-    "datetime": 1706144532,
-    "size": 2043184172,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20240125-0104.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-01-25/PixelOS_munch-14.0-20240125-0104.zip",
-    "filehash": "998e398035d5eeed172593c689e43e91",
-    "id": "998e398035d5eeed172593c689e43e91",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "itsurboimasarou",
-            "name": "masarou"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-16-10-2022.4508623"
-}
+[
+    {
+        "datetime": 1706144532,
+        "files": [
+            {
+                "filename": "PixelOS_munch-14.0-20240125-0104.zip",
+                "os_sdk_level": 34,
+                "sha256": "998e398035d5eeed172593c689e43e91",
+                "size": 2043184172,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20240125-0104.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

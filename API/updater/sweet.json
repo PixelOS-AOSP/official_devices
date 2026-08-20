@@ -1,31 +1,33 @@
-{
-    "response": [
-        {
-            "datetime": "1781069438",
-            "filename": "PixelOS_sweet-16.2-20260610-0532.zip",
-            "id": "a0efaf0d8d8a3bfc96c69df3ff56ce0b7d2a491a04ea592162591883e53bcdda",
-            "size": 2829497355,
-            "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-sweet_20260610_0532.img",
-                    "SHA256": "23b73dc098b001aab87d7c7bebac0daad75f0bfaed4b41b69a9cefec681cc48e",
-                    "size": 134217728
-                },
-                {
-                    "name": "dtbo-sweet_20260610_0532.img",
-                    "SHA256": "bf2cb26a918d9f1869bf883b48181aeb9b7080ee3bbbfecca7f5e35c076366a4",
-                    "size": 33554432
-                },
-                {
-                    "name": "boot-sweet_20260610_0532.img",
-                    "SHA256": "cf5a815591d638a28ac8b671c0cad8aa8ff40c8db6a44a22fd97b09a5e855421",
-                    "size": 134217728
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781069438,
+        "files": [
+            {
+                "filename": "PixelOS_sweet-16.2-20260610-0532.zip",
+                "os_sdk_level": 36,
+                "sha256": "a0efaf0d8d8a3bfc96c69df3ff56ce0b7d2a491a04ea592162591883e53bcdda",
+                "size": 2829497355,
+                "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-sweet_20260610_0532.img",
+                "SHA256": "23b73dc098b001aab87d7c7bebac0daad75f0bfaed4b41b69a9cefec681cc48e",
+                "size": 134217728
+            },
+            {
+                "name": "dtbo-sweet_20260610_0532.img",
+                "SHA256": "bf2cb26a918d9f1869bf883b48181aeb9b7080ee3bbbfecca7f5e35c076366a4",
+                "size": 33554432
+            },
+            {
+                "name": "boot-sweet_20260610_0532.img",
+                "SHA256": "cf5a815591d638a28ac8b671c0cad8aa8ff40c8db6a44a22fd97b09a5e855421",
+                "size": 134217728
+            }
+        ]
+    }
+]

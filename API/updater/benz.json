@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1763774878",
-            "filename": "PixelOS_benz-16.0-20251122-0129.zip",
-            "id": "498bc71c4272d00b2c40878a901b3ac42ed8170f4a9f6186f6a5762112f26721",
-            "size": 3347542015,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/benz/PixelOS_benz-16.0-20251122-0129.zip",
-            "version": "16"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1763774878,
+        "files": [
+            {
+                "filename": "PixelOS_benz-16.0-20251122-0129.zip",
+                "os_sdk_level": 36,
+                "sha256": "498bc71c4272d00b2c40878a901b3ac42ed8170f4a9f6186f6a5762112f26721",
+                "size": 3347542015,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/benz/PixelOS_benz-16.0-20251122-0129.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.0"
+    }
+]

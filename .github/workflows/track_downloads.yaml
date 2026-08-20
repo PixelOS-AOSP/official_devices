@@ -10,6 +10,7 @@ on:
 
 jobs:
   clone:
+    if: github.ref == 'refs/heads/seventeen'
     runs-on: ubuntu-slim
 
     steps:

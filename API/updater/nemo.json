@@ -1,26 +1,28 @@
-{
-    "response": [
-        {
-            "datetime": "1781894127",
-            "filename": "PixelOS_nemo-16.2-20260619-1837.zip",
-            "id": "8ac47fc03ea1a64fe62f627d799907d14708f78a2c071e6c71bcf62b03fe79bf",
-            "size": 2416953969,
-            "url": "https://download.pixelos.net/sixteen/nemo/PixelOS_nemo-16.2-20260619-1837.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/nemo/PixelOS_nemo-16.2-20260619-1837.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-nemo_20260619_1837.img",
-                    "SHA256": "07cde5307e0dff4d498573c8efa678062f1418531834eee94702d98b428b2324",
-                    "size": 67108864
-                },
-                {
-                    "name": "boot-nemo_20260619_1837.img",
-                    "SHA256": "e89a761c380063b3583d4aa8fd2565366b0ab295831ae8405dee6fa7b0e721e2",
-                    "size": 33554432
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781894127,
+        "files": [
+            {
+                "filename": "PixelOS_nemo-16.2-20260619-1837.zip",
+                "os_sdk_level": 36,
+                "sha256": "8ac47fc03ea1a64fe62f627d799907d14708f78a2c071e6c71bcf62b03fe79bf",
+                "size": 2416953969,
+                "url": "https://download.pixelos.net/sixteen/nemo/PixelOS_nemo-16.2-20260619-1837.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-nemo_20260619_1837.img",
+                "SHA256": "07cde5307e0dff4d498573c8efa678062f1418531834eee94702d98b428b2324",
+                "size": 67108864
+            },
+            {
+                "name": "boot-nemo_20260619_1837.img",
+                "SHA256": "e89a761c380063b3583d4aa8fd2565366b0ab295831ae8405dee6fa7b0e721e2",
+                "size": 33554432
+            }
+        ]
+    }
+]

@@ -1,60 +1,53 @@
-{
-    "response": [
-        {
-            "datetime": "1778484076",
-            "filename": "PixelOS_waffle-16.2-20260511-0722.zip",
-            "id": "ead3f433493397bc8d1f9b64e173a139faa36a440bf58a62d2bca51b3d31142b",
-            "size": 3695059704,
-            "url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260511-0722.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260511-0722.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4941,
-                    "FILE_HASH": "3YdSX3Ye5hrPm+t/y55qA+0wnvdS4H67/nU3b9K+2zA=",
-                    "FILE_SIZE": "3695051362",
-                    "METADATA_HASH": "AJ9YnQYUf9/Z25zmt7tTD0+WHI++jh/Kme6a9T8OJGo=",
-                    "METADATA_SIZE": "210606"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "init_boot-waffle_20260511_0722.img",
-                    "SHA256": "0dacf10be62e4426386026e9dbbedcb11d1672020456dbdb6f01e7cfc01031aa",
-                    "size": 8388608
-                },
-                {
-                    "name": "recovery-waffle_20260511_0722.img",
-                    "SHA256": "61fa74e328ca9479414c1320eaa2e3f0ecbe7f1f1c52bb89fb2e2ce0ff77fb77",
-                    "size": 104857600
-                },
-                {
-                    "name": "super_empty-waffle_20260511_0722.img",
-                    "SHA256": "8b7edad224569e9cca48df7bf0c491e8e45727671d18e9a71a57d195fd3b0831",
-                    "size": 5288
-                },
-                {
-                    "name": "vbmeta-waffle_20260511_0722.img",
-                    "SHA256": "e0f665e8a49e39e3c36a04eca4bb0cbe16da37dbf285507f794e7afcf40401a8",
-                    "size": 12288
-                },
-                {
-                    "name": "dtbo-waffle_20260511_0722.img",
-                    "SHA256": "32812f74c07b54f3f0a4637367e5f5e1eff94e44c96811d6c6f86a997cad15ec",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-waffle_20260511_0722.img",
-                    "SHA256": "94d765e1e8ec00f3837daf07e58001396002b5b83deaba62802664e7bed3e806",
-                    "size": 201326592
-                },
-                {
-                    "name": "vendor_boot-waffle_20260511_0722.img",
-                    "SHA256": "1de1acd1a57923a9065b4c39244840c195dd9fe1d00025a0448618389aff0289",
-                    "size": 201326592
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1778484076,
+        "files": [
+            {
+                "filename": "PixelOS_waffle-16.2-20260511-0722.zip",
+                "os_sdk_level": 36,
+                "sha256": "ead3f433493397bc8d1f9b64e173a139faa36a440bf58a62d2bca51b3d31142b",
+                "size": 3695059704,
+                "url": "https://download.pixelos.net/sixteen/waffle/PixelOS_waffle-16.2-20260511-0722.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "init_boot-waffle_20260511_0722.img",
+                "SHA256": "0dacf10be62e4426386026e9dbbedcb11d1672020456dbdb6f01e7cfc01031aa",
+                "size": 8388608
+            },
+            {
+                "name": "recovery-waffle_20260511_0722.img",
+                "SHA256": "61fa74e328ca9479414c1320eaa2e3f0ecbe7f1f1c52bb89fb2e2ce0ff77fb77",
+                "size": 104857600
+            },
+            {
+                "name": "super_empty-waffle_20260511_0722.img",
+                "SHA256": "8b7edad224569e9cca48df7bf0c491e8e45727671d18e9a71a57d195fd3b0831",
+                "size": 5288
+            },
+            {
+                "name": "vbmeta-waffle_20260511_0722.img",
+                "SHA256": "e0f665e8a49e39e3c36a04eca4bb0cbe16da37dbf285507f794e7afcf40401a8",
+                "size": 12288
+            },
+            {
+                "name": "dtbo-waffle_20260511_0722.img",
+                "SHA256": "32812f74c07b54f3f0a4637367e5f5e1eff94e44c96811d6c6f86a997cad15ec",
+                "size": 25165824
+            },
+            {
+                "name": "boot-waffle_20260511_0722.img",
+                "SHA256": "94d765e1e8ec00f3837daf07e58001396002b5b83deaba62802664e7bed3e806",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-waffle_20260511_0722.img",
+                "SHA256": "1de1acd1a57923a9065b4c39244840c195dd9fe1d00025a0448618389aff0289",
+                "size": 201326592
+            }
+        ]
+    }
+]

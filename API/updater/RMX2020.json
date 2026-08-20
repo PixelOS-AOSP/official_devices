@@ -1,26 +1,28 @@
-{
-    "response": [
-        {
-            "datetime": "1781814660",
-            "filename": "PixelOS_RMX2020-16.2-20260618-2032.zip",
-            "id": "bc05e24bbed4a3c8d3f6abb55e7d33ff6f4c2be94edd5ea2895cc32bf479758e",
-            "size": 2290025668,
-            "url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260618-2032.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260618-2032.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-RMX2020_20260618_2032.img",
-                    "SHA256": "f80fca0a4a2fc34c127904ac76489320016b2d7fbe64b9bd1d4a93bd562aaec9",
-                    "size": 67108864
-                },
-                {
-                    "name": "boot-RMX2020_20260618_2032.img",
-                    "SHA256": "a2918ef092c4e254a685d01357067512133cdc75e58770fae4e014349165d9ef",
-                    "size": 33554432
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781814660,
+        "files": [
+            {
+                "filename": "PixelOS_RMX2020-16.2-20260618-2032.zip",
+                "os_sdk_level": 36,
+                "sha256": "bc05e24bbed4a3c8d3f6abb55e7d33ff6f4c2be94edd5ea2895cc32bf479758e",
+                "size": 2290025668,
+                "url": "https://download.pixelos.net/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260618-2032.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-RMX2020_20260618_2032.img",
+                "SHA256": "f80fca0a4a2fc34c127904ac76489320016b2d7fbe64b9bd1d4a93bd562aaec9",
+                "size": 67108864
+            },
+            {
+                "name": "boot-RMX2020_20260618_2032.img",
+                "SHA256": "a2918ef092c4e254a685d01357067512133cdc75e58770fae4e014349165d9ef",
+                "size": 33554432
+            }
+        ]
+    }
+]

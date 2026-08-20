@@ -1,26 +1,28 @@
-{
-    "response": [
-        {
-            "datetime": "1781951198",
-            "filename": "PixelOS_X01BD-16.2-20260620-1028.zip",
-            "id": "c24d39adcf1f2be5c73316081b184b4cc0c8a0f68f88ff9bdca8e293ed9f643f",
-            "size": 2138241461,
-            "url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260620-1028.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260620-1028.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-X01BD_20260620_1028.img",
-                    "SHA256": "ca887aebab08880c304f089cd9260f5b53096be1feaa2741ddce3f05056c9a24",
-                    "size": 36769792
-                },
-                {
-                    "name": "boot-X01BD_20260620_1028.img",
-                    "SHA256": "eb94e67ba25a50a4bc7497bde1e59b3cdd56717104b42813f2c4c424b5815b32",
-                    "size": 23068672
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781951198,
+        "files": [
+            {
+                "filename": "PixelOS_X01BD-16.2-20260620-1028.zip",
+                "os_sdk_level": 36,
+                "sha256": "c24d39adcf1f2be5c73316081b184b4cc0c8a0f68f88ff9bdca8e293ed9f643f",
+                "size": 2138241461,
+                "url": "https://download.pixelos.net/sixteen/X01BD/PixelOS_X01BD-16.2-20260620-1028.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-X01BD_20260620_1028.img",
+                "SHA256": "ca887aebab08880c304f089cd9260f5b53096be1feaa2741ddce3f05056c9a24",
+                "size": 36769792
+            },
+            {
+                "name": "boot-X01BD_20260620_1028.img",
+                "SHA256": "eb94e67ba25a50a4bc7497bde1e59b3cdd56717104b42813f2c4c424b5815b32",
+                "size": 23068672
+            }
+        ]
+    }
+]

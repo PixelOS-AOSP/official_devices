@@ -1,23 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1780985797",
-            "filename": "PixelOS_cancunf-16.2-20260609-0618.zip",
-            "id": "8950b8f3af7b9fdab2b1efce1f6361fcd498d18d0e7f85daf1efa9f15a2b2786",
-            "size": 2811817200,
-            "url": "https://download.pixelos.net/sixteen/cancunf/PixelOS_cancunf-16.2-20260609-0618.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/cancunf/PixelOS_cancunf-16.2-20260609-0618.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4328,
-                    "FILE_HASH": "iCjTyKVVGSLF709vMin2mtFoeXjtgp/abiUA1maw6kk=",
-                    "FILE_SIZE": "2811809471",
-                    "METADATA_HASH": "c9Ob90FlFnQn6IWT5gAamXsRR8TrlPXH3K3EawUB9Dk=",
-                    "METADATA_SIZE": "113825"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1780985797,
+        "files": [
+            {
+                "filename": "PixelOS_cancunf-16.2-20260609-0618.zip",
+                "os_sdk_level": 36,
+                "sha256": "8950b8f3af7b9fdab2b1efce1f6361fcd498d18d0e7f85daf1efa9f15a2b2786",
+                "size": 2811817200,
+                "url": "https://download.pixelos.net/sixteen/cancunf/PixelOS_cancunf-16.2-20260609-0618.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2"
+    }
+]

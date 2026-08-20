@@ -1,22 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_tundra-14.0-20240520-1612.zip",
-    "datetime": 1716221467,
-    "size": 1907674870,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240604-1525.zip",
-    "filehash": "7fe3dbf9b192f86d2f62a6276a2dbf2a",
-    "id": "7fe3dbf9b192f86d2f62a6276a2dbf2a",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "raghavt20",
-            "name": "Raghav Tandon"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": ""
-}
+[
+    {
+        "datetime": 1716221467,
+        "files": [
+            {
+                "filename": "PixelOS_tundra-14.0-20240520-1612.zip",
+                "os_sdk_level": 34,
+                "sha256": "7fe3dbf9b192f86d2f62a6276a2dbf2a",
+                "size": 1907674870,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

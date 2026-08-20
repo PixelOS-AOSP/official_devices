@@ -1,22 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_mido-14.0-20231115-1337.zip",
-    "datetime": 1700055330,
-    "size": 1574940085,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/mido/PixelOS_mido-14.0-20231115-1337.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-11-16/PixelOS_mido-14.0-20231115-1337.zip",
-    "filehash": "38fb40b75075b267e5369370cff93ffd",
-    "id": "38fb40b75075b267e5369370cff93ffd",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "Alone0316",
-            "name": "Alone0316"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-12-official-pixelos-aosp-stable-13-03-2022.4415063/"
-}
+[
+    {
+        "datetime": 1700055330,
+        "files": [
+            {
+                "filename": "PixelOS_mido-14.0-20231115-1337.zip",
+                "os_sdk_level": 34,
+                "sha256": "38fb40b75075b267e5369370cff93ffd",
+                "size": 1574940085,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/mido/PixelOS_mido-14.0-20231115-1337.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

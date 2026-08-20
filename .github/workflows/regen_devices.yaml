@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/regen_devices.yaml
-      - API/*
+      - API/**
   workflow_dispatch:
 
 jobs:
@@ -39,4 +39,3 @@ jobs:
             -H "Content-Type: application/json" \
             -H "User-Agent: GitHub-Actions" \
             -d '{"target": "all"}'
-  

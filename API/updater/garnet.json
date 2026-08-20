@@ -1,45 +1,38 @@
-{
-    "response": [
-        {
-            "datetime": "1781280569",
-            "filename": "PixelOS_garnet-16.2-20260612-1611.zip",
-            "id": "e6af3df737b248b5fdc53291aa6f0c999a7b19334b33d0d3b0af1c201679bc6f",
-            "size": 2709663695,
-            "url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260612-1611.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260612-1611.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4365,
-                    "FILE_HASH": "yUCAsxp+v7ir3OYl3AgriXb5SXbr2WTO26khx9d4AWM=",
-                    "FILE_SIZE": "2709655929",
-                    "METADATA_HASH": "fsp46MoJ4djy5pOJwEDKaleptD45BHuMcdpb0EpFuqQ=",
-                    "METADATA_SIZE": "164646"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "recovery-garnet_20260612_1611.img",
-                    "SHA256": "de548d3cb431eb95d592de922da03ee28c7a8a02d6843a137d7f2fb2cc6c071c",
-                    "size": 104857600
-                },
-                {
-                    "name": "dtbo-garnet_20260612_1611.img",
-                    "SHA256": "19ef3416fd134bafce49588e00fef4b512929df5624756c4d2c50762af7f793b",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-garnet_20260612_1611.img",
-                    "SHA256": "8aeaa3019d2035c7ba51f1d67b12b0dbf8913ff2208f02e29c8f486f99ec5e8b",
-                    "size": 201326592
-                },
-                {
-                    "name": "vendor_boot-garnet_20260612_1611.img",
-                    "SHA256": "1784a10934829919e006df18b129b12c3584e238f422828e6b3223ce37187266",
-                    "size": 100663296
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781280569,
+        "files": [
+            {
+                "filename": "PixelOS_garnet-16.2-20260612-1611.zip",
+                "os_sdk_level": 36,
+                "sha256": "e6af3df737b248b5fdc53291aa6f0c999a7b19334b33d0d3b0af1c201679bc6f",
+                "size": 2709663695,
+                "url": "https://download.pixelos.net/sixteen/garnet/PixelOS_garnet-16.2-20260612-1611.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-garnet_20260612_1611.img",
+                "SHA256": "de548d3cb431eb95d592de922da03ee28c7a8a02d6843a137d7f2fb2cc6c071c",
+                "size": 104857600
+            },
+            {
+                "name": "dtbo-garnet_20260612_1611.img",
+                "SHA256": "19ef3416fd134bafce49588e00fef4b512929df5624756c4d2c50762af7f793b",
+                "size": 25165824
+            },
+            {
+                "name": "boot-garnet_20260612_1611.img",
+                "SHA256": "8aeaa3019d2035c7ba51f1d67b12b0dbf8913ff2208f02e29c8f486f99ec5e8b",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-garnet_20260612_1611.img",
+                "SHA256": "1784a10934829919e006df18b129b12c3584e238f422828e6b3223ce37187266",
+                "size": 100663296
+            }
+        ]
+    }
+]

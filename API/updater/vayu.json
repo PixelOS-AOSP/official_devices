@@ -1,28 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_vayu-14.0-20241016-1601.zip",
-    "datetime": 1729094379,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2356622863,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20241016-1601.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20241016-1601.zip",
-    "filehash": "348a2bead6f5abc92f635ff07d835b62",
-    "id": "348a2bead6f5abc92f635ff07d835b62",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "resist15",
-            "name": "Sourav"
-        },
-        {
-            "main_maintainer": false,
-            "github_username": "",
-            "name": "clhex"
-        }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4467493/"
-}
+[
+    {
+        "datetime": 1729094379,
+        "files": [
+            {
+                "filename": "PixelOS_vayu-14.0-20241016-1601.zip",
+                "os_sdk_level": 34,
+                "sha256": "348a2bead6f5abc92f635ff07d835b62",
+                "size": 2356622863,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20241016-1601.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

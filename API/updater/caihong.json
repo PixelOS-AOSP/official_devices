@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1763767943",
-            "filename": "PixelOS_caihong-16.0-20251121-2334.zip",
-            "id": "60a738f2379e955ceaae4cc02b4d2c255051f55cc250410f9f493761893776b0",
-            "size": 3001376196,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/caihong/PixelOS_caihong-16.0-20251121-2334.zip",
-            "version": "16"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1763767943,
+        "files": [
+            {
+                "filename": "PixelOS_caihong-16.0-20251121-2334.zip",
+                "os_sdk_level": 36,
+                "sha256": "60a738f2379e955ceaae4cc02b4d2c255051f55cc250410f9f493761893776b0",
+                "size": 3001376196,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/caihong/PixelOS_caihong-16.0-20251121-2334.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.0"
+    }
+]

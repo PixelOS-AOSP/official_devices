@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1746370025",
-            "filename": "PixelOS_cupid-15.0-20250504-1448.zip",
-            "id": "2ef60db3a01fb5d927b4f347153ae135fd5d063cd5abc15bad5006273cabef2b",
-            "size": 2440532597,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/PixelOS_cupid-15.0-20250504-1448.zip",
-            "version": "15"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1746370025,
+        "files": [
+            {
+                "filename": "PixelOS_cupid-15.0-20250504-1448.zip",
+                "os_sdk_level": 35,
+                "sha256": "2ef60db3a01fb5d927b4f347153ae135fd5d063cd5abc15bad5006273cabef2b",
+                "size": 2440532597,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/PixelOS_cupid-15.0-20250504-1448.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "15.0"
+    }
+]

@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1747538421",
-            "filename": "PixelOS_sky-15.0-20250518-0321.zip",
-            "id": "1674d599e0511ef477e171d2a6617656fe1b209b66d86631ff6565f6b2299af6",
-            "size": 1813339721,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20250518-0321.zip",
-            "version": "15"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1747538421,
+        "files": [
+            {
+                "filename": "PixelOS_sky-15.0-20250518-0321.zip",
+                "os_sdk_level": 35,
+                "sha256": "1674d599e0511ef477e171d2a6617656fe1b209b66d86631ff6565f6b2299af6",
+                "size": 1813339721,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20250518-0321.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "15.0"
+    }
+]

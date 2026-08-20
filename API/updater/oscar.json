@@ -1,45 +1,38 @@
-{
-    "response": [
-        {
-            "datetime": "1775373781",
-            "filename": "PixelOS_oscar-16.2-20260405-0724.zip",
-            "id": "ed2ca0c3d36e9be7cff4a37e67f84a9b4ec63be7f276de4561eb82f731e5cd35",
-            "size": 2592548321,
-            "url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260405-0724.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260405-0724.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4416,
-                    "FILE_HASH": "eKzg4v5WzF3gv15v1RXXdKVkvJ68baB6eHLbLN8mjok=",
-                    "FILE_SIZE": "2592540504",
-                    "METADATA_HASH": "yMxCrNVsvoY1LkYOhZAH0PnVXo0KoLFu2ST1NF/BLXI=",
-                    "METADATA_SIZE": "197532"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "super_empty-oscar_20260405_0724.img",
-                    "SHA256": "c4afc759df640eab401a1dd2b93dc3e72c565f04046fe47a7d861d500145d711",
-                    "size": 5184
-                },
-                {
-                    "name": "dtbo-oscar_20260405_0724.img",
-                    "SHA256": "3863e49fff0004bc6b430f2fc5efa2affa3fc11b60a8289427e650a77e1fe82b",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-oscar_20260405_0724.img",
-                    "SHA256": "4c6cc45292dffbb24c59bfb92f15e00c3279ffe5ddf64451dd8c2a6bae4fc078",
-                    "size": 167772160
-                },
-                {
-                    "name": "vendor_boot-oscar_20260405_0724.img",
-                    "SHA256": "db077b526b0f0603bb7304d5b86ed5045ea6b9ca42704d362c911823cd17c708",
-                    "size": 167772160
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1775373781,
+        "files": [
+            {
+                "filename": "PixelOS_oscar-16.2-20260405-0724.zip",
+                "os_sdk_level": 36,
+                "sha256": "ed2ca0c3d36e9be7cff4a37e67f84a9b4ec63be7f276de4561eb82f731e5cd35",
+                "size": 2592548321,
+                "url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260405-0724.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "super_empty-oscar_20260405_0724.img",
+                "SHA256": "c4afc759df640eab401a1dd2b93dc3e72c565f04046fe47a7d861d500145d711",
+                "size": 5184
+            },
+            {
+                "name": "dtbo-oscar_20260405_0724.img",
+                "SHA256": "3863e49fff0004bc6b430f2fc5efa2affa3fc11b60a8289427e650a77e1fe82b",
+                "size": 25165824
+            },
+            {
+                "name": "boot-oscar_20260405_0724.img",
+                "SHA256": "4c6cc45292dffbb24c59bfb92f15e00c3279ffe5ddf64451dd8c2a6bae4fc078",
+                "size": 167772160
+            },
+            {
+                "name": "vendor_boot-oscar_20260405_0724.img",
+                "SHA256": "db077b526b0f0603bb7304d5b86ed5045ea6b9ca42704d362c911823cd17c708",
+                "size": 167772160
+            }
+        ]
+    }
+]

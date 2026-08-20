@@ -1,22 +1,16 @@
-{
-    "error": false,
-    "version": "thirteen",
-    "filename": "PixelOS_panther-13.0-20231003-0230.zip",
-    "datetime": 1696300143,
-    "size": 1770122536,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20231003-0230.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2023-10-03/PixelOS_panther-13.0-20231003-0230.zip",
-    "filehash": "0e70f7c3b5fc384d3b5276151026bb3c",
-    "id": "0e70f7c3b5fc384d3b5276151026bb3c",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "Kitsunejasutin",
-            "name": "Kitsunejasutin"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-13-official-pixelos-aosp-stable-23-07-2023.4608395/"
-}
+[
+    {
+        "datetime": 1696300143,
+        "files": [
+            {
+                "filename": "PixelOS_panther-13.0-20231003-0230.zip",
+                "os_sdk_level": 33,
+                "sha256": "0e70f7c3b5fc384d3b5276151026bb3c",
+                "size": 1770122536,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20231003-0230.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "13.0"
+    }
+]

@@ -1,40 +1,33 @@
-{
-    "response": [
-        {
-            "datetime": "1780991719",
-            "filename": "PixelOS_dubai-16.2-20260609-0757.zip",
-            "id": "92043eba8ee9e79701a13ee0d002e4039d35b8e86feae67cbe71ae63c7152b19",
-            "size": 2422414105,
-            "url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260609-0757.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260609-0757.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4057,
-                    "FILE_HASH": "bMthShtq2i1tA5PEXadqy2JdL+Nm4gsFeubv7N1Yh+Y=",
-                    "FILE_SIZE": "2422406647",
-                    "METADATA_HASH": "V4sq/qCHh0IbOqGgwlYAWLOCz9cHKcOqLGJmW8RGdBo=",
-                    "METADATA_SIZE": "170678"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "dtbo-dubai_20260609_0757.img",
-                    "SHA256": "923cef3b0d0ffd53c10bb1038a60693fc7d1cf63e84d1548762f5330dd36d71b",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-dubai_20260609_0757.img",
-                    "SHA256": "e63bc6d8d581969c645050c7e2d894ebae491dacdf19e5575ed7cb67e1a718ad",
-                    "size": 100663296
-                },
-                {
-                    "name": "vendor_boot-dubai_20260609_0757.img",
-                    "SHA256": "a759bb3c783968b97863533fc1c6d8e6c00f5681c92db12ec74a81c29b2cdc42",
-                    "size": 100663296
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1780991719,
+        "files": [
+            {
+                "filename": "PixelOS_dubai-16.2-20260609-0757.zip",
+                "os_sdk_level": 36,
+                "sha256": "92043eba8ee9e79701a13ee0d002e4039d35b8e86feae67cbe71ae63c7152b19",
+                "size": 2422414105,
+                "url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260609-0757.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "dtbo-dubai_20260609_0757.img",
+                "SHA256": "923cef3b0d0ffd53c10bb1038a60693fc7d1cf63e84d1548762f5330dd36d71b",
+                "size": 25165824
+            },
+            {
+                "name": "boot-dubai_20260609_0757.img",
+                "SHA256": "e63bc6d8d581969c645050c7e2d894ebae491dacdf19e5575ed7cb67e1a718ad",
+                "size": 100663296
+            },
+            {
+                "name": "vendor_boot-dubai_20260609_0757.img",
+                "SHA256": "a759bb3c783968b97863533fc1c6d8e6c00f5681c92db12ec74a81c29b2cdc42",
+                "size": 100663296
+            }
+        ]
+    }
+]

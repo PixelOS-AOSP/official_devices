@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1737160375",
-            "filename": "PixelOS_cepheus-15.0-20250118-0034.zip",
-            "id": "535002b30aa8694b58c4ea8a115f6567095dc54aa128d61eece81eca9b13cffa",
-            "size": 2392178469,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/PixelOS_cepheus-15.0-20250118-0034.zip",
-            "version": "15"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1737160375,
+        "files": [
+            {
+                "filename": "PixelOS_cepheus-15.0-20250118-0034.zip",
+                "os_sdk_level": 35,
+                "sha256": "535002b30aa8694b58c4ea8a115f6567095dc54aa128d61eece81eca9b13cffa",
+                "size": 2392178469,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/PixelOS_cepheus-15.0-20250118-0034.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "15.0"
+    }
+]

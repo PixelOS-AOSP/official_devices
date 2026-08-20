@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1763866814",
-            "filename": "PixelOS_aston-16.0-20251123-0302.zip",
-            "id": "bfb711e1dd503f506de291a8f2d924320076acb31a3081c825f8e922bf262987",
-            "size": 3277304489,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/PixelOS_aston-16.0-20251123-0302.zip",
-            "version": "16"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1763866814,
+        "files": [
+            {
+                "filename": "PixelOS_aston-16.0-20251123-0302.zip",
+                "os_sdk_level": 36,
+                "sha256": "bfb711e1dd503f506de291a8f2d924320076acb31a3081c825f8e922bf262987",
+                "size": 3277304489,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/PixelOS_aston-16.0-20251123-0302.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.0"
+    }
+]

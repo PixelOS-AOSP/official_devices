@@ -1,31 +1,33 @@
-{
-    "response": [
-        {
-            "datetime": "1781620238",
-            "filename": "PixelOS_davinci-16.2-20260616-1432.zip",
-            "id": "08cbb413c2f68faac158cfd0771558e9b2cb10ea43510ee654ca369ca741eacb",
-            "size": 2680045699,
-            "url": "https://download.pixelos.net/sixteen/davinci/PixelOS_davinci-16.2-20260616-1432.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/davinci/PixelOS_davinci-16.2-20260616-1432.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-davinci_20260616_1432.img",
-                    "SHA256": "2d115aebe165933ebf445c017c0d4ddd402a002d226009189acc3e64988e4bca",
-                    "size": 67108864
-                },
-                {
-                    "name": "dtbo-davinci_20260616_1432.img",
-                    "SHA256": "070c032ca69b8aa04ab5fb0c2daa14484842a5aa799282db21f10995ebfc0951",
-                    "size": 33554432
-                },
-                {
-                    "name": "boot-davinci_20260616_1432.img",
-                    "SHA256": "68369d9ccb2c8d60fe04f4f4378d781b895c428c51708ea3955237e61ac9f65d",
-                    "size": 134217728
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781620238,
+        "files": [
+            {
+                "filename": "PixelOS_davinci-16.2-20260616-1432.zip",
+                "os_sdk_level": 36,
+                "sha256": "08cbb413c2f68faac158cfd0771558e9b2cb10ea43510ee654ca369ca741eacb",
+                "size": 2680045699,
+                "url": "https://download.pixelos.net/sixteen/davinci/PixelOS_davinci-16.2-20260616-1432.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-davinci_20260616_1432.img",
+                "SHA256": "2d115aebe165933ebf445c017c0d4ddd402a002d226009189acc3e64988e4bca",
+                "size": 67108864
+            },
+            {
+                "name": "dtbo-davinci_20260616_1432.img",
+                "SHA256": "070c032ca69b8aa04ab5fb0c2daa14484842a5aa799282db21f10995ebfc0951",
+                "size": 33554432
+            },
+            {
+                "name": "boot-davinci_20260616_1432.img",
+                "SHA256": "68369d9ccb2c8d60fe04f4f4378d781b895c428c51708ea3955237e61ac9f65d",
+                "size": 134217728
+            }
+        ]
+    }
+]

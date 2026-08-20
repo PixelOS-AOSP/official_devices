@@ -1,21 +1,23 @@
-{
-    "response": [
-        {
-            "datetime": "1781351062",
-            "filename": "PixelOS_gauguin-16.2-20260613-1146.zip",
-            "id": "6eba3f3e256674831e7403e34a6ac2f4c84f205e5cee709a54fc19f516c8b257",
-            "size": 2663502480,
-            "url": "https://download.pixelos.net/sixteen/gauguin/PixelOS_gauguin-16.2-20260613-1146.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/gauguin/PixelOS_gauguin-16.2-20260613-1146.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-gauguin_20260613_1146.img",
-                    "SHA256": "2d280be4adaa622e2b691d076ffe2d7acd6809b6c6f49ce708ceaad0734a2138",
-                    "size": 134217728
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1781351062,
+        "files": [
+            {
+                "filename": "PixelOS_gauguin-16.2-20260613-1146.zip",
+                "os_sdk_level": 36,
+                "sha256": "6eba3f3e256674831e7403e34a6ac2f4c84f205e5cee709a54fc19f516c8b257",
+                "size": 2663502480,
+                "url": "https://download.pixelos.net/sixteen/gauguin/PixelOS_gauguin-16.2-20260613-1146.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-gauguin_20260613_1146.img",
+                "SHA256": "2d280be4adaa622e2b691d076ffe2d7acd6809b6c6f49ce708ceaad0734a2138",
+                "size": 134217728
+            }
+        ]
+    }
+]

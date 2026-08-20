@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1744408586",
-            "filename": "PixelOS_RMX2001L1-15.0-20250411-2158.zip",
-            "id": "77fdc1a97ab7be06336e19f6633a78049e279d568297f5d51b1db8379c209cfc",
-            "size": 2207678380,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/PixelOS_RMX2001L1-15.0-20250411-2158.zip",
-            "version": "15"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1744408586,
+        "files": [
+            {
+                "filename": "PixelOS_RMX2001L1-15.0-20250411-2158.zip",
+                "os_sdk_level": 35,
+                "sha256": "77fdc1a97ab7be06336e19f6633a78049e279d568297f5d51b1db8379c209cfc",
+                "size": 2207678380,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/PixelOS_RMX2001L1-15.0-20250411-2158.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "15.0"
+    }
+]

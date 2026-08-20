@@ -14,11 +14,11 @@ for device in os.listdir("API/devices"):
     if os.path.exists(updater_path):
         with open(updater_path, "r") as f:
             updater_data = json.load(f)
-            if len(updater_data.get("response", [])) > 0:
+            if updater_data:
                 try:
-                    last_updated = int(updater_data["response"][0].get("datetime"))
-                    version = int (updater_data["response"][0].get("version"))
-                except:
+                    last_updated = int(updater_data[0].get("datetime"))
+                    version = int(str(updater_data[0].get("version")).split(".", 1)[0])
+                except (TypeError, ValueError):
                     pass
 
     device_entry = {

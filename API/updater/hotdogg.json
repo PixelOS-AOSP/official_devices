@@ -1,22 +1,16 @@
-{
-    "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_hotdogg-12.1-20220817-1259.zip",
-    "datetime": 1660741140,
-    "size": 1845130111,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220817-1259.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-08-17/PixelOS_hotdogg-12.1-20220817-1259.zip",
-    "filehash": "e6c0de8cf55336464ce2ae3cf119ec38",
-    "id": "e6c0de8cf55336464ce2ae3cf119ec38",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "cyberknight777",
-            "name": "cyberknight777"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://t.me/PixelOSOfficial",
-    "forum_url": "https://xdaforums.com/t/rom-12-1-oneplus-7t-pro-5g-mclaren-edition-official-pixelos-aosp-stable-29-07-2022.4474073/"
-}
+[
+    {
+        "datetime": 1660741140,
+        "files": [
+            {
+                "filename": "PixelOS_hotdogg-12.1-20220817-1259.zip",
+                "os_sdk_level": 32,
+                "sha256": "e6c0de8cf55336464ce2ae3cf119ec38",
+                "size": 1845130111,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220817-1259.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "12.1"
+    }
+]

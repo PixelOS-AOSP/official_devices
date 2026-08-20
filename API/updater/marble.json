@@ -1,23 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_marble-14.0-20241005-0946.zip",
-    "datetime": 1728121521,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2758471080,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip",
-    "filehash": "d70323f6efce399667ccf1b0485617fd",
-    "id": "d70323f6efce399667ccf1b0485617fd",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "Ad1tyaS1ngh",
-            "name": "Aditya"
-        }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4648035/"
-}
+[
+    {
+        "datetime": 1728121521,
+        "files": [
+            {
+                "filename": "PixelOS_marble-14.0-20241005-0946.zip",
+                "os_sdk_level": 34,
+                "sha256": "d70323f6efce399667ccf1b0485617fd",
+                "size": 2758471080,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

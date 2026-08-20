@@ -1,40 +1,33 @@
-{
-    "response": [
-        {
-            "datetime": "1776535842",
-            "filename": "PixelOS_lunaa-16.2-20260418-1812.zip",
-            "id": "9e3ee373e6a7cbe7318bca1be36b274cf29f328e818e6417f347208d8d167728",
-            "size": 2785947532,
-            "url": "https://download.pixelos.net/sixteen/lunaa/PixelOS_lunaa-16.2-20260418-1812.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/lunaa/PixelOS_lunaa-16.2-20260418-1812.zip",
-            "version": 16,
-            "stream": true,
-            "payload": [
-                {
-                    "offset": 4328,
-                    "FILE_HASH": "TI4jx8YFupmfYmOao3XO3R24jz5EwqZ6SWh5ePJY1pE=",
-                    "FILE_SIZE": "2785939803",
-                    "METADATA_HASH": "UafryKp9s0MDzwPBEtjDyzorSGe6P8tN4eAVegb2Frw=",
-                    "METADATA_SIZE": "167229"
-                }
-            ],
-            "additional_images": [
-                {
-                    "name": "dtbo-lunaa_20260418_1812.img",
-                    "SHA256": "7ce23281e7c076bd04914edd59f800f104f8f88c43566033cbb72bbeb0df8684",
-                    "size": 25165824
-                },
-                {
-                    "name": "boot-lunaa_20260418_1812.img",
-                    "SHA256": "fc4ab007e693cef1e43b092596f5e1314b1673c7a2fd8c4a3d5d86a407ff9575",
-                    "size": 201326592
-                },
-                {
-                    "name": "vendor_boot-lunaa_20260418_1812.img",
-                    "SHA256": "ab67c87accea3f4fcb9114c1e8374a5998973386e76b9eee96cfae00270c6a58",
-                    "size": 201326592
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1776535842,
+        "files": [
+            {
+                "filename": "PixelOS_lunaa-16.2-20260418-1812.zip",
+                "os_sdk_level": 36,
+                "sha256": "9e3ee373e6a7cbe7318bca1be36b274cf29f328e818e6417f347208d8d167728",
+                "size": 2785947532,
+                "url": "https://download.pixelos.net/sixteen/lunaa/PixelOS_lunaa-16.2-20260418-1812.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "dtbo-lunaa_20260418_1812.img",
+                "SHA256": "7ce23281e7c076bd04914edd59f800f104f8f88c43566033cbb72bbeb0df8684",
+                "size": 25165824
+            },
+            {
+                "name": "boot-lunaa_20260418_1812.img",
+                "SHA256": "fc4ab007e693cef1e43b092596f5e1314b1673c7a2fd8c4a3d5d86a407ff9575",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-lunaa_20260418_1812.img",
+                "SHA256": "ab67c87accea3f4fcb9114c1e8374a5998973386e76b9eee96cfae00270c6a58",
+                "size": 201326592
+            }
+        ]
+    }
+]

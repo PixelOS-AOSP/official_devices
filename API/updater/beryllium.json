@@ -1,12 +1,16 @@
-{
-    "response": [
-        {
-            "datetime": "1733221759",
-            "filename": "PixelOS_beryllium-15.0-20241203-1030.zip",
-            "id": "71e1a5e31d832245280721c28b85b02644e38313e1cb9ea82ed6df1d0097a908",
-            "size": 2043998350,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/beryllium/PixelOS_beryllium-15.0-20241203-1030.zip",
-            "version": "15"
-        }
-    ]
-}
+[
+    {
+        "datetime": 1733221759,
+        "files": [
+            {
+                "filename": "PixelOS_beryllium-15.0-20241203-1030.zip",
+                "os_sdk_level": 35,
+                "sha256": "71e1a5e31d832245280721c28b85b02644e38313e1cb9ea82ed6df1d0097a908",
+                "size": 2043998350,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/beryllium/PixelOS_beryllium-15.0-20241203-1030.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "15.0"
+    }
+]

@@ -1,23 +1,16 @@
-{
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_d2x-14.0-20241019-0455.zip",
-    "datetime": 1729313661,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 1914385020,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20241019-0455.zip",
-    "github_releases_url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2024-10-19/PixelOS_d2x-14.0-20241019-0455.zip",
-    "filehash": "e6af58ce5c36588e53975df6830d647a",
-    "id": "e6af58ce5c36588e53975df6830d647a",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "Jubscleisson",
-            "name": "Fellipe Lima"
-        }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-0-official-pixelos-aosp-encryption-stable-12-05-2024.4506557/"
-}
+[
+    {
+        "datetime": 1729313661,
+        "files": [
+            {
+                "filename": "PixelOS_d2x-14.0-20241019-0455.zip",
+                "os_sdk_level": 34,
+                "sha256": "e6af58ce5c36588e53975df6830d647a",
+                "size": 1914385020,
+                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20241019-0455.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "14.0"
+    }
+]

@@ -1,31 +1,33 @@
-{
-    "response": [
-        {
-            "datetime": "1780994195",
-            "filename": "PixelOS_ginkgo-16.2-20260609-0838.zip",
-            "id": "3f29b61bbe2aa8ca2924c73e11f517c74024aedc30863d3981f11d20b156afe4",
-            "size": 2304193667,
-            "url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip",
-            "version": 16,
-            "stream": false,
-            "additional_images": [
-                {
-                    "name": "recovery-ginkgo_20260609_0838.img",
-                    "SHA256": "7875056755236133a72ca2ec59560bd3c67509bf96a18a5d1c245b97a3f13311",
-                    "size": 67108864
-                },
-                {
-                    "name": "dtbo-ginkgo_20260609_0838.img",
-                    "SHA256": "204fbc2ae49ec1f517da99138ca225a762091f6d5708738146d49582c8f298ea",
-                    "size": 8388608
-                },
-                {
-                    "name": "boot-ginkgo_20260609_0838.img",
-                    "SHA256": "acf06d2689f75d1ec9a5d1584b3ca968cf4742531f3d38ba3643bcc8b6cd9691",
-                    "size": 67108864
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "datetime": 1780994195,
+        "files": [
+            {
+                "filename": "PixelOS_ginkgo-16.2-20260609-0838.zip",
+                "os_sdk_level": 36,
+                "sha256": "3f29b61bbe2aa8ca2924c73e11f517c74024aedc30863d3981f11d20b156afe4",
+                "size": 2304193667,
+                "url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip"
+            }
+        ],
+        "type": "ci",
+        "version": "16.2",
+        "additional_images": [
+            {
+                "name": "recovery-ginkgo_20260609_0838.img",
+                "SHA256": "7875056755236133a72ca2ec59560bd3c67509bf96a18a5d1c245b97a3f13311",
+                "size": 67108864
+            },
+            {
+                "name": "dtbo-ginkgo_20260609_0838.img",
+                "SHA256": "204fbc2ae49ec1f517da99138ca225a762091f6d5708738146d49582c8f298ea",
+                "size": 8388608
+            },
+            {
+                "name": "boot-ginkgo_20260609_0838.img",
+                "SHA256": "acf06d2689f75d1ec9a5d1584b3ca968cf4742531f3d38ba3643bcc8b6cd9691",
+                "size": 67108864
+            }
+        ]
+    }
+]
