@@ -11,10 +11,10 @@
     "codename": "dubai",
     "codename_alt": "dubai",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "10 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260609-0757.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/dubai/",
+    "last_updated": "21 August 2026",
+    "download_link": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20260820-2048.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/dubai/",
     "xda": "https://xdaforums.com/t/rom-16-2-official-pixelos-for-motorola-edge-30-aosp-stable-qpr2.4780418/"
 }

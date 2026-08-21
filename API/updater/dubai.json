@@ -1,31 +1,33 @@
 [
     {
-        "datetime": 1780991719,
+        "datetime": 1787258745,
         "files": [
             {
-                "filename": "PixelOS_dubai-16.2-20260609-0757.zip",
-                "os_sdk_level": 36,
-                "sha256": "92043eba8ee9e79701a13ee0d002e4039d35b8e86feae67cbe71ae63c7152b19",
-                "size": 2422414105,
-                "url": "https://download.pixelos.net/sixteen/dubai/PixelOS_dubai-16.2-20260609-0757.zip"
+                "filename": "PixelOS_dubai-17.0-20260820-2048.zip",
+                "os_patch_level": "2026-08-01",
+                "os_sdk_level": 37,
+                "sha256": "b8f274069df33d3e80ee42674ed6f868ae9748e3421249855cb8877e94358489",
+                "size": 2611688792,
+                "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20260820-2048.zip",
+                "ota_property_files": "payload_metadata.bin:4222:178217,payload.bin:4222:2611681169,payload_properties.txt:2611685449:156,apex_info.pb:2049:1448,care_map.pb:3544:631,metadata:69:675,metadata.pb:812:1189                        "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-dubai_20260609_0757.img",
-                "SHA256": "923cef3b0d0ffd53c10bb1038a60693fc7d1cf63e84d1548762f5330dd36d71b",
+                "name": "dtbo-dubai_20260820_2048.img",
+                "SHA256": "7bd5cc42436d371666044e19284e91474b33b625b36f1af4e019b9364e62c991",
                 "size": 25165824
             },
             {
-                "name": "boot-dubai_20260609_0757.img",
-                "SHA256": "e63bc6d8d581969c645050c7e2d894ebae491dacdf19e5575ed7cb67e1a718ad",
+                "name": "boot-dubai_20260820_2048.img",
+                "SHA256": "33e5e957a5806c237040c23b014ade7a1177bd18c079dc1778259fc6c31554dd",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-dubai_20260609_0757.img",
-                "SHA256": "a759bb3c783968b97863533fc1c6d8e6c00f5681c92db12ec74a81c29b2cdc42",
+                "name": "vendor_boot-dubai_20260820_2048.img",
+                "SHA256": "a3bcc8caa4573c16da4edb77cb5dfbc738e1a1d186f134f3aaa20dc2371e726d",
                 "size": 100663296
             }
         ]
