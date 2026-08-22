@@ -11,10 +11,10 @@
     "codename": "peridot",
     "codename_alt": "peridot",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "12 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/peridot/PixelOS_peridot-16.2-20260612-1929.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/",
+    "last_updated": "22 August 2026",
+    "download_link": "https://download.pixelos.net/seventeen/peridot/PixelOS_peridot-17.0-20260822-0556.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/peridot/",
     "xda": null
 }
