@@ -1,36 +1,37 @@
 [
     {
-        "datetime": 1787233448,
+        "datetime": 1787351178,
         "files": [
             {
-                "filename": "PixelOS_garnet-17.0-20260820-1346.zip",
+                "filename": "PixelOS_garnet-17.0-20260821-2229.zip",
                 "os_patch_level": "2026-08-01",
                 "os_sdk_level": 37,
-                "sha256": "933324126a1ca68f937360518e970d0deb05fd16cca69ab6cae735f171ace260",
-                "size": 2940996135,
-                "url": "https://download.pixelos.net/seventeen/garnet/PixelOS_garnet-17.0-20260820-1346.zip",
-                "ota_property_files": "payload_metadata.bin:4515:173159,payload.bin:4515:2940988219,payload_properties.txt:2940992792:156,apex_info.pb:2146:1448,care_map.pb:3641:827,metadata:69:687,metadata.pb:824:1274                        "
+                "sha256": "eea5a79e8754cc2da70515b0c910f81f41030b9e3cd66fb31448d4cd7abd1fd0",
+                "size": 2940982761,
+                "url": "https://download.pixelos.net/seventeen/garnet/PixelOS_garnet-17.0-20260821-2229.zip",
+                "ota_property_files": "payload_metadata.bin:4515:173158,payload.bin:4515:2940974845,payload_properties.txt:2940979418:156,apex_info.pb:2146:1448,care_map.pb:3641:827,metadata:69:687,metadata.pb:824:1274                        "
             }
         ],
+        "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-garnet_20260820_1346.img",
-                "SHA256": "308da83ce8aec2fd2c2463d68b175ab9505446190aa1b9e31cbc0a06e3162992",
+                "name": "recovery-garnet_20260821_2229.img",
+                "SHA256": "2f8a1f23be76ab60cb77dcbd8f9671352ed29d272ef9712f1221369912821cb0",
                 "size": 104857600
             },
             {
-                "name": "dtbo-garnet_20260820_1346.img",
+                "name": "dtbo-garnet_20260821_2229.img",
                 "SHA256": "16e559567661f8c332c371ca074d3e0f34fda042b19c02cfbb0e28ce96ef6e02",
                 "size": 25165824
             },
             {
-                "name": "boot-garnet_20260820_1346.img",
-                "SHA256": "582470dd8cd60580d34b8dc534e4e6288fcc3d4b202f3d0a40737bfe38e4f274",
+                "name": "boot-garnet_20260821_2229.img",
+                "SHA256": "48edd3391e0b947f39ee2d2b58cd81489ff9bdd660240d2a3ca865d413b919e1",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-garnet_20260820_1346.img",
+                "name": "vendor_boot-garnet_20260821_2229.img",
                 "SHA256": "1ca6fe977ab35121d4f730ee194b283061b501a15b8b98ea93b31fa2201f7a44",
                 "size": 100663296
             }
