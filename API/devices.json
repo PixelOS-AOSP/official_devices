@@ -45,6 +45,17 @@
             "version": 16
         },
         {
+            "codename": "Spacewar",
+            "codename_alt": "A063",
+            "vendor": "Nothing",
+            "model": "Nothing Phone (1)",
+            "maintainer_name": "Abdulaziz",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": null
+        },
+        {
             "codename": "X00TD",
             "codename_alt": "",
             "vendor": "Asus",
@@ -714,17 +725,6 @@
             "active": false,
             "last_updated": 1683091357,
             "version": 13
-        },
-        {
-            "codename": "Spacewar",
-            "codename_alt": "A063",
-            "vendor": "Nothing",
-            "model": "Phone (1)",
-            "maintainer_name": "xAbdaziz",
-            "frame": null,
-            "active": true,
-            "last_updated": null,
-            "version": 17
         },
         {
             "codename": "star2lte",
