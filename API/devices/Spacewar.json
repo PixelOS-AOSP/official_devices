@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Abdulaziz",
+            "telegram": "xAbdaziz",
+            "github": "xAbdaziz"
+        }
+    ],
+    "model": "Nothing Phone (1)",
+    "vendor": "Nothing",
+    "codename": "Spacewar",
+    "codename_alt": "A063",
+    "active": true,
+    "version": "seventeen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/Spacewar/",
+    "xda": null
+}

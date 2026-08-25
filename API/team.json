@@ -207,6 +207,14 @@
             "XDA": "https://xdaforums.com/m/penguin766.12962629/",
             "role": "gauguin maintainer",
             "tagline": "All systems go, prepare for liftoff"
-	}
+        },
+        {
+        	"name": "Abdulaziz",
+        	"github": "xAbdaziz",
+        	"telegram": "xAbdaziz",
+        	"XDA": null,
+        	"role": "Spacewar Maintainer",
+        	"tagline": "rm -rf out/ ... Will it fix the build? idk, but it's worth a shot."
+        }
     ]
 }

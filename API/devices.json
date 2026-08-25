@@ -716,6 +716,17 @@
             "version": 13
         },
         {
+            "codename": "Spacewar",
+            "codename_alt": "A063",
+            "vendor": "Nothing",
+            "model": "Phone (1)",
+            "maintainer_name": "xAbdaziz",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": 17
+        },
+        {
             "codename": "star2lte",
             "codename_alt": "star2lte",
             "vendor": "Samsung",
