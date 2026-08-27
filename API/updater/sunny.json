@@ -1,26 +1,28 @@
 [
     {
-        "datetime": 1781013997,
+        "datetime": 1787831721,
         "files": [
             {
-                "filename": "PixelOS_sunny-16.2-20260609-1408.zip",
-                "os_sdk_level": 36,
-                "sha256": "1ba4a837bf8ca5839bfc8c4ae697fabdae8d3ece071fcd1f455c6845333d3668",
-                "size": 2546070851,
-                "url": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260609-1408.zip"
+                "filename": "PixelOS_sunny-17.0-20260827-1158.zip",
+                "os_patch_level": "2026-08-01",
+                "os_sdk_level": 37,
+                "sha256": "95cd90ee12fca8f84fc5e32fa477cdd64dcd3cf4d09d265f17afdd428d7e94b8",
+                "size": 2785135204,
+                "url": "https://download.pixelos.net/seventeen/sunny/PixelOS_sunny-17.0-20260827-1158.zip",
+                "ota_property_files": "payload_metadata.bin:4149:108396,payload.bin:4149:2785127654,payload_properties.txt:2785131861:156,apex_info.pb:2009:1448,care_map.pb:3504:598,metadata:69:704,metadata.pb:841:1120                        "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "boot-sunny_20260609_1408.img",
-                "SHA256": "af1c4a6a17d88fc2ec159ddf5487416d6d6bb96b7539503ab86cf198e17fb741",
+                "name": "boot-sunny_20260827_1158.img",
+                "SHA256": "1a435bb9c7cd78564c040674014600bcc588269c5c51295412c1d2efb3a630c9",
                 "size": 134217728
             },
             {
-                "name": "vendor_boot-sunny_20260609_1408.img",
-                "SHA256": "a52c75eea22e82b4f5cfc7f03ae5f80886052ef92d45c9b1655c549433e24e2a",
+                "name": "vendor_boot-sunny_20260827_1158.img",
+                "SHA256": "b08ffe5593b350e505120aaaa5f0bdf5f9b6f12859e4a639eb166758893aa658",
                 "size": 100663296
             }
         ]

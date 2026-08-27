@@ -16,10 +16,10 @@
     "codename": "sunny",
     "codename_alt": "sunny/mojito",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "10 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/sunny/PixelOS_sunny-16.2-20260609-1408.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/",
+    "last_updated": "27 August 2026",
+    "download_link": "https://download.pixelos.net/seventeen/sunny/PixelOS_sunny-17.0-20260827-1158.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/sunny/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-19-11-2023.4642038/"
 }
