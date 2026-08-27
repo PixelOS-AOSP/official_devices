@@ -1,4 +1,4 @@
-[ROM][16.2][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][QPR2]
+[ROM][17][UNOFFICIAL/OFFICIAL] PixelOS [AOSP][STABLE][CNB]
 <!-- Read the whole thread and fill in the required blanks marked with '*' or '(?)' -->
 
 [CENTER][IMG width="450px"]https://raw.githubusercontent.com/PixelOS-CI/blog_assets/main/banner.webp[/IMG]
@@ -24,10 +24,11 @@ PixelOS is an AOSP-based ROM, with Google apps included and all Pixel goodies. W
 
 [B][U]Downloads[/U][/B]
 Download [URL='https://pixelos.net/download/*']Download[/URL]
-PixelOS Recovery [URL]https://sourceforge.net/projects/pixelos-releases/files/sixteen/*/recovery/[/URL]
+Additional Images can be downloaded from the same page
 
 [B][U]Notes[/U][/B]
 • Encryption is enabled by default
+• All PixelOS Release builds signed using PixelOS's own keys
 • (?) Firmware is included
 • (?) Included MIUI/ANX Camera
 
@@ -37,7 +38,7 @@ Clean flash (coming from a different ROM):[/B]
 • Download ROM
 • Reboot to recovery
 • Sideload the latest firmware `adb sideload firmware.zip`
-• Sideload ROM zip `adb sideload PixelOS_16.0*.zip`
+• Sideload ROM zip `adb sideload PixelOS_*.zip`
 • Format data
 • Reboot and voila!
 
@@ -61,5 +62,5 @@ PixelOS http://github.com/PixelOS-AOSP
 Device Tree and Vendor Tree https://github.com/PixelOS-Devices
 Kernel Tree https://github.com/PixelOS-Devices/kernel_*
 
-[B]ROM OS Version:[/B] Android 16.2
+[B]ROM OS Version:[/B] Android 17.0
 [B]ROM Kernel:[/B] Linux 5.x.x
