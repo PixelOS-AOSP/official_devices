@@ -1,48 +1,48 @@
 [
     {
-        "datetime": 1787708611,
+        "datetime": 1788133455,
         "files": [
             {
-                "filename": "PixelOS_pdx224-17.0-20260826-0146.zip",
+                "filename": "PixelOS_pdx224-17.0-20260830-2347.zip",
                 "os_patch_level": "2026-08-01",
                 "os_sdk_level": 37,
-                "sha256": "511a1a8876b95d2563b83e962f58859c9e28ce2fe4143ec40de4ca63c72157bf",
-                "size": 2755032439,
-                "url": "https://download.pixelos.net/seventeen/pdx224/PixelOS_pdx224-17.0-20260826-0146.zip",
-                "ota_property_files": "payload_metadata.bin:4574:161086,payload.bin:4574:2755024464,payload_properties.txt:2755029096:156,apex_info.pb:2232:1448,care_map.pb:3727:800,metadata:69:684,metadata.pb:821:1363                        "
+                "sha256": "6489b3f97f8248a346f6f549495292b40d8558acb6c8331ddfccbe023513e5fa",
+                "size": 2755026512,
+                "url": "https://download.pixelos.net/seventeen/pdx224/PixelOS_pdx224-17.0-20260830-2347.zip",
+                "ota_property_files": "payload_metadata.bin:4574:161085,payload.bin:4574:2755018537,payload_properties.txt:2755023169:156,apex_info.pb:2232:1448,care_map.pb:3727:800,metadata:69:684,metadata.pb:821:1363                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-pdx224_20260826_0146.img",
-                "SHA256": "1a78b181debac3a828bb007c967e39f53b13c494582180611bcdfc894361b15e",
+                "name": "recovery-pdx224_20260830_2347.img",
+                "SHA256": "b4b339ea6ba687833970a8937717c211a78f8e789f28f179a3327ae8a6b01126",
                 "size": 104857600
             },
             {
-                "name": "super_empty-pdx224_20260826_0146.img",
+                "name": "super_empty-pdx224_20260830_2347.img",
                 "SHA256": "a3f832f6f05fbce6b33c308c95df362a509b0a0b348d42fd092cd3bf184cd4b0",
                 "size": 5184
             },
             {
-                "name": "vbmeta-pdx224_20260826_0146.img",
-                "SHA256": "cae1ee5200205d13aa7f18436f02dfafb95e27a6b91250747b05d25ee5353a23",
+                "name": "vbmeta-pdx224_20260830_2347.img",
+                "SHA256": "67cfb002a60ea5d53f2350ac751cacc21ed5c65e68291c5537c7935bb664fa00",
                 "size": 8192
             },
             {
-                "name": "dtbo-pdx224_20260826_0146.img",
+                "name": "dtbo-pdx224_20260830_2347.img",
                 "SHA256": "9f367dc62898ac295531a3fab4b76896e1df97bf9eb13317aed052426318c03b",
                 "size": 25165824
             },
             {
-                "name": "boot-pdx224_20260826_0146.img",
-                "SHA256": "60f805d9de9b425b574b7b66d481f46b5d16ac151395faf8cce1aee22ecacf05",
+                "name": "boot-pdx224_20260830_2347.img",
+                "SHA256": "72db02cd34d09c50d11d1195ab39701f384f81bee03260f62b16b2c07bbb575f",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-pdx224_20260826_0146.img",
-                "SHA256": "19ab50d72e589ce1f1087a27281dd9476b7c630d4dbec9382b6ce2d147ae55f3",
+                "name": "vendor_boot-pdx224_20260830_2347.img",
+                "SHA256": "001c3ec54443f6c40b5d3a10ce924dcca50983762bf89ae068a13c3c9e3a5f2c",
                 "size": 100663296
             }
         ]
