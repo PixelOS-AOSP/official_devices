@@ -1,15 +1,12 @@
 {
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 10 Pro XL",
-    "FINGERPRINT": "google/mustang/mustang:17/CP2A.260605.012/15430684:user/release-keys",
-    "BRAND": "google",
-    "PRODUCT": "mustang",
-    "DEVICE": "mustang",
-    "HARDWARE": "mustang",
-    "VERSION.RELEASE": "17",
-    "ID": "CP2A.260605.012",
-    "VERSION.INCREMENTAL": "15430684",
-    "TYPE": "user",
-    "TAGS": "release-keys",
-    "VERSION.DEVICE_INITIAL_SDK_INT": "32"
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 10 Pro",
+  "FINGERPRINT": "google/blazer_beta/blazer:CANARY/ZP11.260717.006/16004061:user/release-keys",
+  "BRAND": "google",
+  "PRODUCT": "blazer_beta",
+  "DEVICE": "blazer",
+  "ID": "ZP11.260717.006",
+  "VERSION.INCREMENTAL": "16004061",
+  "TYPE": "user",
+  "TAGS": "release-keys"
 }
