@@ -1,31 +1,33 @@
 [
     {
-        "datetime": 1780994195,
+        "datetime": 1789731128,
         "files": [
             {
-                "filename": "PixelOS_ginkgo-16.2-20260609-0838.zip",
-                "os_sdk_level": 36,
-                "sha256": "3f29b61bbe2aa8ca2924c73e11f517c74024aedc30863d3981f11d20b156afe4",
-                "size": 2304193667,
-                "url": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip"
+                "filename": "PixelOS_ginkgo-17.0-20260918-1135.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "3bf5969da5a0de0474014c4677ac00ea50efb109c5fe8cea4d146e31553bd44d",
+                "size": 2561550333,
+                "url": "https://download.pixelos.net/seventeen/ginkgo/PixelOS_ginkgo-17.0-20260918-1135.zip",
+                "ota_property_files": "metadata:69:340,metadata.pb:477:229                 "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-ginkgo_20260609_0838.img",
-                "SHA256": "7875056755236133a72ca2ec59560bd3c67509bf96a18a5d1c245b97a3f13311",
+                "name": "recovery-ginkgo_20260918_1135.img",
+                "SHA256": "7a02c154faa5f79642dc896626ccf6f97aa461c94ae62dee35e14f289814bd3b",
                 "size": 67108864
             },
             {
-                "name": "dtbo-ginkgo_20260609_0838.img",
-                "SHA256": "204fbc2ae49ec1f517da99138ca225a762091f6d5708738146d49582c8f298ea",
+                "name": "dtbo-ginkgo_20260918_1135.img",
+                "SHA256": "14183db7153f72c7c28b6d6ac215e1a458d158a134b247367c0e85b2ead677bc",
                 "size": 8388608
             },
             {
-                "name": "boot-ginkgo_20260609_0838.img",
-                "SHA256": "acf06d2689f75d1ec9a5d1584b3ca968cf4742531f3d38ba3643bcc8b6cd9691",
+                "name": "boot-ginkgo_20260918_1135.img",
+                "SHA256": "e52c4ee1e8c7441026c08bc7780bcc96ba7fcc93d0ce6779073523e1cccc86f1",
                 "size": 67108864
             }
         ]

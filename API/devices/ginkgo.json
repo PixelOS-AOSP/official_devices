@@ -11,10 +11,10 @@
     "codename": "ginkgo",
     "codename_alt": "ginkgo/willow",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "10 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/ginkgo/PixelOS_ginkgo-16.2-20260609-0838.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/ginkgo/",
+    "last_updated": "18 September 2026",
+    "download_link": "https://download.pixelos.net/seventeen/ginkgo/PixelOS_ginkgo-17.0-20260918-1135.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/ginkgo/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-unified.4237791/"
 }
