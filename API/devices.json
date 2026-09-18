@@ -103,12 +103,23 @@
             "codename": "aston",
             "codename_alt": "aston",
             "vendor": "OnePlus",
-            "model": "OnePlus 12R/ACE 3 5G",
+            "model": "OnePlus 12R",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1763866814,
             "version": 16
+        },
+        {
+            "codename": "astonc",
+            "codename_alt": "astonc",
+            "vendor": "OnePlus",
+            "model": "OnePlus Ace 3",
+            "maintainer_name": "InFeRnO",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": null
         },
         {
             "codename": "benz",
@@ -117,7 +128,7 @@
             "model": "OnePlus Nord CE 4",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1763774878,
             "version": 16
         },
@@ -194,7 +205,7 @@
             "model": "OnePlus Pad 2",
             "maintainer_name": "InFeRnO",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1763767943,
             "version": 16
         },

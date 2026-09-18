@@ -1,7 +1,7 @@
 # Device List
 Here is the list of all the devices actively supported officially by PixelOS. To download the latest version of PixelOS, please visit our official website at [PixelOS.net](https://PixelOS.net), there you can find the necessary resources and information to download and install PixelOS on your device.
 
-Number Of Devices in Official PixelOS: 30
+Number Of Devices in Official PixelOS: 34
 
 Number of Brands in Official PixelOS: 7
 
@@ -21,8 +21,12 @@ Officially Supported Devices:
 
 **OnePlus**
 1. OnePlus 12 (waffle)
-2. OnePlus 9RT 5G (martini)
-3. OnePlus Nord CE 2 Lite (oscar)
+2. OnePlus 12R (aston)
+3. OnePlus 9RT 5G (martini)
+4. OnePlus Ace 3 (astonc)
+5. OnePlus Nord CE 2 Lite (oscar)
+6. OnePlus Nord CE 4 (benz)
+7. OnePlus Pad 2 (caihong)
 
 **Realme**
 1. Realme 7/Narzo 20 Pro/Narzo 30 4G (RMX2151/RMX2151L1/RMX2153L1/RMX2155L1/RMX2156L1/RMX2161L1/RMX2163L1)
