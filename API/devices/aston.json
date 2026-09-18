@@ -6,11 +6,11 @@
             "github": "inferno0230"
         }
     ],
-    "model": "OnePlus 12R/ACE 3 5G",
+    "model": "OnePlus 12R",
     "vendor": "OnePlus",
     "codename": "aston",
     "codename_alt": "aston",
-    "active": false,
+    "active": true,
     "version": "sixteen",
     "release": "monthly",
     "last_updated": "23 November 2025",
