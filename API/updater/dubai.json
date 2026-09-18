@@ -1,32 +1,32 @@
 [
     {
-        "datetime": 1787258745,
+        "datetime": 1789742300,
         "files": [
             {
-                "filename": "PixelOS_dubai-17.0-20260820-2048.zip",
-                "os_patch_level": "2026-08-01",
+                "filename": "PixelOS_dubai-17.0-20260918-1441.zip",
+                "os_patch_level": "2026-09-01",
                 "os_sdk_level": 37,
-                "sha256": "b8f274069df33d3e80ee42674ed6f868ae9748e3421249855cb8877e94358489",
-                "size": 2611688792,
-                "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20260820-2048.zip",
-                "ota_property_files": "payload_metadata.bin:4222:178217,payload.bin:4222:2611681169,payload_properties.txt:2611685449:156,apex_info.pb:2049:1448,care_map.pb:3544:631,metadata:69:675,metadata.pb:812:1189                        "
+                "sha256": "d7957e88671926cf42d7488c3341629254c682a7a74812cc91aac7aed4c890e5",
+                "size": 2614885064,
+                "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20260918-1441.zip",
+                "ota_property_files": "payload_metadata.bin:4222:178337,payload.bin:4222:2614877441,payload_properties.txt:2614881721:156,apex_info.pb:2049:1448,care_map.pb:3544:631,metadata:69:675,metadata.pb:812:1189                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-dubai_20260820_2048.img",
+                "name": "dtbo-dubai_20260918_1441.img",
                 "SHA256": "7bd5cc42436d371666044e19284e91474b33b625b36f1af4e019b9364e62c991",
                 "size": 25165824
             },
             {
-                "name": "boot-dubai_20260820_2048.img",
-                "SHA256": "33e5e957a5806c237040c23b014ade7a1177bd18c079dc1778259fc6c31554dd",
+                "name": "boot-dubai_20260918_1441.img",
+                "SHA256": "4dd995d246e57778eaaccff1afc446a5cfd60d85ce0aa24dec5d175d5f9bb12e",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-dubai_20260820_2048.img",
+                "name": "vendor_boot-dubai_20260918_1441.img",
                 "SHA256": "a3bcc8caa4573c16da4edb77cb5dfbc738e1a1d186f134f3aaa20dc2371e726d",
                 "size": 100663296
             }
