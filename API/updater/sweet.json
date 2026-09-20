@@ -1,31 +1,32 @@
 [
     {
-        "datetime": 1781069438,
+        "datetime": 1789912408,
         "files": [
             {
-                "filename": "PixelOS_sweet-16.2-20260610-0532.zip",
-                "os_sdk_level": 36,
-                "sha256": "a0efaf0d8d8a3bfc96c69df3ff56ce0b7d2a491a04ea592162591883e53bcdda",
-                "size": 2829497355,
-                "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip"
+                "filename": "PixelOS_sweet-17.0-20260920-1356.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "777cc7027908f5b25b3895b573ca244d683f64906e07ae729859a5db284a81c4",
+                "size": 3097581668,
+                "url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20260920-1356.zip"
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-sweet_20260610_0532.img",
-                "SHA256": "23b73dc098b001aab87d7c7bebac0daad75f0bfaed4b41b69a9cefec681cc48e",
+                "name": "recovery-sweet_20260920_1356.img",
+                "SHA256": "532270f54fd0cf425f58b069a016357370c8600a332fbbad643a890ae44a795d",
                 "size": 134217728
             },
             {
-                "name": "dtbo-sweet_20260610_0532.img",
-                "SHA256": "bf2cb26a918d9f1869bf883b48181aeb9b7080ee3bbbfecca7f5e35c076366a4",
+                "name": "dtbo-sweet_20260920_1356.img",
+                "SHA256": "a71f23deadc497c6acaece3c26a78e2764938af13a91819765ebc6a51b5ca261",
                 "size": 33554432
             },
             {
-                "name": "boot-sweet_20260610_0532.img",
-                "SHA256": "cf5a815591d638a28ac8b671c0cad8aa8ff40c8db6a44a22fd97b09a5e855421",
+                "name": "boot-sweet_20260920_1356.img",
+                "SHA256": "53a6fac5b1bf4186c947daf498895b553029c2bcad05a63d756534203c830545",
                 "size": 134217728
             }
         ]
