@@ -16,10 +16,10 @@
     "codename": "davinci",
     "codename_alt": "davinci/davinciin",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "16 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/davinci/PixelOS_davinci-16.2-20260616-1432.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/davinci/",
+    "last_updated": "20 September 2026",
+    "download_link": "https://download.pixelos.net/seventeen/davinci/PixelOS_davinci-17.0-20260920-1544.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/davinci/",
     "xda": null
 }
