@@ -8,8 +8,7 @@
                 "os_sdk_level": 37,
                 "sha256": "3bf5969da5a0de0474014c4677ac00ea50efb109c5fe8cea4d146e31553bd44d",
                 "size": 2561550333,
-                "url": "https://download.pixelos.net/seventeen/ginkgo/PixelOS_ginkgo-17.0-20260918-1135.zip",
-                "ota_property_files": "metadata:69:340,metadata.pb:477:229                 "
+                "url": "https://download.pixelos.net/seventeen/ginkgo/PixelOS_ginkgo-17.0-20260918-1135.zip"
             }
         ],
         "type": "ci",
