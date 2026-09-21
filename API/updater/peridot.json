@@ -1,43 +1,43 @@
 [
     {
-        "datetime": 1787378088,
+        "datetime": 1789931690,
         "files": [
             {
-                "filename": "PixelOS_peridot-17.0-20260822-0556.zip",
-                "os_patch_level": "2026-08-01",
+                "filename": "PixelOS_peridot-17.0-20260920-1916.zip",
+                "os_patch_level": "2026-09-01",
                 "os_sdk_level": 37,
-                "sha256": "9476fc637512b7d39d53df884c490c91037ed923097373f3eab1f4eab07082d7",
-                "size": 3791462676,
-                "url": "https://download.pixelos.net/seventeen/peridot/PixelOS_peridot-17.0-20260822-0556.zip",
-                "ota_property_files": "payload_metadata.bin:4907:232686,payload.bin:4907:3791454368,payload_properties.txt:3791459333:156,apex_info.pb:2286:1543,care_map.pb:3876:984,metadata:69:689,metadata.pb:826:1412                        "
+                "sha256": "8de701d637c3637a637e6803a0cb0585636f9ecdff39135eb2c5db582eb8381a",
+                "size": 3818262087,
+                "url": "https://download.pixelos.net/seventeen/peridot/PixelOS_peridot-17.0-20260920-1916.zip",
+                "ota_property_files": "payload_metadata.bin:4907:233657,payload.bin:4907:3818253779,payload_properties.txt:3818258744:156,apex_info.pb:2286:1543,care_map.pb:3876:984,metadata:69:689,metadata.pb:826:1412                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-peridot_20260822_0556.img",
-                "SHA256": "cd880edbf5d6db54c4793522ea13e05175a176a6694f5b22510b7766fe0ca004",
+                "name": "init_boot-peridot_20260920_1916.img",
+                "SHA256": "3f0fdf90905edfccad6eaa66a611c973811b0b2b097967c2e3c3a100c0296b2e",
                 "size": 8388608
             },
             {
-                "name": "recovery-peridot_20260822_0556.img",
-                "SHA256": "038ec14d0cff2d24bf71183f2abc8e006bad689c6a27fc857c068595309d0bff",
+                "name": "recovery-peridot_20260920_1916.img",
+                "SHA256": "6f3d1118d3da08c9a9b41d96c308ad154150b64d837a416b0d24a7b274c8d29c",
                 "size": 104857600
             },
             {
-                "name": "dtbo-peridot_20260822_0556.img",
+                "name": "dtbo-peridot_20260920_1916.img",
                 "SHA256": "d4e3bc64b1d0a9113d47262d3c064e41dde88de1473bc63f862413ccc6a72b03",
                 "size": 25165824
             },
             {
-                "name": "boot-peridot_20260822_0556.img",
-                "SHA256": "8debe36646016b6ec90693d1a3c7728201a65df1dc4176e4d820e6bb9ce8f097",
+                "name": "boot-peridot_20260920_1916.img",
+                "SHA256": "949ad5ef21b10198cae59da034d836151b1baf976ba654cbbec6ec3f6b9ef08e",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-peridot_20260822_0556.img",
-                "SHA256": "bd07cac9c64db09bd9e9411a1c78c525974f8facc2e481633d9a266d3c404c6c",
+                "name": "vendor_boot-peridot_20260920_1916.img",
+                "SHA256": "e42996069c23071eb3a9be86791b1c832bff5799c5c29394c656f2c7189468cc",
                 "size": 100663296
             }
         ]
