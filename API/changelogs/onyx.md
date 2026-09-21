@@ -1,73 +1,10 @@
-# 13-Jun-2026
-- Fixed Camera for some CN units
-- Fixed FP for some CN units
-- Added Miui Camera
-- Platform Upstream
-
-# 14-May-2026
-- Reset default touch sampling rate to 120
-- Automatically increase touch sampling rate in games
-- Update blobs and fw from OS3.0.7.0.WOLMIXM
-- Update CarrierConfig from OS3.0.7.0.WOLMIXM
-- Enabled VoRN for a bunch of carriers
-- Fixed the bug where the incoming call number showed incorrectly
-- Increased AOD brightness
-
-# 11-May-2026
-- Platform upstream
-
-# 16-Apr-2026
-- Platform upstream
-
-# 01-Apr-2026
-- Fixed FP in apps with more than two fingerprints registered
-- Added Toggle for HTSR
-- Bumped default TSR
-- Switched to MIUI color profiles
-- Fixed Charging limit control
-
-# 13-Mar-2026
-- More powerhint ricing
-- Drop xiaomi micharge service
-- Update blobs and fw from OS3.0.6.0.WOLMIXM
-- Switch thermal config to mgame (Should fast charge now)
-
-# 12-Mar-2026
-- Platform upstream (hotfix)
-
-# 09-Mar-2026
-- platform upstream
-
-# 02-Mar-2026
-- Source upstream
-
-# 07-Feb-2026
-- Lowered default screen density
-- Switch to QTI Vibrator service
-- Removed Dolby stack
-- Switch to AOSP NXP authsecret service 
-- Switch to AOSP NXP keymint service
-- Switch to libperfmgr
-- Fixed OTA (Will work from this build)
-- Fix audio cutting out in VOIP calls
-- Updated blobs and fw from OS3.0.5.0.WOLMIXM
-- Drop more unused blobs and fw
-- Magic
-
-# 27-Jan-2026
-- Fix Adaptive RR going to 30hz
-
-# 26-Jan-2026
-- Fix Adaptive RR going to 30hz
-
-# 25-Jan-2026
-- Drop spatial audio 
-- Disable usage of 30hz
-- Build more display components from source
-- Cleanup odm and vendor props
-- Address more denials
-- Allow games to use 120fps
-
-# 14-Dec-2025
-- Initial PixelOS 16 QPR1 release
+# 21-Sep-2026
+- Switched to OSS kernel
+- Fixed battery and OTG in recovery 
+- Added touch in recovery 
+- Redo cutout and corner cutouts
+ - Added single tap to Wake
+ - Enabled camera ring as notification led
+- Remapped some haptics 
+- Some audio bs
 

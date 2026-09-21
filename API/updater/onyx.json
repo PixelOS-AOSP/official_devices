@@ -1,41 +1,43 @@
 [
     {
-        "datetime": 1781340111,
+        "datetime": 1789924357,
         "files": [
             {
-                "filename": "PixelOS_onyx-16.2-20260613-0843.zip",
-                "os_sdk_level": 36,
-                "sha256": "2aac176e4cfb44b2aa2db04fc4b4f5fecb0ce11db451703f2e728b5d04352a13",
-                "size": 4310807392,
-                "url": "https://download.pixelos.net/sixteen/onyx/PixelOS_onyx-16.2-20260613-0843.zip"
+                "filename": "PixelOS_onyx-17.0-20260920-1714.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "5338bb04247a35e981928d1044d3541945e56dcdbfc6f6c7bf924c82318f3e6e",
+                "size": 4559974422,
+                "url": "https://download.pixelos.net/seventeen/onyx/PixelOS_onyx-17.0-20260920-1714.zip",
+                "ota_property_files": "payload_metadata.bin:4755:230140,payload.bin:4755:4559966146,payload_properties.txt:4559970959:156,apex_info.pb:2178:1542,care_map.pb:3767:921,metadata:69:677,metadata.pb:814:1316                        "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-onyx_20260613_0843.img",
-                "SHA256": "917c1392f1f4ea6551d377b1dbf8e22057025112fae0213b685d6c936df6e32d",
+                "name": "init_boot-onyx_20260920_1714.img",
+                "SHA256": "9d4701a966eea5b50d48f816c13c2f1e5376fddfbe1d4b7608f88928610b73b8",
                 "size": 8388608
             },
             {
-                "name": "recovery-onyx_20260613_0843.img",
-                "SHA256": "ee79821dc6390d2a07cb2d24e83212c614ab5669112d317366bad53518473fcd",
+                "name": "recovery-onyx_20260920_1714.img",
+                "SHA256": "8fa16f7ccdbf6eb2a4bbb9205151782492b3b0cdcbacbf69ac3b2754d26aaabc",
                 "size": 104857600
             },
             {
-                "name": "dtbo-onyx_20260613_0843.img",
-                "SHA256": "99171fb11deae69e0654e52a6a84c14bc1ef236b0d389fe80b91f4fb099b9dc0",
+                "name": "dtbo-onyx_20260920_1714.img",
+                "SHA256": "8583d5d73acdd71f023bfdc59e2c4af8cb594b7f82460756e95872f096bd3e82",
                 "size": 25165824
             },
             {
-                "name": "boot-onyx_20260613_0843.img",
-                "SHA256": "b7216cdd3dddf0c87c82307594e6eeeaada23619956c672d5750020be7f4b38b",
+                "name": "boot-onyx_20260920_1714.img",
+                "SHA256": "3a398c0f702b708f5e00b1a81c148a47c8f5bf1f16c417713780dfb9d5b0fe41",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-onyx_20260613_0843.img",
-                "SHA256": "7288e38cf82c87a06620738ecaf8e147bb59b5c20dc7ef27042f03464e0acd8b",
+                "name": "vendor_boot-onyx_20260920_1714.img",
+                "SHA256": "4d12800830f95a3c1d0eba13502b15a171a46004e23c9e9c444d840c9454447c",
                 "size": 100663296
             }
         ]
