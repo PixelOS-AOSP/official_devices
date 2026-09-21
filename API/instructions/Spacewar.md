@@ -1,7 +1,6 @@
 # General Instructions
 
 * Make sure the device has an unlocked bootloader before proceeding.
-* Make sure the device is running the latest **NothingOS 3.2 firmware**.
 * Clean flash when coming from a different Custom ROM or Stock.
 * Make sure you have the required ADB/Fastboot drivers and [platform tools](https://developer.android.com/tools/releases/platform-tools) installed. It is advised to add platform tools to the PATH environment variable.
 * Do NOT attempt to change the recovery or kernel from what is included with PixelOS.
