@@ -1,0 +1,40 @@
+[
+    {
+        "datetime": 1789991509,
+        "files": [
+            {
+                "filename": "PixelOS_Spacewar-17.0-20260921-1154.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "26ca7c5229de87c06d750474331920040ec60936a88765bd449a7121d77e85ce",
+                "size": 2545747282,
+                "url": "https://download.pixelos.net/seventeen/Spacewar/PixelOS_Spacewar-17.0-20260921-1154.zip",
+                "ota_property_files": "payload_metadata.bin:4400:154375,payload.bin:4400:2545739481,payload_properties.txt:2545743939:156,apex_info.pb:2088:1448,care_map.pb:3583:770,metadata:69:678,metadata.pb:815:1225                        "
+            }
+        ],
+        "type": "ci",
+        "version": "17.0",
+        "additional_images": [
+            {
+                "name": "super_empty-Spacewar_20260921_1154.img",
+                "SHA256": "25bb9897eb877f0db36c4aa94e6393e64c9181959c81c51389e45e12f482a622",
+                "size": 5184
+            },
+            {
+                "name": "dtbo-Spacewar_20260921_1154.img",
+                "SHA256": "2302abc41c723bcff89c193dff5b34100c0264d50494cf09c5f0f1e3bb2e4c59",
+                "size": 25165824
+            },
+            {
+                "name": "boot-Spacewar_20260921_1154.img",
+                "SHA256": "18fe2134341f31f843d6b043548ff00c6cce3e5d2bcac2040de9e7203b22319d",
+                "size": 100663296
+            },
+            {
+                "name": "vendor_boot-Spacewar_20260921_1154.img",
+                "SHA256": "7a9c85d87d4a12e3f86b9869539b1ba3eb1b05856c2075d4cd88e0cdfd7b3212",
+                "size": 100663296
+            }
+        ]
+    }
+]
