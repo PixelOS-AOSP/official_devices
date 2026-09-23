@@ -1,31 +1,33 @@
 [
     {
-        "datetime": 1781100871,
+        "datetime": 1790089056,
         "files": [
             {
-                "filename": "PixelOS_alioth-16.2-20260610-1416.zip",
-                "os_sdk_level": 36,
-                "sha256": "61a3c5c189ad1461651f2a84cb7161bf6954629bb3f5c8c4ec0931d5ede05d97",
-                "size": 2373229005,
-                "url": "https://download.pixelos.net/sixteen/alioth/PixelOS_alioth-16.2-20260610-1416.zip"
+                "filename": "PixelOS_alioth-17.0-20260922-1500.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "6fd8fa1753171eb5ab1d46cbcd9cf4df2c29b282a17b077f3315b8bfddcd64b0",
+                "size": 2628867768,
+                "url": "https://download.pixelos.net/seventeen/alioth/PixelOS_alioth-17.0-20260922-1500.zip",
+                "ota_property_files": "payload_metadata.bin:4233:155051,payload.bin:4233:2628860134,payload_properties.txt:2628864425:156,apex_info.pb:2028:1448,care_map.pb:3523:663,metadata:69:693,metadata.pb:830:1150                        "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-alioth_20260610_1416.img",
-                "SHA256": "6c35b6d44d1c66597185b50dca5b3f336f1cebcca18641f78898d9ee9ed4d3c4",
+                "name": "dtbo-alioth_20260922_1500.img",
+                "SHA256": "9f2d2dc1abe1290885b2d359e47f1343b77ed08ce0e25562fb80fe852e34dbe5",
                 "size": 33554432
             },
             {
-                "name": "boot-alioth_20260610_1416.img",
-                "SHA256": "c1ec5660b4ead555b4e8e42d5544b32fb8a1007be9a442257ec5f5d18ad7e241",
+                "name": "boot-alioth_20260922_1500.img",
+                "SHA256": "b9b9ba7153c152507ce100d4120fbdad4a17632d03513cde58769b3bc7507a1d",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-alioth_20260610_1416.img",
-                "SHA256": "120a990dcf89c7774039ae2d9553dbf5f3df376979dc1a0fab6eb8a731bf278a",
+                "name": "vendor_boot-alioth_20260922_1500.img",
+                "SHA256": "7b4d9adba1c61ebabdcffd33239ba510275ae8905ff46ff15efe691e8cd83617",
                 "size": 100663296
             }
         ]

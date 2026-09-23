@@ -1,5 +1,25 @@
-\- Implement torch light control  
-\- Disable NSA on Jio  
-\- Remove forced DCI-P3 on adaptive color mode  
+\- Add Oplus Dolby support  
+\- Introduce DC dimming based on the DisplayFeature HAL  
+\- Add Xiaomi CIT sensor service  
+\- Add Thermal Touch settings  
+\- Adapt Touch settings to MD3 design  
+\- Switch to stock color modes  
+\- Switch to float brightness configurations  
+\- Fix maximum screen brightness and HBM brightness  
+\- Disable the SurfaceFlinger composition prediction model  
+\- Drop deprecated brightness hysteresis overlays  
+\- Switch the audio HAL to V7  
+\- Fix DAC headphone output  
+\- Fix streaming video playback  
+\- Fix Telegram media playback  
+\- Fix the Automatically select network setting  
+\- Clean up deprecated IMS overlays  
+\- Drop unused WLAN configurations  
+\- Optimize display performance by unbalancing msm_drm and kgsl_3d0 IRQs  
+\- Limit sysctl_sched_nr_migrate to NR_CPUS  
+\- Change the default schedutil rate  
+\- Optimize schedutil frequency selection  
+\- Backport qcom-cpufreq-hw changes from Linux 5.10  
+\- Increase the priority of sugov kthreads  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
