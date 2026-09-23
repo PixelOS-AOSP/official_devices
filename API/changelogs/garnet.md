@@ -1,3 +1,6 @@
+# 23-Sep-2026
+- Platform upstream
+
 # 22-Aug-2026
 - Fixed FP for goodix fp users
 
