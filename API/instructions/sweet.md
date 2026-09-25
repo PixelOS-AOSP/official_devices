@@ -3,9 +3,9 @@ This ROM comes with EROFS formatting, due to which:
 - Do NOT change kernel
 - System is Read-Only (restricts making changes to overlays, system APKs, etc. directly, however you can replace stuff with Magisk)
 - Avoid using any other recovery than PixelOS recovery
-- YOU MUST CLEAN FLASH IF:
-    - You are coming from any other ROM or MIUI
-    - You are coming from previous Android Version
+- You **MUST** clean flash if you are coming from any other ROM or MIUI.
+- When upgrading Android versions, a clean flash is **RECOMMENDED**, dirty flash could potentially cause unexpected issues. 
+- Android 16 QPR2 to Android 17 **MAY** be dirty flashed. If you encounter unexpected issues, you SHOULD clean flash.
 
 # Clean flash (coming from a different ROM):
 Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
