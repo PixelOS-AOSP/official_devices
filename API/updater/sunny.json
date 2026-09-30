@@ -1,28 +1,28 @@
 [
     {
-        "datetime": 1787852360,
+        "datetime": 1790691559,
         "files": [
             {
-                "filename": "PixelOS_sunny-17.0-20260827-1741.zip",
-                "os_patch_level": "2026-08-01",
+                "filename": "PixelOS_sunny-17.0-20260929-1422.zip",
+                "os_patch_level": "2026-09-01",
                 "os_sdk_level": 37,
-                "sha256": "67dfd066131fc9fcdfab3ed610197c70d378b697bf97720137b5cae37e5424ef",
-                "size": 2785140333,
-                "url": "https://download.pixelos.net/seventeen/sunny/PixelOS_sunny-17.0-20260827-1741.zip",
-                "ota_property_files": "payload_metadata.bin:4149:108396,payload.bin:4149:2785132783,payload_properties.txt:2785136990:156,apex_info.pb:2009:1448,care_map.pb:3504:598,metadata:69:704,metadata.pb:841:1120                        "
+                "sha256": "ba4f63bb41d42c254190fa6ea3558d83711414cd738122ea0eaaa59231d74cf3",
+                "size": 2809847218,
+                "url": "https://download.pixelos.net/seventeen/sunny/PixelOS_sunny-17.0-20260929-1422.zip",
+                "ota_property_files": "payload_metadata.bin:4149:109073,payload.bin:4149:2809839668,payload_properties.txt:2809843875:156,apex_info.pb:2009:1448,care_map.pb:3504:598,metadata:69:704,metadata.pb:841:1120                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "boot-sunny_20260827_1741.img",
-                "SHA256": "1a435bb9c7cd78564c040674014600bcc588269c5c51295412c1d2efb3a630c9",
+                "name": "boot-sunny_20260929_1422.img",
+                "SHA256": "8ea07758a592679afecf5f10ab76ebacd709f7760376a99d52a5997ce6292bcf",
                 "size": 134217728
             },
             {
-                "name": "vendor_boot-sunny_20260827_1741.img",
-                "SHA256": "fbd128bc77a0e5b33ff1f46f174ddd88643f634d52356ec70749d0d688f25396",
+                "name": "vendor_boot-sunny_20260929_1422.img",
+                "SHA256": "c051d2d3f69ab1b5383ebf8b46964e5fd6bbf9fffeeed3b3926db58de32743e5",
                 "size": 100663296
             }
         ]

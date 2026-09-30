@@ -1,3 +1,7 @@
+# 30-Sep-2026
+- Drop --dtb mkbootimg arg as we ship dtb in vendor_boot.
+- Drop recovery AVB flags as we don't have a standalone recovery partition.
+
 # 27-Aug-2026
 - Bump to FCM 7.
 - Bump kernel BPF version override to 5.10.239.
