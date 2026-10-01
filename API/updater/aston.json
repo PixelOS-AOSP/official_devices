@@ -1,16 +1,55 @@
 [
     {
-        "datetime": 1763866814,
+        "datetime": 1790776007,
         "files": [
             {
-                "filename": "PixelOS_aston-16.0-20251123-0302.zip",
-                "os_sdk_level": 36,
-                "sha256": "bfb711e1dd503f506de291a8f2d924320076acb31a3081c825f8e922bf262987",
-                "size": 3277304489,
-                "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/PixelOS_aston-16.0-20251123-0302.zip"
+                "filename": "PixelOS_aston-17.0-20260930-1348.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "cd48b45a4722a0d7427a98f81847377aced413ef09639c1926a01dab10cfb100",
+                "size": 3532026405,
+                "url": "https://download.pixelos.net/seventeen/aston/PixelOS_aston-17.0-20260930-1348.zip",
+                "ota_property_files": "payload_metadata.bin:4922:202301,payload.bin:4922:3532018082,payload_properties.txt:3532023062:156,apex_info.pb:2358:1448,care_map.pb:3853:1022,metadata:69:699,metadata.pb:836:1474                        "
             }
         ],
         "type": "ci",
-        "version": "16.0"
+        "version": "17.0",
+        "additional_images": [
+            {
+                "name": "init_boot-aston_20260930_1348.img",
+                "SHA256": "53977a45681e2f0711cc7a827705a5912d9c65e0ec791bd2dda090207d789c81",
+                "size": 8388608
+            },
+            {
+                "name": "recovery-aston_20260930_1348.img",
+                "SHA256": "2524ce008042fb66a7cf30c578a7f676d9bc2331a1ac7a04ca9df0bd2ec27981",
+                "size": 104857600
+            },
+            {
+                "name": "super_empty-aston_20260930_1348.img",
+                "SHA256": "361b47e830a7426fe189df4d4b466035b8ed6745269314b3abfb21cce727b33e",
+                "size": 5288
+            },
+            {
+                "name": "vbmeta-aston_20260930_1348.img",
+                "SHA256": "c54b6838fb9d648ad17c3f485500cfb023dc851053fd0ac062b96b921a52dfbe",
+                "size": 12288
+            },
+            {
+                "name": "dtbo-aston_20260930_1348.img",
+                "SHA256": "3cfbc02ebefb9e2a3109b08058486d9bb44346f101cc600dfe986685021912d0",
+                "size": 25165824
+            },
+            {
+                "name": "boot-aston_20260930_1348.img",
+                "SHA256": "117ae54a4f94046fa40080f908444448cd184a2f698b0fc461f0aa09e76fd2ce",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-aston_20260930_1348.img",
+                "SHA256": "1f68d21c4d3ee92cdd4264a8e4f880e8dfc0068bbcbef32ac1d9667c16472354",
+                "size": 201326592
+            }
+        ]
     }
 ]

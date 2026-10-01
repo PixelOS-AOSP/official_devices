@@ -11,10 +11,10 @@
     "codename": "aston",
     "codename_alt": "aston",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "23 November 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/PixelOS_aston-16.0-20251123-0302.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/",
+    "last_updated": "01 October 2026",
+    "download_link": "https://download.pixelos.net/seventeen/aston/PixelOS_aston-17.0-20260930-1348.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/aston/",
     "xda": "https://xdaforums.com/t/12r-ace3-rom-14-official-pixelos-aosp-21-08-24.4662225"
 }
