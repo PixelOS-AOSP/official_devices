@@ -1,0 +1,55 @@
+[
+    {
+        "datetime": 1790778536,
+        "files": [
+            {
+                "filename": "PixelOS_astonc-17.0-20260930-1430.zip",
+                "os_patch_level": "2026-09-01",
+                "os_sdk_level": 37,
+                "sha256": "a04de696a902ca211e5033b71e61a8da6e3d6a0355b01acc89517643cc4a0723",
+                "size": 3527599843,
+                "url": "https://download.pixelos.net/seventeen/astonc/PixelOS_astonc-17.0-20260930-1430.zip",
+                "ota_property_files": "payload_metadata.bin:4836:201904,payload.bin:4836:3527591606,payload_properties.txt:3527596500:156,apex_info.pb:2305:1448,care_map.pb:3800:989,metadata:69:691,metadata.pb:828:1429                        "
+            }
+        ],
+        "type": "ci",
+        "version": "17.0",
+        "additional_images": [
+            {
+                "name": "init_boot-astonc_20260930_1430.img",
+                "SHA256": "f2cf5f7e837497c0929810129e41a3a8e1ae32ea21bd55a98f91f7bb200ea381",
+                "size": 8388608
+            },
+            {
+                "name": "recovery-astonc_20260930_1430.img",
+                "SHA256": "aa22f012062d55c4ac01c03f4121c795486047dd3bb449f99d6d14845d485135",
+                "size": 104857600
+            },
+            {
+                "name": "super_empty-astonc_20260930_1430.img",
+                "SHA256": "361b47e830a7426fe189df4d4b466035b8ed6745269314b3abfb21cce727b33e",
+                "size": 5288
+            },
+            {
+                "name": "vbmeta-astonc_20260930_1430.img",
+                "SHA256": "ff3bca78aeb6033cc7fda658723dd0e6706c20777d7bd6aab1f6df218f256494",
+                "size": 12288
+            },
+            {
+                "name": "dtbo-astonc_20260930_1430.img",
+                "SHA256": "99d874c9c3b5f0eb6003c4ee7db33f726eed3b8e845b01f2ffbc2191e7b8a0cf",
+                "size": 25165824
+            },
+            {
+                "name": "boot-astonc_20260930_1430.img",
+                "SHA256": "5e458fd33bf7b7596f7e730c1b8b3a305b83bbaa5411968b9070c629e961d9c1",
+                "size": 201326592
+            },
+            {
+                "name": "vendor_boot-astonc_20260930_1430.img",
+                "SHA256": "744941b9cadb3aa2ff0997630b9371e3d517cd7b2c6e7112a060eb80ffb7590b",
+                "size": 201326592
+            }
+        ]
+    }
+]
