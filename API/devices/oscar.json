@@ -11,10 +11,10 @@
     "codename": "oscar",
     "codename_alt": "oscar",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "05 April 2026",
-    "download_link": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260405-0724.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/oscar/",
+    "last_updated": "02 October 2026",
+    "download_link": "https://download.pixelos.net/seventeen/oscar/PixelOS_oscar-17.0-20261001-1726.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/oscar/",
     "xda": null
 }
