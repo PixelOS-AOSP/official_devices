@@ -1,42 +1,42 @@
 {
     "response": [
         {
-            "datetime": "1775373781",
-            "filename": "PixelOS_oscar-16.2-20260405-0724.zip",
-            "id": "ed2ca0c3d36e9be7cff4a37e67f84a9b4ec63be7f276de4561eb82f731e5cd35",
-            "size": 2592548321,
-            "url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260405-0724.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/oscar/PixelOS_oscar-16.2-20260405-0724.zip",
-            "version": 16,
+            "datetime": "1790875390",
+            "filename": "PixelOS_oscar-17.0-20261001-1726.zip",
+            "id": "b98da8b31f55c062c22799abb5a3d66d2dfc8624dcb68562b8a133109f64e29a",
+            "size": 2766137063,
+            "url": "https://download.pixelos.net/seventeen/oscar/PixelOS_oscar-17.0-20261001-1726.zip",
+            "stream_url": "https://download.pixelos.net/seventeen/oscar/PixelOS_oscar-17.0-20261001-1726.zip",
+            "version": 17,
             "stream": true,
             "payload": [
                 {
-                    "offset": 4416,
-                    "FILE_HASH": "eKzg4v5WzF3gv15v1RXXdKVkvJ68baB6eHLbLN8mjok=",
-                    "FILE_SIZE": "2592540504",
-                    "METADATA_HASH": "yMxCrNVsvoY1LkYOhZAH0PnVXo0KoLFu2ST1NF/BLXI=",
-                    "METADATA_SIZE": "197532"
+                    "offset": 4605,
+                    "FILE_HASH": "k6DnOEPf3W/F+ciCBRBjQjNyIbiSieUrXUrlcuVGHOc=",
+                    "FILE_SIZE": "2766129057",
+                    "METADATA_HASH": "Xajl0XdRQPiJx2scN4tm1kWLMj2xinO4m5EFrqdVnp0=",
+                    "METADATA_SIZE": "198500"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "super_empty-oscar_20260405_0724.img",
+                    "name": "super_empty-oscar_20261001_1726.img",
                     "SHA256": "c4afc759df640eab401a1dd2b93dc3e72c565f04046fe47a7d861d500145d711",
                     "size": 5184
                 },
                 {
-                    "name": "dtbo-oscar_20260405_0724.img",
-                    "SHA256": "3863e49fff0004bc6b430f2fc5efa2affa3fc11b60a8289427e650a77e1fe82b",
+                    "name": "dtbo-oscar_20261001_1726.img",
+                    "SHA256": "ad565f2e83867da47e23bac5b56353854375fe6e13d691f2b604774a217c5f2b",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-oscar_20260405_0724.img",
-                    "SHA256": "4c6cc45292dffbb24c59bfb92f15e00c3279ffe5ddf64451dd8c2a6bae4fc078",
+                    "name": "boot-oscar_20261001_1726.img",
+                    "SHA256": "6f6a3b321e0af17a9ed9fc25ee12f3a66b29668c1a7585701ff11919b7d47837",
                     "size": 167772160
                 },
                 {
-                    "name": "vendor_boot-oscar_20260405_0724.img",
-                    "SHA256": "db077b526b0f0603bb7304d5b86ed5045ea6b9ca42704d362c911823cd17c708",
+                    "name": "vendor_boot-oscar_20261001_1726.img",
+                    "SHA256": "324fc87d1e8ea7618efadbfa3b11dcd9725466b3406febccbe6132543922529d",
                     "size": 167772160
                 }
             ]
