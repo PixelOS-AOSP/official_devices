@@ -1,3 +1,6 @@
+# 05-Oct-2026
+- Fixed MiuiCamera
+
 # 21-Sep-2026
 - Platform upstream
 
