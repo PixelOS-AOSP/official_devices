@@ -1,12 +1,60 @@
 {
     "response": [
         {
-            "datetime": "1763774878",
-            "filename": "PixelOS_benz-16.0-20251122-0129.zip",
-            "id": "498bc71c4272d00b2c40878a901b3ac42ed8170f4a9f6186f6a5762112f26721",
-            "size": 3347542015,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/benz/PixelOS_benz-16.0-20251122-0129.zip",
-            "version": "16"
+            "datetime": "1791624901",
+            "filename": "PixelOS_benz-17.0-20261010-0936.zip",
+            "id": "5afbdaffd7be279252414b030236429c96db70432e80dec3356d7ec7dbc6c394",
+            "size": 3477749757,
+            "url": "https://download.pixelos.net/seventeen/benz/PixelOS_benz-17.0-20261010-0936.zip",
+            "stream_url": "https://download.pixelos.net/seventeen/benz/PixelOS_benz-17.0-20261010-0936.zip",
+            "version": 17,
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4947,
+                    "FILE_HASH": "LaFRV8zWXKuuFVuN72ADkGAuz47NWP3jCwWIvhRiXTU=",
+                    "FILE_SIZE": "3477741409",
+                    "METADATA_HASH": "veKVny//4EFaMvJbdYcMBCQ7VO7isG+QBHFpN1GUDcE=",
+                    "METADATA_SIZE": "197500"
+                }
+            ],
+            "additional_images": [
+                {
+                    "name": "init_boot-benz_20261010_0936.img",
+                    "SHA256": "055dca74a65b22b75daf49ba646d1f736b36cbec19ffdd429b97ab0fc74bacc4",
+                    "size": 8388608
+                },
+                {
+                    "name": "recovery-benz_20261010_0936.img",
+                    "SHA256": "ee6ab6849ca0c965355fd17a353c092c95a1c65bc92a80527e903e2b21ccb03c",
+                    "size": 104857600
+                },
+                {
+                    "name": "super_empty-benz_20261010_0936.img",
+                    "SHA256": "8a493c6ce30079714de310fc0ebf4e33b89b67662244bb222dad926488e17156",
+                    "size": 5288
+                },
+                {
+                    "name": "vbmeta-benz_20261010_0936.img",
+                    "SHA256": "bde42b3b27ac9ab87a6b5692f3ebd07f759ff69efdf8134dd2950b8fcaf5100b",
+                    "size": 12288
+                },
+                {
+                    "name": "dtbo-benz_20261010_0936.img",
+                    "SHA256": "c226d9fbaf10725e725951ada5afe653d25810a815eefc9b996da4ee84aa2124",
+                    "size": 25165824
+                },
+                {
+                    "name": "boot-benz_20261010_0936.img",
+                    "SHA256": "76d29a5cff4984f663e7546aaf562ce91594654e88ed6b5c7a82202319ac7bac",
+                    "size": 201326592
+                },
+                {
+                    "name": "vendor_boot-benz_20261010_0936.img",
+                    "SHA256": "59be3bee7ef3b2fc9e757681d99ad55691ac33f060841f65ecd8ac6f6314c5bb",
+                    "size": 201326592
+                }
+            ]
         }
     ]
 }
