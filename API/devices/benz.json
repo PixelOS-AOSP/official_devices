@@ -11,10 +11,10 @@
     "codename": "benz",
     "codename_alt": "benz",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "22 November 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/benz/PixelOS_benz-16.0-20251122-0129.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/benz/",
+    "last_updated": "10 October 2026",
+    "download_link": "https://download.pixelos.net/seventeen/benz/PixelOS_benz-17.0-20261010-0936.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/benz/",
     "xda": "https://xdaforums.com/t/4695160/"
 }

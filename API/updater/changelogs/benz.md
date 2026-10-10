@@ -1,3 +1,31 @@
-\- Initial PixelOS 16 release  
+\- Initial Android 17 Build  
+\- Kernel Upstream  
+\- Switched to Oplus Face unlock HAL  
+\- Switched to libperfmgr power HAL  
+\- Switched to OSS HWC  
+\- September ASB  
+\- Updated blobs/firmware from OOS 16.0.5.1301(EX01)  
+\- Updated kernel code from OOS 16.0.3.500(EX01)  
+\- Redid rounded corners  
+\- Added Dolby Atmos  
+\- Added ambient/AOD wallpaper  
+\- Added wallpaper live effects  
+\- Added smartspace  
+\- Added toggle/QS tile for bypass charging  
+\- Added toggle/QS tile for forcing OTG  
+\- Enabled Google call recording option  
+\- Increased default framerate cap to 120  
+\- Increased skin temp thresholds for throttling  
+\- Increased intensity of click/tick haptic effects  
+\- Reduced blur radius  
+\- Reduced animations jank  
+\- Fixed screen off FOD  
+\- Fixed face unlock lockouts  
+\- Fixed UDFPS icon overlay during enroll  
+\- Fixed long vibrations  
+\- Fixed no ringtone while connected to BT  
+\- Fixed audio issues with USB DACs during calls  
+\- Performance optimisations  
+\- Misc kernel changes  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
