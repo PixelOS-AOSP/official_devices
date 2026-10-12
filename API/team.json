@@ -5,7 +5,8 @@
             "github": "whyredfire",
             "telegram": "whyredfire",
             "XDA": "https://xdaforums.com/m/whyredfire.11124523/",
-            "role": "PixelOS Co-founder; porsche Maintainer",
+            "role": "PixelOS Co-founder",
+            "devices": ["porsche"],
             "tagline": "No excuses!"
         },
         {
@@ -13,7 +14,8 @@
             "github": "basamaryan",
             "telegram": "aryannn999",
             "XDA": "https://xdaforums.com/m/aryannn999.9385746/",
-            "role": "Core-Member; sweet, davinci, kiev, and martini Maintainer",
+            "role": "Core-Member",
+            "devices": ["sweet", "davinci", "kiev", "martini"],
             "tagline": "git gud"
         },
         {
@@ -21,7 +23,8 @@
             "github": "bheatleyyy",
             "telegram": "Megalodonzs",
             "XDA": "https://xdaforums.com/m/sugacrx.11383885/",
-            "role": "Core-Member; martini, oscar and pipa Maintainer",
+            "role": "Core-Member",
+            "devices": ["martini", "oscar", "pipa"],
             "tagline": "Make every moment cherish :)"
         },
         {
@@ -29,15 +32,25 @@
             "github": "geek0609",
             "telegram": "dsashwin",
             "XDA": "https://xdaforums.com/m/dsashwin.11355545/",
-            "role": "Core-Member; dubai Maintainer",
+            "role": "Core-Member",
+            "devices": ["dubai"],
             "tagline": "Error 403 - Forbidden."
+        },
+        {
+            "name": "Hridaya Prajapati",
+            "github": "hridaya2004",
+            "telegram": null,
+            "XDA": null,
+            "role": "Former Core Member",
+            "tagline": "Life is not so yahooo~"
         },
         {
             "name": "InFeRnO",
             "github": "inferno0230",
             "telegram": "inferno0230",
             "XDA": "https://xdaforums.com/m/inferno0230.12118995/",
-            "role": "Core-Member; gerrit maintainer; aston, astonc, benz and caihong Maintainer",
+            "role": "Core-Member; gerrit maintainer",
+            "devices": ["aston", "astonc", "benz", "caihong"],
             "tagline": "Ganyu Shrimp"
         },
         {
@@ -85,7 +98,8 @@
             "github": "adarshgrewal",
             "telegram": "grewal",
             "XDA": "https://xdaforums.com/m/grewal09.5480529/",
-            "role": "Pixelish Founder;garnet, peridot and onyx Maintainer",
+            "role": "Pixelish Founder",
+            "devices": ["garnet", "peridot", "onyx"],
             "tagline": "i am blind."
         },
         {
@@ -93,7 +107,7 @@
             "github": "sarthakroy2002",
             "telegram": "sarthakroy2002",
             "XDA": "https://xdaforums.com/m/sarthakroy2002.8126733/",
-            "role": "cancunf, sunny and RMX2020 Maintainer",
+            "devices": ["cancunf", "sunny", "RMX2020"],
             "tagline": "It's not who I am underneath, but what I do that defines me"
         },
         {
@@ -101,7 +115,7 @@
             "github": "kardebayan",
             "telegram": "kardebayan",
             "XDA": "https://xdaforums.com/m/kardebayan3.9878693/",
-            "role": "nemo, salaa, surya, X00TD and X01BD maintainer",
+            "devices": ["nemo", "salaa", "surya", "X00TD", "X01BD"],
             "tagline": null
         },
         {
@@ -109,7 +123,7 @@
             "github": "cyberknight777",
             "telegram": "cyberknight777",
             "XDA": "https://xdaforums.com/m/cyberknight777.11696787/",
-            "role": "cancunf and sunny Maintainer",
+            "devices": ["cancunf", "sunny"],
             "tagline": "You gotta do what you gotta do \u4e41(\u30c4)\u310f"
         },
         {
@@ -117,7 +131,7 @@
             "github": "balgxmr",
             "telegram": "balgxmr",
             "XDA": "https://xdaforums.com/m/balgxmr.9196567/",
-            "role": "cepheus Maintainer",
+            "devices": ["cepheus"],
             "tagline": "In the Milky Way"
         },
         {
@@ -125,7 +139,7 @@
             "github": "Jubscleisson",
             "telegram": "Jubscleisson",
             "XDA": "https://xdaforums.com/m/jubscleisson.10485153/",
-            "role": "Samsung Galaxy 10 Series and F62/M62 Maintainer",
+            "devices": ["beyond0lte", "beyond1lte", "beyond2lte", "beyondx", "d1", "d1x", "d2s", "d2x", "f62"],
             "tagline": "Stay calm and be yourself!"
         },
         {
@@ -133,7 +147,7 @@
             "github": "itsXRP",
             "telegram": "itsXRP",
             "XDA": null,
-            "role": "lunaa Maintainer",
+            "devices": ["lunaa"],
             "tagline": "Live Life Awesome Everyday"
         },
         {
@@ -141,7 +155,7 @@
             "github": "Rasenkai",
             "telegram": "ThomasDada",
             "XDA": "https://xdaforums.com/m/rasenkai99.9138028/",
-            "role": "zeus Maintainer",
+            "devices": ["zeus"],
             "tagline": "VirusTotal.com"
         },
         {
@@ -149,7 +163,7 @@
             "github": "jendermine",
             "telegram": "jendermine",
             "XDA": "https://xdaforums.com/m/jendermine.12801337/",
-            "role": "sky Maintainer",
+            "devices": ["sky"],
             "tagline": "..."
         },
         {
@@ -157,7 +171,7 @@
             "github": "ahmedtohamy1",
             "telegram": "ahmed_tohamy",
             "XDA": "https://xdaforums.com/m/ahmed-tohamy.8386267/",
-            "role": "apollo Maintainer",
+            "devices": ["apollo"],
             "tagline": "Pharoh"
         },
         {
@@ -165,7 +179,7 @@
             "github": "Tkiliay",
             "telegram": "Tkiliay",
             "XDA": "https://xdaforums.com/m/toyohama.11780271/",
-            "role": "grus and alioth Maintainer",
+            "devices": ["grus", "alioth"],
             "tagline": "Keep improving"
         },
         {
@@ -173,7 +187,7 @@
             "github": "lemezohaib",
             "telegram": "lemezohaib",
             "XDA": "https://xdaforums.com/m/zohaibkhan143.6228226/",
-            "role": "davinci, ginkgo & sweet Maintainer",
+            "devices": ["davinci", "ginkgo", "sweet"],
             "tagline": "I'm the one who knocks"
         },
         {
@@ -181,7 +195,7 @@
             "github": "chandu078",
             "telegram": null,
             "XDA": "https://xdaforums.com/m/chandu-dyavanapelli.9830048/",
-            "role": "waffle Maintainer",
+            "devices": ["waffle"],
             "tagline": null
         },
         {
@@ -189,7 +203,7 @@
             "github": "log1cs",
             "telegram": "log1cs",
             "XDA": "https://xdaforums.com/m/itslog1cs.9408477/",
-            "role": "pdx223/pdx224 Maintainer",
+            "devices": ["pdx223", "pdx224"],
             "tagline": "insert caption here"
         },
         {
@@ -197,7 +211,7 @@
             "github": "Penguin766",
             "telegram": "penguin766",
             "XDA": "https://xdaforums.com/m/penguin766.12962629/",
-            "role": "gauguin maintainer",
+            "devices": ["gauguin"],
             "tagline": "All systems go, prepare for liftoff"
         },
         {
@@ -205,7 +219,7 @@
         	"github": "xAbdaziz",
         	"telegram": "xAbdaziz",
         	"XDA": null,
-        	"role": "Spacewar Maintainer",
+            "devices": ["Spacewar"],
         	"tagline": "rm -rf out/ ... Will it fix the build? idk, but it's worth a shot."
         }
     ]
