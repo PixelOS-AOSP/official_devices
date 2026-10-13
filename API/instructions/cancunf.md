@@ -16,6 +16,8 @@ Also to add: This guide is ONLY for devices that are codenamed cancunf (G64 is c
 
 Be warned that if you are already progressing with an update on Stock, you must complete the update, reboot to system and then follow the instructions to unlock the bootloader and flash ROMs.
 
+**The September update of stock (V1TDS35H.83-20-5-14 for everyone and V1TDS35H.83-20-5-8-2-1-3 for Brazil) bumps the ARB (Anti-RollBack) counter once more, thus if you update to it, you will not be able to flash any Android 16 ROM. Trying to do so will cause your device to be hardbricked beyond repair.**
+
 ## Unlocking the Bootloader
 
 ### Setting up the environment
