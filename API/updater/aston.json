@@ -1,54 +1,65 @@
 [
     {
-        "datetime": 1790776007,
+        "datetime": 1792579464,
         "files": [
             {
-                "filename": "PixelOS_aston-17.0-20260930-1348.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_aston-17.0-20261021-1046.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "cd48b45a4722a0d7427a98f81847377aced413ef09639c1926a01dab10cfb100",
-                "size": 3532026405,
-                "url": "https://download.pixelos.net/seventeen/aston/PixelOS_aston-17.0-20260930-1348.zip",
-                "ota_property_files": "payload_metadata.bin:4922:202301,payload.bin:4922:3532018082,payload_properties.txt:3532023062:156,apex_info.pb:2358:1448,care_map.pb:3853:1022,metadata:69:699,metadata.pb:836:1474                        "
+                "sha256": "4b162167c76ce696fd533fe81d6f8f1cbd8588a9eba747078310433e041f3186",
+                "size": 3530530425,
+                "url": "https://download.pixelos.net/seventeen/aston/PixelOS_aston-17.0-20261021-1046.zip",
+                "ota_property_files": "payload_metadata.bin:4922:202247,payload.bin:4922:3530522102,payload_properties.txt:3530527082:156,apex_info.pb:2358:1448,care_map.pb:3853:1022,metadata:69:699,metadata.pb:836:1474                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-aston_20260930_1348.img",
-                "SHA256": "53977a45681e2f0711cc7a827705a5912d9c65e0ec791bd2dda090207d789c81",
+                "name": "init_boot-aston_20261021_1046.img",
+                "SHA256": "cd3b1e556118589b0afff3b77d0c3ed563d933370f6569fb39a29d0b981c503f",
                 "size": 8388608
             },
             {
-                "name": "recovery-aston_20260930_1348.img",
-                "SHA256": "2524ce008042fb66a7cf30c578a7f676d9bc2331a1ac7a04ca9df0bd2ec27981",
+                "name": "recovery-aston_20261021_1046.img",
+                "SHA256": "99c08949b074ddbec12d45cb3e07f72338636ab1ca71df34124d91406bd6b566",
                 "size": 104857600
             },
             {
-                "name": "super_empty-aston_20260930_1348.img",
+                "name": "super_empty-aston_20261021_1046.img",
                 "SHA256": "361b47e830a7426fe189df4d4b466035b8ed6745269314b3abfb21cce727b33e",
                 "size": 5288
             },
             {
-                "name": "vbmeta-aston_20260930_1348.img",
-                "SHA256": "c54b6838fb9d648ad17c3f485500cfb023dc851053fd0ac062b96b921a52dfbe",
+                "name": "vbmeta-aston_20261021_1046.img",
+                "SHA256": "e3b39014680595000c9ac14d9fa7b9cbbe13b2a96fc8b0087fa2be60795fd224",
                 "size": 12288
             },
             {
-                "name": "dtbo-aston_20260930_1348.img",
-                "SHA256": "3cfbc02ebefb9e2a3109b08058486d9bb44346f101cc600dfe986685021912d0",
+                "name": "dtbo-aston_20261021_1046.img",
+                "SHA256": "88fbdcb442337b4e492efcf7f961d816db8e68dcd949298bd920db0de3d998a1",
                 "size": 25165824
             },
             {
-                "name": "boot-aston_20260930_1348.img",
-                "SHA256": "117ae54a4f94046fa40080f908444448cd184a2f698b0fc461f0aa09e76fd2ce",
+                "name": "boot-aston_20261021_1046.img",
+                "SHA256": "4aaa7cb0b64dbf4ee3a627e3ebcbcc221b53850f1a4a8d129edb70c2d1ae9334",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-aston_20260930_1348.img",
-                "SHA256": "1f68d21c4d3ee92cdd4264a8e4f880e8dfc0068bbcbef32ac1d9667c16472354",
+                "name": "vendor_boot-aston_20261021_1046.img",
+                "SHA256": "421d3f62f77dad0173ace8ed328d302b2ff7c3a3da292c0b5c9c53b4347dfa7c",
                 "size": 201326592
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "aston-10NATPHEOWSqKG.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "0500d6a388704add98393a44e03e229c58d8931d92a703eb8555c79eb04da7a4",
+                "size": 100485564,
+                "url": "https://download.pixelos.net/seventeen/aston/aston-10NATPHEOWSqKG.zip",
+                "ota_property_files": "payload_metadata.bin:6503:566834,payload.bin:6503:100475661,payload_properties.txt:100482222:155,apex_info.pb:3723:1664,care_map.pb:5434:1022,metadata:69:827,metadata.pb:964:2711                      "
             }
         ]
     }
