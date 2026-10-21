@@ -1,54 +1,65 @@
 [
     {
-        "datetime": 1790778536,
+        "datetime": 1792583438,
         "files": [
             {
-                "filename": "PixelOS_astonc-17.0-20260930-1430.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_astonc-17.0-20261021-1152.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "a04de696a902ca211e5033b71e61a8da6e3d6a0355b01acc89517643cc4a0723",
-                "size": 3527599843,
-                "url": "https://download.pixelos.net/seventeen/astonc/PixelOS_astonc-17.0-20260930-1430.zip",
-                "ota_property_files": "payload_metadata.bin:4836:201904,payload.bin:4836:3527591606,payload_properties.txt:3527596500:156,apex_info.pb:2305:1448,care_map.pb:3800:989,metadata:69:691,metadata.pb:828:1429                        "
+                "sha256": "1e40c9f7251aa19924d14c8db49d73a896cd4838c0f7a0433a43ea95cbcbf7c5",
+                "size": 3526309397,
+                "url": "https://download.pixelos.net/seventeen/astonc/PixelOS_astonc-17.0-20261021-1152.zip",
+                "ota_property_files": "payload_metadata.bin:4836:201795,payload.bin:4836:3526301160,payload_properties.txt:3526306054:156,apex_info.pb:2305:1448,care_map.pb:3800:989,metadata:69:691,metadata.pb:828:1429                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-astonc_20260930_1430.img",
-                "SHA256": "f2cf5f7e837497c0929810129e41a3a8e1ae32ea21bd55a98f91f7bb200ea381",
+                "name": "init_boot-astonc_20261021_1152.img",
+                "SHA256": "2cac33fb33f6708c5ef65dd49b2160645287cdc5766696f23694e96be7a3fed1",
                 "size": 8388608
             },
             {
-                "name": "recovery-astonc_20260930_1430.img",
-                "SHA256": "aa22f012062d55c4ac01c03f4121c795486047dd3bb449f99d6d14845d485135",
+                "name": "recovery-astonc_20261021_1152.img",
+                "SHA256": "7127ba315aec0712d84a91bf8ef8adeb18372582f468eccffc77793fd2f64aa2",
                 "size": 104857600
             },
             {
-                "name": "super_empty-astonc_20260930_1430.img",
+                "name": "super_empty-astonc_20261021_1152.img",
                 "SHA256": "361b47e830a7426fe189df4d4b466035b8ed6745269314b3abfb21cce727b33e",
                 "size": 5288
             },
             {
-                "name": "vbmeta-astonc_20260930_1430.img",
-                "SHA256": "ff3bca78aeb6033cc7fda658723dd0e6706c20777d7bd6aab1f6df218f256494",
+                "name": "vbmeta-astonc_20261021_1152.img",
+                "SHA256": "cd1829da04f63230c2b29384e33b523097cc28af33197ae381f01d7387174438",
                 "size": 12288
             },
             {
-                "name": "dtbo-astonc_20260930_1430.img",
-                "SHA256": "99d874c9c3b5f0eb6003c4ee7db33f726eed3b8e845b01f2ffbc2191e7b8a0cf",
+                "name": "dtbo-astonc_20261021_1152.img",
+                "SHA256": "6c4d0485d2a99c43a326859a18f4aaac8c5845d42a09a46d0d2350a5249d9be8",
                 "size": 25165824
             },
             {
-                "name": "boot-astonc_20260930_1430.img",
-                "SHA256": "5e458fd33bf7b7596f7e730c1b8b3a305b83bbaa5411968b9070c629e961d9c1",
+                "name": "boot-astonc_20261021_1152.img",
+                "SHA256": "252ee884b6a3d1dad4adb231f2daed4f2795716b9cac41a54a086d93eb97cde4",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-astonc_20260930_1430.img",
-                "SHA256": "744941b9cadb3aa2ff0997630b9371e3d517cd7b2c6e7112a060eb80ffb7590b",
+                "name": "vendor_boot-astonc_20261021_1152.img",
+                "SHA256": "7aa03ceaf4b0c484520ec9617ced5de5b330d4a94676a493948ac4d433f60ffb",
                 "size": 201326592
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "astonc-10NATQ4WtCtOtG.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "a602ab4cff7a5be8ff68129e56f875b8345cfe0ee73e433a34ae8e07b8f1bf82",
+                "size": 100351633,
+                "url": "https://download.pixelos.net/seventeen/astonc/astonc-10NATQ4WtCtOtG.zip",
+                "ota_property_files": "payload_metadata.bin:6356:564968,payload.bin:6356:100341877,payload_properties.txt:100348291:155,apex_info.pb:3609:1664,care_map.pb:5320:989,metadata:69:813,metadata.pb:950:2611                      "
             }
         ]
     }
