@@ -11,9 +11,9 @@
    -  `fastboot flash dtbo dtbo.img`
    -  `fastboot flash recovery recovery.img`
 - Reboot to recovery
+- Format data before sideload
 - Sideload ROM zip
    -  `adb sideload PixelOS*.zip`
-- Format data after sideload
 - Reboot and voila!
 
 # Updating to a newer build (dirty flash):
