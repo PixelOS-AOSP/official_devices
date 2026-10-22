@@ -1,3 +1,10 @@
+# 22-Oct-2026
+- Switched to OSS audio HAL
+- Setup HDR ratios
+- Fixed Face unlock randomly dying in background
+- Fixed abnormal idle drain introduced in last build
+- Re-Enable LHDCv5
+
 # 10-Oct-2026
 - Initial Android 17 Build
 - Kernel Upstream
