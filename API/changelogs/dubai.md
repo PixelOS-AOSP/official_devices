@@ -1,3 +1,6 @@
+# 23-Oct-2026
+- updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)
+
 # 21-Oct-2026
 - Switch to Motorola's stock Face Unlock
 - Enable wide colour gamut support
