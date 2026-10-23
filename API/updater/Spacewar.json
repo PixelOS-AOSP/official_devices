@@ -1,39 +1,50 @@
 [
     {
-        "datetime": 1789991509,
+        "datetime": 1792764361,
         "files": [
             {
-                "filename": "PixelOS_Spacewar-17.0-20260921-1154.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_Spacewar-17.0-20261023-1408.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "26ca7c5229de87c06d750474331920040ec60936a88765bd449a7121d77e85ce",
-                "size": 2545747282,
-                "url": "https://download.pixelos.net/seventeen/Spacewar/PixelOS_Spacewar-17.0-20260921-1154.zip",
-                "ota_property_files": "payload_metadata.bin:4400:154375,payload.bin:4400:2545739481,payload_properties.txt:2545743939:156,apex_info.pb:2088:1448,care_map.pb:3583:770,metadata:69:678,metadata.pb:815:1225                        "
+                "sha256": "add63877caae3541457c7d08ee5698dea597f1a5968a7bc8b439e8a9d710ec3d",
+                "size": 2545989572,
+                "url": "https://download.pixelos.net/seventeen/Spacewar/PixelOS_Spacewar-17.0-20261023-1408.zip",
+                "ota_property_files": "payload_metadata.bin:4400:154373,payload.bin:4400:2545981771,payload_properties.txt:2545986229:156,apex_info.pb:2088:1448,care_map.pb:3583:770,metadata:69:678,metadata.pb:815:1225                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "super_empty-Spacewar_20260921_1154.img",
+                "name": "super_empty-Spacewar_20261023_1408.img",
                 "SHA256": "25bb9897eb877f0db36c4aa94e6393e64c9181959c81c51389e45e12f482a622",
                 "size": 5184
             },
             {
-                "name": "dtbo-Spacewar_20260921_1154.img",
+                "name": "dtbo-Spacewar_20261023_1408.img",
                 "SHA256": "2302abc41c723bcff89c193dff5b34100c0264d50494cf09c5f0f1e3bb2e4c59",
                 "size": 25165824
             },
             {
-                "name": "boot-Spacewar_20260921_1154.img",
-                "SHA256": "18fe2134341f31f843d6b043548ff00c6cce3e5d2bcac2040de9e7203b22319d",
+                "name": "boot-Spacewar_20261023_1408.img",
+                "SHA256": "0d486b9ca6503a87b5b17b6058561e0c6101515721aaaf5e32076fd891260f0d",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-Spacewar_20260921_1154.img",
-                "SHA256": "7a9c85d87d4a12e3f86b9869539b1ba3eb1b05856c2075d4cd88e0cdfd7b3212",
+                "name": "vendor_boot-Spacewar_20261023_1408.img",
+                "SHA256": "da83719bf640c80674788a0d44db8205e536ccafeb7bdf63e405eeda1a3833bf",
                 "size": 100663296
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "Spacewar-10NANaC6S6iBu8.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "9123e294c351a2fa8b0e628a46c89a40ae99f98c4e22cf80be88fab7cffe0ba1",
+                "size": 4231077,
+                "url": "https://download.pixelos.net/seventeen/Spacewar/Spacewar-10NANaC6S6iBu8.zip",
+                "ota_property_files": "payload_metadata.bin:5425:301897,payload.bin:5425:4222254,payload_properties.txt:4227737:153,apex_info.pb:2897:1664,care_map.pb:4608:770,metadata:69:771,metadata.pb:908:1941                  "
             }
         ]
     }
