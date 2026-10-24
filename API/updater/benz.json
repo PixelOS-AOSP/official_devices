@@ -1,65 +1,65 @@
 [
     {
-        "datetime": 1792614128,
+        "datetime": 1792774409,
         "files": [
             {
-                "filename": "PixelOS_benz-17.0-20261021-2024.zip",
+                "filename": "PixelOS_benz-17.0-20261023-1655.zip",
                 "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "0a274ca7f30e702cfc314552d6619b41d333d19b2c2f73d55d87e4618ca2555d",
-                "size": 3477881238,
-                "url": "https://download.pixelos.net/seventeen/benz/PixelOS_benz-17.0-20261021-2024.zip",
-                "ota_property_files": "payload_metadata.bin:4947:197708,payload.bin:4947:3477872890,payload_properties.txt:3477877895:156,apex_info.pb:2373:1448,care_map.pb:3868:1032,metadata:69:701,metadata.pb:838:1487                        "
+                "sha256": "be4874f86a35d4448f7fb2d83979915ea8bcce0350e959cdb72455046937b588",
+                "size": 3477891590,
+                "url": "https://download.pixelos.net/seventeen/benz/PixelOS_benz-17.0-20261023-1655.zip",
+                "ota_property_files": "payload_metadata.bin:4947:197708,payload.bin:4947:3477883242,payload_properties.txt:3477888247:156,apex_info.pb:2373:1448,care_map.pb:3868:1032,metadata:69:701,metadata.pb:838:1487                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-benz_20261021_2024.img",
-                "SHA256": "c3d589254af8ffe477228b0169a1b78fa1945746e56eab3d3620d08744f24e20",
+                "name": "init_boot-benz_20261023_1655.img",
+                "SHA256": "6238e3e570ce12018d06405a4338e75d0c665b66012d95ba913620a12b9e91c9",
                 "size": 8388608
             },
             {
-                "name": "recovery-benz_20261021_2024.img",
-                "SHA256": "9f0838b03c1610a25fb0051a1473984f9226bad124157eca9637496921af3272",
+                "name": "recovery-benz_20261023_1655.img",
+                "SHA256": "5a9e37360a446b5b03576249e0ed7f6e89e50e365b75da4673ba39b5698b5ed0",
                 "size": 104857600
             },
             {
-                "name": "super_empty-benz_20261021_2024.img",
+                "name": "super_empty-benz_20261023_1655.img",
                 "SHA256": "8a493c6ce30079714de310fc0ebf4e33b89b67662244bb222dad926488e17156",
                 "size": 5288
             },
             {
-                "name": "vbmeta-benz_20261021_2024.img",
-                "SHA256": "562095e0be2c6011b00525a83f7869dfb881dbc64ef6a1a1debb3c72d7ba6310",
+                "name": "vbmeta-benz_20261023_1655.img",
+                "SHA256": "eacabf94f98ccf2661c6fa900b6d243ca46998c8f6670079092cd18724251565",
                 "size": 12288
             },
             {
-                "name": "dtbo-benz_20261021_2024.img",
+                "name": "dtbo-benz_20261023_1655.img",
                 "SHA256": "8706c2d11e22e5814980d62a4525b00c00fe82632a915204e141eabb92a65a3d",
                 "size": 25165824
             },
             {
-                "name": "boot-benz_20261021_2024.img",
-                "SHA256": "55071974ea8f0c093d248aa038800bc6cf6e6c01700533b72315635696bb2bea",
+                "name": "boot-benz_20261023_1655.img",
+                "SHA256": "560fd66a7d6b20f9e9688a2c1a305d16e645a0a58fe88ef9b652084f8a28387d",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-benz_20261021_2024.img",
+                "name": "vendor_boot-benz_20261023_1655.img",
                 "SHA256": "558d0723a3bb7487c1e37c28e42ad26e341fd58086a200ade9593702f111b8fa",
                 "size": 201326592
             }
         ],
         "incremental": [
             {
-                "filename": "benz-10NBQTPbXhN5WM.zip",
+                "filename": "benz-10NBZ6BOuwI7mn.zip",
                 "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "3abd53b2083a40d9cabb8f2132384a73286aaecb739a1217b1b3d2bc02b81fc3",
-                "size": 64276279,
-                "url": "https://download.pixelos.net/seventeen/benz/benz-10NBQTPbXhN5WM.zip",
-                "ota_property_files": "payload_metadata.bin:6533:475402,payload.bin:6533:64266347,payload_properties.txt:64272938:154,apex_info.pb:3743:1664,care_map.pb:5454:1032,metadata:69:823,metadata.pb:960:2735                    "
+                "sha256": "f0b20a80106361c73f32ae09a4107a57a76563b89eaaa2b0a5f513888f4a90b3",
+                "size": 18977623,
+                "url": "https://download.pixelos.net/seventeen/benz/benz-10NBZ6BOuwI7mn.zip",
+                "ota_property_files": "payload_metadata.bin:6533:398505,payload.bin:6533:18967691,payload_properties.txt:18974282:154,apex_info.pb:3743:1664,care_map.pb:5454:1032,metadata:69:823,metadata.pb:960:2735                    "
             }
         ]
     }

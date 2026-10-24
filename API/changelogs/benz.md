@@ -1,3 +1,6 @@
+# 24-Oct-2026
+- updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)
+
 # 22-Oct-2026
 - Switched to OSS audio HAL
 - Setup HDR ratios

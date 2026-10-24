@@ -1,7 +1,3 @@
-\- Switched to OSS audio HAL  
-\- Setup HDR ratios  
-\- Fixed Face unlock randomly dying in background  
-\- Fixed abnormal idle drain introduced in last build  
-\- Re-Enable LHDCv5  
+\- updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
