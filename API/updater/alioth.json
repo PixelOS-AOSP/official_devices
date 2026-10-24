@@ -1,34 +1,45 @@
 [
     {
-        "datetime": 1790089056,
+        "datetime": 1792813374,
         "files": [
             {
-                "filename": "PixelOS_alioth-17.0-20260922-1500.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_alioth-17.0-20261024-0345.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "6fd8fa1753171eb5ab1d46cbcd9cf4df2c29b282a17b077f3315b8bfddcd64b0",
-                "size": 2628867768,
-                "url": "https://download.pixelos.net/seventeen/alioth/PixelOS_alioth-17.0-20260922-1500.zip",
-                "ota_property_files": "payload_metadata.bin:4233:155051,payload.bin:4233:2628860134,payload_properties.txt:2628864425:156,apex_info.pb:2028:1448,care_map.pb:3523:663,metadata:69:693,metadata.pb:830:1150                        "
+                "sha256": "de46a65fa79646873c7a934e89ecacfa41e3678869b12f64a6964710298643f0",
+                "size": 2616530908,
+                "url": "https://download.pixelos.net/seventeen/alioth/PixelOS_alioth-17.0-20261024-0345.zip",
+                "ota_property_files": "payload_metadata.bin:4232:154312,payload.bin:4232:2616523275,payload_properties.txt:2616527565:156,apex_info.pb:2028:1448,care_map.pb:3523:662,metadata:69:693,metadata.pb:830:1150                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-alioth_20260922_1500.img",
+                "name": "dtbo-alioth_20261024_0345.img",
                 "SHA256": "9f2d2dc1abe1290885b2d359e47f1343b77ed08ce0e25562fb80fe852e34dbe5",
                 "size": 33554432
             },
             {
-                "name": "boot-alioth_20260922_1500.img",
-                "SHA256": "b9b9ba7153c152507ce100d4120fbdad4a17632d03513cde58769b3bc7507a1d",
+                "name": "boot-alioth_20261024_0345.img",
+                "SHA256": "b035e911ba40981cf76277d46d8df202f8e6740d35f814f76e442cae59d33fdc",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-alioth_20260922_1500.img",
-                "SHA256": "7b4d9adba1c61ebabdcffd33239ba510275ae8905ff46ff15efe691e8cd83617",
+                "name": "vendor_boot-alioth_20261024_0345.img",
+                "SHA256": "970b16c004e2b420161050c977c3807100e5d692d8d8cac23f04f0c9860d0b93",
                 "size": 100663296
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "alioth-10NANVZY0h83VL.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "995705a05897ec3abee124ed7c757d98bd8d52047a313481adc91851a6209da5",
+                "size": 98354653,
+                "url": "https://download.pixelos.net/seventeen/alioth/alioth-10NANVZY0h83VL.zip",
+                "ota_property_files": "payload_metadata.bin:5192:306538,payload.bin:5192:98346062,payload_properties.txt:98351312:154,apex_info.pb:2772:1664,care_map.pb:4483:662,metadata:69:802,metadata.pb:939:1785                    "
             }
         ]
     }

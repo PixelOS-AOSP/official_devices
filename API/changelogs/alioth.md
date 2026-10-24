@@ -1,3 +1,6 @@
+# 24-Oct-2026
+- Platform upstream (read blog)
+
 # 23-Sep-2026
 - Add Oplus Dolby support
 - Introduce DC dimming based on the DisplayFeature HAL
