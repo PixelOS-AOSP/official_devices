@@ -10,11 +10,11 @@
     "vendor": "Motorola",
     "codename": "tundra",
     "codename_alt": "tundra",
-    "active": false,
-    "version": "fourteen",
+    "active": true,
+    "version": "seventeen",
     "release": "monthly",
     "last_updated": "04 June 2024",
     "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/tundra/",
     "xda": null
 }
