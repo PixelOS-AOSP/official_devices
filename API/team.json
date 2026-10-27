@@ -221,6 +221,14 @@
         	"XDA": null,
             "devices": ["Spacewar"],
         	"tagline": "rm -rf out/ ... Will it fix the build? idk, but it's worth a shot."
+        },
+        {
+            "name": "Raghav Tandon",
+            "github": "raghavt20",
+            "telegram": "raghavt20",
+            "XDA": null,
+            "devices": ["tundra"],
+            "tagline": null
         }
     ]
 }
