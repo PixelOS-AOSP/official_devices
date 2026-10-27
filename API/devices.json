@@ -810,7 +810,7 @@
             "model": "Motorola Edge (30 Fusion/S30 Pro)",
             "maintainer_name": "Raghav Tandon",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1716221467,
             "version": 14
         },
