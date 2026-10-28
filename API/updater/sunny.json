@@ -1,29 +1,40 @@
 [
     {
-        "datetime": 1790691559,
+        "datetime": 1793165619,
         "files": [
             {
-                "filename": "PixelOS_sunny-17.0-20260929-1422.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_sunny-17.0-20261028-0537.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "ba4f63bb41d42c254190fa6ea3558d83711414cd738122ea0eaaa59231d74cf3",
-                "size": 2809847218,
-                "url": "https://download.pixelos.net/seventeen/sunny/PixelOS_sunny-17.0-20260929-1422.zip",
-                "ota_property_files": "payload_metadata.bin:4149:109073,payload.bin:4149:2809839668,payload_properties.txt:2809843875:156,apex_info.pb:2009:1448,care_map.pb:3504:598,metadata:69:704,metadata.pb:841:1120                        "
+                "sha256": "6baf946ab6847d4228ab1975a09fff32157e8d981e5d09ca7c3bcab36cb5b0ea",
+                "size": 2929666090,
+                "url": "https://download.pixelos.net/seventeen/sunny/PixelOS_sunny-17.0-20261028-0537.zip",
+                "ota_property_files": "payload_metadata.bin:4149:112843,payload.bin:4149:2929658540,payload_properties.txt:2929662747:156,apex_info.pb:2009:1448,care_map.pb:3504:598,metadata:69:704,metadata.pb:841:1120                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "boot-sunny_20260929_1422.img",
-                "SHA256": "8ea07758a592679afecf5f10ab76ebacd709f7760376a99d52a5997ce6292bcf",
+                "name": "boot-sunny_20261028_0537.img",
+                "SHA256": "d268fbda0713b5653d5f50a162107cc9deca800a2d8c1df346a367f1b780f1bd",
                 "size": 134217728
             },
             {
-                "name": "vendor_boot-sunny_20260929_1422.img",
-                "SHA256": "c051d2d3f69ab1b5383ebf8b46964e5fd6bbf9fffeeed3b3926db58de32743e5",
+                "name": "vendor_boot-sunny_20261028_0537.img",
+                "SHA256": "709d874862bdffbf20916c60ca37149d4991b520cf13340eb5f1548ff3455d8f",
                 "size": 100663296
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "sunny-10NAT6f41zP717.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "9680fa7ad59c57fe2fafa1ee3dc44f02b250de66b60c3ef182e0d713090dcbf1",
+                "size": 202022885,
+                "url": "https://download.pixelos.net/seventeen/sunny/sunny-10NAT6f41zP717.zip",
+                "ota_property_files": "payload_metadata.bin:5034:227290,payload.bin:5034:202014451,payload_properties.txt:202019543:155,apex_info.pb:2678:1664,care_map.pb:4389:598,metadata:69:808,metadata.pb:945:1685                      "
             }
         ]
     }
