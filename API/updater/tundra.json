@@ -1,16 +1,46 @@
 [
     {
-        "datetime": 1716221467,
+        "datetime": 1793132141,
         "files": [
             {
-                "filename": "PixelOS_tundra-14.0-20240520-1612.zip",
-                "os_sdk_level": 34,
-                "sha256": "7fe3dbf9b192f86d2f62a6276a2dbf2a",
-                "size": 1907674870,
-                "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip"
+                "filename": "PixelOS_tundra-17.0-20261027-2020.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "5dac4837e460c3fd18a15171904f33c75ea52040747bf37d97b27b308a9f0f63",
+                "size": 2761024938,
+                "url": "https://download.pixelos.net/seventeen/tundra/PixelOS_tundra-17.0-20261027-2020.zip",
+                "ota_property_files": "payload_metadata.bin:3937:182585,payload.bin:3937:2761017600,payload_properties.txt:2761021595:156,apex_info.pb:1870:1448,care_map.pb:3365:525,metadata:69:679,metadata.pb:816:1006                        "
             }
         ],
         "type": "ci",
-        "version": "14.0"
+        "version": "17.0",
+        "additional_images": [
+            {
+                "name": "dtbo-tundra_20261027_2020.img",
+                "SHA256": "95aa0aba573fef4581b5f6f48436d1645a0e713d09b46a0a2aaabd6a6266454a",
+                "size": 25165824
+            },
+            {
+                "name": "boot-tundra_20261027_2020.img",
+                "SHA256": "6368cdd22d625a8672051089edc34087f668139ef0d481b4e41c1beea053b6e2",
+                "size": 100663296
+            },
+            {
+                "name": "vendor_boot-tundra_20261027_2020.img",
+                "SHA256": "db9d6c0d81f6e31ae6cc2bb7b450dab6e93fdb088c42545c12810659b50ccc92",
+                "size": 100663296
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "tundra-10JFIKKn6wJ5Pe.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "3c84815ec2e294eaa800dba46ea4b219a7d586ab3d75152c6d16cd913b2cc7a4",
+                "size": 629345,
+                "url": "https://download.pixelos.net/seventeen/tundra/tundra-10JFIKKn6wJ5Pe.zip",
+                "ota_property_files": "payload_metadata.bin:4734:620947,payload.bin:4734:621214,payload_properties.txt:626006:152,apex_info.pb:2451:1664,care_map.pb:4162:525,metadata:69:767,metadata.pb:904:1499                "
+            }
+        ]
     }
 ]
