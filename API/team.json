@@ -229,6 +229,13 @@
             "XDA": null,
             "devices": ["tundra"],
             "tagline": null
+        },
+        {
+            "name": "Sidharth \"Siddhi\" Sharma",
+            "github": "sidharthify",
+            "telegram": "arteryring1",
+            "devices": ["yupei"],
+            "tagline": null
         }
     ]
 }

@@ -870,6 +870,17 @@
             "version": 13
         },
         {
+            "codename": "yupei",
+            "codename_alt": "yupei",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Pad 8",
+            "maintainer_name": "Sidharth \"Siddhi\" Sharma",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": null
+        },
+        {
             "codename": "zeus",
             "codename_alt": "zeus",
             "vendor": "Xiaomi",
