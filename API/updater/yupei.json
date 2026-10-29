@@ -1,0 +1,45 @@
+[
+    {
+        "datetime": 1793300228,
+        "files": [
+            {
+                "filename": "PixelOS_yupei-17.0-20261029-1859.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "c9e210a9df987bb7156fc9b99d9a9d774d48e99c586ccf8f419cec62da9f2139",
+                "size": 3966750607,
+                "url": "https://download.pixelos.net/seventeen/yupei/PixelOS_yupei-17.0-20261029-1859.zip",
+                "ota_property_files": "payload_metadata.bin:4786:201431,payload.bin:4786:3966742420,payload_properties.txt:3966747264:156,apex_info.pb:2235:1500,care_map.pb:3782:957,metadata:69:684,metadata.pb:821:1366                        "
+            }
+        ],
+        "type": "ci",
+        "version": "17.0",
+        "additional_images": [
+            {
+                "name": "init_boot-yupei_20261029_1859.img",
+                "SHA256": "1a1254c65f53217077acca8e2a927040410472ff98dd38eb7ccfb22156cfed33",
+                "size": 8388608
+            },
+            {
+                "name": "recovery-yupei_20261029_1859.img",
+                "SHA256": "7a23485cc0468d8330ad3eadbbeaa03c7add5aaca910c9bdb9352ef2e3619148",
+                "size": 104857600
+            },
+            {
+                "name": "dtbo-yupei_20261029_1859.img",
+                "SHA256": "23bb0fc9f690bbe04351b9fc2be2fc9d417a13bf900c72df5dc4253e8a3b7e8f",
+                "size": 25165824
+            },
+            {
+                "name": "boot-yupei_20261029_1859.img",
+                "SHA256": "576857b1ae4c01accb4b55c08d74f6f4f2b1baf5e487b5a18c1657dc60a1f605",
+                "size": 100663296
+            },
+            {
+                "name": "vendor_boot-yupei_20261029_1859.img",
+                "SHA256": "4a9cd4bec74d611cb369334eedbb59fd015cc8822dda9b41a2c2ccf8944e3052",
+                "size": 100663296
+            }
+        ]
+    }
+]
