@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Sidharth \"Siddhi\" Sharma",
+            "telegram": "arteryring1",
+            "github": "sidharthify"
+        }
+    ],
+    "model": "Xiaomi Pad 8",
+    "vendor": "Xiaomi",
+    "codename": "yupei",
+    "codename_alt": "yupei",
+    "active": true,
+    "version": "seventeen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/yupei/",
+    "xda": null
+}
