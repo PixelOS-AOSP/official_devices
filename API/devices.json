@@ -830,9 +830,9 @@
             "codename_alt": "violet",
             "vendor": "Xiaomi",
             "model": "Redmi Note 7 Pro",
-            "maintainer_name": "Chethas",
+            "maintainer_name": "Raghav Tandon",
             "frame": null,
-            "active": false,
+            "active": true,
             "last_updated": 1696224388,
             "version": 13
         },
