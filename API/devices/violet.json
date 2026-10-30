@@ -1,20 +1,20 @@
 {
     "maintainer": [
         {
-            "display_name": "Chethas",
-            "telegram": "chethazz",
-            "github": "chethazz"
+            "display_name": "Raghav Tandon",
+            "telegram": "raghavt20",
+            "github": "raghavt20"
         }
     ],
     "model": "Redmi Note 7 Pro",
     "vendor": "Xiaomi",
     "codename": "violet",
     "codename_alt": "violet",
-    "active": false,
-    "version": "thirteen",
+    "active": true,
+    "version": "seventeen",
     "release": "monthly",
     "last_updated": "02 October 2023",
     "download_link": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20231002-0528.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/violet/",
     "xda": null
 }
