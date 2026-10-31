@@ -1,32 +1,32 @@
 [
     {
-        "datetime": 1789912408,
+        "datetime": 1793394994,
         "files": [
             {
-                "filename": "PixelOS_sweet-17.0-20260920-1356.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_sweet-17.0-20261030-2119.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "777cc7027908f5b25b3895b573ca244d683f64906e07ae729859a5db284a81c4",
-                "size": 3097581668,
-                "url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20260920-1356.zip"
+                "sha256": "47cc2c635cdd997611a1519686b14d90583bac4b9be1313ce3bc86a389e0e836",
+                "size": 3086478843,
+                "url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20261030-2119.zip"
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-sweet_20260920_1356.img",
-                "SHA256": "532270f54fd0cf425f58b069a016357370c8600a332fbbad643a890ae44a795d",
+                "name": "recovery-sweet_20261030_2119.img",
+                "SHA256": "209e0b7312ec4d3de49a8519858f89e40756ba8ccac9897b4693be1f5577b3e3",
                 "size": 134217728
             },
             {
-                "name": "dtbo-sweet_20260920_1356.img",
+                "name": "dtbo-sweet_20261030_2119.img",
                 "SHA256": "a71f23deadc497c6acaece3c26a78e2764938af13a91819765ebc6a51b5ca261",
                 "size": 33554432
             },
             {
-                "name": "boot-sweet_20260920_1356.img",
-                "SHA256": "53a6fac5b1bf4186c947daf498895b553029c2bcad05a63d756534203c830545",
+                "name": "boot-sweet_20261030_2119.img",
+                "SHA256": "a7840c6d3466c1262669bae7fffb118695ef5744310fdb68fd0e3c0a159636e4",
                 "size": 134217728
             }
         ]
