@@ -1,16 +1,34 @@
 [
     {
-        "datetime": 1696224388,
+        "datetime": 1793346729,
         "files": [
             {
-                "filename": "PixelOS_violet-13.0-20231002-0528.zip",
-                "os_sdk_level": 33,
-                "sha256": "6ac640c5a6c29609381767e36d9a8c32",
-                "size": 1738672753,
-                "url": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20231002-0528.zip"
+                "filename": "PixelOS_violet-17.0-20261030-0755.zip",
+                "os_patch_level": "2026-10-01",
+                "os_sdk_level": 37,
+                "sha256": "2e516f4d3a8906bb1090fea7c2aa4ebb7e7b273da5739784ff61085a458ebc71",
+                "size": 2914056818,
+                "url": "https://download.pixelos.net/seventeen/violet/PixelOS_violet-17.0-20261030-0755.zip"
             }
         ],
         "type": "ci",
-        "version": "13.0"
+        "version": "17.0",
+        "additional_images": [
+            {
+                "name": "recovery-violet_20261030_0755.img",
+                "SHA256": "30ca6a6abf4a8f6866c8d3b6cb8bd0c6464044686dc056197273c8272d2a0bdc",
+                "size": 67108864
+            },
+            {
+                "name": "dtbo-violet_20261030_0755.img",
+                "SHA256": "c60259a04cae339f4e20bafe59a06ad8306a6a2294f3a3aad7a069e557c7ceda",
+                "size": 8388608
+            },
+            {
+                "name": "boot-violet_20261030_0755.img",
+                "SHA256": "1de23f717714dd99a2ce843cbb8ad3eb26de94d3e7863d67cb558947c4732318",
+                "size": 67108864
+            }
+        ]
     }
 ]

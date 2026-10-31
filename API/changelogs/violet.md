@@ -1,3 +1,16 @@
+# 31-Oct-2026
+- Moved to the shared Xiaomi SM6150 device tree and kernel
+- Added MIUI Camera
+  - 48MP mode
+  - HDR
+  - AI mode
+  - Portrait
+  - 120fps slow motion
+- Fixed camera crashes and phone hangs when using MIUI Camera
+- Double-tap to wake on both touch panel variants
+- Fingerprint, IR blaster, LEDs and display support for violet
+- Better thermal limits, ported from davinci
+
 # 02-Oct-2023
 - Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
 - Enable apk fs-verity
