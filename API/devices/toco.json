@@ -11,10 +11,10 @@
     "codename": "toco",
     "codename_alt": "toco",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "12 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/toco/PixelOS_toco-16.2-20260609-1626.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/toco/",
+    "last_updated": "31 October 2026",
+    "download_link": "https://download.pixelos.net/seventeen/toco/PixelOS_toco-17.0-20261030-1512.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/toco/",
     "xda": "https://xdaforums.com/t/rom-15-official-pixelos-aosp-stable.4739367/"
 }
