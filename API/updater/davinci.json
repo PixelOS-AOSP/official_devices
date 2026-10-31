@@ -1,32 +1,32 @@
 [
     {
-        "datetime": 1789918885,
+        "datetime": 1793368480,
         "files": [
             {
-                "filename": "PixelOS_davinci-17.0-20260920-1544.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_davinci-17.0-20261030-1357.zip",
+                "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "ce3fc017164aef67a13ef3bc3b749889801ee1acb6a739b3c2e41a01685db092",
-                "size": 2936806964,
-                "url": "https://download.pixelos.net/seventeen/davinci/PixelOS_davinci-17.0-20260920-1544.zip"
+                "sha256": "28a4d91b289c8d411e8610b1d25cb87a24feb2c2b174a1aba3bda32add920995",
+                "size": 2942260845,
+                "url": "https://download.pixelos.net/seventeen/davinci/PixelOS_davinci-17.0-20261030-1357.zip"
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-davinci_20260920_1544.img",
-                "SHA256": "89a126aa1e215d4a2824e654c38326c3bc21426f0d26600a3523eab5717033ef",
+                "name": "recovery-davinci_20261030_1357.img",
+                "SHA256": "76b5eae229829b5883672582612be87de48b3aaf11bd9203be007e577a0d5539",
                 "size": 67108864
             },
             {
-                "name": "dtbo-davinci_20260920_1544.img",
+                "name": "dtbo-davinci_20261030_1357.img",
                 "SHA256": "4412b623cc32001aa477d85fc5264218bcd4bc5eee0ef497624ab6963c34b838",
                 "size": 33554432
             },
             {
-                "name": "boot-davinci_20260920_1544.img",
-                "SHA256": "d27e10084bbe470c4a92b106651856c69f5fd2bd51a135214c43cc458c89985f",
+                "name": "boot-davinci_20261030_1357.img",
+                "SHA256": "9df9cdf657e5262556c9fb299563c6dab339d7069bd612b8d87561702c0e54bc",
                 "size": 134217728
             }
         ]
