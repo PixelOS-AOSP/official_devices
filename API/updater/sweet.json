@@ -1,28 +1,28 @@
 {
     "response": [
         {
-            "datetime": "1781069438",
-            "filename": "PixelOS_sweet-16.2-20260610-0532.zip",
-            "id": "a0efaf0d8d8a3bfc96c69df3ff56ce0b7d2a491a04ea592162591883e53bcdda",
-            "size": 2829497355,
-            "url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/sweet/PixelOS_sweet-16.2-20260610-0532.zip",
-            "version": 16,
+            "datetime": "1793394994",
+            "filename": "PixelOS_sweet-17.0-20261030-2119.zip",
+            "id": "47cc2c635cdd997611a1519686b14d90583bac4b9be1313ce3bc86a389e0e836",
+            "size": 3086478843,
+            "url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20261030-2119.zip",
+            "stream_url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20261030-2119.zip",
+            "version": 17,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-sweet_20260610_0532.img",
-                    "SHA256": "23b73dc098b001aab87d7c7bebac0daad75f0bfaed4b41b69a9cefec681cc48e",
+                    "name": "recovery-sweet_20261030_2119.img",
+                    "SHA256": "209e0b7312ec4d3de49a8519858f89e40756ba8ccac9897b4693be1f5577b3e3",
                     "size": 134217728
                 },
                 {
-                    "name": "dtbo-sweet_20260610_0532.img",
-                    "SHA256": "bf2cb26a918d9f1869bf883b48181aeb9b7080ee3bbbfecca7f5e35c076366a4",
+                    "name": "dtbo-sweet_20261030_2119.img",
+                    "SHA256": "a71f23deadc497c6acaece3c26a78e2764938af13a91819765ebc6a51b5ca261",
                     "size": 33554432
                 },
                 {
-                    "name": "boot-sweet_20260610_0532.img",
-                    "SHA256": "cf5a815591d638a28ac8b671c0cad8aa8ff40c8db6a44a22fd97b09a5e855421",
+                    "name": "boot-sweet_20261030_2119.img",
+                    "SHA256": "a7840c6d3466c1262669bae7fffb118695ef5744310fdb68fd0e3c0a159636e4",
                     "size": 134217728
                 }
             ]
