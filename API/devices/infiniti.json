@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Sugakesshaa",
+            "telegram": "Megalodonzs",
+            "github": "bheatleyyy"
+        }
+    ],
+    "model": "OnePlus 15",
+    "vendor": "OnePlus",
+    "codename": "infiniti",
+    "codename_alt": "infiniti",
+    "active": true,
+    "version": "seventeen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/infiniti/",
+    "xda": null
+}

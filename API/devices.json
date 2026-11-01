@@ -474,6 +474,17 @@
             "version": 12
         },
         {
+            "codename": "infiniti",
+            "codename_alt": "infiniti",
+            "vendor": "OnePlus",
+            "model": "OnePlus 15",
+            "maintainer_name": "Sugakesshaa",
+            "frame": null,
+            "active": true,
+            "last_updated": null,
+            "version": null
+        },
+        {
             "codename": "kiev",
             "codename_alt": "kiev",
             "vendor": "Motorola",
