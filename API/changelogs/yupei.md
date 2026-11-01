@@ -1,3 +1,6 @@
+# 01-Nov-2026
+- Fix screen recorder pausing when fps fluctuates
+
 # 30-Oct-2026
 - Fix lag in the first back gesture animation when closing an app.
 - Fix lowi-server crash looping in the background.
