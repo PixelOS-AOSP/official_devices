@@ -1,3 +1,9 @@
+# 04-Nov-2026
+- Implement all Xiaomi Focus Pen Pro gestures from HyperOS
+- Add a small action pie when clicking the barrel
+- Add stylus settings inside Connected devices
+- Add Xiaomi pencil engine so apps like StarNote detect the stylus natively
+
 # 01-Nov-2026
 - Fix screen recorder pausing when fps fluctuates
 

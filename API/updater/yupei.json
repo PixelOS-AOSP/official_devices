@@ -1,55 +1,55 @@
 [
     {
-        "datetime": 1793482022,
+        "datetime": 1793756626,
         "files": [
             {
-                "filename": "PixelOS_yupei-17.0-20261031-2129.zip",
+                "filename": "PixelOS_yupei-17.0-20261104-0145.zip",
                 "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "def29cd4d824f3fe3cf095255fc0d9782bdf513cecc5c121e7b2272621cf2899",
-                "size": 3966731531,
-                "url": "https://download.pixelos.net/seventeen/yupei/PixelOS_yupei-17.0-20261031-2129.zip",
-                "ota_property_files": "payload_metadata.bin:4786:201427,payload.bin:4786:3966723344,payload_properties.txt:3966728188:156,apex_info.pb:2235:1500,care_map.pb:3782:957,metadata:69:684,metadata.pb:821:1366                        "
+                "sha256": "40dc459ef4731bbd458dc4fb2228f04da77da95765fee61638446f8b4a22d4cf",
+                "size": 3968324912,
+                "url": "https://download.pixelos.net/seventeen/yupei/PixelOS_yupei-17.0-20261104-0145.zip",
+                "ota_property_files": "payload_metadata.bin:4786:201539,payload.bin:4786:3968316725,payload_properties.txt:3968321569:156,apex_info.pb:2235:1500,care_map.pb:3782:957,metadata:69:684,metadata.pb:821:1366                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-yupei_20261031_2129.img",
-                "SHA256": "665aba34d8243a65557c64a606481f6a2f523635586f5ba4ab7d9d85eb68712a",
+                "name": "init_boot-yupei_20261104_0145.img",
+                "SHA256": "42fa0f2a42ae86b443d0a6b9b6491ff1b485c24b2a4625ca7329be2fc2837f43",
                 "size": 8388608
             },
             {
-                "name": "recovery-yupei_20261031_2129.img",
-                "SHA256": "b604324fda49e4e947ad91d8aae7625de59c8438f96f6fa8ce7be89ea685b286",
+                "name": "recovery-yupei_20261104_0145.img",
+                "SHA256": "c017646c4bd5b0e364c0bfe7ae5b324eaad0e7f8a6e7deb1580867fff2b9c957",
                 "size": 104857600
             },
             {
-                "name": "dtbo-yupei_20261031_2129.img",
+                "name": "dtbo-yupei_20261104_0145.img",
                 "SHA256": "0472125362003f829feec69aa6e2f685b170d5709a47f010b5fba567083a12e4",
                 "size": 25165824
             },
             {
-                "name": "boot-yupei_20261031_2129.img",
+                "name": "boot-yupei_20261104_0145.img",
                 "SHA256": "69fad1310355cbeadb7e6d4d4caef2da49629a349b0ce8cd42964346cf17bcb3",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-yupei_20261031_2129.img",
+                "name": "vendor_boot-yupei_20261104_0145.img",
                 "SHA256": "34728a7e699661c4d6c3dd70522415d69ec63ff531a53b78939df194ba9c181d",
                 "size": 100663296
             }
         ],
         "incremental": [
             {
-                "filename": "yupei-10NC5IYYlkkYV3.zip",
+                "filename": "yupei-10NC6v5H9zLGkV.zip",
                 "os_patch_level": "2026-10-01",
                 "os_sdk_level": 37,
-                "sha256": "d36a0c42b898ce58ce96ad3f12c0de3df7f375e288e1694b4fb2abf52a32c559",
-                "size": 6580678,
-                "url": "https://download.pixelos.net/seventeen/yupei/yupei-10NC5IYYlkkYV3.zip",
-                "ota_property_files": "payload_metadata.bin:6206:358522,payload.bin:6206:6571074,payload_properties.txt:6577338:153,apex_info.pb:3432:1723,care_map.pb:5202:957,metadata:69:786,metadata.pb:923:2461                  "
+                "sha256": "5f49a4fae64e1c8f87bd8c42132eeb9023b1aca7adcde6ccc030957814d8c477",
+                "size": 360015,
+                "url": "https://download.pixelos.net/seventeen/yupei/yupei-10NC6v5H9zLGkV.zip",
+                "ota_property_files": "payload_metadata.bin:6190:350161,payload.bin:6190:350428,payload_properties.txt:356676:152,apex_info.pb:3416:1723,care_map.pb:5186:957,metadata:69:778,metadata.pb:915:2453                "
             }
         ]
     }
