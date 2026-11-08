@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "kardebayan",
-            "github": "kardebayan"
-        }
+    "maintainers": [
+        "kardebayan"
     ],
     "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
     "vendor": "Realme",

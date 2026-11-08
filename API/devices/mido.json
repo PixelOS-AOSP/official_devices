@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Alone0316",
-            "telegram": "Alone0316",
-            "github": "Alone0316"
-        }
+    "maintainers": [
+        "Alone0316"
     ],
     "model": "Redmi Note 4/4x",
     "vendor": "Xiaomi",

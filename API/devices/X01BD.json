@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "kardebayan",
-            "github": "kardebayan"
-        }
+    "maintainers": [
+        "kardebayan"
     ],
     "model": "ASUS ZenFone Max Pro M2",
     "vendor": "Asus",

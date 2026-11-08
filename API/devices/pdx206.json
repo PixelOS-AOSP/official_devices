@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Aditya",
-            "telegram": "Ad1tyaS1ngh",
-            "github": "Ad1tyaS1ngh"
-        }
+    "maintainers": [
+        "Ad1tyaS1ngh"
     ],
     "model": "Sony Xperia 5 II",
     "vendor": "Sony",

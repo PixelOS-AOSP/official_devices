@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "ryyaap",
-            "telegram": "rktdnt",
-            "github": "rktdnt"
-        }
+    "maintainers": [
+        "rktdnt"
     ],
     "model": "Redmi 9T / 9 Power / 9T NFC",
     "vendor": "Xiaomi",

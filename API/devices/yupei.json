@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Sidharth \"Siddhi\" Sharma",
-            "telegram": "arteryring1",
-            "github": "sidharthify"
-        }
+    "maintainers": [
+        "sidharthify"
     ],
     "model": "Xiaomi Pad 8",
     "vendor": "Xiaomi",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Anoosragh",
-            "telegram": "cArN4gE_is_DeD",
-            "github": "ok-ano0s"
-        }
+    "maintainers": [
+        "anoosragh69"
     ],
     "model": "Realme C2",
     "vendor": "Realme",

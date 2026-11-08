@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "kardebayan",
-            "github": "kardebayan"
-        }
+    "maintainers": [
+        "kardebayan"
     ],
     "model": "10.or G",
     "vendor": "10or",

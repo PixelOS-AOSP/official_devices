@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "AdarshGrewal",
-            "telegram": "grewal",
-            "github": "AdarshGrewal"
-        }
+    "maintainers": [
+        "AdarshGrewal"
     ],
     "model": "Redmi Turbo 4 Pro / POCO F7",
     "vendor": "Xiaomi",

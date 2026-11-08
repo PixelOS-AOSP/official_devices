@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "jendermine",
-            "telegram": "jendermine",
-            "github": "jendermine"
-        }
+    "maintainers": [
+        "jendermine"
     ],
     "model": "Redmi 12 5G/Poco M6 Pro 5G",
     "vendor": "Xiaomi",

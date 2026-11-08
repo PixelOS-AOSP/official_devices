@@ -1,15 +1,7 @@
 {
-    "maintainer": [
-        {
-            "display_name": "cyberknight777",
-            "telegram": "cyberknight777",
-            "github": "cyberknight777"
-        },
-        {
-            "display_name": "Sarthak Roy",
-            "telegram": "sarthakroy2002",
-            "github": "sarthakroy2002"
-        }
+    "maintainers": [
+        "cyberknight777",
+        "sarthakroy2002"
     ],
     "model": "Redmi Note 10",
     "vendor": "Xiaomi",

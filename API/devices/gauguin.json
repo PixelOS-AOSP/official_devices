@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Penguin766",
-            "telegram": "penguin766",
-            "github": "Penguin766"
-        }
+    "maintainers": [
+        "Penguin766"
     ],
     "model": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G",
     "vendor": "Xiaomi",

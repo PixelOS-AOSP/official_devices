@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Di Raizel",
-            "telegram": "acex88",
-            "github": "acex69"
-        }
+    "maintainers": [
+        "acex69"
     ],
     "model": "Redmi 9",
     "vendor": "Xiaomi",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "InFeRnO",
-            "telegram": "inferno0230",
-            "github": "inferno0230"
-        }
+    "maintainers": [
+        "inferno0230"
     ],
     "model": "OnePlus Ace 3",
     "vendor": "OnePlus",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Zohaib",
-            "telegram": "lemezohaib",
-            "github": "lemezohaib"
-        }
+    "maintainers": [
+        "lemezohaib"
     ],
     "model": "Redmi Note 8/8T",
     "vendor": "Xiaomi",

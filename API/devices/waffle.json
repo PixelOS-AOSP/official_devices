@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Chandu",
-            "telegram": null,
-            "github": "chandu078"
-        }
+    "maintainers": [
+        "chandu078"
     ],
     "model": "OnePlus 12",
     "vendor": "OnePlus",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Tkiliay",
-            "telegram": "Tkiliay",
-            "github": "Tkiliay"
-        }
+    "maintainers": [
+        "Tkiliay"
     ],
     "model": "Poco F3/Mi 11X/Redmi K40",
     "vendor": "Xiaomi",

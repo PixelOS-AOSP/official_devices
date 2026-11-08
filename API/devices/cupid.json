@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Rahul",
-            "telegram": "rahul_k06",
-            "github": "rk134"
-        }
+    "maintainers": [
+        "rk134"
     ],
     "model": "Xiaomi 12",
     "vendor": "Xiaomi",

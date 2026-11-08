@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Aryan",
-            "telegram": "aryannn999",
-            "github": "basamaryan"
-        }
+    "maintainers": [
+        "basamaryan"
     ],
     "model": "OnePlus 9RT 5G",
     "vendor": "OnePlus",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Tuan Anh",
-            "telegram": "log1cs",
-            "github": "log1cs"
-        }
+    "maintainers": [
+        "log1cs"
     ],
     "model": "Sony Xperia 1 IV",
     "vendor": "Sony",

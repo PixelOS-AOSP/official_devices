@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "HELLINFIX",
-            "telegram": "HELLINFIX",
-            "github": "HELLINFIX"
-        }
+    "maintainers": [
+        "HELLINFIX"
     ],
     "model": "Realme 8i/Realme Narzo 50",
     "vendor": "Realme",

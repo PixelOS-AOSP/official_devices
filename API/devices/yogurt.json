@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Sakthivel Nadar",
-            "telegram": "sakthivelnadar",
-            "github": "sakthivelnadar"
-        }
+    "maintainers": [
+        "sakthivelnadar"
     ],
     "model": "Micromax IN Note 1 / IN1",
     "vendor": "Micromax",

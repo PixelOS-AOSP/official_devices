@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Fellipe Lima",
-            "telegram": "Jubscleisson",
-            "github": "Jubscleisson"
-        }
+    "maintainers": [
+        "Jubscleisson"
     ],
     "model": "Samsung Galaxy Note10 5G",
     "vendor": "Samsung",

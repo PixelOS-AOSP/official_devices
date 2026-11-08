@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Muhammad Nauman",
-            "telegram": "itsXRP",
-            "github": "itsXRP"
-        }
+    "maintainers": [
+        "itsXRP"
     ],
     "model": "realme GT Master",
     "vendor": "Realme",

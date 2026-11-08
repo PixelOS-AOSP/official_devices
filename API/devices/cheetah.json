@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Kitsunejasutin",
-            "telegram": "tokatsu",
-            "github": "Kitsunejasutin"
-        }
+    "maintainers": [
+        "Kitsunejasutin"
     ],
     "model": "Google Pixel 7 Pro",
     "vendor": "Google",

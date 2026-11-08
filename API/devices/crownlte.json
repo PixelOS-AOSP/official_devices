@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Mia Ryujin",
-            "telegram": "AISeraphine3_3",
-            "github": "Seraphine3"
-        }
+    "maintainers": [
+        "Seraphine3"
     ],
     "model": "Samsung Galaxy Note 9",
     "vendor": "Samsung",

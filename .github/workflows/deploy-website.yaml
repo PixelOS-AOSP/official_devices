@@ -17,6 +17,11 @@ jobs:
           repository: ${{ secrets.WEBSITE_REPO }}
           token: ${{ secrets.WEBSITE_REPO_TOKEN }}
 
+      - name: Checkout device data
+        uses: actions/checkout@v7
+        with:
+          path: official_devices
+
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
@@ -26,6 +31,8 @@ jobs:
 
       - name: Build static site
         run: bun run build
+        env:
+          OFFICIAL_DEVICES_DIR: official_devices
 
       - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v4

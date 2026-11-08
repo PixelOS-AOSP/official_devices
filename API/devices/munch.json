@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "masarou",
-            "telegram": "masarou92",
-            "github": "itsurboimasarou"
-        }
+    "maintainers": [
+        "itsurboimasarou"
     ],
     "model": "Redmi K40S/POCO F4",
     "vendor": "Xiaomi",

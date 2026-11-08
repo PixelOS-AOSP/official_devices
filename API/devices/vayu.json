@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "clhex",
-            "telegram": "itsclhex",
-            "github": ""
-        }
+    "maintainers": [
+        "clhexftw"
     ],
     "model": "POCO X3 Pro",
     "vendor": "Xiaomi",

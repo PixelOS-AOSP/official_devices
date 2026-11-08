@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Thomas Dada",
-            "telegram": "thomasdada",
-            "github": "rasenkai"
-        }
+    "maintainers": [
+        "rasenkai"
     ],
     "model": "Xiaomi 12 Pro",
     "vendor": "Xiaomi",

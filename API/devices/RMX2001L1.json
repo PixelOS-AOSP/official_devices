@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "kardebayan",
-            "github": "kardebayan"
-        }
+    "maintainers": [
+        "kardebayan"
     ],
     "model": "realme 6/6i(Indian)/6s/Narzo",
     "vendor": "Realme",

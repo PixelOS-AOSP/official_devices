@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Sarthak Roy",
-            "telegram": "sarthakroy2002",
-            "github": "sarthakroy2002"
-        }
+    "maintainers": [
+        "sarthakroy2002"
     ],
     "model": "Motorola moto g54 5G",
     "vendor": "Motorola",

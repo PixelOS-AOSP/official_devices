@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Karan Parashar",
-            "telegram": "whyredfire",
-            "github": "whyredfire"
-        }
+    "maintainers": [
+        "whyredfire"
     ],
     "model": "Realme GT 2",
     "vendor": "Realme",

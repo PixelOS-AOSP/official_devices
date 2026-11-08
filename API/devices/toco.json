@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Dennis Murimi",
-            "telegram": "DennisMurimiWachira",
-            "github": "AndroidHQ254"
-        }
+    "maintainers": [
+        "AndroidHQ254"
     ],
     "model": "Xiaomi Mi Note 10 Lite",
     "vendor": "Xiaomi",

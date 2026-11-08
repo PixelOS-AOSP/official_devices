@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "kardebayan",
-            "github": "kardebayan"
-        }
+    "maintainers": [
+        "kardebayan"
     ],
     "model": "POCO M2 Pro / Redmi Note (9S / 9 Pro / 9 Pro Max / 10 Lite)",
     "vendor": "Xiaomi",

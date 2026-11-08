@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Ahmed Tohamy",
-            "telegram": "ahmed_tohamy",
-            "github": "ahmedtohamy1"
-        }
+    "maintainers": [
+        "ahmedtohamy1"
     ],
     "model": "Xiaomi MI 10T",
     "vendor": "Xiaomi",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Aryan",
-            "telegram": "aryannn999",
-            "github": "basamarayan"
-        }
+    "maintainers": [
+        "basamaryan"
     ],
     "model": "Motorola moto g 5G",
     "vendor": "Motorola",

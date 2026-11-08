@@ -1,15 +1,7 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Debayan Kar",
-            "telegram": "kardebayan",
-            "github": "kardebayan"
-        },
-        {
-            "display_name": "Sarthak Roy",
-            "telegram": "sarthakroy2002",
-            "github": "sarthakroy2002"
-        }
+    "maintainers": [
+        "kardebayan",
+        "sarthakroy2002"
     ],
     "model": "ASUS ZenFone Max Pro M1",
     "vendor": "Asus",

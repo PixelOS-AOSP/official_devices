@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Sugakesshaa",
-            "telegram": "Megalodonzs",
-            "github": "bheatleyyy"
-        }
+    "maintainers": [
+        "bheatleyyy"
     ],
     "model": "OnePlus 15",
     "vendor": "OnePlus",

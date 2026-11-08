@@ -5,8 +5,8 @@
             "github": "whyredfire",
             "telegram": "whyredfire",
             "XDA": "https://xdaforums.com/m/whyredfire.11124523/",
-            "role": "PixelOS Co-founder",
-            "devices": ["porsche"],
+            "core": true,
+            "labels": ["PixelOS Co-founder"],
             "tagline": "No excuses!"
         },
         {
@@ -14,8 +14,8 @@
             "github": "basamaryan",
             "telegram": "aryannn999",
             "XDA": "https://xdaforums.com/m/aryannn999.9385746/",
-            "role": "Core-Member",
-            "devices": ["sweet", "davinci", "kiev", "martini"],
+            "core": true,
+            "labels": ["Core-Member"],
             "tagline": "git gud"
         },
         {
@@ -23,8 +23,8 @@
             "github": "bheatleyyy",
             "telegram": "Megalodonzs",
             "XDA": "https://xdaforums.com/m/sugacrx.11383885/",
-            "role": "Core-Member",
-            "devices": ["infiniti", "oscar", "pipa"],
+            "core": true,
+            "labels": ["Core-Member"],
             "tagline": "Make every moment cherish :)"
         },
         {
@@ -32,33 +32,34 @@
             "github": "geek0609",
             "telegram": "dsashwin",
             "XDA": "https://xdaforums.com/m/dsashwin.11355545/",
-            "role": "Core-Member",
-            "devices": ["dubai"],
+            "core": true,
+            "labels": ["Core-Member"],
             "tagline": "Error 403 - Forbidden."
-        },
-        {
-            "name": "Hridaya Prajapati",
-            "github": "hridaya2004",
-            "telegram": null,
-            "XDA": null,
-            "role": "Former Core Member",
-            "tagline": "Life is not so yahooo~"
         },
         {
             "name": "InFeRnO",
             "github": "inferno0230",
             "telegram": "inferno0230",
             "XDA": "https://xdaforums.com/m/inferno0230.12118995/",
-            "role": "Core-Member; gerrit maintainer",
-            "devices": ["aston", "astonc", "benz", "caihong"],
+            "core": true,
+            "labels": ["Core-Member", "gerrit maintainer"],
             "tagline": "Ganyu Shrimp"
+        },
+        {
+            "name": "Adarsh Grewal",
+            "github": "adarshgrewal",
+            "telegram": "grewal",
+            "XDA": "https://xdaforums.com/m/grewal09.5480529/",
+            "core": true,
+            "labels": ["Pixelish Founder"],
+            "tagline": "i am blind."
         },
         {
             "name": "Mohit Kumar",
             "github": "98mohitkumar",
             "telegram": "mohitkek",
             "XDA": null,
-            "role": "Web Developer",
+            "labels": ["Web Developer"],
             "tagline": "Mohit here, I turn logic into pixels."
         },
         {
@@ -66,7 +67,7 @@
             "github": "yukiscape",
             "telegram": "yukiscape",
             "XDA": null,
-            "role": "Designer",
+            "labels": ["Designer"],
             "tagline": "falling's easy, but it only brings you down"
         },
         {
@@ -74,48 +75,7 @@
             "github": "SashaMcC",
             "telegram": "helenius147",
             "XDA": null,
-            "role": "Administration",
-            "tagline": null
-        },
-        {
-            "name": "Shivansh Agarwal",
-            "github": "twel12",
-            "telegram": "real_twel12",
-            "XDA": "https://xdaforums.com/m/twel12.11012701/",
-            "role": "PixelOS Founder",
-            "tagline": "I don't know how it works but it just works."
-        },
-        {
-            "name": "Yusuf",
-            "github": "noonlord",
-            "telegram": "Real_Noonlord",
-            "XDA": null,
-            "role": "Pixelish Founder",
-            "tagline": null
-        },
-        {
-            "name": "Adarsh Grewal",
-            "github": "adarshgrewal",
-            "telegram": "grewal",
-            "XDA": "https://xdaforums.com/m/grewal09.5480529/",
-            "role": "Pixelish Founder",
-            "devices": ["garnet", "peridot", "onyx"],
-            "tagline": "i am blind."
-        },
-        {
-            "name": "sarthakroy2002",
-            "github": "sarthakroy2002",
-            "telegram": "sarthakroy2002",
-            "XDA": "https://xdaforums.com/m/sarthakroy2002.8126733/",
-            "devices": ["cancunf", "sunny", "RMX2020"],
-            "tagline": "It's not who I am underneath, but what I do that defines me"
-        },
-        {
-            "name": "kardebayan",
-            "github": "kardebayan",
-            "telegram": "kardebayan",
-            "XDA": "https://xdaforums.com/m/kardebayan3.9878693/",
-            "devices": ["nemo", "salaa", "surya", "X00TD", "X01BD"],
+            "labels": ["Administration"],
             "tagline": null
         },
         {
@@ -123,63 +83,53 @@
             "github": "cyberknight777",
             "telegram": "cyberknight777",
             "XDA": "https://xdaforums.com/m/cyberknight777.11696787/",
-            "devices": ["sunny"],
             "tagline": "You gotta do what you gotta do \u4e41(\u30c4)\u310f"
         },
         {
-            "name": "balgxmr",
-            "github": "balgxmr",
-            "telegram": "balgxmr",
-            "XDA": "https://xdaforums.com/m/balgxmr.9196567/",
-            "devices": ["cepheus"],
-            "tagline": "In the Milky Way"
+            "name": "Sarthak Roy",
+            "github": "sarthakroy2002",
+            "telegram": "sarthakroy2002",
+            "XDA": "https://xdaforums.com/m/sarthakroy2002.8126733/",
+            "tagline": "It's not who I am underneath, but what I do that defines me"
         },
         {
-            "name": "Fellipe Lima",
-            "github": "Jubscleisson",
-            "telegram": "Jubscleisson",
-            "XDA": "https://xdaforums.com/m/jubscleisson.10485153/",
-            "devices": ["beyond0lte", "beyond1lte", "beyond2lte", "beyondx", "d1", "d1x", "d2s", "d2x", "f62"],
-            "tagline": "Stay calm and be yourself!"
+            "name": "Debayan Kar",
+            "github": "kardebayan",
+            "telegram": "kardebayan",
+            "XDA": "https://xdaforums.com/m/kardebayan3.9878693/",
+            "tagline": null
+        },
+        {
+            "name": "Dennis Murimi",
+            "github": "AndroidHQ254",
+            "telegram": "DennisMurimiWachira"
         },
         {
             "name": "Muhammad Nauman",
             "github": "itsXRP",
             "telegram": "itsXRP",
             "XDA": null,
-            "devices": ["lunaa"],
             "tagline": "Live Life Awesome Everyday"
+        },
+        {
+            "name": "Raghav Tandon",
+            "github": "raghavt20",
+            "telegram": "raghavt20",
+            "XDA": null,
+            "tagline": null
         },
         {
             "name": "Thomas Dada",
             "github": "Rasenkai",
             "telegram": "ThomasDada",
             "XDA": "https://xdaforums.com/m/rasenkai99.9138028/",
-            "devices": ["zeus"],
             "tagline": "VirusTotal.com"
-        },
-        {
-            "name": "jendermine",
-            "github": "jendermine",
-            "telegram": "jendermine",
-            "XDA": "https://xdaforums.com/m/jendermine.12801337/",
-            "devices": ["sky"],
-            "tagline": "..."
-        },
-        {
-            "name": "Ahmed Tohamy",
-            "github": "ahmedtohamy1",
-            "telegram": "ahmed_tohamy",
-            "XDA": "https://xdaforums.com/m/ahmed-tohamy.8386267/",
-            "devices": ["apollo"],
-            "tagline": "Pharoh"
         },
         {
             "name": "Tkiliay",
             "github": "Tkiliay",
             "telegram": "Tkiliay",
             "XDA": "https://xdaforums.com/m/toyohama.11780271/",
-            "devices": ["grus", "alioth"],
             "tagline": "Keep improving"
         },
         {
@@ -187,7 +137,6 @@
             "github": "lemezohaib",
             "telegram": "lemezohaib",
             "XDA": "https://xdaforums.com/m/zohaibkhan143.6228226/",
-            "devices": ["davinci", "ginkgo", "sweet"],
             "tagline": "I'm the one who knocks"
         },
         {
@@ -195,15 +144,18 @@
             "github": "chandu078",
             "telegram": null,
             "XDA": "https://xdaforums.com/m/chandu-dyavanapelli.9830048/",
-            "devices": ["waffle"],
             "tagline": null
+        },
+        {
+            "name": "Koushik Dey",
+            "github": "Koushikdey2003",
+            "telegram": "koushikdey3"
         },
         {
             "name": "Tuan Anh",
             "github": "log1cs",
             "telegram": "log1cs",
             "XDA": "https://xdaforums.com/m/itslog1cs.9408477/",
-            "devices": ["pdx223", "pdx224"],
             "tagline": "insert caption here"
         },
         {
@@ -211,7 +163,6 @@
             "github": "Penguin766",
             "telegram": "penguin766",
             "XDA": "https://xdaforums.com/m/penguin766.12962629/",
-            "devices": ["gauguin"],
             "tagline": "All systems go, prepare for liftoff"
         },
         {
@@ -219,23 +170,175 @@
         	"github": "xAbdaziz",
         	"telegram": "xAbdaziz",
         	"XDA": "https://xdaforums.com/m/xabdaziz.9478258/",
-            "devices": ["Spacewar"],
         	"tagline": "rm -rf out/ ... Will it fix the build? idk, but it's worth a shot."
-        },
-        {
-            "name": "Raghav Tandon",
-            "github": "raghavt20",
-            "telegram": "raghavt20",
-            "XDA": null,
-            "devices": ["tundra", "violet"],
-            "tagline": null
         },
         {
             "name": "Sidharth \"Siddhi\" Sharma",
             "github": "sidharthify",
             "telegram": "arteryring1",
-            "devices": ["yupei"],
             "tagline": null
+        },
+        {
+            "name": "Shivansh Agarwal",
+            "github": "twel12",
+            "telegram": "real_twel12",
+            "XDA": "https://xdaforums.com/m/twel12.11012701/",
+            "former": true,
+            "labels": ["PixelOS Founder"],
+            "tagline": "I don't know how it works but it just works."
+        },
+        {
+            "name": "Hridaya Prajapati",
+            "github": "hridaya2004",
+            "telegram": null,
+            "XDA": null,
+            "core": true,
+            "former": true,
+            "labels": ["Former Core Member"],
+            "tagline": "Life is not so yahooo~"
+        },
+        {
+            "name": "Zafer Yusuf Vardar",
+            "github": "noonlord",
+            "telegram": "Real_Noonlord",
+            "XDA": null,
+            "former": true,
+            "labels": ["Pixelish Founder"],
+            "tagline": null
+        },
+        {
+            "name": "jendermine",
+            "github": "jendermine",
+            "telegram": "jendermine",
+            "XDA": "https://xdaforums.com/m/jendermine.12801337/",
+            "former": true,
+            "tagline": "..."
+        },
+        {
+            "name": "Rahul",
+            "github": "rk134",
+            "telegram": "rahul_k06",
+            "former": true
+        },
+        {
+            "name": "Ahmed Tohamy",
+            "github": "ahmedtohamy1",
+            "telegram": "ahmed_tohamy",
+            "XDA": "https://xdaforums.com/m/ahmed-tohamy.8386267/",
+            "former": true,
+            "tagline": "Pharoh"
+        },
+        {
+            "name": "balgxmr",
+            "github": "balgxmr",
+            "telegram": "balgxmr",
+            "XDA": "https://xdaforums.com/m/balgxmr.9196567/",
+            "former": true,
+            "tagline": "In the Milky Way"
+        },
+        {
+            "name": "Sourav",
+            "github": "resist15",
+            "telegram": "xyz_sourav",
+            "former": true
+        },
+        {
+            "name": "Fellipe Lima",
+            "github": "Jubscleisson",
+            "telegram": "Jubscleisson",
+            "XDA": "https://xdaforums.com/m/jubscleisson.10485153/",
+            "former": true,
+            "tagline": "Stay calm and be yourself!"
+        },
+        {
+            "name": "clhex",
+            "github": "clhexftw",
+            "telegram": "itsclhex",
+            "former": true
+        },
+        {
+            "name": "Aditya",
+            "github": "Ad1tyaS1ngh",
+            "telegram": "Ad1tyaS1ngh",
+            "former": true
+        },
+        {
+            "name": "MD Raza",
+            "github": "DelightReza",
+            "telegram": "DelightReza",
+            "former": true
+        },
+        {
+            "name": "Vantom",
+            "github": "vantoman",
+            "telegram": "Vantom",
+            "former": true
+        },
+        {
+            "name": "masarou",
+            "github": "itsurboimasarou",
+            "telegram": "masarou92",
+            "former": true
+        },
+        {
+            "name": "Alone0316",
+            "github": "Alone0316",
+            "telegram": "Alone0316",
+            "former": true
+        },
+        {
+            "name": "Sakthivel Nadar",
+            "github": "sakthivelnadar",
+            "telegram": "sakthivelnadar",
+            "former": true
+        },
+        {
+            "name": "Kitsunejasutin",
+            "github": "Kitsunejasutin",
+            "telegram": "tokatsu",
+            "former": true
+        },
+        {
+            "name": "Yularzhi",
+            "github": "Yularzhi",
+            "telegram": "Yul_Nicolai",
+            "former": true
+        },
+        {
+            "name": "ryyaap",
+            "github": "rktdnt",
+            "telegram": "rktdnt",
+            "former": true
+        },
+        {
+            "name": "Di Raizel",
+            "github": "acex69",
+            "telegram": "acex88",
+            "former": true
+        },
+        {
+            "name": "HELLINFIX",
+            "github": "HELLINFIX",
+            "telegram": "HELLINFIX",
+            "former": true
+        },
+        {
+            "name": "Mia Ryujin",
+            "github": "Seraphine3",
+            "telegram": "AISeraphine3_3",
+            "former": true
+        },
+        {
+            "name": "PaperBoy",
+            "github": "sajidshahriar72543",
+            "telegram": "paperboy22",
+            "former": true
+        },
+        {
+            "name": "Anoosragh",
+            "github": "anoosragh69",
+            "telegram": "cArN4gE_is_DeD",
+            "former": true
         }
     ]
 }

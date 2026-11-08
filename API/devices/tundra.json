@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Raghav Tandon",
-            "telegram": "raghavt20",
-            "github": "raghavt20"
-        }
+    "maintainers": [
+        "raghavt20"
     ],
     "model": "Motorola Edge (30 Fusion/S30 Pro)",
     "vendor": "Motorola",

@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Raghav Tandon",
-            "telegram": "raghavt20",
-            "github": "raghavt20"
-        }
+    "maintainers": [
+        "raghavt20"
     ],
     "model": "Redmi Note 7 Pro",
     "vendor": "Xiaomi",

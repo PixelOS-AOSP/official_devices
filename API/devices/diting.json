@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Sugakesshaa",
-            "telegram": "Megalodonzs",
-            "github": "bheatleyyy"
-        }
+    "maintainers": [
+        "bheatleyyy"
     ],
     "model": "Xiaomi 12T Pro / Redmi K50 Ultra",
     "vendor": "Xiaomi",

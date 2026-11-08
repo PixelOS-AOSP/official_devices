@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Sourav",
-            "telegram": "xyz_sourav",
-            "github": "resist15"
-        }
+    "maintainers": [
+        "resist15"
     ],
     "model": "Pocophone F1",
     "vendor": "Xiaomi",

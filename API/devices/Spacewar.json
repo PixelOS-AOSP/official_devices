@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Abdulaziz",
-            "telegram": "xAbdaziz",
-            "github": "xAbdaziz"
-        }
+    "maintainers": [
+        "xAbdaziz"
     ],
     "model": "Nothing Phone (1)",
     "vendor": "Nothing",

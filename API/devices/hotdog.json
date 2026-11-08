@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "cyberknight777",
-            "telegram": "cyberknight777",
-            "github": "cyberknight777"
-        }
+    "maintainers": [
+        "cyberknight777"
     ],
     "model": "OnePlus 7T Pro",
     "vendor": "OnePlus",

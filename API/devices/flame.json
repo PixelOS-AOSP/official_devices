@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "Yularzhi",
-            "telegram": "Yul_Nicolai",
-            "github": "Yularzhi"
-        }
+    "maintainers": [
+        "Yularzhi"
     ],
     "model": "Google Pixel 4",
     "vendor": "Google",

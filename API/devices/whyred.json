@@ -1,10 +1,6 @@
 {
-    "maintainer": [
-        {
-            "display_name": "PaperBoy",
-            "telegram": "paperboy22",
-            "github": "sajidshahriar72543"
-        }
+    "maintainers": [
+        "sajidshahriar72543"
     ],
     "model": "Redmi Note 5 Pro/AI",
     "vendor": "Xiaomi",
