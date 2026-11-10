@@ -1,37 +1,37 @@
 {
     "response": [
         {
-            "datetime": "1787258745",
-            "filename": "PixelOS_dubai-17.0-20260820-2048.zip",
-            "id": "b8f274069df33d3e80ee42674ed6f868ae9748e3421249855cb8877e94358489",
-            "size": 2611688792,
-            "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20260820-2048.zip",
-            "stream_url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20260820-2048.zip",
+            "datetime": "1794265176",
+            "filename": "PixelOS_dubai-17.0-20261109-2303.zip",
+            "id": "03298c533414516062442538434e06647869e14d021d1e081e7c8a0c4c48b668",
+            "size": 2648243175,
+            "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20261109-2303.zip",
+            "stream_url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20261109-2303.zip",
             "version": 17,
             "stream": true,
             "payload": [
                 {
                     "offset": 4222,
-                    "FILE_HASH": "5+pwll1fEC/LnorH8tHULdJ4d6WAN7ojCgMl8UETFUY=",
-                    "FILE_SIZE": "2611681169",
-                    "METADATA_HASH": "0szxFTLuvs4Nizbu45MlF38VUqZLGWahUeO+Dd7b1J0=",
-                    "METADATA_SIZE": "177950"
+                    "FILE_HASH": "3iOe9OE/CAXw2/aONmn6vqNJ5K1gXqv1N1C7ta/5tO4=",
+                    "FILE_SIZE": "2648235552",
+                    "METADATA_HASH": "6zaYGpA/6DLHKIlEK72mtA2ldAy5lGb0ZuhF0ogCVFs=",
+                    "METADATA_SIZE": "179076"
                 }
             ],
             "additional_images": [
                 {
-                    "name": "dtbo-dubai_20260820_2048.img",
-                    "SHA256": "7bd5cc42436d371666044e19284e91474b33b625b36f1af4e019b9364e62c991",
+                    "name": "dtbo-dubai_20261109_2303.img",
+                    "SHA256": "603dedd5362c3444fa4bfb461fb6a65d3d3f6b0c622f67717e574d7365902a54",
                     "size": 25165824
                 },
                 {
-                    "name": "boot-dubai_20260820_2048.img",
-                    "SHA256": "33e5e957a5806c237040c23b014ade7a1177bd18c079dc1778259fc6c31554dd",
+                    "name": "boot-dubai_20261109_2303.img",
+                    "SHA256": "020e4691e26b80d48c2be03808c7e11aa473dea691978f1faf5e1dfd640240e2",
                     "size": 100663296
                 },
                 {
-                    "name": "vendor_boot-dubai_20260820_2048.img",
-                    "SHA256": "a3bcc8caa4573c16da4edb77cb5dfbc738e1a1d186f134f3aaa20dc2371e726d",
+                    "name": "vendor_boot-dubai_20261109_2303.img",
+                    "SHA256": "699c1eb7bfa9db5df8dee0b80a9dd9985c30ecff1144676f68f2cbc499792832",
                     "size": 100663296
                 }
             ]
