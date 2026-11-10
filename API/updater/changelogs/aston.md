@@ -1,3 +1,3 @@
-\- updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)  
+- Ship Oplus cam and gallary  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
