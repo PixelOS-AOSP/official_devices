@@ -1,3 +1,13 @@
+# 10-Nov-2026
+- New torracat 6.18 kernel
+- Fixed crackling earpiece in calls 
+- Brightness now matches stock
+- HDR videos no longer look orange
+- Smoother and cooler: new performance HAL, updated GPU driver, fix for a Dolby process that kept a CPU core at 100%, and a cooler profile while charging
+- Bluetooth earbuds connect reliably, and YouTube no longer shows blocky video when starting or seeking
+- Stereo video recording, an option for high touch polling rate
+- November patch
+
 # 29-Oct-2026
 - Rebased on Android 17, with Android 14 stock vendor blobs and the 2025-08 security patch
 - New kernel source, merged with LineageOS
