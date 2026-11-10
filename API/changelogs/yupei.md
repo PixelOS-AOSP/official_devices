@@ -1,3 +1,7 @@
+# 10-Nov-2026
+- Fix speaker popping
+- Add support for Xiaomi Focus Pen (non-pro)
+
 # 04-Nov-2026
 - Implement all Xiaomi Focus Pen Pro gestures from HyperOS
 - Add a small action pie when clicking the barrel
