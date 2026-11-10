@@ -1,3 +1,8 @@
+# 10-Nov-2026
+- Ship Oplus cam and gallery
+- Switch to LHBM
+- Fix low brightness on lockscreen
+
 # 24-Oct-2026
 - updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)
 
