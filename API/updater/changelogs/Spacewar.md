@@ -1,5 +1,5 @@
-\- Improved auto-brightness and High Brightness Mode (HBM).  
-\- Improved responsiveness.  
-\- Platform upstream (read blog)  
+- Inlined kernel modules  
+- Optimized kernel  
+- Added Nothing camera port  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
