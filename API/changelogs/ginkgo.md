@@ -1,3 +1,6 @@
+# 10-Nov-2026
+- November security patch
+
 # 26-Oct-2026
 - Platform upstream
 
