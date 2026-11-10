@@ -1,4 +1,7 @@
 # 10-Nov-2026
+- Fixed OPlus Camera crash
+
+# 10-Nov-2026
 - New Dolby Atmos from Sony Xperia 1V
 - Fixed NFC
 - Updated kernel

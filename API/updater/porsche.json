@@ -1,45 +1,45 @@
 [
     {
-        "datetime": 1794276733,
+        "datetime": 1794324663,
         "files": [
             {
-                "filename": "PixelOS_porsche-17.0-20261110-0215.zip",
+                "filename": "PixelOS_porsche-17.0-20261110-1535.zip",
                 "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "6586e48c1359768f77753f69e3808c6bdd3a488ca0ec44df22f4a1d5fd4eecb1",
-                "size": 3214301361,
-                "url": "https://download.pixelos.net/seventeen/porsche/PixelOS_porsche-17.0-20261110-0215.zip",
-                "ota_property_files": "payload_metadata.bin:4517:188991,payload.bin:4517:3214293443,payload_properties.txt:3214298018:156,apex_info.pb:2163:1448,care_map.pb:3658:812,metadata:69:693,metadata.pb:830:1285                        "
+                "sha256": "ee0944859427d4c066d253f0869fd23e683e66738a612cff7c608eb2f1a561c7",
+                "size": 3214302572,
+                "url": "https://download.pixelos.net/seventeen/porsche/PixelOS_porsche-17.0-20261110-1535.zip",
+                "ota_property_files": "payload_metadata.bin:4517:188990,payload.bin:4517:3214294654,payload_properties.txt:3214299229:156,apex_info.pb:2163:1448,care_map.pb:3658:812,metadata:69:693,metadata.pb:830:1285                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-porsche_20261110_0215.img",
+                "name": "dtbo-porsche_20261110_1535.img",
                 "SHA256": "1825f817b8f170d1d9f368d572c084080e537e26368f3640753cfc92a95df3cc",
                 "size": 25165824
             },
             {
-                "name": "boot-porsche_20261110_0215.img",
-                "SHA256": "7e335e46a99cd33f1e323900ad1befa28760e0c424b5ee3e165dd707b1cfc58f",
+                "name": "boot-porsche_20261110_1535.img",
+                "SHA256": "026784343cbfbf235dcfc1766ffe198b81a06a643c13872f51c9645b1f7f7687",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-porsche_20261110_0215.img",
-                "SHA256": "3f5623cd0dca8afd84aae009805cb6421c5507d3d7a3e83f81aca8159b238649",
+                "name": "vendor_boot-porsche_20261110_1535.img",
+                "SHA256": "97288f21bfc6c8cbc0a81ebfbbb9635d5427528e3593f7d459fdef0a4ee79cfa",
                 "size": 201326592
             }
         ],
         "incremental": [
             {
-                "filename": "porsche-10NBL15Hw6xpSD.zip",
+                "filename": "porsche-10ND2Ix77Zd6Hl.zip",
                 "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "d6ee595b2c24696372f7dc90d74e4ab01469e8a01ceb42acb7f5b8df368becc4",
-                "size": 94170226,
-                "url": "https://download.pixelos.net/seventeen/porsche/porsche-10NBL15Hw6xpSD.zip",
-                "ota_property_files": "payload_metadata.bin:5609:541870,payload.bin:5609:94161218,payload_properties.txt:94166885:154,apex_info.pb:3039:1664,care_map.pb:4750:812,metadata:69:801,metadata.pb:938:2053                    "
+                "sha256": "fc9ece054b1836bf8e65795c2f90ab47be31931191c839ecdef075a248a4d0c3",
+                "size": 22366061,
+                "url": "https://download.pixelos.net/seventeen/porsche/porsche-10ND2Ix77Zd6Hl.zip",
+                "ota_property_files": "payload_metadata.bin:5609:448273,payload.bin:5609:22357053,payload_properties.txt:22362720:154,apex_info.pb:3039:1664,care_map.pb:4750:812,metadata:69:801,metadata.pb:938:2053                    "
             }
         ]
     }
