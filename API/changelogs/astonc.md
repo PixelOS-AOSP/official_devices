@@ -1,3 +1,6 @@
+# 10-Nov-2026
+- Ship Oplus cam and gallery
+
 # 24-Oct-2026
 - updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)
 
