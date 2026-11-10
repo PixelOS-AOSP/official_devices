@@ -1,45 +1,45 @@
 [
     {
-        "datetime": 1792769970,
+        "datetime": 1794265176,
         "files": [
             {
-                "filename": "PixelOS_dubai-17.0-20261023-1542.zip",
-                "os_patch_level": "2026-10-01",
+                "filename": "PixelOS_dubai-17.0-20261109-2303.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "e86f79705a698c24a1293c2a2e8319f42440b5063639cf945bf34698b5341ad0",
-                "size": 2648101068,
-                "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20261023-1542.zip",
-                "ota_property_files": "payload_metadata.bin:4222:179245,payload.bin:4222:2648093445,payload_properties.txt:2648097725:156,apex_info.pb:2049:1448,care_map.pb:3544:631,metadata:69:675,metadata.pb:812:1189                        "
+                "sha256": "03298c533414516062442538434e06647869e14d021d1e081e7c8a0c4c48b668",
+                "size": 2648243175,
+                "url": "https://download.pixelos.net/seventeen/dubai/PixelOS_dubai-17.0-20261109-2303.zip",
+                "ota_property_files": "payload_metadata.bin:4222:179343,payload.bin:4222:2648235552,payload_properties.txt:2648239832:156,apex_info.pb:2049:1448,care_map.pb:3544:631,metadata:69:675,metadata.pb:812:1189                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-dubai_20261023_1542.img",
+                "name": "dtbo-dubai_20261109_2303.img",
                 "SHA256": "603dedd5362c3444fa4bfb461fb6a65d3d3f6b0c622f67717e574d7365902a54",
                 "size": 25165824
             },
             {
-                "name": "boot-dubai_20261023_1542.img",
-                "SHA256": "2a525ff8b05a5c1a6880dea5b002a32606b0cedb4e1838225fe05834ab0ab839",
+                "name": "boot-dubai_20261109_2303.img",
+                "SHA256": "020e4691e26b80d48c2be03808c7e11aa473dea691978f1faf5e1dfd640240e2",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-dubai_20261023_1542.img",
+                "name": "vendor_boot-dubai_20261109_2303.img",
                 "SHA256": "699c1eb7bfa9db5df8dee0b80a9dd9985c30ecff1144676f68f2cbc499792832",
                 "size": 100663296
             }
         ],
         "incremental": [
             {
-                "filename": "dubai-10NBYkEKgNHx54.zip",
-                "os_patch_level": "2026-10-01",
+                "filename": "dubai-10NC0y09PjOSB1.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "933a7851bc04af76422dab1f670ac79bbb781f8f46ffb4d2ee03712bae042de7",
-                "size": 23510892,
-                "url": "https://download.pixelos.net/seventeen/dubai/dubai-10NBYkEKgNHx54.zip",
-                "ota_property_files": "payload_metadata.bin:5233:385029,payload.bin:5233:23502260,payload_properties.txt:23507551:154,apex_info.pb:2844:1664,care_map.pb:4555:631,metadata:69:776,metadata.pb:913:1883                    "
+                "sha256": "d3e9bd848788531b0f5cd3624c6a73bdbec4c83335fd6c120de08c3e9874c233",
+                "size": 77464550,
+                "url": "https://download.pixelos.net/seventeen/dubai/dubai-10NC0y09PjOSB1.zip",
+                "ota_property_files": "payload_metadata.bin:5233:399071,payload.bin:5233:77455918,payload_properties.txt:77461209:154,apex_info.pb:2844:1664,care_map.pb:4555:631,metadata:69:776,metadata.pb:913:1883                    "
             }
         ]
     }

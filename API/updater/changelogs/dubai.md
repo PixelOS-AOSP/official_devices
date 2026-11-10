@@ -1,3 +1,3 @@
-\- updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)  
+- November security patch  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

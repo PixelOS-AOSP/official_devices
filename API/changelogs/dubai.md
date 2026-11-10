@@ -1,3 +1,6 @@
+# 10-Nov-2026
+- November security patch
+
 # 23-Oct-2026
 - updated certificate blocklists and removed compromised eMudhra root certificates (Read Blog)
 
