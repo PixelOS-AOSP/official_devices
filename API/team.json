@@ -55,14 +55,6 @@
             "tagline": "i am blind."
         },
         {
-            "name": "Mohit Kumar",
-            "github": "98mohitkumar",
-            "telegram": "mohitkek",
-            "XDA": null,
-            "labels": ["Web Developer"],
-            "tagline": "Mohit here, I turn logic into pixels."
-        },
-        {
             "name": "Amartya Garikapati",
             "github": "yukiscape",
             "telegram": "yukiscape",
@@ -103,13 +95,6 @@
             "name": "Dennis Murimi",
             "github": "AndroidHQ254",
             "telegram": "DennisMurimiWachira"
-        },
-        {
-            "name": "Muhammad Nauman",
-            "github": "itsXRP",
-            "telegram": "itsXRP",
-            "XDA": null,
-            "tagline": "Live Life Awesome Everyday"
         },
         {
             "name": "Raghav Tandon",
@@ -205,6 +190,23 @@
             "former": true,
             "labels": ["Pixelish Founder"],
             "tagline": null
+        },
+        {
+            "name": "Mohit Kumar",
+            "github": "98mohitkumar",
+            "telegram": "mohitkek",
+            "XDA": null,
+            "former": true,
+            "labels": ["Web Developer"],
+            "tagline": "Mohit here, I turn logic into pixels."
+        },
+        {
+            "name": "Muhammad Nauman",
+            "github": "itsXRP",
+            "telegram": "itsXRP",
+            "XDA": null,
+            "former": true,
+            "tagline": "Live Life Awesome Everyday"
         },
         {
             "name": "jendermine",
