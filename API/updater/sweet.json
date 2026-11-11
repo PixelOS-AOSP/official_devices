@@ -1,33 +1,43 @@
 [
     {
-        "datetime": 1793394994,
+        "datetime": 1794369917,
         "files": [
             {
-                "filename": "PixelOS_sweet-17.0-20261030-2119.zip",
-                "os_patch_level": "2026-10-01",
+                "filename": "PixelOS_sweet-17.0-20261111-0408.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "47cc2c635cdd997611a1519686b14d90583bac4b9be1313ce3bc86a389e0e836",
-                "size": 3086478843,
-                "url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20261030-2119.zip"
+                "sha256": "a1fcf6219df029002ef1d09ef60712d9e24c42d555d2f8243acb8e9f755eb7e0",
+                "size": 3087103897,
+                "url": "https://download.pixelos.net/seventeen/sweet/PixelOS_sweet-17.0-20261111-0408.zip"
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-sweet_20261030_2119.img",
-                "SHA256": "209e0b7312ec4d3de49a8519858f89e40756ba8ccac9897b4693be1f5577b3e3",
+                "name": "recovery-sweet_20261111_0408.img",
+                "SHA256": "c67233ff1f0d305b76983f67a84f5e1f5fab58693b2181b3391e8943f377224a",
                 "size": 134217728
             },
             {
-                "name": "dtbo-sweet_20261030_2119.img",
+                "name": "dtbo-sweet_20261111_0408.img",
                 "SHA256": "a71f23deadc497c6acaece3c26a78e2764938af13a91819765ebc6a51b5ca261",
                 "size": 33554432
             },
             {
-                "name": "boot-sweet_20261030_2119.img",
-                "SHA256": "a7840c6d3466c1262669bae7fffb118695ef5744310fdb68fd0e3c0a159636e4",
+                "name": "boot-sweet_20261111_0408.img",
+                "SHA256": "c6eb71a1081e95f482a5ecb175048b2e08a4ef190faac37e2b9130264227b15b",
                 "size": 134217728
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "sweet-10NC5LffuryNWo.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "fd2d79627c1ad679b027a0f29a9308b1eb932846c45f7fd10cd9795d2acb045d",
+                "size": 615398462,
+                "url": "https://download.pixelos.net/seventeen/sweet/sweet-10NC5LffuryNWo.zip"
             }
         ]
     }
