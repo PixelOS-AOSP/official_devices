@@ -1,33 +1,43 @@
 [
     {
-        "datetime": 1793368480,
+        "datetime": 1794374290,
         "files": [
             {
-                "filename": "PixelOS_davinci-17.0-20261030-1357.zip",
-                "os_patch_level": "2026-10-01",
+                "filename": "PixelOS_davinci-17.0-20261111-0521.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "28a4d91b289c8d411e8610b1d25cb87a24feb2c2b174a1aba3bda32add920995",
-                "size": 2942260845,
-                "url": "https://download.pixelos.net/seventeen/davinci/PixelOS_davinci-17.0-20261030-1357.zip"
+                "sha256": "c93712113cab3b07e47cf914adfa7eed27dd1d07159090ffd3088436e0f34e40",
+                "size": 2937956584,
+                "url": "https://download.pixelos.net/seventeen/davinci/PixelOS_davinci-17.0-20261111-0521.zip"
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-davinci_20261030_1357.img",
-                "SHA256": "76b5eae229829b5883672582612be87de48b3aaf11bd9203be007e577a0d5539",
+                "name": "recovery-davinci_20261111_0521.img",
+                "SHA256": "9289f8f97d1bdd33a38e09be78981e521622d7d3f49763c624ea332d1f4f7c29",
                 "size": 67108864
             },
             {
-                "name": "dtbo-davinci_20261030_1357.img",
+                "name": "dtbo-davinci_20261111_0521.img",
                 "SHA256": "4412b623cc32001aa477d85fc5264218bcd4bc5eee0ef497624ab6963c34b838",
                 "size": 33554432
             },
             {
-                "name": "boot-davinci_20261030_1357.img",
-                "SHA256": "9df9cdf657e5262556c9fb299563c6dab339d7069bd612b8d87561702c0e54bc",
+                "name": "boot-davinci_20261111_0521.img",
+                "SHA256": "94ab6dedd602e8011feb4c7d00777da9ba8ecc739d3d8cb244da281399d19b53",
                 "size": 134217728
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "davinci-10NC5HKS3kwcJ3.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "536ff8d58d5b378c83839342a86038dde0c9d539f9e67a5bde633567aa9ff0ac",
+                "size": 665565000,
+                "url": "https://download.pixelos.net/seventeen/davinci/davinci-10NC5HKS3kwcJ3.zip"
             }
         ]
     }
