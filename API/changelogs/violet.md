@@ -1,3 +1,11 @@
+# 11-Nov-2026
+- Added Dolby Atmos
+- MIUI Camera: Vlog now works, front portrait and clone mode fixed, slow motion now plays back slowed down
+- New vibrator with softer effects
+- Dev frequency boosting, display and GPU work moved to the big CPU cores, CPU tuning for the Kryo 470 cores
+- Simple LMK
+- Fixed Tianma panel colour modes and Bluetooth A2DP audio
+
 # 31-Oct-2026
 - Moved to the shared Xiaomi SM6150 device tree and kernel
 - Added MIUI Camera

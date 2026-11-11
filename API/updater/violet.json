@@ -1,33 +1,48 @@
 [
     {
-        "datetime": 1793346729,
+        "datetime": 1794362441,
         "files": [
             {
-                "filename": "PixelOS_violet-17.0-20261030-0755.zip",
-                "os_patch_level": "2026-10-01",
+                "filename": "PixelOS_violet-17.0-20261111-0204.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "2e516f4d3a8906bb1090fea7c2aa4ebb7e7b273da5739784ff61085a458ebc71",
-                "size": 2914056818,
-                "url": "https://download.pixelos.net/seventeen/violet/PixelOS_violet-17.0-20261030-0755.zip"
+                "sha256": "d426681bfbbc6e33f2fe155f41fa218bdedabec66f1d005c8fa0b7aa1e056453",
+                "size": 2970617365,
+                "url": "https://download.pixelos.net/seventeen/violet/PixelOS_violet-17.0-20261111-0204.zip"
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-violet_20261030_0755.img",
-                "SHA256": "30ca6a6abf4a8f6866c8d3b6cb8bd0c6464044686dc056197273c8272d2a0bdc",
+                "name": "recovery-violet_20261111_0204.img",
+                "SHA256": "d358f8e07f35f546793017c05e6886395a8cb538cb9767130d45e6298bda63c3",
                 "size": 67108864
             },
             {
-                "name": "dtbo-violet_20261030_0755.img",
+                "name": "super_empty-violet_20261111_0204.img",
+                "SHA256": "d9fdb36cf8d0bea380e1d8a4b23200ea45d4a4f1314b54647c1626ebdd4af6a4",
+                "size": 4772
+            },
+            {
+                "name": "dtbo-violet_20261111_0204.img",
                 "SHA256": "c60259a04cae339f4e20bafe59a06ad8306a6a2294f3a3aad7a069e557c7ceda",
                 "size": 8388608
             },
             {
-                "name": "boot-violet_20261030_0755.img",
-                "SHA256": "1de23f717714dd99a2ce843cbb8ad3eb26de94d3e7863d67cb558947c4732318",
+                "name": "boot-violet_20261111_0204.img",
+                "SHA256": "72c5f4548ca37e2d97ea83a75967a270688e5e8ba80ad21e11a243afa2800765",
                 "size": 67108864
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "violet-10NC5EZVvnA0t6.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "be342c01d5487069364e1a03198cc317c9c31c1f0fc1de82b82f48987ca71cc3",
+                "size": 702694717,
+                "url": "https://download.pixelos.net/seventeen/violet/violet-10NC5EZVvnA0t6.zip"
             }
         ]
     }

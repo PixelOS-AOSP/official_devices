@@ -1,13 +1,8 @@
-\- Moved to the shared Xiaomi SM6150 device tree and kernel  
-\- Added MIUI Camera  
-\  - 48MP mode  
-\  - HDR  
-\  - AI mode  
-\  - Portrait  
-\  - 120fps slow motion  
-\- Fixed camera crashes and phone hangs when using MIUI Camera  
-\- Double-tap to wake on both touch panel variants  
-\- Fingerprint, IR blaster, LEDs and display support for violet  
-\- Better thermal limits, ported from davinci  
+- Added Dolby Atmos  
+- MIUI Camera: Vlog now works, front portrait and clone mode fixed, slow motion now plays back slowed down  
+- New vibrator with softer effects  
+- Dev frequency boosting, display and GPU work moved to the big CPU cores, CPU tuning for the Kryo 470 cores  
+- Simple LMK  
+- Fixed Tianma panel colour modes and Bluetooth A2DP audio  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
