@@ -1,34 +1,4 @@
-# 13-Jun-2026
-- Fixed media/storage issues.
-
-# 11-Jun-2026
-- Fixed chipmunk voice in voice calls.
-- Updated kernel with upstream(LineageOS/qcom_sm8250).
-
-# 11-May-2026
-- Platform upstream
-
-# 09-Apr-2026
-- Added back flashlight control
-- Fixed incremental updates
-- Kernel upstream from LineageOS/qcom_sm8250
-
-# 13-Mar-2026
-- Fixed the blur radius for Pixel Launcher
-
-# 12-Mar-2026
-- Platform upstream (hotfix)
-
-# 09-Mar-2026
-- platform upstream
-
-# 24-Feb-2026
-- Updated GPS HAL to 4.3
-- Updated media configs from FairPhone4 (LineageOS)
-
-# 17-Jan-2026
-- Source upstream
-
-# 13-Dec-2025
-- Initial Android 16 QPR1 release
+# 11-Nov-2026
+• Initial Android 17 Build
+• Updated Audio HAL to V7
 
