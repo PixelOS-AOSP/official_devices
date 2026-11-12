@@ -1,31 +1,33 @@
 [
     {
-        "datetime": 1775761447,
+        "datetime": 1794477642,
         "files": [
             {
-                "filename": "PixelOS_lisa-16.2-20260409-1906.zip",
-                "os_sdk_level": 36,
-                "sha256": "9f295b48c473e44203ecd9020576af263b183b9645257d7a3f3cafd2f3faead3",
-                "size": 2499204528,
-                "url": "https://download.pixelos.net/sixteen/lisa/PixelOS_lisa-16.2-20260409-1906.zip"
+                "filename": "PixelOS_lisa-17.0-20261112-1003.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "f3cd613c08d71e29cd2d05365d8c83fc44e9bbc38313b080cf3d088efc70bc1f",
+                "size": 2758594308,
+                "url": "https://download.pixelos.net/seventeen/lisa/PixelOS_lisa-17.0-20261112-1003.zip",
+                "ota_property_files": "payload_metadata.bin:4418:184719,payload.bin:4418:2758586489,payload_properties.txt:2758590965:156,apex_info.pb:2083:1448,care_map.pb:3578:793,metadata:69:679,metadata.pb:816:1219                        "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "dtbo-lisa_20260409_1906.img",
-                "SHA256": "6356dcaf15abcdcf4448a2d36aebafdd749d5cb5ea86dbc902ef0ae8aaf7cd7e",
+                "name": "dtbo-lisa_20261112_1003.img",
+                "SHA256": "452da180348541b4fa2239f79ec007ddfd6c4056cdcb709679e50bd005e4ff78",
                 "size": 25165824
             },
             {
-                "name": "boot-lisa_20260409_1906.img",
-                "SHA256": "e33e23df3f10370c0a54aeba5cc56cd766e3ea5bd2453a337c321c332abfc24b",
+                "name": "boot-lisa_20261112_1003.img",
+                "SHA256": "a2677d15aecedc2be08e0f8d990ec25bfa8c0ae03fc1337e7ddcc63676d97d4d",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-lisa_20260409_1906.img",
-                "SHA256": "ad6dede36badf6856a64455baf663daf0d693109b4f6c4c0e2ded6ace46787b4",
+                "name": "vendor_boot-lisa_20261112_1003.img",
+                "SHA256": "65d0caba5523ebb0a0c2e30ac4b9d23fae6e17fd218fa7c7baf1a1de745d550e",
                 "size": 100663296
             }
         ]
