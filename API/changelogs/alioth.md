@@ -1,3 +1,39 @@
+# 12-Nov-2026
+- Update signal strength thresholds from stock 
+- Update props from munch OS1.0.15.0.ULMCNXM
+- Update sf duration to 12.3ms
+- Update volume curves from stock
+- Update media from alioth V816.0.10.0.TKHCNXM
+- Update Brightness overlays from alioth V816.0.10.0.TKHCNXM
+- Fix a crash issue with USB DAC
+- Fix CVE-2025-68807
+- Fix GraphicBuffer size for EIS
+- Fix seccomp policy for codec2
+- Fix seccomp policy for imsrtp
+- Fix reboot caused by modem crashes
+- Fix original color mode switching 
+- Set thermal data path for xiaomi mi_thermald
+- Enable LTE+ icon
+- Switch to stock face unlock 
+- Switch the default I/O scheduler to mq-deadline to improve performance
+- Refactor media configuration
+- Add back the ULL(Ultra Low Latency) audio mode
+- Move from phase offsets to work durations
+- Implement Xiaomi Dolby Atmos
+- Introduce stock camera
+- Introduce MEMC feature
+- Introduce SDR to HDR intelligent enhancement
+- Introduce adaptive AOD brightness
+- Introduce Sunlight display mode
+- Add support for Color mode 3D LUT injection
+- Optimize LMK parameters
+- Implement mmd
+- Enable LiveDisplay support 
+- Add stock PCC support 
+- Backport mq-deadline from k6.6
+- Upstream block changes 
+- Upstream kernel with lineage qcom sm8250
+
 # 24-Oct-2026
 - Platform upstream (read blog)
 
