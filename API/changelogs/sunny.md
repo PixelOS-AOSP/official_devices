@@ -1,3 +1,8 @@
+# 13-Nov-2026
+- Switch to Xiaomi AIDL face unlock HAL.
+- Fixed an issue where auto brightness adjustment was jumping instead of ramping due to MiuiCamera's temporary auto brightness adjustment.
+- Fixed an issue where the macro camera lens is not picked for the macro option in MiuiCamera.
+
 # 28-Oct-2026
 - Migrate to USB HAL 1.3.
 - Move usage of USB MTP/PTP functionality to USB F_FS driver.
