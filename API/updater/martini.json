@@ -1,36 +1,38 @@
 [
     {
-        "datetime": 1782556150,
+        "datetime": 1794430590,
         "files": [
             {
-                "filename": "PixelOS_martini-16.2-20260627-1031.zip",
-                "os_sdk_level": 36,
-                "sha256": "162b7eab8fb56d560ea23a665a349cadef7f40c766abb53afa4f0d0ce1fbb608",
-                "size": 2740262924,
-                "url": "https://download.pixelos.net/sixteen/martini/PixelOS_martini-16.2-20260627-1031.zip"
+                "filename": "PixelOS_martini-17.0-20261111-2100.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "a54b9d8b086fcccdbd8a4d6817998f7afc5c8162ddb2a0dd612b70d382953a52",
+                "size": 2977568584,
+                "url": "https://download.pixelos.net/seventeen/martini/PixelOS_martini-17.0-20261111-2100.zip",
+                "ota_property_files": "payload_metadata.bin:4553:180642,payload.bin:4553:2977560630,payload_properties.txt:2977565241:156,apex_info.pb:2194:1448,care_map.pb:3689:817,metadata:69:698,metadata.pb:835:1311                        "
             }
         ],
         "type": "ci",
-        "version": "16.2",
+        "version": "17.0",
         "additional_images": [
             {
-                "name": "vbmeta-martini_20260627_1031.img",
-                "SHA256": "15ebe7eb5d28c5e90fa48978f0bb86a6a2c3bae11c74b7485c6b5052a31663d3",
+                "name": "vbmeta-martini_20261111_2100.img",
+                "SHA256": "deb7ab0d5507884ad5426739f6a931ce1df6bacd5bd7717aa3ca9319a44c570d",
                 "size": 8192
             },
             {
-                "name": "dtbo-martini_20260627_1031.img",
-                "SHA256": "6d776be852c6934eb564c9f4640570e1802609a96cc02e3eac672bdb7155bce0",
+                "name": "dtbo-martini_20261111_2100.img",
+                "SHA256": "b52fc7467ac47c28c10b4611063b2c98130041bbedc788312bbc82a1dc986d89",
                 "size": 25165824
             },
             {
-                "name": "boot-martini_20260627_1031.img",
-                "SHA256": "69b3e8ef14934ca2fc9198e43f7ec54f2ce5ba8c503094e867e3a97e56072193",
+                "name": "boot-martini_20261111_2100.img",
+                "SHA256": "b2e702a79b122e2a7c02cee2455900044fbdcd7b323aba2048ca0fccee0f0698",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-martini_20260627_1031.img",
-                "SHA256": "ccc821027c38b633e93270049ad70c410e9e591c0b02b1d2cb9a1c2ff820df6c",
+                "name": "vendor_boot-martini_20261111_2100.img",
+                "SHA256": "5e1408ca3b3c9fe8dff5c526d4cf9a49f3436c5303c6cb49635b3cda0caa314b",
                 "size": 201326592
             }
         ]

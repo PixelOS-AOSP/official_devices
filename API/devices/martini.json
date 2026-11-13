@@ -7,10 +7,10 @@
     "codename": "martini",
     "codename_alt": "martini",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "27 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/martini/PixelOS_martini-16.2-20260627-1031.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/martini/",
+    "last_updated": "13 November 2026",
+    "download_link": "https://download.pixelos.net/seventeen/martini/PixelOS_martini-17.0-20261111-2100.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/martini/",
     "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable-09-12-2023.4644971/"
 }
