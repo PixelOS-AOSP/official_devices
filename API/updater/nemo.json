@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1781894127",
-            "filename": "PixelOS_nemo-16.2-20260619-1837.zip",
-            "id": "8ac47fc03ea1a64fe62f627d799907d14708f78a2c071e6c71bcf62b03fe79bf",
-            "size": 2416953969,
-            "url": "https://download.pixelos.net/sixteen/nemo/PixelOS_nemo-16.2-20260619-1837.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/nemo/PixelOS_nemo-16.2-20260619-1837.zip",
-            "version": 16,
+            "datetime": "1794624952",
+            "filename": "PixelOS_nemo-17.0-20261114-0259.zip",
+            "id": "4a5aa92062f359aefb157170c20d68c860ea37c09bc8577bc581d7469198bb40",
+            "size": 2699636187,
+            "url": "https://download.pixelos.net/seventeen/nemo/PixelOS_nemo-17.0-20261114-0259.zip",
+            "stream_url": "https://download.pixelos.net/seventeen/nemo/PixelOS_nemo-17.0-20261114-0259.zip",
+            "version": 17,
             "stream": false,
             "additional_images": [
                 {
-                    "name": "recovery-nemo_20260619_1837.img",
-                    "SHA256": "07cde5307e0dff4d498573c8efa678062f1418531834eee94702d98b428b2324",
+                    "name": "recovery-nemo_20261114_0259.img",
+                    "SHA256": "d4bf652bee91a78badb0d78bf1981b91a300f9e7d596e91a1c895939802c4970",
                     "size": 67108864
                 },
                 {
-                    "name": "boot-nemo_20260619_1837.img",
-                    "SHA256": "e89a761c380063b3583d4aa8fd2565366b0ab295831ae8405dee6fa7b0e721e2",
+                    "name": "boot-nemo_20261114_0259.img",
+                    "SHA256": "59aaf11c5c7cccb2c093729844d9905edd41e07aa41e4653bc53130952cda857",
                     "size": 33554432
                 }
             ]

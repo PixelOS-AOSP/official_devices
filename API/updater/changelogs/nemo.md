@@ -1,3 +1,32 @@
-\- Platform upstream  
+- Initial Android 17 release  
+- Switched to 4.19 S kernel  
+- Fixed Voice over WiFi (VoWiFi)  
+- Fixed Native video calling (ViLTE)  
+- Fixed 4G+ (Carrier aggregation)  
+- Fixed loud speaker distortion / crackling sound  
+- Fixed call recording on Dialer  
+- Fixed YouTube lags  
+- Switched to FBE v2 with metadata encryption  
+- Enabled Project ID Quota support on userdata.  
+- Added back realme 7/Narzo 20 Pro/Narzo 30 4G support  
+- Updated radio blobs from RMX2156_11_F.19  
+- Updated vendor IMS blobs from RMX2156_11_F.19  
+- Updated system IMS blobs from Pacman  
+- Updated wmt_loader from RMX2156_11_F.19  
+- Updated secure video stack from RMX2156_11_F.19  
+- Updated modem firmware from RMX2156_11_F.19  
+- Updated powerhint for 4.19  
+- Switched to AIDL fingerprint HAL  
+- Switched to Codec2  
+- Switched to MediaTek type-c USB HAL and MediaTek gadget HAL  
+- Switched to prebuilt Wi-Fi HAL  
+- Switched to MediaTek MSSI overlays  
+- Switched to source built DTBO  
+- Switched to NCM USB tethering  
+- Switched to stock Wi-Fi configs  
+- Report VOOC fast charging to the framework (Charging Rapidly on lockscreen)  
+- Dropped MediaTek EngineerMode  
+- Moved volume panel to left side  
+- Set the default hotspot SSID per model  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
