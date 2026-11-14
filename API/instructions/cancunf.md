@@ -18,6 +18,8 @@ Be warned that if you are already progressing with an update on Stock, you must 
 
 **The September update of stock (V1TDS35H.83-20-5-14 for everyone and V1TDS35H.83-20-5-8-2-1-3 for Brazil) bumps the ARB (Anti-RollBack) counter once more, thus if you update to it, you will not be able to flash any Android 16 ROM. Trying to do so will cause your device to be hardbricked beyond repair.**
 
+** As Android 17 builds ship V1TDS35H.83-20-5-14 firmware, you can no longer downgrade to Android 16 builds as Motorola bumped the ARB (Anti-RollBack) counter. Trying to do so will cause your device to be hardbricked beyond repair.**
+
 ## Unlocking the Bootloader
 
 ### Setting up the environment
