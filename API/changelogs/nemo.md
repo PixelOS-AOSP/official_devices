@@ -1,45 +1,32 @@
-# 22-Jun-2026
-- Platform upstream
-
-# 09-Apr-2026
-- Platform upstream
-
-# 14-Mar-2026
-- Improved memory management and performance for 4GB ram users
-- Switched to common bugreport service definition
-- Drop unused wapi lib
-- Patched ImsService.apk extract time
-- Updated build fingerprint from RMX2001_11_C.18
-- Reduced heavy NFC debugging
-- Increased zram size to 75%
-- Stopped reserving space twice
-- Fixed touch screen gestures
-
-# 26-Feb-2026
-- Applied Expressive theme to doze
-- Disabled high performance transitions
-- Backported 5.10 BPF on kernel
-- Switched to OSS MediaTek WiFi lib
-- Switched to OSS AIDL multihal sensor service
-- Switched to OSS MediaTek HIDL bluetooth audio interfaces
-- Disabled Audio HAL PCM dumping
-- Dropped MediaTek remote submix HAL
-- Dropped MediaTek USB audio HAL
-- Dropped 32-bit NVRAM HAL
-- Dropped muxreport binary
-- Dropped MediaTek dplanner blobs
-- Dropped debug.sf.disable_client_composition_cache
-- Added dynamic sensors HAL support
-- Updated Video Telephony system blobs from rothko OS3.0.4.0.WNNEUXM
-- Set group key for display settings IA for doze
-- Switched to common lights HAL
-- Disabled brightness slider gamma conversion
-- Reduced blur radius
-- Disabled EGL image tracking
-
-# 01-Jan-2026
-- Fixed fonts
-
-# 31-Dec-2025
-- Initial Android 16 Build
+# 14-Nov-2026
+- Initial Android 17 release
+- Switched to 4.19 S kernel
+- Fixed Voice over WiFi (VoWiFi)
+- Fixed Native video calling (ViLTE)
+- Fixed 4G+ (Carrier aggregation)
+- Fixed loud speaker distortion / crackling sound
+- Fixed call recording on Dialer
+- Fixed YouTube lags
+- Switched to FBE v2 with metadata encryption
+- Enabled Project ID Quota support on userdata.
+- Added back realme 7/Narzo 20 Pro/Narzo 30 4G support
+- Updated radio blobs from RMX2156_11_F.19
+- Updated vendor IMS blobs from RMX2156_11_F.19
+- Updated system IMS blobs from Pacman
+- Updated wmt_loader from RMX2156_11_F.19
+- Updated secure video stack from RMX2156_11_F.19
+- Updated modem firmware from RMX2156_11_F.19
+- Updated powerhint for 4.19
+- Switched to AIDL fingerprint HAL
+- Switched to Codec2
+- Switched to MediaTek type-c USB HAL and MediaTek gadget HAL
+- Switched to prebuilt Wi-Fi HAL
+- Switched to MediaTek MSSI overlays
+- Switched to source built DTBO
+- Switched to NCM USB tethering
+- Switched to stock Wi-Fi configs
+- Report VOOC fast charging to the framework (Charging Rapidly on lockscreen)
+- Dropped MediaTek EngineerMode
+- Moved volume panel to left side
+- Set the default hotspot SSID per model
 

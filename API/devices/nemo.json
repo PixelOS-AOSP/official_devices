@@ -7,10 +7,10 @@
     "codename": "nemo",
     "codename_alt": "RMX2001/RMX2002/RMX2003",
     "active": true,
-    "version": "sixteen",
+    "version": "seventeen",
     "release": "monthly",
-    "last_updated": "22 June 2026",
-    "download_link": "https://download.pixelos.net/sixteen/nemo/PixelOS_nemo-16.2-20260619-1837.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/nemo/",
+    "last_updated": "14 November 2026",
+    "download_link": "https://download.pixelos.net/seventeen/nemo/PixelOS_nemo-17.0-20261114-0259.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/seventeen/nemo/",
     "xda": null
 }
