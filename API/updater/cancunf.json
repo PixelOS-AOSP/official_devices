@@ -1,16 +1,18 @@
 [
     {
-        "datetime": 1780985797,
+        "datetime": 1794639103,
         "files": [
             {
-                "filename": "PixelOS_cancunf-16.2-20260609-0618.zip",
-                "os_sdk_level": 36,
-                "sha256": "8950b8f3af7b9fdab2b1efce1f6361fcd498d18d0e7f85daf1efa9f15a2b2786",
-                "size": 2811817200,
-                "url": "https://download.pixelos.net/sixteen/cancunf/PixelOS_cancunf-16.2-20260609-0618.zip"
+                "filename": "PixelOS_cancunf-17.0-20261114-0655.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "419eaa152ce125a9af5063643301cebb5c8f97dff59d8f56b6f7ebf45c344afc",
+                "size": 3083684438,
+                "url": "https://download.pixelos.net/seventeen/cancunf/PixelOS_cancunf-17.0-20261114-0655.zip",
+                "ota_property_files": "payload_metadata.bin:4488:122784,payload.bin:4488:3083676549,payload_properties.txt:3083681095:156,apex_info.pb:2170:1518,care_map.pb:3735:706,metadata:69:690,metadata.pb:827:1295                        "
             }
         ],
         "type": "ci",
-        "version": "16.2"
+        "version": "17.0"
     }
 ]
