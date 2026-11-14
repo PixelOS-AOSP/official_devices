@@ -1,21 +1,21 @@
 {
     "response": [
         {
-            "datetime": "1780985797",
-            "filename": "PixelOS_cancunf-16.2-20260609-0618.zip",
-            "id": "8950b8f3af7b9fdab2b1efce1f6361fcd498d18d0e7f85daf1efa9f15a2b2786",
-            "size": 2811817200,
-            "url": "https://download.pixelos.net/sixteen/cancunf/PixelOS_cancunf-16.2-20260609-0618.zip",
-            "stream_url": "https://download.pixelos.net/sixteen/cancunf/PixelOS_cancunf-16.2-20260609-0618.zip",
-            "version": 16,
+            "datetime": "1794639103",
+            "filename": "PixelOS_cancunf-17.0-20261114-0655.zip",
+            "id": "419eaa152ce125a9af5063643301cebb5c8f97dff59d8f56b6f7ebf45c344afc",
+            "size": 3083684438,
+            "url": "https://download.pixelos.net/seventeen/cancunf/PixelOS_cancunf-17.0-20261114-0655.zip",
+            "stream_url": "https://download.pixelos.net/seventeen/cancunf/PixelOS_cancunf-17.0-20261114-0655.zip",
+            "version": 17,
             "stream": true,
             "payload": [
                 {
-                    "offset": 4328,
-                    "FILE_HASH": "iCjTyKVVGSLF709vMin2mtFoeXjtgp/abiUA1maw6kk=",
-                    "FILE_SIZE": "2811809471",
-                    "METADATA_HASH": "c9Ob90FlFnQn6IWT5gAamXsRR8TrlPXH3K3EawUB9Dk=",
-                    "METADATA_SIZE": "113825"
+                    "offset": 4488,
+                    "FILE_HASH": "XwEbU9lL//9yT4HFjwMxOwCWQ3pySiDjmijq7yHkhnA=",
+                    "FILE_SIZE": "3083676549",
+                    "METADATA_HASH": "AsRnlvu8X7OZsBvS7lxE/fGg9J8Ri10YAdZ7+67etxs=",
+                    "METADATA_SIZE": "122517"
                 }
             ]
         }

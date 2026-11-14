@@ -1,19 +1,15 @@
-\- Drop remnants of FPC1020.  
-\- Drop remnants of egisfp.  
-\- Rewrite fingerprint init script.  
-\- Drop fingerprint ident binaries.  
-\- Rewrite insmod script.  
-\- Update blobs and firmware to V1TDS35H.83-20-5-11.  
-\- Cleanup MTK connectivity modules load init triggers.  
-\- Set ro.vendor.soc.* from init instead of props.  
-\- Cleanup duplicate sensor permissions.  
-\- Remove unused touchrec folder.  
-\- Remove Moto Modem RFS logs script.  
-\- Drop Moto wireless accessories permissions.  
-\- Drop Moto shutdown logging script.  
-\- Drop Moto kpgather/kpreadwrite binaries.  
-\- Drop Moto pstore_annotate script.  
-\- Drop Moto bootperf.rc.  
-\- Kernel state at r3b3.  
+- Initial Android 17 build.  
+- Enable AVB for DTBO.  
+- Update CarrierConfigOverlay to V1TDS35H.83-20-5-12.  
+- Set FCM level to 7 and configure AVB chained partition hash algorithms.  
+- Fix build fingerprint and description using proper device identifiers.  
+- Switch to the OSS AIDL Fingerprint HAL.  
+- Build wlan_assistant daemon from source  
+- Migrate Bluetooth Audio to the AOSP implementation.  
+- Update the VT stack from Motorola nice A171VNH.25.  
+- Update GNSS stack from ALPS 14 V10.69.  
+- Deduplicate dynamic sensors HAL SELinux rules.  
+- Clean up few blobs.  
+- Update device blobs to V1TDS35H.83-20-5-14.  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
