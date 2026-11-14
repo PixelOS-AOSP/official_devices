@@ -1,39 +1,50 @@
 [
     {
-        "datetime": 1790141357,
+        "datetime": 1794660848,
         "files": [
             {
-                "filename": "PixelOS_garnet-17.0-20260923-0532.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_garnet-17.0-20261114-1258.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "78b1b1eaff0a5f334900b7d5b9c7dc1d16b7058509a50fa585a63eb9332bbf85",
-                "size": 2965605122,
-                "url": "https://download.pixelos.net/seventeen/garnet/PixelOS_garnet-17.0-20260923-0532.zip",
-                "ota_property_files": "payload_metadata.bin:4515:173848,payload.bin:4515:2965597206,payload_properties.txt:2965601779:156,apex_info.pb:2146:1448,care_map.pb:3641:827,metadata:69:687,metadata.pb:824:1274                        "
+                "sha256": "5cd3f3bde9413cc32ce95c1c01d18fc393d0365741c0da6aec8e8325d778a099",
+                "size": 2965845060,
+                "url": "https://download.pixelos.net/seventeen/garnet/PixelOS_garnet-17.0-20261114-1258.zip",
+                "ota_property_files": "payload_metadata.bin:4515:173850,payload.bin:4515:2965837144,payload_properties.txt:2965841717:156,apex_info.pb:2146:1448,care_map.pb:3641:827,metadata:69:687,metadata.pb:824:1274                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "recovery-garnet_20260923_0532.img",
-                "SHA256": "b435264d09b26e3ae31b0bdb2360b9b24406f52d60b484e1a2f9e826bc01fa19",
+                "name": "recovery-garnet_20261114_1258.img",
+                "SHA256": "9905dd8c82ed8cb1725f5f2caca65911e866723d58ce6102ed480644d95e3624",
                 "size": 104857600
             },
             {
-                "name": "dtbo-garnet_20260923_0532.img",
-                "SHA256": "16e559567661f8c332c371ca074d3e0f34fda042b19c02cfbb0e28ce96ef6e02",
+                "name": "dtbo-garnet_20261114_1258.img",
+                "SHA256": "95bdeeb6323b820de860b4f22d6e4ac6365cdb5df3814098c2bd56e9059dc9ac",
                 "size": 25165824
             },
             {
-                "name": "boot-garnet_20260923_0532.img",
-                "SHA256": "a056e71941d6ba8c7e1892f3c87c264db47ff5d5135c4fdab7a8a44021ea29a2",
+                "name": "boot-garnet_20261114_1258.img",
+                "SHA256": "45bf994ace4ac39c0b26ed7d22d4559f5d6feee718634e0c08a9ec630143108b",
                 "size": 201326592
             },
             {
-                "name": "vendor_boot-garnet_20260923_0532.img",
-                "SHA256": "a0590bc99365a41a243fba348e5ffa00f249e03e44a75e2f5c03628cf7a27246",
+                "name": "vendor_boot-garnet_20261114_1258.img",
+                "SHA256": "31ba128709685afa3a534b58b4ec976a57a155ab6b20c7555c5d6fa99a35e6a5",
                 "size": 100663296
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "garnet-10NAOBmHqCOY5k.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "7321ad9d9737920cc9f2dcb1ebe05bedc4c8d5dae4df4f3e00affbd16f347de3",
+                "size": 133356225,
+                "url": "https://download.pixelos.net/seventeen/garnet/garnet-10NAOBmHqCOY5k.zip",
+                "ota_property_files": "payload_metadata.bin:5636:392240,payload.bin:5636:133347189,payload_properties.txt:133352883:155,apex_info.pb:3051:1664,care_map.pb:4762:827,metadata:69:807,metadata.pb:944:2059                      "
             }
         ]
     }
