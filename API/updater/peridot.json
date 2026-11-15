@@ -1,55 +1,55 @@
 [
     {
-        "datetime": 1791186882,
+        "datetime": 1794718799,
         "files": [
             {
-                "filename": "PixelOS_peridot-17.0-20261005-0756.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_peridot-17.0-20261115-0503.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "767d5388597898cf1537497802f1b1464158dbf9856ae972bebdb8e958b1a123",
-                "size": 3818023040,
-                "url": "https://download.pixelos.net/seventeen/peridot/PixelOS_peridot-17.0-20261005-0756.zip",
-                "ota_property_files": "payload_metadata.bin:4907:233711,payload.bin:4907:3818014732,payload_properties.txt:3818019697:156,apex_info.pb:2286:1543,care_map.pb:3876:984,metadata:69:689,metadata.pb:826:1412                        "
+                "sha256": "b6f0e973828c27029aed59f3691df52c9b09ede9e5365795c619413a013abff5",
+                "size": 3818467039,
+                "url": "https://download.pixelos.net/seventeen/peridot/PixelOS_peridot-17.0-20261115-0503.zip",
+                "ota_property_files": "payload_metadata.bin:4907:233711,payload.bin:4907:3818458731,payload_properties.txt:3818463696:156,apex_info.pb:2286:1543,care_map.pb:3876:984,metadata:69:689,metadata.pb:826:1412                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-peridot_20261005_0756.img",
-                "SHA256": "9f75decbee6ec8ef07d1a1d0d0fae08bc3787752f9b633c1bb4309b8dc5e89e3",
+                "name": "init_boot-peridot_20261115_0503.img",
+                "SHA256": "32041dfdc4b37d7645b4c7760e3e27520fb958b6992dd45b8d95a2652debb026",
                 "size": 8388608
             },
             {
-                "name": "recovery-peridot_20261005_0756.img",
-                "SHA256": "9482a55d81d7e8cf255f0383f485dcf21954c57b852b98f19b621cee36c401f6",
+                "name": "recovery-peridot_20261115_0503.img",
+                "SHA256": "b3119c817986f83635855a83190d70b29aa113ade88d2c83784eba7b215ca43c",
                 "size": 104857600
             },
             {
-                "name": "dtbo-peridot_20261005_0756.img",
+                "name": "dtbo-peridot_20261115_0503.img",
                 "SHA256": "d4e3bc64b1d0a9113d47262d3c064e41dde88de1473bc63f862413ccc6a72b03",
                 "size": 25165824
             },
             {
-                "name": "boot-peridot_20261005_0756.img",
-                "SHA256": "f6bbc9c6cfa3c2cb25013fe1813c70dc7c82d56a9f1b00bc8c1a865eb35f23f2",
+                "name": "boot-peridot_20261115_0503.img",
+                "SHA256": "193ee7293ebed0883cefc91d1464266a90f7ada526d65fc8c870ec0921ea1d3c",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-peridot_20261005_0756.img",
-                "SHA256": "e42996069c23071eb3a9be86791b1c832bff5799c5c29394c656f2c7189468cc",
+                "name": "vendor_boot-peridot_20261115_0503.img",
+                "SHA256": "3eb288a616bfdc1b64bd8f40b52674487155fe79ef294accebb7c4a2ee14c558",
                 "size": 100663296
             }
         ],
         "incremental": [
             {
-                "filename": "peridot-10NAMuiSHwSaSo.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "peridot-10NBNc02UNXt67.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "3910d5b42cb1ecb125dc9c97e1ad10c386a2f1ea82d703aa0a5f2a6ef6ce9e7e",
-                "size": 93953011,
-                "url": "https://download.pixelos.net/seventeen/peridot/peridot-10NAMuiSHwSaSo.zip",
-                "ota_property_files": "payload_metadata.bin:6405:594641,payload.bin:6405:93943207,payload_properties.txt:93949670:154,apex_info.pb:3554:1773,care_map.pb:5374:984,metadata:69:802,metadata.pb:939:2567                    "
+                "sha256": "a75f5fcb8b396acca17d9cfb97df155b5433bca7784160b8b1a396fb60e1f295",
+                "size": 95928230,
+                "url": "https://download.pixelos.net/seventeen/peridot/peridot-10NBNc02UNXt67.zip",
+                "ota_property_files": "payload_metadata.bin:6405:658500,payload.bin:6405:95918426,payload_properties.txt:95924889:154,apex_info.pb:3554:1773,care_map.pb:5374:984,metadata:69:802,metadata.pb:939:2567                    "
             }
         ]
     }
