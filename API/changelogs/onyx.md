@@ -1,3 +1,6 @@
+# 15-Nov-2026
+- Slugterra
+
 # 21-Sep-2026
 - Switched to OSS kernel
 - Fixed battery and OTG in recovery 

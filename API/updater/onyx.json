@@ -1,44 +1,55 @@
 [
     {
-        "datetime": 1789924357,
+        "datetime": 1794727293,
         "files": [
             {
-                "filename": "PixelOS_onyx-17.0-20260920-1714.zip",
-                "os_patch_level": "2026-09-01",
+                "filename": "PixelOS_onyx-17.0-20261115-0723.zip",
+                "os_patch_level": "2026-11-01",
                 "os_sdk_level": 37,
-                "sha256": "5338bb04247a35e981928d1044d3541945e56dcdbfc6f6c7bf924c82318f3e6e",
-                "size": 4559974422,
-                "url": "https://download.pixelos.net/seventeen/onyx/PixelOS_onyx-17.0-20260920-1714.zip",
-                "ota_property_files": "payload_metadata.bin:4755:230140,payload.bin:4755:4559966146,payload_properties.txt:4559970959:156,apex_info.pb:2178:1542,care_map.pb:3767:921,metadata:69:677,metadata.pb:814:1316                        "
+                "sha256": "5e4c5fa6b943d69c267e273cd6f3feb8fff926faebee6d7b682e7fada703b898",
+                "size": 4560571518,
+                "url": "https://download.pixelos.net/seventeen/onyx/PixelOS_onyx-17.0-20261115-0723.zip",
+                "ota_property_files": "payload_metadata.bin:4755:230193,payload.bin:4755:4560563242,payload_properties.txt:4560568055:156,apex_info.pb:2178:1542,care_map.pb:3767:921,metadata:69:677,metadata.pb:814:1316                        "
             }
         ],
         "type": "ci",
         "version": "17.0",
         "additional_images": [
             {
-                "name": "init_boot-onyx_20260920_1714.img",
-                "SHA256": "9d4701a966eea5b50d48f816c13c2f1e5376fddfbe1d4b7608f88928610b73b8",
+                "name": "init_boot-onyx_20261115_0723.img",
+                "SHA256": "066484ce006d267cd2d752fb6102608fe864b6c7252c052d3f719b507fb904c0",
                 "size": 8388608
             },
             {
-                "name": "recovery-onyx_20260920_1714.img",
-                "SHA256": "8fa16f7ccdbf6eb2a4bbb9205151782492b3b0cdcbacbf69ac3b2754d26aaabc",
+                "name": "recovery-onyx_20261115_0723.img",
+                "SHA256": "b14133ecfe7c59723913f03e040dc2e34f19f8635a430ef3d69fde1a3fa440bc",
                 "size": 104857600
             },
             {
-                "name": "dtbo-onyx_20260920_1714.img",
+                "name": "dtbo-onyx_20261115_0723.img",
                 "SHA256": "8583d5d73acdd71f023bfdc59e2c4af8cb594b7f82460756e95872f096bd3e82",
                 "size": 25165824
             },
             {
-                "name": "boot-onyx_20260920_1714.img",
-                "SHA256": "3a398c0f702b708f5e00b1a81c148a47c8f5bf1f16c417713780dfb9d5b0fe41",
+                "name": "boot-onyx_20261115_0723.img",
+                "SHA256": "aba13e443da8831dad0031af27451357b9888cbdbbcb165c151c548655c4baa3",
                 "size": 100663296
             },
             {
-                "name": "vendor_boot-onyx_20260920_1714.img",
-                "SHA256": "4d12800830f95a3c1d0eba13502b15a171a46004e23c9e9c444d840c9454447c",
+                "name": "vendor_boot-onyx_20261115_0723.img",
+                "SHA256": "6d158962a4d0bcce9052bdf07da0cb8974f2f78b6a1e6254c7d86ae275172abc",
                 "size": 100663296
+            }
+        ],
+        "incremental": [
+            {
+                "filename": "onyx-10NAMtnwnugBwL.zip",
+                "os_patch_level": "2026-11-01",
+                "os_sdk_level": 37,
+                "sha256": "e9aa79737ba5418b550f979472a47dc0a904f81cc1ea3e44bd439393b192192d",
+                "size": 133262277,
+                "url": "https://download.pixelos.net/seventeen/onyx/onyx-10NAMtnwnugBwL.zip",
+                "ota_property_files": "payload_metadata.bin:6125:700222,payload.bin:6125:133252752,payload_properties.txt:133258935:155,apex_info.pb:3339:1771,care_map.pb:5157:921,metadata:69:789,metadata.pb:926:2365                      "
             }
         ]
     }
